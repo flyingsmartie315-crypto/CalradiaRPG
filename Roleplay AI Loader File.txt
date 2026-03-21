@@ -13,6 +13,16 @@ The AI will automatically detect which TXT files are needed from plain-language 
 
 Load only 1-3 files at a time for token efficiency. Chain additional files if the scene requires it.
 
+=== CORE RULES REFERENCE PROTOCOL ===
+When the query involves any of the following, the AI MUST first load the relevant core rule file(s) before any other content:
+- Bestiary creatures, HSI, RHK, scaling, rarity, threat levels → Load Beastiary_Rules.txt
+- Size categories, weight, lift capacity, encumbrance → Load Core_RP_Size_Categories.txt
+- Combat, damage, AC, Fury, wounds → Load Combat_Rules_Battle.txt or Combat_Rules_Skirmish.txt + Core_RP_Combat.txt
+- General mechanics, characteristics, talents, movement → Load Core_RP_System.txt + Core_RP_Characteristics&Skills.txt + Core_RP_Guidelines.txt
+- Any revision or consistency check on existing content → Load the original file first, then the core rule file(s)
+
+This protocol takes priority over normal loading limits. Core rule files are foundational and must be referenced automatically for accuracy.
+
 === REVISION & CONSISTENCY PROTOCOL ===
 When the user asks to revise, update, expand, or replace content in an existing document (e.g. a clan entry, bestiary creature, region description, or character), the AI MUST first load the original file containing that content, then load any supporting files (region, bestiary, economy, etc.). Merge new information while preserving established tone, characters, family details, and lore unless the user specifically requests a full rewrite or tone change.
 
