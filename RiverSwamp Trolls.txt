@@ -1,0 +1,4 @@
+River/Swamp Trolls
+River/swamp trolls, smaller variants (6-7 feet, 240-500 kg) and more cunning, thrive in watery lowlands, diving adeptly and building beaver-like dams from mud and branches—often blocking rivers or flooding fields, a dangerous nuisance to trade and agriculture. Covered in thick, color-shifting hair for camouflage in murky waters or reeds, they ambush swimmers or boats with submerged traps, using claws to drag prey below. Territorial pairs defend soggy lairs, raising litters amid reeds. Omnivorous but favoring fish and amphibians, they lob mud-clogged rocks at intruders. False moons stir aquatic frenzies, flooding paths with dam bursts. Lords dispatch warriors to clear blockages, but trolls' regenerative hide and watery escapes make them tough and elusive foes.
+HSI (Temperature: 2-4, Rainfall: 4-5, Human Density: 0-2, Flora/Fauna Density: 3-5, Topography: 0-3, Hydrology: 4-5)
+RHK (4,5,3,4)

@@ -1,0 +1,4 @@
+Rock Trolls
+Rock trolls, larger variants (8-9 feet, 600-940 kg) and rugged, boast thick, rocky hide (except vulnerable belly) that blends with stone when stationary, enduring freezing peaks or hot crags with cave/tree shelter. They lob massive boulders from heights, crushing foes below, their claws raking through armor. Solitary omnivores scavenging meat from high-altitude prey, they claim vast territories in remote ranges. False moons amplify roars and bolder descents into valleys. Knights prize their hides for durable gear, but hunts often end in ambushes amid camouflaged lairs. Human expansions encroach, sparking territorial clashes.
+HSI (Temperature: 1-5, Rainfall: 0-2, Human Density: 0-1, Flora/Fauna Density: 1-3, Topography: 3-5, Hydrology: 0-2)
+RHK (4,6,4,4)

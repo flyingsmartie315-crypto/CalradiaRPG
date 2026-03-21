@@ -1,0 +1,60 @@
+Minor Bestiary Entries
+Mystical and Mysterious Entries
+Luminescent Wisps (Eastern Steppes)
+Floating orbs of soft blue light that appear on moonless nights over the vast steppes, guiding lost nomads or leading them astray. Born from Unveiling echoes of Khuzait sky beliefs, they pulse with faint whispers of forgotten prophecies. Harmless but enigmatic; some touch them for visions of fate, others fear madness. Rare, they drift near ancient burial mounds, vanishing at dawn.
+HSI (Temperature: 2-4, Rainfall: 0-2, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 0-2, Hydrology: 0-1)
+RHK (3,1,1,1)
+Fog Shifters (Western Coasts)
+Misty forms that coalesce in Vlandian coastal fogs, shifting into fleeting shapes of ships or figures from legend. Post-Unveiling manifestations of sailors' tales, they offer glimpses of lost treasures or warnings of storms. Intelligent but elusive; bond rarely with pure-hearted mariners, granting safe passage. Dwell in cliffside coves, dispersing at high winds.
+HSI (Temperature: 2-3, Rainfall: 4-5, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 2-3, Hydrology: 4-5)
+RHK (3,1,2,2)
+Whispering Sands (Southern Deserts)
+Shifting dunes in Aserai wastes that murmur ancient secrets to those who listen at dusk. Unveiling bleed from nomadic lore, they reveal hidden oases or warn of sandstorms. Not sentient but prophetic; some claim divine voices. Harmless unless ignored—then they swallow the unwary. Common near caravan routes, silent under false moon.
+HSI (Temperature: 4-5, Rainfall: 0-1, Human Density: 0-1, Flora/Fauna Density: 0-1, Topography: 0-2, Hydrology: 0-1)
+RHK (4,1,2,1)
+Aurora Spirits (Northern Fjords)
+Ethereal lights dancing in Sturgian skies, spirits of ancestral warriors manifesting as colorful veils. Post-Unveiling guardians, they guide longships through storms or reveal omens in their patterns. Bond with worthy shamans for battle blessings. Rare and wondrous; appear in winter nights, fading at dawn.
+HSI (Temperature: 1-2, Rainfall: 2-3, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 3-4, Hydrology: 3-4)
+RHK (3,1,2,2)
+Echo Weavers (Central Imperial Ruins)
+Spectral threads that weave visions of past empires in crumbling halls. Unveiling remnants of lost knowledge, they show forgotten battles or secrets to seekers. Mysterious and neutral; aid the wise, confuse the greedy. Dwell in ancient forums, active under starlight.
+HSI (Temperature: 2-3, Rainfall: 1-3, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 1-2, Hydrology: 1-2)
+RHK (3,1,2,2)
+Minor Hazards, Pests, Animals Entries
+Burrow Rats (Eastern Steppes)
+Rodent packs the size of dogs, burrowing vast warrens under Khuzait pastures. Post-Unveiling pests, they devour roots and grain stores, collapsing tents or horse legs. Omnivorous, breed rapidly; northern variants hibernate. Weak individually, overwhelm in swarms. Common near camps, culled with traps/smoke.
+HSI (Temperature: 2-4, Rainfall: 0-2, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 0-2, Hydrology: 0-1)
+RHK (5,2,3,3)
+Venom Mites (Western Forests)
+Tiny swarms infesting Battania undergrowth, biting to inject swelling venom. Unveiling nuisance, cause feverish rashes lasting days. Adapted to damp woods; northern forms rarer, hibernating in bark. Not deadly but debilitating; avoided with herbal repellents. Ubiquitous in clearings, worst on false-moon nights.
+HSI (Temperature: 2-3, Rainfall: 4-5, Human Density: 0-2, Flora/Fauna Density: 4-5, Topography: 2-3, Hydrology: 2-3)
+RHK (5,2,3,3)
+Sand Scorpions (Southern Deserts)
+Fist-sized arachnids with stings causing numbing pain. Post-Unveiling pests in Aserai dunes, burrow near oases to ambush small prey or feet. Venom non-lethal but swells limbs for days. Adapted to heat; northern variants absent. Common under tents, shaken from boots daily.
+HSI (Temperature: 4-5, Rainfall: 0-1, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 0-2, Hydrology: 0-2)
+RHK (4,3,3,3)
+Frost Leeches (Northern Fjords)
+Sluggish, inch-long bloodsuckers in Sturgian streams, latching to skin with numbing bite. Unveiling hazard, cause weakness and chills in cold water. Adapted to icy flows; southern forms die in heat. Not aggressive but persistent; removed with salt/fire. Common in shallows, avoided by waders.
+HSI (Temperature: 1-2, Rainfall: 2-3, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 1-2, Hydrology: 4-5)
+RHK (4,2,3,3)
+Vine Creepers (Central Plains)
+Creeping plants that ensnare ankles in cultivated fields. Post-Unveiling pests, thorns cause itching rashes. Adapted to fertile soil; northern variants dormant in winter. Weak to fire/cutting; ignored until they trip horses or ruin crops. Ubiquitous in overgrown ruins.
+HSI (Temperature: 2-4, Rainfall: 2-4, Human Density: 1-3, Flora/Fauna Density: 3-4, Topography: 0-2, Hydrology: 1-3)
+RHK (5,2,2,2)
+Malevolent Entities Entries
+Shade Whisperers (Southern Oases)
+Inky shadows that whisper curses in Aserai night winds. Unveiling malevolents, they sap strength from sleepers, inducing feverish nightmares. Dwell in palm groves; false-moon amplifies voices. Warded by light/charms; exorcised by Revelationist rites. Rare but persistent, driving madness in isolated camps.
+HSI (Temperature: 4-5, Rainfall: 0-1, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 0-1, Hydrology: 1-2)
+RHK (2,4,6,6)
+Lake Lurkers (Eastern Lakes)
+Khuzait water spirits that pull swimmers under with invisible tendrils. Unveiling malevolents, drown victims while feeding on fear. Dwell in deep pools; false-moon nights surface to whisper invitations. Adapted to steppes water; warded by salt/iron. Rare, but lakeside villages burn offerings to appease.
+HSI (Temperature: 2-4, Rainfall: 2-4, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 0-1, Hydrology: 4-5)
+RHK (2,6,7,7)
+Frost Wraiths (Northern Peninsulas)
+Spectral figures in Nord fjords, freezing touch that numbs and kills. Post-Unveiling entities, haunt blizzards to drag sailors into ice. Adapted to cold; southern forms melt in heat. Malevolent, amplify storms. Banished with fire or Nordic runes; bones of victims form their lairs.
+HSI (Temperature: 1-2, Rainfall: 2-3, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 2-3, Hydrology: 3-4)
+RHK (3,6,7,7)
+Plague Shades (Central Battlefields)
+Ghostly mists rising from graves, spreading sickness with chilling breath. Unveiling malevolents, infect the living with fever and rot. Dwell in old ruins; false-moon amplifies spread. Adapted to plains; clergy exorcise with rites. Common in war-torn lands, feared as harbingers of epidemics.
+HSI (Temperature: 2-4, Rainfall: 1-3, Human Density: 1-2, Flora/Fauna Density: 1-3, Topography: 1-2, Hydrology: 1-2)
+RHK (4,4,6,6)
