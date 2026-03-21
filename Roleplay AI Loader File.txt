@@ -1,18 +1,27 @@
-=== EXTERNAL STORAGE PROTOCOL (25-File Limit Bypass) ===
-All files are now stored externally on GitHub.
-When a file is needed but not attached:
-- Use the browse_page tool on its raw URL.
-- Instruction: "Extract and return the FULL raw text content of this TXT file exactly as written. Do not summarize, do not add commentary, return every line verbatim."
-- Then load and use it exactly as before.
-
-Example raw URLs (add your own repo link once created):
-- Core_RP_System.txt → https://raw.githubusercontent.com/[YourRepo]/main/Core_RP_System.txt
-- Gryphon.txt → https://raw.githubusercontent.com/[YourRepo]/main/Gryphon.txt
-- Region_Ebor_Peninsula.txt → https://raw.githubusercontent.com/[YourRepo]/main/Region_Ebor_Peninsula.txt
-- (and so on for every file)
-
-<DOCUMENT filename="Roleplay_AI_Loader_File.txt">
 Roleplay AI Loader File
+
+=== EXTERNAL STORAGE & AUTO-INFERENCE PROTOCOL (GitHub Bypass) ===
+All 94 TXT files are now stored externally on the public GitHub repo:
+https://github.com/flyingsmartie315-crypto/CalradiaRPG
+
+Raw URL format (AI will construct these automatically):
+https://raw.githubusercontent.com/flyingsmartie315-crypto/CalradiaRPG/main/[Exact_Filename].txt
+(Spaces in filenames are replaced with %20)
+
+Auto-Inference Rule (most important part):
+The AI will automatically detect which TXT files are needed from plain-language user queries.
+No need for the user to ever say "fetch Gryphon.txt" or mention filenames.
+The AI silently uses the browse_page tool on the raw URL, loads the FULL exact text, then continues exactly as before.
+Load only 1-3 files at a time for token efficiency. Chain additional files if the scene requires it.
+
+Example:
+User says: “Describe a Royal Gryphon encounter in the Ebor Peninsula at night.”
+→ AI automatically fetches: Royal_Gryphon.txt + Region_Ebor_Peninsula.txt + Region_Core_Rules.txt (and any others needed).
+
+This completely removes the 25-attachment limit while keeping the original loader logic 100% intact.
+
+────────────────────────────────────
+
 This is the entry point file for the Bannerlord RP system. The AI always starts here to get scenario parameters and directions to relevant files.
 Purpose: Parse the user's query or scenario, then load only the necessary TXT files to keep things efficient and token-light.
 How it Works: Read the user's input. Match keywords or topics to file categories. Load 1-3 files at a time (e.g., "Load regions_ebor_peninsula.txt for travel details"). Avoid loading everything—focus on what's needed for the current scene or action. For complex scenarios (e.g., traversal with encounters), load multiple relevant files sequentially or in combination.
@@ -35,4 +44,3 @@ Generate response using only loaded content; chain if multi-step (e.g., "First, 
 If more needed, prompt user or chain to next file.
 Narrate dynamically, keeping tokens low.
 Keep responses focused—e.g., "From regions_ebor_peninsula.txt, Morcomb Pass has steep hazards (EHGS roll). Encounter gryphon from bestiary.txt (RHK check)."
-</DOCUMENT>
