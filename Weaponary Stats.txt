@@ -1,0 +1,48 @@
+Weaponry
+The various melee and missile weapons are grouped into two broad categories. Ordinary weapons can be used by anyone, while Specialist weapons require training to employ properly, so can only be used by those with the appropriate Specialist Weapon Group talent (see Skills & Talents). If you try to use a Specialist Weapon without the appropriate talent, your WS or BS for that weapon is halved (rounded down).
+Specialist Weapon Groups
+
+Weapon Craftsmanship
+All weapons presented in the chapter are of Common craftsmanship. For weapons of better or worse construction, use the following modifiers, unless otherwise mentioned in the weapon's description.
+Best: A craft of the highest quality. +1 damage on all attacks. +10% WS/BS. Cost ×10.
+Good: Well-made, reliable. +1 damage. Cost ×3.
+Common: Standard, no bonuses/penalties.
+Poor: Flawed or unreliable. –1 damage, +10% chance of failure (e.g., jam on 91–00). Cost ×½.
+Encumbrance for a weapon is its bulk/weight (e.g., dagger 10, great weapon 150). Grouped by type for Specialist Weapon talent.
+
+Sophisticated Damage Model: (Cut / Pierce / Blunt)
+This replaces the old single “Damage” column with a triple profile for every weapon. It adds real tactical depth while staying 100% compatible with our existing d100 + SB + DoS system.
+How It Works
+When you hit, declare your attack style:
+Slash → use Cut
+Thrust → use Pierce
+Bash → use Blunt
+Damage roll = d10 + SB + the chosen type value from the weapon’s profile.
+Subtract the target’s TB + Armour Points as normal.
+Versatile weapons (marked *) let you freely choose any type on every attack.
+Specialist weapons can only use the types shown (zeros for impossible types).
+Future-proofing
+Armour will get separate resistances per type (e.g., mail is weak to Pierce but strong vs Cut).
+Critical Hits can trigger type-specific effects (Cut = bleeding, Pierce = internal damage, Blunt = stun).
+
+New Stat: Reach (yards)
+Added to every melee weapon as a new column.
+Reach represents the effective striking distance in yards (1 yard ≈ 1 square on a tactical map).
+How Reach Works
+Engagement Range: You can attack any target within your Reach without moving closer.
+First Strike Advantage: When two melee fighters close to within both weapons’ Reach, the one with longer Reach gains +10 WS on the first exchange (or wins Initiative tie).
+Tight Spaces: In corridors ≤1 yard wide, weapons with Reach >2 suffer –10 WS (halberds and great weapons become clumsy).
+Mounted Combat: Lance/Demilance Reach doubles when charging from horseback.
+Versatile weapons (*): You can choose to use a shorter “grip” (reduce Reach by 1 yard) for +10 WS in cramped fights.
+
+All weapons require a corresponding Specialist Weapon Group talent (or suffer –20 WS/BS untrained), except the following (treated as Ordinary — no talent needed):
+Improvised
+Tools
+Low poundage crossbows (Crossbow Pistol, Light Crossbow)
+One-Handed Polearm (Spear)
+One-Handed Axe
+One-Handed Mace/Hammer (incl. variants)
+Dagger (incl. variants)
+Utility Axe (Hatchet)
+Throwing weapons
+

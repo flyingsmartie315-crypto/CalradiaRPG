@@ -1,0 +1,143 @@
+Full Armour Rules Summary
+Below is a complete compilation of all armour rules established in our system for the Calradia RPG. This integrates tiers, AC values, coverage, layering, modularity, and resolution mechanics. All rules are designed to work with the core combat flow: single hit location per attack (reversed d100 roll), damage subtraction by type (Cut/Pierce/Blunt), and integration with DoS/DoF, AP actions, and weapon qualities (e.g., Armour Piercing reduces effective AC).
+Overview
+Armour Class (AC): Subtracts from incoming damage by type (Cut / Pierce / Blunt).
+Coverage %: Chance (d100 ≤ %) the armour protects the hit location. Textile/Metallic Flexible = 100% on covered areas (facial/head max 80% for gaps). Rigid tiers have lower % due to joints/seams. Torso always 100% unless situational (e.g., unbuttoned –10%, hot day –5%).
+Body Locations: Head, Right Arm, Left Arm, Torso, Right Leg, Left Leg (from hit location roll).
+Tiers Layering: One piece per tier per location. Sum successful AC by type. Rigid cannot layer over rigid (clash/bulk). Mix lower tiers freely (e.g., gambeson under mail under plate).
+Modularity (Rigid Tiers Only): Max 4 components per body part. Differential coverage (5–30% per piece based on size/function). Total coverage per part capped at 80% (gaps remain).
+Encumbrance & Cost: Add all worn. Multi-location pieces scale +50%. Rigid Uniform lighter (–20% Enc) than Partial.
+Attacker DoS Penalty: –10 to all coverage rolls per 2 DoS (cumulative).
+Armour Tiers Table
+Tier,Description,Notes
+None,Naked or everyday clothes,No protection; baseline.
+Durable Clothing,"Thick wool, leather jerkin, outdoor wear","Flexible, cheap, inconspicuous."
+Textile Organic,"Gambeson, leather","Soft & flexible, excellent vs blunt."
+Metallic Flexible,"Mail, scale",Excellent against cutting, resistant to pierce.
+Rigid Partial,"Laminar, splint, coat of plates, brigandine",Very resistant; gaps at joints. Many pieces construction (riveted/segmented with some flex); Modular components.
+Rigid Uniform,Plate armour,"The pinnacle of personal protection, overwhelming force or special techniques required to mitigate. Lighter than Partial; single/fewer pieces construction (solid/hammered with minimal seams, fully rigid);"
+Layering & Modularity Rules
+Layering: Outer → inner resolution. One per tier per location. Rigid tiers cannot layer over each other on the same part (no plate over coat of plates).
+Modularity (Rigid Tiers Only): Max 4 components per body part (e.g., arm: gauntlet + vambrace + couter + upper cannon). Differential coverage (5–30% per piece). Total cap 80% per part. Multi-location pieces (e.g., hauberk) have per-area % (torso 100%, arms 90%, legs 50%).
+Rigid Construction Notes: Partial = many pieces (flexible seams, more gaps); Uniform = single/fewer pieces (rigid solid, fewer gaps but stiffer).
+Coverage & Hit Resolution
+Resolution Flow:
+Determine single hit location (reversed d100).
+Or a successful Called Shot hits a nominated location.
+For the location, check each layer outer → inner: Roll d100 ≤ coverage % (adjusted by attacker DoS –10 per 2 DoS).
+If succeeds, add its AC. If fails, skip to next (lower layers still apply if they succeed).
+When an outer tier succeeds its AC coverage roll on a hit location, all lower/inner tiers automatically apply their full AC (no separate coverage roll required). If the outer tier fails its coverage roll, lower tiers still roll individually for their AC.
+For modular rigid parts with multiple components: Roll d100 once for the part's total coverage (sum of pieces' %). If succeeds, roll die (d4 max) to randomly pick one successful component and use its AC.
+Cascade: Upper failure doesn't negate lowers—always check all.
+Updated Overlap Rule for AC on Same Location
+For body locations with multiple overlapping pieces (e.g., long-sleeved gambeson and gloves both on Arms), after confirming the hit location (e.g., Arms), roll a single d100 to allocate the "sub-hit" based on each piece's coverage % of the location. Assign ranges proportionally (e.g., 1-90 for sleeve, 91-100 for glove). Apply only the AC of the "hit" piece. If percentages don't sum to 100% (gaps), uncovered ranges = 0 AC. This simulates precise strike location without violating "Head, Torso, Legs, Arms only" (sub-parts subsumed as proportional segments).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TierDescriptionAC (Cut / Pierce / Blunt)Coverage % (Typical: Head / Torso / Arms / Legs)NotesNoneNaked or everyday clothes0 / 0 / 00 / 0 / 0 / 0No protection; baseline.Durable ClothingThick wool, leather jerkin, outdoor wear1 / 0 / 280 / 90 / 70 / 70Flexible, cheap, inconspicuous.Textile OrganicGambeson, leather3 / 2 / 495 / 100 / 90 / 90Soft & flexible, excellent vs blunt.Metallic FlexibleMail, scale4 / 5 / 370 / 85 / 65 / 65Rings/scales give gaps but stop thrusts.Rigid PartialLaminar, splint, coat of plates, brigandine5 / 6 / 460 / 75 / 55 / 55Very resistant; gaps at joints. Many pieces construction (riveted/segmented with some flex); +10 Agility in movement-heavy scenarios. Modular components.Rigid UniformPlate armour7 / 8 / 590 / 95 / 80 / 80Near-invulnerable without special techniques. Lighter than Partial (–20% Enc); single/fewer pieces construction (solid/hammered with minimal seams, fully rigid); –10 Agility but +1 AC vs Blunt. Modular components.
+Layering & Modularity Rules
+
+Layering: Outer → inner resolution. One per tier per location. Rigid tiers cannot layer over each other on the same part (no plate over coat of plates). Sum successful AC by type. Use lowest coverage % among layers.
+Modularity (Rigid Tiers Only): Max 4 components per body part (e.g., arm: gauntlet + vambrace + couter + upper cannon). Differential coverage (5–30% per piece). Total cap 80% per part. Multi-location pieces (e.g., hauberk) have per-area % (torso 100%, arms 90%, legs 50%).
+Rigid Construction Notes: Partial = many pieces (flexible seams, more gaps); Uniform = single/fewer pieces (rigid solid, fewer gaps but stiffer).
+
+Coverage & Hit Resolution
+
+Resolution Flow:
+Determine single hit location (reversed d100).
+For the location, check each layer outer → inner: Roll d100 ≤ coverage % (adjusted by attacker DoS –10 per 2 DoS).
+If succeeds, add its AC. If fails, skip to next (lower layers still apply if they succeed).
+For modular rigid parts with multiple components: Roll d100 once for the part's total coverage (sum of pieces' %). If succeeds, roll die (d4 max) to randomly pick one successful component and use its AC. If total fails, no rigid AC (fall back to lower tiers).
+
+Cascade: Upper failure doesn't negate lowers—always check all.
+Situational: Unbuttoned –10%; heat –5%.
+
+Example Pieces (Rigid Uniform – Differential Coverage)
+Arms (4 Pieces Max: Gauntlet 15%, Vambrace 30%, Couter 5%, Upper Cannon 30%)
+
+Full Assembly Total Coverage = 80% cap (sum 80%). Enc 60, Cost 1 gc 8 sc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PieceAC (Cut / Pierce / Blunt)Coverage (% of Arm)EncCostNotesGauntlet (Hand)7 / 8 / 515%1512 scHand/wrist.Vambrace (Forearm)7 / 8 / 530%2014 scForearm.Couter (Elbow)7 / 8 / 55%1010 scElbow joint.Upper Cannon (Bicep)7 / 8 / 530%1512 scUpper arm.
+Example Resolution (Arm Hit): Total Coverage 80%. Roll d100 ≤80% (success)? Then d4 to pick module (e.g., 2 = Vambrace) → use its 7/8/5 AC. If total fails: no rigid, fall to lower layers.
+This is the full ruleset—modular, balanced, and ready!

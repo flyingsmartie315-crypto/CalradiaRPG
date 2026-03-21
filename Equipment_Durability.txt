@@ -1,0 +1,88 @@
+Final Durability System (Armour + Weapons)
+Condition Levels (same for both)
+
+Condition,Armour Effect,Weapon Effect
+Pristine,Full AC,Full damage + all qualities
+Worn,-1 to all AC,-1 to all damage dice
+Damaged,-2 to all AC,-2 to all damage dice + lose 1 quality
+Broken,-3 to all AC + -5 Agility,-3 to all damage dice + lose 2 qualities
+Destroyed,0 AC,Unusable
+
+ConditionArmour EffectWeapon EffectPristineFull ACFull damage + all qualitiesWorn-1 to all AC-1 to all damage diceDamaged-2 to all AC-2 to all damage dice + lose 1 qualityBroken-3 to all AC + -5 Agility-3 to all damage dice + lose 2 qualitiesDestroyed0 ACUnusable
+Durability Score (starts at 50)
+Craftsmanship Bonus (new 6-tier mapping)
+
+Craftsmanship Tier,Durability Bonus
+Junk / Broken,-20
+Sub-Standard,-10
+Standard,+0
+Fine,+15
+Masterwork,+30
+Legendary,+50
+
+Craftsmanship TierDurability BonusJunk / Broken-20Sub-Standard-10Standard+0Fine+15Masterwork+30Legendary+50
+Material / Type Modifiers
+Armour
+
+Textile: -10
+Mail/Scale: +0
+Rigid Partial: +10
+Rigid Uniform: +20
+
+Weapons
+Blades: -15
+Blunt (maces, hammers, etc.): +40 (this is the big blunt-weapon durability advantage)
+Polearms/Spears: +5
+Bows/Crossbows: -10
+
+Degradation Triggers (roll 1d100 each time one occurs)
+If roll > current Durability Score → drop one condition level.
+Triggers
+
+Combat (per battle where piece/weapon is used/hit):
+Blade weapon on armoured target: -25
+Blunt weapon on armoured target: -5
+Critical hit against armour or with weapon: -20
+
+Travel (per 3+ days hard marching):
+Rough terrain: -15
+
+EHGS:
+High Hydrology: Blades/Mail -25, Blunt -5
+High Temp: Bows -25, Textile -15
+False Moon night: All -10
+
+Repair
+Same as before — tied to tradesmen tier and new craftsmanship levels. Higher-tier smiths can restore to higher conditions.
+This version is now 100% consistent with the new 6-tier craftsmanship system. Blunt weapons remain the durability kings, blades are high-maintenance, and everything scales cleanly with the rest of the rules.
+
+Core Durability Rules (unchanged base)
+
+Condition Levels: Pristine → Worn → Damaged → Broken → Destroyed
+Durability Score starts at 50
+Craftsmanship bonuses (Junk to Legendary)
+Degradation triggers (Combat, Travel, EHGS)
+Repair rules (tied to tradesmen tiers)
+
+New: Helmet-Specific Durability Rules
+
+All helmets start with –5 base Durability Score compared to body armour (more joints, visor weak point).
+Rigid Uniform helmets: +15 Durability Score (solid monolithic construction).
+Rigid Partial helmets: +5 Durability Score (segmented construction).
+The visor zone (final 5% coverage) has –20 Durability Score (always the weakest point). If no Visor/Full Visor/Ventail is fitted, this zone is 0 AC and degrades twice as fast.
+
+Updated Universal Armour Upgrade Components Table
+(Only the helmet-relevant upgrades shown – full table remains as before)
+Upgrade,Type,Cost Mod,Enc Mod,AC Effect,Durability Effect,Applicable On,Notes
+Ventail (Face),Field,+10 sc,+2,+1 / +1 / +0 (mail),+15 Durability Score (visor zone),"Any Mail Coif, Nasal, Barbute, Skullcap, Nasal Spangehelm",Mail flap. Protects the 5% visor zone.
+Aventail (Neck),Field,+12 sc,+3,+2 / +2 / +1 (mail),+20 Durability Score (neck zone),Any helmet that allows it,Mail collar. Protects neck + helps transfer force to shoulders.
+Bevor (Neck),Field,+15 sc,+3,+2 / +2 / +1,+25 Durability Score (neck zone),"Kettle, Sallet",Solid plate throat guard.
+Visor,Field,+8 sc,+1,+1 / +1 / +0,+10 Durability Score (visor zone),"Sallet, Bascinet",Standard liftable plate visor.
+Full Visor,Field,+12 sc,+2,+1 / +1 / +0,+15 Durability Score (visor zone),"Sallet, Bascinet, Armet, Nasal variants",Full-face plate visor.
+
+UpgradeTypeCost ModEnc ModAC EffectDurability EffectApplicable OnNotesVentail (Face)Field+10 sc+2+1 / +1 / +0 (mail)+15 Durability Score (visor zone)Any Mail Coif, Nasal, Barbute, Skullcap, Nasal SpangehelmMail flap. Protects the 5% visor zone.Aventail (Neck)Field+12 sc+3+2 / +2 / +1 (mail)+20 Durability Score (neck zone)Any helmet that allows itMail collar. Protects neck + helps transfer force to shoulders.Bevor (Neck)Field+15 sc+3+2 / +2 / +1+25 Durability Score (neck zone)Kettle, SalletSolid plate throat guard.VisorField+8 sc+1+1 / +1 / +0+10 Durability Score (visor zone)Sallet, BascinetStandard liftable plate visor.Full VisorField+12 sc+2+1 / +1 / +0+15 Durability Score (visor zone)Sallet, Bascinet, Armet, Nasal variantsFull-face plate visor.
+How the 95% Rule Interacts with Durability
+
+Any helmet at 95% base coverage has its visor zone as the only open component (always 0 AC unless upgraded).
+This 5% zone has the –20 Durability Score penalty and degrades twice as fast from combat hits or EHGS events.
+Adding a Visor, Full Visor, or Ventail removes the penalty and protects that zone.

@@ -1,0 +1,99 @@
+Crew Weapons / Siege Engines
+Calradia RPG – Complete Document
+Version: 2026-03-19
+All siege engines are strategic crew weapons. They are far too slow for normal combat turns and are used in narrative siege scenes.
+All costs include full logistical chain (timber, iron, skilled labour, engineers, provisions, and transport).
+Torsion Engines
+Scorpion (Light Torsion Engine)
+Description
+A compact, two-armed torsion-powered engine mounted on a wooden frame. It uses twisted skeins of rope, sinew, or hair to store energy and hurl large bolts or small stones. Highly portable and quick to deploy.
+Range Effective: 90 yards | Maximum: 140 yards
+Damage 18 Pierce (bolt) or 14 Blunt (stone shot)
+Special Damage Properties None
+Rate of Fire One shot every 20–30 seconds (crew of 4–6)
+Weight and Dimensions 80–120 kg | Length: 2.5–3 metres
+Logistical Considerations Extremely mobile; carried on one wagon or dragged by mules. Quick to assemble.
+Cost 18 gold crowns
+Springald
+Description
+A compact, two-armed torsion engine mounted on a sturdy wooden frame. It functions like a giant crossbow, using twisted skeins to power two short arms that hurl large bolts or small stones. Highly portable and quick to deploy, favoured for defending gates or supporting field armies.
+Range Effective: 110 yards | Maximum: 160 yards
+Damage 24 Pierce (bolt) or 20 Blunt (stone shot)
+Special Damage Properties None
+Rate of Fire One shot every 25–40 seconds (crew of 5–7)
+Weight and Dimensions 180–250 kg | Length: 3–3.5 metres
+Logistical Considerations Extremely mobile; carried on a single wagon. Quick to assemble and reposition.
+Cost 28 gold crowns
+Medium Ballista
+Description
+A larger torsion-powered engine with two massive arms and a central slider track. Fires heavy bolts or stone shot. Requires a dedicated crew and is typically mounted on a wheeled carriage.
+Range Effective: 160 yards | Maximum: 240 yards
+Damage 32 Pierce (bolt) or 26 Blunt (stone shot)
+Special Damage Properties Overpenetration(1) – Bolt version can pass through one additional target
+Rate of Fire One shot every 45–60 seconds (crew of 8–10)
+Weight and Dimensions 650–850 kg | Length: 4–5 metres
+Logistical Considerations Requires 1–2 wagons. Can be disassembled but takes time to reassemble.
+Cost 52 gold crowns
+Heavy Ballista
+Description
+The largest torsion-powered engine in common use. Massive skeins power two enormous arms that hurl enormous bolts or large stone projectiles. Usually mounted on a reinforced platform.
+Range Effective: 180 yards | Maximum: 260 yards
+Damage 42 Blunt (large stone shot) or 38 Pierce (heavy bolt)
+Special Damage Properties Structural damage to walls/gates; Overpenetration(2) on bolt version
+Rate of Fire One shot every 90–120 seconds (crew of 12–16)
+Weight and Dimensions 1.8–2.4 tons | Length: 6–7 metres
+Logistical Considerations Requires 3–4 wagons and skilled torsion specialists. Best used in static positions.
+Cost 95 gold crowns
+Rampart / Hybrid Engines
+Bankarmbrost (Rampart Crossbow)
+Description
+A large, upscaled Arbalest designed for castle rampart and wall defence. Its heavy steel prod and reinforced frame are mounted on a swivel base or tripod. One operator can aim and fire while a small crew handles winding and loading.
+Range Effective: 150 yards | Maximum: 250 yards
+Damage 30 Pierce damage
+Special Damage Properties Overpenetration(2) – Bolt can pass through up to two targets
+Rate of Fire One bolt every two minutes (narrative)
+Weight and Dimensions 15–25 kg | Arm Span: 3–4 feet
+Logistical Considerations Requires wall mount or tripod. One operator aims/shoots; 2–4 crew wind and load. Mobile but needs one wagon.
+Cost 12 gold crowns (Standard) | 18 gold crowns (Masterwork)
+Traction Engines
+Mangonel (Traction Trebuchet)
+Description
+A medium-sized traction trebuchet powered by a large crew pulling ropes attached to the short end of the throwing arm. Faster to reload and more mobile than counterweight engines.
+Range Effective: 110 yards | Maximum: 160 yards
+Damage 22 Blunt (small AoE)
+Special Damage Properties Can fire incendiary pots
+Rate of Fire One shot every 45–75 seconds (crew of 15–25)
+Weight and Dimensions 700–1,100 kg | Arm length: 6–8 metres
+Logistical Considerations Highly mobile; moved on 2–3 wagons. Quick to set up and reposition.
+Cost 35 gold crowns
+Counterweight Trebuchets
+Light Field Trebuchet (“Falcon”)
+Description
+Small, mobile counterweight trebuchet for field support or small castle defence.
+Range Effective: 120 yards | Maximum: 180 yards
+Damage 18 Blunt (small AoE)
+Special Damage Properties Can fire incendiary pots
+Rate of Fire One shot every 3–4 minutes (narrative)
+Weight and Dimensions ~800 kg | Height 4 m, arm length 5–6 m
+Logistical Considerations Moved on 2 wagons. Quick to build on-site.
+Cost 22 gold crowns
+Medium Siege Trebuchet (“Warhound”)
+Description
+Standard counterweight trebuchet for castle or city wall breaching.
+Range Effective: 180 yards | Maximum: 260 yards
+Damage 28 Blunt (medium AoE)
+Special Damage Properties Structural damage to walls
+Rate of Fire One shot every 4–6 minutes (narrative)
+Weight and Dimensions ~2 tons | Height 6–7 m, arm length 8–9 m
+Logistical Considerations Moved on 3–4 wagons. Takes 2–3 days to assemble.
+Cost 68 gold crowns
+Large Warwolf-Class Trebuchet (“Great Thunder”)
+Description
+Massive counterweight trebuchet for the greatest sieges. The arm requires felling and seasoning one or two massive, straight oak trunks.
+Range Effective: 220 yards | Maximum: 300+ yards
+Damage 45 Blunt (large AoE)
+Special Damage Properties Devastating structural damage to walls and towers
+Rate of Fire One shot every 6–10 minutes (narrative)
+Weight and Dimensions 4–6 tons | Height 10–12 m, arm length 12–14 m
+Logistical Considerations Usually built on-site or moved in 8+ wagons. Arm preparation can take 1–2 years.
+Cost 195–240 gold crowns

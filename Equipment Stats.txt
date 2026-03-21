@@ -1,0 +1,48 @@
+Availability
+Having the money doesn’t always guarantee the desired good or service is at hand. Hamlets and small villages are far less likely to have expensive goods than a large city of 10,000 people. Moreover, finding a high-quality sword in a backwater village is far more difficult than locating such a weapon in a teeming metropolis. To reflect availability, each good and service has an associated availability ranging from Very Rare to Abundant. These notations are a base availability and should serve as a starting point for determining whether a town has an item or not. For example, Middenheim is a coastal city and, naturally, fish would be more common there than in a place like Karak Kadrin, situated as it is in the World’s Edge Mountains. Hence, feel free to adjust the levels of goods and services to suit the location of your game.
+Characters searching for a particular item or service must make a successful Gossip Skill Test modified by the availability of the item.
+Table 5-2: Consequences of Availability
+(Modifier to Gossip Skill Test)
+Availability,Difficulty,Gossip Skill Test Modifier
+Very Rare,Very Hard,–30%
+Rare,Hard,–20%
+Scarce,Challenging,–10%
+Average,Average,+0%
+Common,Routine,+10%
+Plentiful,Easy,+20%
+Abundant,Very Easy,+30%
+Table 5-3: Difficulty by Population
+Availability,Below 100,"Below 1,000","Below 10,000","10,000+"
+Very Rare,GM’s discretion,Very Hard,Hard,Challenging
+Rare,Very Hard,Hard,Challenging,Average
+Scarce,Hard,Challenging,Average,Routine
+Average,Challenging,Average,Routine,Easy
+Common,Average,Routine,Easy,Very Easy
+Plentiful,Routine,Easy,Very Easy,Automatic
+Abundant,Easy,Very Easy,Automatic,Automatic
+
+Craftsmanship Tiers (6 levels)
+Tier,Tradesmen Level,Cost Multiplier,Key Effects (no big AC/damage power-creep),Typical For
+Junk / Broken,Apprentice (or failed work),0.25×,"+50% weight, breaks on any critical, -20% Intimidate/Fellowship, ugly/scuffed appearance","Street thugs, desperate peasants, battlefield salvage"
+Sub-Standard,Low Journeyman,0.75×,"+25% weight, -10% durability (breaks easier), minor visual flaws","Poor village smiths, mass-produced garrison gear"
+Standard,Journeyman / Experienced,1× (base),"Normal weight, normal durability, plain but functional look",Everyday adventurer / soldier gear
+Fine,Local Renown,2×,"-15% weight (lighter feel), +20% durability (harder to break/repair), +10 Fellowship / Intimidate","Town guard captains, minor nobles, skilled local artisans"
+Masterwork,Region / Kingdom Renown,5×,"-25% weight, +50% durability, beautiful finish (+20 Fellowship / Intimidate), holds an edge longer","Knightly orders, royal guards, famous regional smiths"
+Legendary,World Renown,10×,"-35% weight, near-unbreakable (only criticals from Legendary weapons can damage it), exquisite beauty (+30 Fellowship / Intimidate + subtle aura effect in RP), can accept one permanent enchantment slot","Kings, Gryphon Knights, legendary heroes, Unveiling-touched artifacts"
+Use Gossip or Haggle tests to find higher-quality items; DoS can reduce search time or unlock rare craftsmen. In Calradia, Unveiling-touched forges or dryad-blessed herbs may grant automatic “Best” quality at extra risk (e.g., +1 IP on failure).
+
+Craftsmanship
+Not all goods and services are created equal. A rusty sword from a back-alley smith is very different from a masterwork blade forged under a dryad’s moon or in a veiled dwarven forge. Use the table below to adjust cost and availability when characters seek (or craft) higher/lower quality items.
+Craftsmanship Table
+Craftsmanship,Cost Multiplier,Availability Change
+Best,×10,Drop 2 steps
+Good,×3,Drop 1 step
+Common,×1,No change
+Poor,×½,Increase 1 step
+Examples
+
+A Common steel longsword in a medium town: 50 sc, Routine Gossip test.
+A Good version of the same sword: 150 sc, Average Gossip test.
+A Best masterwork blade: 500 sc, Hard Gossip test (or drop to Scarce if the town is small).
+
+Characters with Trade (appropriate speciality) can craft items at one level higher than their workshop/materials would normally allow on a successful test with DoS ≥3.

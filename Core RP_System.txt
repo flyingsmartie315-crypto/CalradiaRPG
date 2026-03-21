@@ -1,0 +1,13 @@
+Core Resolution Mechanic (d100)
+All actions are resolved with a d100 roll (1–100).
+
+Success = Roll ≤ relevant Characteristic or Skill value
+Failure = Roll > relevant Characteristic or Skill value
+
+Degrees of Success / Failure
+Every Characteristic has a Bonus = tens digit (round down).
+Example: Strength 41 → Strength Bonus = 4
+
+Each point you succeed by = +1 Degree of Success (DoS)
+Each point you fail by = +1 Degree of Failure (DoF)
+Bonuses determine damage, distance moved, time saved, effect severity, etc.

@@ -1,0 +1,308 @@
+Weapon Cultures of Calradia
+Full Cultural Naming System + Cosmetic Tag System
+Version: 2026-03-19
+
+All mechanical values remain identical across every culture and every weapon.
+
+=== How the Tag System Works ===
+- Append 1–4 tags in brackets after the base weapon name.
+- Tags 1–3 = Cultural / Aesthetic flavour
+- Tag 4 = Condition / Durability (always last)
+
+=== Condition / Durability Tags ===
+[Pristine] – Mirror-bright, freshly oiled, looks brand new
+[Worn] – Honest patina, light scratches, well-maintained
+[Battle-Scarred] – Proud nicks, repaired edges, honourable battle damage
+[Damaged] – Bent, chipped, cracked grip
+[Ruined] – Heavily rusted, cracked blade, blood-caked
+
+=== Weapon Type Descriptor Tags (mechanics & construction only) ===
+[Use the exact descriptor from the list in the previous message for each named variant]
+
+=== Full Cultural Naming Lists ===
+
+Swords
+Double-Edged Straight Sword
+- Vlandia: Arming Sword, Broadsword, Cruciform Spatha
+- Empire: Spatha, Imperial Straight Sword, Spathion
+- Battania: Claíomh, Straight Leaf-Sword, Broadsword
+- Sturgia: Mækir, Kindjal, Broadsword
+- Nords: Sverð, Langsax, Broadsverð
+- Khuzait: Kilic, Bat-Ild
+- Aserai: Sayf, Firand
+
+Single-Edged and Curved Sword
+- Vlandia: Sabre, Falchion, Braquemart
+- Empire: Parazonium, Curved Spatha, Falchion
+- Battania: Seax-Curved, Scian, Langsax
+- Sturgia: Króksverð, Sablya, Langsax
+- Nords: Króksverð, Scramasax, Langsax
+- Khuzait: Kilij, Shamshir, Yalman
+- Aserai: Shamshir, Scimitar, Sabre
+
+Double-Edged Hand-and-a-Half Straight Sword*
+- Vlandia: Longsword, Claymore, Bastard Sword
+- Empire: Long Spatha, Half-Hand Spatha, Spathion Dystomos
+- Battania: Long Claíomh, Bastard Sword, Longsword
+- Sturgia: Langsverð, Half-Hand Mækir
+- Nords: Langsverð, Two-Hand Sverð
+- Khuzait: Long Straight Kilij (very rare)
+- Aserai: Takoba, Kaskara
+
+Single-Edged and Curved Hand-and-a-Half Sword
+- Vlandia: Messer, Long Sabre
+- Empire: Long Sabre, Paramerion Megalo
+- Battania: Messer, Langscian, Langsax
+- Sturgia: Lang Scramasax, Lang Króksverð
+- Nords: Lang Scramasax, Lang Króksverð
+- Khuzait: Long Kilij, Long Shamshir
+- Aserai: Long Shamshir, Long Scimitar, Long Sabre
+
+Great Double-Edged Straight Sword*
+- Vlandia: Greatsword, Zweihänder, Claymore
+- Empire: Great Spatha
+- Battania: Claideb Mór, Greatsword, Claymore
+- Sturgia: Great Sverð
+- Nords: Great Sverð
+- Khuzait: (No common use – extremely rare imports only)
+- Aserai: (No common use – extremely rare imports only)
+
+Great Single-Edged and Curved Sword*
+- Vlandia: Kreigsmesser, Great Falchion
+- Empire: Great Falchion, Paramerion Megalo
+- Battania: Greatscian
+- Sturgia: (No common use – extremely rare imports only)
+- Nords: (No common use – extremely rare imports only)
+- Khuzait: (No common use – extremely rare imports only)
+- Aserai: (No common use – extremely rare imports only)
+
+Axes
+One-Handed Axe
+- Vlandia: Axe, Broad Axe, Bearded Axe, Hache d'Armes
+- Empire: Axe, Pelekys
+- Battania: Axe, Broad Axe, Bearded Axe
+- Sturgia: Axe, Toporok, Boyevoy Topor
+- Nords: Axe, Skeggøx, Breiðøx
+- Khuzait: Axe, Sükh, Tabar
+- Aserai: Axe, Tabarzin, Tabar
+
+Two-Handed Axe
+- Vlandia: Great Axe, Nord Axe, Sparth-Axe
+- Empire: Great Axe, Sparth-Axe, Vaegir Age
+- Battania: Great Axe, Sparth-Axe, Tuag-Mhór
+- Sturgia: Great Axe, Great Topor, Bardysh
+- Nords: Great Axe, Skeggøx, Breiðøx
+- Khuzait: Great Axe (rare)
+- Aserai: Great Axe, Najakh
+
+Throwing Axe
+- Vlandia: Throwing Axe, Tournament Axe
+- Empire: Legion Throwing Axe
+- Battania: Forest Throwing Axe
+- Sturgia: Metatelny Topor
+- Nords: Throwing Axe, Franciska
+- Khuzait: Steppe Throwing Axe
+- Aserai: Desert Throwing Axe
+
+Polearms
+One-Handed Polearm (Spear)*
+- Vlandia: Spear, Boar Spear, Demi Lance, Angon
+- Empire: Spear, Hasta, Speurion
+- Battania: Spear, Gae Bolga, Lancea
+- Sturgia: Spear, Rogatina, Kopye, Sulitsa
+- Nords: Spear, Geirr, Fjöðr, Krókaspjót
+- Khuzait: Spear, Kargı, Mızrak
+- Aserai: Spear, Jirid
+
+Cavalry Polearm (Lance)*
+- Vlandia: Lance, Demi Lance
+- Empire: Lance, Kontarion, Kontos
+- Battania: (No common use – extremely rare imports only)
+- Sturgia: Lance, Pika
+- Nords: (No common use – extremely rare imports only)
+- Khuzait: Lance, Mızrak
+- Aserai: Lance, Qantari
+
+Two-Handed Polearm (Short)*
+- Vlandia: Poleaxe, Polehammer
+- Empire: Tzikourion
+- Battania: Sparth-Hache
+- Sturgia: Sovnya, Bardysh
+- Nords: Atgeir
+- Khuzait: Jida, Gisarka, Yatagan
+- Aserai: Harba, Tabar-Zin
+
+Two-Handed Polearm (Long)*
+- Vlandia: Pike
+- Empire: Sarissa
+- Battania: (No common use – extremely rare imports only)
+- Sturgia: (No common use – extremely rare imports only)
+- Nords: Lönguspjót
+- Khuzait: (No common use – extremely rare imports only)
+- Aserai: (No common use – extremely rare imports only)
+
+Two-Handed Polearm
+- Vlandia: Halberd, Bec de Corbin, Bill, Voulge, Guisarme
+- Empire: Tzikourion
+- Battania: Sparth-Hache
+- Sturgia: Sovnya, Bardysh
+- Nords: Atgeir
+- Khuzait: (No common use – extremely rare imports only)
+- Aserai: (No common use – extremely rare imports only)
+
+Maces & Hammers
+One-Handed Mace/Hammer
+- Vlandia: Mace, Knobbed Mace, Flanged Mace, Pernach, Morning Star, Horseman’s Pick
+- Empire: Mace, Martelion, Matzoukion
+- Battania: Mace, Knobbed Mace
+- Sturgia: Mace, Boevoy Molot, Bulawa, Klevets, Nadziak
+- Nords: Mace, Kylfa
+- Khuzait: Mace, Gada
+- Aserai: Mace, Gorz, Mitraqa
+
+Two-Handed Mace/Hammer
+- Vlandia: Great Flanged Mace, Goedendag, Grand Martel, Maul, Gryphons Beak
+- Empire: Megalo Bardoukion
+- Battania: Goedendag, Maul
+- Sturgia: Chekan, Oslop
+- Nords: Stórkylfa, Oslop
+- Khuzait: Chovgan-Mace
+- Aserai: Shashpar
+
+Bows (Revised Cultural Names)
+Light Bow (Hunting)
+Vlandia: Shortbow, Hunting Bow, Self-Bow
+Empire: Shortbow, Toxon
+Battania: Shortbow, Hunting Bow, Self-Bow, Saeth
+Sturgia: Flatbow, Shortbow, Luchisko
+Nord: Flatbow, Bogi
+Khuzait: Andun, Kheritai Num
+Aserai: Adali, Wasitiyah
+
+Medium Bow
+Vlandia: Standard Self-Bow, Hunting Bow
+Empire: Toxon, Arcus Mediocris
+Battania: Bwa Ywen, Fiodh-bha
+Sturgia: Slozhnyy Luk, Vostochnyy
+Nord: Yvi-bogi, Handbogi
+Khuzait: Agnuu-Num, Saadag
+Aserai: Wasitiyah, Charkh
+
+Heavy Bow
+Vlandia: Longbow, Warbow
+Empire: Arcus Fortis
+Battania: Longbow, Saeth-fwa
+Sturgia: Longbow, Bogatyry-Luk, Zhestkiy Luk
+Nord: Her-bogi, Langbogi
+Khuzait: Daitai-Num, Khuu-Num
+Aserai: Shiddah, Kaman-e-Sakht
+
+Longbow
+Vlandia: Great Bow, Longbow
+Empire: Arcus Maximus, Megalo Toxon
+Battania: Longbow, Ywen Ryfel, Bwa Braich
+Sturgia: Tyazhelyy Luk
+Nord: Stórbogi
+Khuzait: Khund Num, Bat-Num
+Aserai: Kaman-e-Goran, Musammat
+
+Descriptive Tags for Distinct Bow Terms
+Shortbow: compact one-handed bow with short draw length for quick shots
+Hunting Bow: light, flexible bow optimised for silent stalking and small-game hunting
+Self-Bow: single-piece wooden bow carved from one stave for simplicity and reliability
+Saeth: short, lightweight bow designed for rapid fire in close cover
+Flatbow: wide, flat-limbed bow for smooth draw and consistent power
+Luchisko: small, sturdy bow with reinforced limbs for durability
+Andun: light recurve bow with short limbs for horseback use
+Kheritai Num: short composite bow with horn and sinew for high draw weight in small frame
+Adali: lightweight short bow with curved tips for desert mobility
+Wasitiyah: medium-length bow with simple construction for versatile range
+Toxon: medium composite bow with reinforced grip for stable aim
+Arcus Mediocris: balanced medium bow with moderate draw for infantry use
+Bwa Ywen: medium bow with wide limbs for consistent power in woodland
+Fiodh-bha: medium bow reinforced with natural fibres for forest durability
+Slozhnyy Luk: medium composite bow with layered construction for reliability
+Vostochnyy: medium recurve bow with eastern-style horn reinforcement
+Yvi-bogi: medium bow with strong central grip for accurate shooting
+Handbogi: medium bow designed for one-handed or quick draw
+Agnu-Num: medium composite bow with reinforced limbs for long rides
+Saadag: medium bow with curved tips for mounted use
+Charkh: medium bow with reinforced grip for stability
+Longbow: long single-piece bow with high draw weight for long-range power
+Warbow: long heavy-draw bow optimised for battlefield penetration
+Great Bow: extremely long high-draw bow for maximum range and force
+Arcus Fortis: heavy long bow with reinforced limbs for armour piercing
+Saeth-fwa: long bow with wide limbs for sustained power
+Bogatyry-Luk: heavy long bow with strong construction for elite warriors
+Zhestkiy Luk: rigid long bow with high draw for penetration
+Her-bogi: long bow with heavy draw for ranged dominance
+Langbogi: long bow with extended length for maximum power
+Daitai-Num: long composite bow with reinforced limbs for heavy draw
+Khuu-Num: long bow with curved tips for maximum range
+Shiddah: long heavy-draw bow for battlefield use
+Kaman-e-Sakht: long bow with rigid limbs for high penetration
+Ywen Ryfel: long bow with wide limbs and high draw weight
+Bwa Braich: long bow with reinforced grip for accuracy
+Tyazhelyy Luk: long heavy bow for maximum range
+Stórbogi: long powerful bow with heavy draw
+Khund Num: long composite bow with high draw weight
+Bat-Num: long bow with reinforced limbs for penetration
+Kaman-e-Goran: long bow with strong construction for range
+Musammat: long bow with reinforced tips for accuracy
+
+Weapon Cultures of Calradia
+Updated Cultural Naming System for Crossbows
+Version: 2026-03-19 (Toned-Down Descriptions Applied)
+All mechanical values remain identical across every culture and every weapon.
+Crossbow Categories (mechanical base names)
+Light Crossbow
+Vlandia: Light Crossbow, Latch Crossbow, Hunting Crossbow
+Empire: Tzangra
+Battania: Light Crossbow, Latch Crossbow, Hunting Crossbow
+Sturgia: Samostrel, Krosbow
+Nords: Latch Crossbow
+Khuzait: Khar-Nomo
+Aserai: Charkh
+
+Medium Crossbow
+Vlandia: Belt-Hook Crossbow, Latten Crossbow, Goat’s Foot Lever
+Empire: Tzangra, Belt-Hook Crossbow, Latten Crossbow
+Battania: (No common use – extremely rare imports only)
+Sturgia: Boevoy Samostrel
+Nords: (No common use – extremely rare imports only)
+Khuzait: (No common use – extremely rare imports only)
+Aserai: (No common use – extremely rare imports only)
+
+Heavy Crossbow (Arbalest)
+Vlandia: Arbalest, Windlass Crossbow, Cranequin Crossbow
+Empire: Arcuballista, Balista ad Turnum
+Battania: (No common use – extremely rare imports only)
+Sturgia: (No common use – extremely rare imports only)
+Nords: (No common use – extremely rare imports only)
+Khuzait: (No common use – extremely rare imports only)
+Aserai: (No common use – extremely rare imports only)
+
+Descriptive Tags for Distinct Crossbow Terms
+(Short, mechanics-and-construction-focused descriptions – no stats)
+Light Crossbow
+Light Crossbow: compact wooden or composite bow with simple latch mechanism
+Latch Crossbow: light frame with trigger latch and stirrup cocking
+Hunting Crossbow: short-limbed bow for quick aiming
+Tzangra: Empire light crossbow with basic latch system
+Samostrel: Sturgian light crossbow with reinforced tiller
+Krosbow: compact Sturgian light crossbow with latch trigger
+Khar-Nomo: Khuzait light steppe crossbow with short limbs
+Charkh: Aserai light desert crossbow with lightweight frame
+
+Medium Crossbow
+Belt-Hook Crossbow: medium bow using belt hook for cocking
+Latten Crossbow: medium steel-limbed bow with lever mechanism
+Goat’s Foot Lever: medium bow using lever cocking device
+Boevoy Samostrel: Sturgian military medium crossbow with strong tiller
+
+Heavy Crossbow (Arbalest)
+Arbalest: heavy steel crossbow requiring mechanical winding
+Windlass Crossbow: heavy arbalest using crank windlass
+Cranequin Crossbow: heavy arbalest using ratchet cranequin
+Arcuballista: Empire heavy crossbow with steel prod and windlass
+Balista ad Turnum: Empire heavy crossbow with turn-crank system

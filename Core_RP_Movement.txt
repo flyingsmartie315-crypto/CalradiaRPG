@@ -1,0 +1,41 @@
+Movement Stat (M),Hampered Movement (ypm),Standard Movement (ypm)
+1,12,24
+2,24,48
+3,36,72
+4,48,96
+5,60,120
+6,72,144
+7,84,168
+8,96,192
+9,108,216
+10,120,240
+11,132,264
+12,144,196
+13,156,312
+14,168,336
+Notes:
+Hampered Movement: = 12 × M (yards per minute), for difficult terrain or cautious travel.
+Standard Movement: = 24 × M (yards per minute), base comfortable pace in open areas.
+For daily travel, multiply ypm by minutes traveled (e.g., M 4 Standard: 96 ypm × 480–600 min/day ≈ 46,080–57,600 yards/day, or ~26–33 miles/day assuming 1,760 yards/mile). Adjust for fatigue, weather, or events via tests. Scale for larger Sizes or Talents.
+
+Overland Movement Table (Expanded)
+Add this companion table for long-distance travel speeds in miles per hour (mph), derived from local rates but adjusted for sustained pacing over hours/days.
+Movement Stat (M),Hampered Movement (mph),Standard Movement (mph)
+1,0.5,1
+2,1.0,2
+3,1.25,2.5
+4,1.75,3.5
+5,2.25,4.5
+6,2.75,5.5
+7,3.0,6
+8,3.5,7
+9,4.0,8
+10,4.5,9
+11,4.75,9.5
+12,5.25,10.5
+13,5.75,11.5
+14,6.25,12.5
+Notes:
+Overland speeds account for breaks, terrain variations, and endurance over extended periods.
+For mounts, double mph; for vehicles or large groups, adjudicate based on logic.
+Daily distance: mph × 8–10 hours (e.g., M 4 Standard: 3.5 mph × 8–10 = 28–35 miles/day). Use Navigation or Outdoor Survival tests for efficient routes.

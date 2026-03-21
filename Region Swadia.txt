@@ -1,0 +1,170 @@
+Region: Swadia
+Neighbouring Regions
+North: Cape Fal Bay, Ebor Peninsula, Western Ocean
+North East: Uchalion Plateau
+East: Uchalion Plateau
+South East: Neurval
+South: Neurval, Ortysian Basin, Gulf Of Charas
+South West: Gulf Of Charas, Western Ocean
+West: Western Ocean
+North West: Cape Fal Bay, Western Ocean, Island Of Beinland
+Overview
+Swadia represents the southern extension of Vlandian territory, characterized by fertile river deltas, coastal bays, and rolling heartlands ideal for agriculture and trade. Bordering the Ebor Peninsula to the north and the Ortysian Basin to the south, it serves as a vital crossroads for commerce along the Trand River and Gulf of Charas. The region blends Vlandian feudal traditions with lingering Imperial influences, featuring knightly strongholds, bustling ports, and shadowed timberlands under the Rhennod Mountains. Early spring thaws bring floods to the lowlands, while false moons stir subtle Unveiling echoes in the mists. Settlements here are fortified against border raids, with economies driven by grain, timber, and river trade.
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area):
+Climate (Temperature: Temperate [2-4], Rainfall: Temperate to Humid [3-4])
+Human Population Density: Moderate to High [2-4]
+Flora/Fauna Population Density: Abundant [3-5]
+Topography: Gentle to Flat [1-2]
+Hydrology: Abundant [3-5]
+Geographic Structures
+North: Cape Fal Bay
+North East: Caleus Lowlands
+East: Black Timbervale, Rhennod Mountains
+South East: Ocs Apron
+South: Trand River
+South West: Biscan Coast
+West: Aber Trand, Biscan Coast
+Core: Trand River, Swadian Heartlands
+Cape Fal Bay: Fog-shrouded inlet with rocky shores and hidden coves; prone to tidal surges and smuggling. Connected to Caleus Castle for coastal defense. Environmental Scores: Temperature: 2-3, Rainfall: 4-5, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 1-2, Hydrology: 5.
+Caleus Lowlands: Marshy plains fed by river runoff; fertile for grazing but flood-risky. Links to Caleus Castle and eastern trade routes. Environmental Scores: Temperature: 2-4, Rainfall: 3-4, Human Density: 1-3, Flora/Fauna Density: 3-4, Topography: 1, Hydrology: 4-5.
+Aber Trand: Wide river estuary with strong currents; key for fishing and ferries. Ties into Drapand Castle's coastal oversight. Environmental Scores: Temperature: 2-3, Rainfall: 4, Human Density: 2-3, Flora/Fauna Density: 2-3, Topography: 1, Hydrology: 5.
+Biscan Coast: Rugged beaches with cliffs and pebble strands; exposed to western storms. Supports Drapand Castle's port activities. Environmental Scores: Temperature: 2-3, Rainfall: 3-4, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 2-3, Hydrology: 4-5.
+Swadian Heartlands: Rolling fields and groves; prime cavalry terrain and farmland. Central to Pravend and Drapand Castle. Environmental Scores: Temperature: 3-4, Rainfall: 3, Human Density: 3-4, Flora/Fauna Density: 4-5, Topography: 1-2, Hydrology: 3.
+Trand River: Navigable waterway for barges; seasonal flooding enriches soils. Vital artery for Pravend's markets. Environmental Scores: Temperature: 2-4, Rainfall: 3-4, Human Density: 2-3, Flora/Fauna Density: 3-4, Topography: 1, Hydrology: 4-5.
+Black Timbervale: Dense orchards and woods at Rhennod foothills; timber-rich but shadowed. Home to Ocs Hall. Environmental Scores: Temperature: 2-3, Rainfall: 3-4, Human Density: 2-3, Flora/Fauna Density: 4-5, Topography: 2-3, Hydrology: 3.
+Rhennod Mountains: Steep eastern barrier with passes; source of rivers and minerals. Borders Verecsand Castle and Ocs Hall. Environmental Scores: Temperature: 1-3, Rainfall: 2-3, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 4-5, Hydrology: 2-3.
+Ocs Apron: Foothill slopes with terraced fields; transitional zone to mountains. Defended by Verecsand Castle. Environmental Scores: Temperature: 2-3, Rainfall: 3, Human Density: 1-2, Flora/Fauna Density: 3-4, Topography: 2-4, Hydrology: 3-4.
+Settlements
+Caleus Castle
+Fog-shrouded stone towers rise from cliffside ramparts overlooking hidden coves and marshy lowlands, where smugglers' galleys slip through tidal mists amid grazing cattle and resilient reeds. Markets trade wool and salt fish, knightly oaths echoing across foggy plains with river-fed pools. Vigilant crossbowmen train on battlements facing northern threats, while herders perform lantern rites on stormy nights. False Moon nights summon disorienting echoes in the bay, countered by bonfire wards and blessed charms.
+Location and Ties:
+Geographic Structure Link: Cape Fal Bay (North), Caleus Lowlands (North East)
+Neighbouring Features: Rocky shores with hidden inlets and fog-prone marshes; lowland plains dotted with pools and wildflowers fed by river runoff.
+Kingdom/Clan Affiliation: Vlandian (ruled by Baron Servic of clan dey Valant as a border outpost), focused on coastal defense and smuggling oversight.
+Structure and Layout:
+Core: Weathered stone keep with curtain walls, surrounded by cliffside stables and market yards.
+Key Districts: Bailey for knightly training; harbor quarter with docks and warehouses; lowland farms with herder huts.
+Defenses: High cliffs as natural barriers with crossbow towers; moats fed by tidal surges; garrison patrols on marsh paths.
+Population and Daily Life:
+Size and Density: Small castle settlement (300-600 residents), densely packed within walls with sparse outlying farms.
+Demographics:
+Garrison: Knights for cavalry charges; crossbowmen on ramparts; scouts monitoring bay fog.
+Civilians: Herders tending cattle; fishermen in coves; women weaving reeds and trading wool.
+Economy: Bay tolls and smuggling tariffs; lowland wool and cattle exports; salt fish preservation for trade.
+Culture and Customs: Vigilance oaths at dawn; fog-lantern festivals warding whispers; herder tales of marsh guardians.
+Villages:
+Caleus: Lies on the misty coastal plain East of the Bay of Cape Fal; villagers speak a mix of Vlandian, Sturgian, and Battanian tongues, growing flax in the lowlands for trade and weaving.
+Deriat: Sits between the Bay of Cape Fal and the ridges of the Starfall Basin; villagers trap boar and cultivate pig herds, producing hides and meat for export.
+Hazards:
+Man-made: Smuggler ambushes in fog; border skirmishes with Ebor clans over trade routes.
+Bestiary: Drowners lurking in tidal pools; giant wasps nesting in lowland thickets.
+Unveiling: Veil-thinning mists causing disorienting echoes; false-moon floods summoning fleeting shades.
+Drapand Castle
+Sprawling coastal walls encircle pebble beaches and estuary docks, where fishing fleets haul bounties amid heartland fields of waving grain and scattered groves. Markets barter salt and timber, seafaring ballads resounding over tidal currents with windmills creaking in the breeze. Men-at-arms drill on plains facing western storms, while villagers light bonfires against sea horrors. False Moon nights rumble the estuary with unseen depths, countered by ritual anchors and blessed nets.
+Location and Ties:
+Geographic Structure Link: Aber Trand (West), Biscan Coast (South West), Swadian Heartlands (Core)
+Neighbouring Features: Rugged beaches with cliffs and pebble strands; estuary with strong currents and heartland plains enriched by floods.
+Kingdom/Clan Affiliation: Vlandian (ruled by Baron Aldric of clan dey Tihr as a western anchor), focused on fisheries and heartland defense.
+Structure and Layout:
+Core: High-walled stronghold with moated bailey, surrounded by coastal yards and field paths.
+Key Districts: Harbor quarter for fishing docks; heartland farms with granaries; forge halls for armory maintenance.
+Defenses: Deep moats from river tides with tower emplacements; pebble beach barricades; cavalry patrols on open plains.
+Population and Daily Life:
+Size and Density: Medium castle settlement (500-900 residents), moderately dense within walls with scattered heartland farms.
+Demographics:
+Garrison: Men-at-arms for estuary defense; knights training charges; scouts watching coastal storms.
+Civilians: Fishermen hauling catches; farmers tilling grains; women salting fish and weaving sails.
+Economy: Estuary ferry tolls; coastal fisheries and salt production; heartland grain exports to ports.
+Culture and Customs: Seafaring oaths during high tides; bonfire rituals repelling horrors; harvest dances in fields.
+Villages:
+Drapand: Sits near the tip of Coast of Cape Fal, a promontory; villagers venture into the Western seas to fish cod and hunt whales washed by a cold current from the north.
+Valanby: Sits overlooking the Trand estuary; villagers plant flax in land reclaimed from the riverside marshes, produce olives, and breed the famed Valanby Courser horses.
+Hazards:
+Man-made: Pirate raids from western oceans; feudal disputes over ferry rights and fishing grounds.
+Bestiary: Krakens in deep estuary channels; mire-kin hiding in coastal marshes.
+Unveiling: Tidal anomalies during false moons; ghostly ships appearing in thick fog.
+Pravend (Port City)
+The ancient Imperial capital, fallen to Vlandian steel centuries ago, yet still wearing the crown of legitimacy like a faded diadem. Massive walls of pale limestone encircle marble forums cracked by time, old aqueducts that still carry water in thin silver threads, and the legendary Pravend Tourney Field—a vast oval of packed earth ringed by tiered stone seating, where the echoes of long-dead emperors once mingled with the roar of the crowd. Lords from every corner of Vlandia flock here for grand jousts of peace and war; the air rings with splintering lances, the thunder of hooves, and the sharp clang of steel on steel. Armories hidden in the lower city produce some of Calradia’s finest articulated plate—heat-treated steel that moves like a second skin, polished to mirror brightness, each suit a fortune in silver groschen and months of labor.
+Bound villages beyond the walls supply grain from wide fields and wool from hardy hill flocks, their tithes flowing into Pravend’s coffers to keep the forges hot and the tourney prizes lavish. To the south, along the banks of the broad Trand River, a small but bustling trading port clings to the city’s edge—stone quays and timber slips where flat-bottomed barges and shallow-draft river traders tie up in steady rotation. The port primarily tends vessels navigating the Trand: grain barges from upstream villages, wool-laden boats from the hills, and the occasional merchant galley carrying iron, wine casks, or rare Imperial curiosities salvaged from upstream ruins. Dockhands shout in a dozen accents as ropes are thrown and crates shifted; the air smells of tar, wet timber, and river mud. Small guilds of river pilots and stevedores keep the port alive—practical men who know every bend and sandbar from Pravend to the southern lowlands. The Trand’s sluggish current feeds into a labyrinth of ancient Imperial sewers beneath the lower districts, their dark mouths occasionally exhaling foul air or the faint rasp of drowners that have crept too far upstream. The garrison posts extra torches along the quays and sweeps the accessible sewer grates, but the creatures remain a persistent, slimy nuisance—dragging the occasional careless dockhand or night fisherman beneath the surface.
+Yet Pravend’s most extravagant spectacle is rising under the hand of clan Tihr, its current rulers. Baron Aldric and Lady Ethild have poured vast sums of silver groschen—extracted from tolls, markets, and the sweat of bound villages—into a monumental project: the construction of what they intend to be the largest castle-pleasure palace in all Vlandia. Perched on a commanding hill overlooking the Trand and the tourney field, the emerging structure already dwarfs the old Imperial forums: soaring towers of imported white marble and local golden stone, sprawling wings of gilded halls and pleasure gardens, private baths fed by diverted aqueduct channels, and a central keep crowned with domes that catch the sun like captured stars. The palace is designed as both fortress and monument to Tihr excess—defensive walls thick enough to withstand siege, yet inner courtyards open to the sky, filled with exotic plants, fountains, and mosaic floors depicting mythical hunts and feasts. Armories and barracks are tucked discreetly aside; the true heart is indulgence: banquet halls that can seat hundreds, private chambers for favored guests, and hidden vaults for the clan’s growing hoard.
+The commons mutter that every block laid is paid for by their hunger; barons watch with envy and disdain, seeing in the palace a brazen claim to greater prestige than even the royal seat at Galend. Derthert has said little—his silence a quiet warning—but the Tihr press on, driven by Aldric’s obsession with legacy and Ethild’s cold calculation that grandeur buys influence where loyalty alone may not suffice. Pravend endures as both trophy and warning: a symbol of Vlandian triumph over the Empire, yet a place where the past refuses to stay buried and the present grows ever more lavish—and precarious. Every lance broken here, every oath sworn, every new tower rising reminds the living that legitimacy is paid for not only in steel, but in the quiet, unending vigil against what still watches from below—and in the glittering ambition that threatens to outshine the crown itself.
+Location and Ties:
+Geographic Structure Link: Swadian Heartlands (Core), Trand River (South)
+Neighbouring Features: Rolling fields and scattered groves; navigable river bends with seasonal floodplains and wildflower meadows.
+Kingdom/Clan Affiliation: Vlandian (ruled by Baron Aldric of House dey Tihr, a cadet branch of the ruling dey Meroc clan, as the royal trade hub), focused on commerce and southward expansion.
+Structure and Layout:
+Core: Towering central keep with waterfront guildhouses, surrounded by market squares and heartland roads.
+Key Districts: Riverfront for barge docks; merchant quarter with artisan workshops; heartland outskirts with tourney grounds.
+Defenses: Stone walls with river gates; watchtowers overlooking plains; knightly patrols on trade routes.
+Population and Daily Life:
+Size and Density: Large town (5,000-10,000 residents), densely urban with high activity in markets and sparse rural edges.
+Demographics:
+Garrison: Knights for tourney and defense; crossbowmen on walls; scouts monitoring southern borders.
+Civilians: Merchants bartering goods; farmers from heartlands; women in guild roles and household crafts.
+Economy: River port for grain and spices; heartland agriculture like wool and textiles; artisan production of leathers.
+Culture and Customs: Mercantile festivals with barge parades; knightly tourneys in fields; river blessings to avert omens.
+Villages:
+Rulund: Sits in the forested middle valleys of the Trand; villagers specialize in the raising of hogs, who feast on acorns from the oak woodlands.
+Larnac: Sits on gentle hills on the lower Trand valley; villagers plant rye, barley and wheat for sale to the hungry urban population of nearby Pravend.
+Palisont: Sits at the mouth of a rocky glen that splits the grassy downs north of the Trand river; the soil is thin in these parts, but the village does well farming hogs and other livestock.
+Additionally, the castle-bound villages of Drapand and Valanby do their trade here.
+Hazards:
+Man-made: Guild rivalries and market thefts; southern border tensions with Neurval incursions.
+Bestiary: Ghouls in abandoned river crypts; drowners along overgrown banks.
+Unveiling: River shades whispering prophecies; false-moon surges causing street floods.
+Ocs Hall (Town)
+One of the few Vlandian towns truly born after the Empire’s fall, cradled in a deep, sheltered valley at the base of the forested Rhennod Mountains. The ragged peaks of Rhennod loom over it like broken teeth against the sky—jagged, storm-scoured ridges that catch the first snow and cast long shadows across the fields below even at midday. Deep forests climb the eastern hills and mountains in a dark, unbroken tide, pines and ancient oaks pressing upward until the slopes grow too steep for anything but rock and mist. The valley itself was once an isolated Battanian holdout, a cratered bowl of rich black soil left by some forgotten volcanic age—its fertile earth still yields heavy harvests of grain and root crops, fed by springs that seep from the surrounding heights.
+When the Vlandian warlord Oca—called “Lobster Claw” for the red gauntlet he wore—forced the passes, he claimed the valley in a swift, bloody campaign. The Battanian tribes were driven inland, their songs and rites carried away on the wind, leaving only echoes in the trees. Oca named the smaller lake beside the town Ocspool after himself, a petty mark of ownership that still draws wry smiles from locals.
+Stone halls now rise around fertile fields that lap at the crater’s edge—sturdy, square-built structures of dark granite and timber, their roofs steep against mountain snows. Markets thrive in the sheltered squares: grain from the valley bottom, timber felled from the encircling woods, clay dug from rich deposits near the slopes, all traded beneath the watchful eyes of knights who patrol the deep forest fringes. The town lives with one foot in the fields and the other in the trees—its people hardy, practical, slow to trust outsiders. They speak little of the past, but the valley remembers.
+The Unveiling left its deepest scar here. Giant bones surface when plows bite too deep or quarries cut new stone—massive femurs taller than a man, shattered skulls with eye sockets like caves—fueling tavern tales of titans slain by ancient druids in forgotten wars. The deep woods that ring the valley harbor very old Wælhreów: ancient pre-conquest mimics with jerky gaits and voices that repeat cries in tongues no living man speaks. They lure the unwary with dead kin’s voices or the bellow of giants long gone; locals bolt doors at dusk, verify every caller with careful questions, and never step into the trees alone after dark. The forests grow treacherous the higher you climb—trails narrow to goat paths, mist thickens until the world shrinks to the next step, and direwolves and bears prowl the upper slopes. Rare but real, these beasts are seldom seen near the valley floor, yet their tracks appear after heavy snow or false-moon nights: massive paw prints, torn saplings, the occasional carcass left half-eaten on a ridge. Patrols speak of eyes glinting in the dark, of low growls that seem to follow without ever closing the distance. Dryad encounters are subtler—whispers in the wind that sound almost like voices, branches that bend without breeze to block a path, or the sudden certainty that the forest itself is watching, judging. Most dismiss them as fancy or fatigue, yet those who linger too long in the high woods sometimes return changed—quiet, distant, eyes always drifting toward the trees as if called.
+On false-moon nights the dread thickens—low knocking sounds from within walls, unnatural silence falls over the fields, shadows stretch too long across the cobbles. Direwolves and bears from the high slopes rarely descend to the valley floor, but their presence is felt: a distant howl that carries too far, paw prints circling the outer fields, the occasional livestock kill left torn and uneaten as if for sport. The higher reaches are theirs—wild, untamed, and merciless to any who climb too far without caution.
+Yet life persists. Children still chase each other through the streets, women press oil from valley olives, men sharpen blades by firelight. Ocs Hall is a place caught between conquest and memory—where the cratered earth still holds secrets in its rich soil, where the ragged Rhennod peaks watch with silent menace, and where every night the valley reminds its people that some things, once awakened, never truly sleep again.
+Location and Ties:
+Geographic Structure Link: Black Timbervale (East), Rhennod Mountains (South East)
+Neighbouring Features: Dense orchards and woods with shadowed paths; foothill slopes with resilient herbs and mountain-fed brooks.
+Kingdom/Clan Affiliation: Vlandian (ruled by Baron Belgir of House dey Fortes as a timber stronghold), focused on logging and eastern border watch.
+Structure and Layout:
+Core: Central moot hall with palisades, surrounded by sawmill yards and orchard paths.
+Key Districts: Timber quarter for logging camps; vale markets with craft stalls; foothill forges for toolmaking.
+Defenses: Wooden palisades blended into woods; archer platforms in trees; natural barriers from dense thickets.
+Population and Daily Life:
+Size and Density: Medium town (1,000-2,000 residents), moderately dense in halls with scattered woodland homes.
+Demographics:
+Garrison: Woodsman militia with axes; crossbow hunters in trees; scouts patrolling foothills.
+Civilians: Loggers felling timber; orchard keepers; women foraging herbs and brewing cider.
+Economy: Timber harvesting and woodcrafts; orchard fruits like apples; mountain ore trade downslope.
+Culture and Customs: Woodsman vows at ancient stumps; axe-tourneys in clearings; rune feasts warding forest bleeds.
+Villages:
+Mareiven: Sits in the dense and hilly Black Timbervale, facing Ocs Hall to its East; villagers harvest the tall trees of the heights, selling the logs to cities on the coast, producing hardwood for trade.
+Oritan: Sits high above Ocs Hall on a short stream that runs out of the mountains of the Rhennod Mountains and empties into the Black Timbervale; the stream slows as it hits a nearby bend, allowing the collection of potters' clay from the banks.
+Fregian: Sits on the flatlands South of Ocs Hall, where the streams of the Oritan flow and coalesce; villagers plant flax here amid the bogs and pastures.
+Additionally, the castle-bound village of Ormanfard does its trade here.
+Hazards:
+Man-made: Logging feuds over claims; eastern incursions from Uchalion Plateau raiders.
+Bestiary: Ancient Wælhreów in deep woods (mimicking lost voices); direwolves and bears on upper slopes; dryads whispering judgment in the high trees.
+Unveiling: Giant bones unearthed in fields; false-moon knocking from walls, unnatural silence, elongated shadows, and distant howls that follow without closing.
+Verecsand Castle
+Rugged stone bastions crown terraced slopes guarding mountain passes, where hardy crops cling to windswept ledges amid craggy massifs and trickling springs. Markets exchange furs and herbs, scar-tales shared in torchlit halls with goat trails winding upward. Knights drill volleys on high grounds, while guides whisper of eyries above. False Moon nights elongate shadows over the massif, countered by avalanche wards and prophetic scars. Sits South East of Ocs Hall, High in the Rhennod Mountains, overlooking the Ocs Apron.
+Location and Ties:
+Geographic Structure Link: Ocs Apron (South East), Rhennod Mountains (East)
+Neighbouring Features: Foothill slopes with terraced fields; steep passes with resilient shrubs and mountain streams.
+Kingdom/Clan Affiliation: Vlandian (ruled by Baron Belgir of House dey Fortes as an eastern pass fortress), focused on tolls and mountain vigilance.
+Structure and Layout:
+Core: High-towered keep with bastions, surrounded by sloped yards and pass trails.
+Key Districts: Apron farms with terraces; toll gates at passes; armory halls for crossbow maintenance.
+Defenses: Stone walls on sheer slopes with boulder drops; tower emplacements overlooking valleys; scout patrols in high crags.
+Population and Daily Life:
+Size and Density: Small castle settlement (400-700 residents), densely fortified with sparse terraced farms.
+Demographics:
+Garrison: Knights for pass defense; crossbowmen on towers; hunters tracking mountain game.
+Civilians: Farmers on terraces; fur trappers; women herding goats and crafting charms.
+Economy: Pass tolls on caravans; mountain furs and herbs; apron grains like barley for trade.
+Culture and Customs: Vigilant oaths on high winds; harvest rites on terraces; scar-tales of defenses around fires.
+Villages:
+Verecsand: Sits by the waters of the Streams of the Ocs Apron; villagers here grow wheat in the gentle downs by the stream sides, producing grain.
+Marin: Lies on the slopes North of the upper reaches of the Trand River in the Ocs Apron; misty mornings cooled by river mists drifting North and warm afternoons make this land well-suited to the growing of grapes.
+Hazards:
+Man-made: Ambush raids in narrow passes; clan rivalries over toll collections.
+Bestiary: Gryphons nesting in high crags; rock trolls lurking on rugged slopes.
+Unveiling: Shadow omens during false moons; veil-thinning causing prophetic avalanches.
+

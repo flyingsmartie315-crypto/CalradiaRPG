@@ -1,0 +1,204 @@
+Ebor Peninsula
+Neighbouring Regions
+North: Western Ocean, Beinland
+North East: Bay of Varcheg, Kachyar Peninsula
+East: Uchalion Plateau
+South East: Uchalion Plateau
+South: Swadia
+South West: Cape Fal Bay, Swadia
+West: The Western Ocean
+North West: The Western Ocean
+Geographic Structure
+North: Rhennod Mountains, Western Ocean Coastline
+North East: Rhennod Mountains, Bay Of Varcheg Coastline
+East: Morcomb Pass
+South East: Rhennod Mountains
+South: Ebor Spire, Cape Fal Bay
+South West: Cananc Deep woods
+West: Bay Of Ostican, Western Ocean Coastline
+North West: North Rhennod Crags, Western Ocean Coastline
+Core: Ebor Valleys
+Settlements
+Ostican: Bay of Ostican, Ebor Valleys
+Tirby Castle: North Rhennod Crags, Varcheg Coastline
+Rovalt: Rhennod Mountains, Ebor Valleys
+Ormanfard Castle: Rhennod Mountains, Morcomb Pass
+Geographic Structures Descriptions
+Rhennod Mountains
+Towering peaks dominate the north, their slopes rich in resources and riddled with caves. Winds howl through the heights, and paths wind steeply amid rocky outcrops and high ridges.
+Tags:
+Climate (Temperature: Cool, Rainfall: Temperate)
+Human population density (Sparse)
+Flora/fauna population density (Moderate)
+Topography (Mountainous)
+Hydrology (Limited)
+Western Ocean Coastline
+Exposed shores face the open ocean with pounding surf and salt-sprayed rocks, where strong winds carve deep inlets and scatter debris along pebble-strewn beaches amid constant fog and tidal surges.
+Tags:
+Climate (Temperature: Temperate, Rainfall: Humid)
+Human population density (Low)
+Flora/fauna population density (Sparse)
+Topography (Rugged)
+Hydrology (Abundant)
+Bay Of Varcheg Coastline
+Sheltered bays curve gently with calm waters lapping at sandy coves, protected from ocean swells by natural barriers, allowing quiet inlets and minimal fog for safer anchorages and subtle tidal shifts.
+Tags:
+Climate (Temperature: Temperate, Rainfall: Humid)
+Human population density (Low)
+Flora/fauna population density (Moderate)
+Topography (Rugged)
+Hydrology (Abundant)
+Morcomb Pass
+Narrow eastern defiles cut through the Rhennod Mountains, shadowed by trees along winding trails. Routes twist steeply, flanked by slopes and valleys that channel winds through the gaps, allowing transit between Ebor Peninsula and Uchalion Plateau.
+Tags:
+Climate (Temperature: Temperate, Rainfall: Temperate)
+Human population density (Low)
+Flora/fauna population density (Moderate)
+Topography (Steep)
+Hydrology (Sparse)
+Ebor Spire
+A lone southern peak pierces the sky, its crags home to secluded pastures in high meadows. Climbers navigate perilous heights amid alpine terrain and glacial streams.
+Tags:
+Climate (Temperature: Cool, Rainfall: Temperate)
+Human population density (Wilderness)
+Flora/fauna population density (Moderate)
+Topography (Sheer)
+Hydrology (Limited)
+Coast of Cape Fal
+The Cape Fal is a bay separating the Ebor Peninsula from Swadia, it is sheltered from the Northern winds and is marginally warmer, much calmer.
+Tags:
+Climate (Temperature: Temperate, Rainfall: Temperate)
+Human population density (Low)
+Flora/fauna population density (Moderate)
+Topography (Gentle)
+Hydrology (Abundant)
+Cananc Deep woods
+Dense southern forests tangle with ancient oaks, forming a thick canopy over rolling undergrowth teeming with life. Trails wind through valleys, with clearings scattered amid the wooded hills.
+Tags:
+Climate (Temperature: Temperate, Rainfall: Humid)
+Human population density (Sparse)
+Flora/fauna population density (Teeming)
+Topography (Undulating)
+Hydrology (Moderate)
+Bay Of Ostican
+Western inlet carves into cliffs, its calm waters bordered by rocky shores and overhangs. Tides shape caves along the bay, with pilings and branches overhanging the edges.
+Tags:
+Climate (Temperature: Temperate, Rainfall: Humid)
+Human population density (Low)
+Flora/fauna population density (Moderate)
+Topography (Rugged)
+Hydrology (Abundant)
+North Rhennod Crags
+Jagged cliffs rise sharply along the northern edge, battered by ocean winds and concealing high nests in storm-scoured heights amid abundant vegetation. Climbers risk sudden gales on perilous ascents amid the rugged, wind-swept terrain.
+Tags:
+Climate (Temperature: Cool, Rainfall: Humid)
+Human population density (Sparse)
+Flora/fauna population density (Abundant)
+Topography (Sheer)
+Hydrology (Sparse)
+Ebor Valleys
+Central fertile lowlands roll with fields and rivers, supporting groves and paths. Villages nestle in the depressions, where terrain undulates gently amid streams and hills.
+Tags:
+Climate (Temperature: Temperate, Rainfall: Temperate)
+Human population density (High)
+Flora/fauna population density (Abundant)
+Topography (Gentle)
+Hydrology (Moderate)
+Settlements of the Ebor Peninsula
+Ostican (Town)
+Nestled in the sheltered Bay of Ostican amid Ebor Valleys, Ostican thrives under dey Molarn's rule as a Vlandian trade hub. Stone walls encircle a bustling harbor where galleys unload silks and spices, while valley farms yield olives and grain. Knights and merchants mingle in market halls, with a chapel echoing Vlandian-rite sermons. Fishermen from Horsger brave northern currents for cod, trappers from Cananc and Remental bring pelts. Amid feudal oaths and feasts, false moons drain lantern light, stirring dreams of rivals, while ghouls lurk in valleys and drowners claim careless sailors.
+Location and Ties:
+Geographic Structure Link: Bay of Ostican (West), Ebor Valleys (Core)
+Neighbouring Features: Sheltered western inlet with calm cliffs and overhangs; central fertile lowlands with rolling fields and rivers.
+Kingdom/Clan Affiliation: Vlandian (dey Molarn rules Ostican), focused on coastal trade and feudal loyalty.
+Structure and Layout:
+Core: Stone-walled town with a central keep, surrounded by barracks for men-at-arms and market halls.
+Key Districts: Harbor quarter with docks for merchant galleys; valley farms with olive groves and granaries; chapel to Calradian Church (Vlandian-rite).
+Defenses: High stone walls with arbalest towers built along the sheltered inlet, reinforced by a river-fed moat; terrain advantages from the inlet's natural cliffs and overhangs.
+Population and Daily Life:
+Size and Density: Medium town (1,000-2,000 residents), moderately settled with clustered homes and outlying farms.
+Demographics:
+Garrison: Knights and men-at-arms for harbor defense; sergeants leading levy patrols; crossbow-equipped guards on walls.
+Civilians: Merchants handling trade; serfs as fishermen from Horsger, trappers of beaver/marten/rabbit from Cananc and Remental; limited roles for women in household management and market stalls.
+Economy: Olive and grain trade; silks/spices from caravans; ironwork forges producing polearms.
+Culture and Customs: Knightly oaths and feasts; shared flasks before battle; iron charms against false-moon evils.
+Villages:
+Horsger: Legendary landing site of warrior Horsa, known for daring fishermen venturing far for cod in chilled northern currents; low-lying lands support the economy through bold maritime harvests.
+Cananc: Nestled in Cananc Deep Woods at the base of Ebor Spire, where tall cedars thrive in sea-mists; villagers trap beaver, marten, and rabbit for valuable pelts.
+Remental: Positioned in a mountain gap with towering fir and spruce on slopes; attracts settlers seeking freedom from heavy Vlandian rule, with trapping of marten, rabbit, and fox sustaining the wild economy.
+Hazards:
+Man-made: Clan plots and bribes; border skirmishes with Battania; heavy tithes on merchants.
+Bestiary: Ghouls cleaning battlefields in valleys; drowners in harbor shallows.
+Unveiling: False Moon drains color from town lanterns; prophetic dreams of rival claims.
+Tirby Castle
+Perched on North Rhennod Crags overlooking Bay of Varcheg Coastline, Tirby Castle stands as dey Gunric's Vlandian bastion against northern threats. The stone keep on storm-scoured cliffs houses sergeants in barracks, with an armory stocked for defense. Flax growers from Tirby and silver prospectors from Sirindac pay tithes, sustaining salvage and fur trades. Devout feasts honor knightly virtue, but false moons bring silence and shadows. Griffons wheel above, territorial yet tamed for scouts, while drowners drag victims from inlets below.
+Location and Ties:
+Geographic Structure Link: North Rhennod Crags (North West), Bay of Varcheg Coastline (North East)
+Neighbouring Features: Jagged northern cliffs with storm-scoured heights; rugged shores with wrecks and inlets.
+Kingdom/Clan Affiliation: Vlandian (dey Gunric of Tirby Castle), emphasizing defensive wars and knightly virtue.
+Structure and Layout:
+Core: Stone keep on a cliff ridge, with barracks for sergeants and a sermon hall.
+Key Districts: Armory for arbalests; crag stables for warhorses; rite chapel overlooking the bay.
+Defenses: Stone keep built atop sheer cliffs with drawbridges and towers integrated into the ridge; terrain advantages from the elevated cliffside position overlooking inlets.
+Population and Daily Life:
+Size and Density: Small castle garrison (200-400, including families), sparsely populated with focus on defense.
+Demographics:
+Garrison: Veteran men-at-arms and sergeants leading squads; levy conscripts from villages; crossbow-focused defenses with pavise support.
+Civilians: Levy peasants as flax growers from Tirby and silver prospectors/clay pit workers from Sirindac; clergy and families in limited support roles.
+Economy: Tithes from coastal villages; salvage from wrecks; fur trade from crag hunts.
+Culture and Customs: Divine sanction of knightly duty; vigilance feasts; barred doors during false moons.
+Villages:
+Tirby: Sits in cold misty waters off the Ebor Peninsula, with low-lying lands ideal for flax growth; economy relies on fiber cultivation amid frequent mists.
+Sirindac: Lies beneath high ridges of the Ebor Peninsula, sheltered from northwest winds; migrants prospect for silver in mountain streams or work clay pits for pottery and building materials.
+Hazards:
+Man-made: Betrayals and feuds; incursions from eastern plateaus; conscript revolts.
+Bestiary: Griffons in crags (territorial mounts); drowners along shores.
+Unveiling: Unnatural silence muffles heartbeats; omens in elongated shadows.
+Rovalt (Fortress-Town)
+In the Rhennod Mountains above Ebor Valleys, Rovalt is dey Valant's ruthless Vlandian stronghold, blending craggy ambition with calculated charm. The stone keep, hewn from peaks, echoes with iron forges and fur scents, its halls delving underground. Griffon mews in cliffs test purity for mounts, while hidden armories fuel strikes. Iron miners from Alantas and grain farmers from Halisvust support the economy. Knights hunt eggs in rites of power, pragmatic loyalty to Derthert masking opportunism. False moons frenzy griffons and spawn dark pools in mines, twisting the unwary.
+Location and Ties:
+Geographic Structure Link: Rhennod Mountains (North), Ebor Valleys (Core)
+Neighbouring Features: Towering peaks with caves and ridges; central lowlands with fields and rivers.
+Kingdom/Clan Affiliation: Vlandian (dey Valant holds Rovalt and Caleus Castle), ruthless, craggy, and dangerously charming—a calculating clan in relentless pursuit of power.
+Structure and Layout:
+Core: Stark stone keep perched on a high ridge, its walls hewn from the mountain itself, halls heavy with the scent of iron ore and smoked fur.
+Key Districts: Griffon mews cut into the cliffs (where only the pure of heart may approach fledglings); iron-smelting forges that glow day and night; hidden armories stocked for opportunistic strikes.
+Defenses: Stone keep built on sheer mountain drops with towers and integrated mountain traps; terrain advantages from the high ridge and natural drops surrounding the structure.
+Population and Daily Life:
+Size and Density: Medium fortress-town (500–1,000), with a hardened core of knights and miners surrounded by sparse valley settlements.
+Demographics:
+Garrison: Veteran griffon-knights and men-at-arms; sergeants overseeing levy patrols; arbalest-equipped for mountain defense.
+Civilians: Ambitious Valant kin as prospectors and trappers; serfs mining iron in Alantas and farming wheat/rye in Halisvust; women in ledger and intrigue roles.
+Economy: Iron mining from mountain streams, lucrative fur trade (marten, fox, rabbit), and the prestige trade in griffon eggs and trained mounts.
+Culture and Customs: Knights hunt griffon eggs as a rite of purity and power; loyalty to King Derthert is purely pragmatic—they serve when it profits, strike when it weakens rivals, and always watch for the next opportunity in the peaks.
+Villages:
+Alantas: Centered in the mountainous Ebor Peninsula with thin soil and cold weather; rich iron deposits drive mining economy despite harsh conditions.
+Halisvust: Formerly marshy wasteland drained by Vlandian settlers; now fertile valley sowed with wheat and rye for grain production.
+Hazards:
+Man-made: Ruthless internal power plays, calculated betrayals, and lightning raids on weakened neighbors.
+Bestiary: Wild griffons on the crags (fierce and territorial, yet prized for taming); mountain mutants in deep caves.
+Unveiling: False-moon nights stir unnatural ferocity in griffons and awaken dark pools that twist the unwary in the iron mines.
+Ormanfard Castle
+Guarding Morcomb Pass through Rhennod Mountains, Ormanfard Castle is dey Folcun's Vlandian outpost for glory and war. The stone tower overlooks defiles, with barracks for sergeants and herb gardens for supplies. Wheat and barley from Ormanfard village's river-fed hillsides sustain tolls and trades. Knightly vows echo in rite shrines, piety defending against pagan evil. False moons bring knocking echoes and twisted omens, while Wælhreów mimic cries in trails and spiders weave in shadows.
+Location and Ties:
+Geographic Structure Link: Morcomb Pass (East), Rhennod Mountains (North)
+Neighbouring Features: Narrow defiles through mountains; steep routes to Uchalion Plateau.
+Kingdom/Clan Affiliation: Vlandian (dey Folcun ruling Ormanfard Castle), focused on glory and punitive wars.
+Structure and Layout:
+Core: Stone tower in the pass, with barracks for sergeants.
+Key Districts: Archer ranges on slopes; herb gardens for supplies; rite shrines for blessings.
+Defenses: Stone tower with positions integrated into steep mountain slopes; stone barricades and earthworks channeling attackers through narrow defiles; terrain advantages from the steep slopes and confined pass.
+Population and Daily Life:
+Size and Density: Small border castle (300-600), sparsely populated but vigilant.
+Demographics:
+Garrison: Knightly orders and sergeants; longbow and arbalest specialists for pass defense; levy reinforcements from villages.
+Civilians: Devout families supporting the garrison; serfs as wheat/barley farmers from Ormanfard village; limited women's roles in herb gardens and rites.
+Economy: Pass tolls; mountain resources; trade in furs and iron.
+Culture and Customs: Glory quests and vows; defensive piety; charms against evil bleed.
+Villages:
+Ormanfard: Sits by a small, fast-flowing river from Rhennod Mountains filling Ocspool lake; plentiful rains support wheat and barley on hillsides.
+Hazards:
+Man-made: Border incursions; clan rivalries; ambush feuds.
+Bestiary: Wælhreów in shadowed trails; giant spiders in defiles.
+Unveiling: Veil-thinning echoes knocks; omens in twisted shadows.
+

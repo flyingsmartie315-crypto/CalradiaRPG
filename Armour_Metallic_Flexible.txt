@@ -1,0 +1,72 @@
+<DOCUMENT filename="metallic_flexible_armour.txt">
+
+# Metallic Flexible Armour (Mail & Scale Tier)
+# Version: 2026-03-16
+# Flexible metallic tier: riveted mail, butted mail, scale, and related pieces. Superior cut/pierce resistance, weaker vs. blunt. Excellent layering base under rigid tiers.
+# Integrates with the Universal Armour Upgrade Components Table (applicable based on material composition).
+# Global Layering: Adds full AC when outer; inner Textile auto-applies 50% if outer succeeds coverage.
+# Craftsmanship: Common base; Good (+1 AC all, x3 cost); Best (+2 AC, x10 cost).
+# Unveiling Ties: False Moons cause rust/corrosion (-1 AC temporary on metal); scale from Unveiling beasts +1 AC but +5% mutation risk.
+# Coverage Rule: Coverage only ever refers to Head, Torso, Legs and Arms.
+
+## Metallic Flexible Torso Types Table
+| Type          | Cost   | Base Enc | Base AC (Cut/Pierce/Blunt) | Notes (Situational Modifiers) |
+|---------------|--------|----------|----------------------------|-------------------------------|
+| Riveted Mail  | 50 sc  | 70       | 4/4/4                      | Tighter rivets for denser weave; superior durability. Preferred by professional soldiers and knights. |
+| Butted Mail   | 35 sc  | 65       | 2/2/2                      | Cheaply made butted rings; lower durability. Common for levies and low-budget troops. |
+| Scale         | 55 sc  | 75       | 4/3/5                      | Overlapping metal/leather scales; very good at absorbing impact. Upward thrusts can slide under scales. |
+| Mail Voiders  | 25 sc  | 20       | 4/4/4                      | Light mail gussets for blind spots (armpits, groin, inner thighs). Provide full AC only to uncovered areas when layered with rigid tiers. Major dexterity penalty in joints, -10% BS for ranged. |
+
+## Metallic Flexible Torso Interpretation Rules
+For Metallic Flexible torso armor pieces, parse the item title for type and coverage keywords to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages. All torso items provide 100% Torso Coverage by default unless specified otherwise. Coverage keywords modify Arm and Leg protection:
+- Arm Coverage: Sleeveless (0%), Short Sleeved (30%), Long Sleeved (90%). If unspecified, assume Short Sleeved (30%).
+- Leg Coverage: Short (0%), Long (40%). If unspecified, assume 20%.
+AC applies proportionally to covered areas. Uncovered areas = 0 AC. For partial coverage or gaps, roll d100 ≤ coverage % on hit to apply AC; failure = no protection.
+Base Enc from type; increase Enc by +3 for each raised coverage. Round Enc to nearest 5.
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches.
+Situational modifiers in Notes.
+Craftsmanship applies as global (+1/+2 AC); inherent flex for +5 Dodge if Enc <80.
+Example Parsing: "Long Sleeved Riveted Mail Hauberk with Mail Voiders" → Riveted Mail Hauberk base (4/4/4, 70 Enc) + Long Sleeved (+3 Enc) + Mail Voiders (20 Enc, gap-only AC) = Total Enc 93 (round 95); 100% Torso, 90% Arms (voiders add AC to armpit gaps).
+
+## Metallic Flexible Leg Armour Types Table
+| Type                  | Cost   | Base Enc | Base AC (Cut/Pierce/Blunt) | Notes (Situational Modifiers) |
+|-----------------------|--------|----------|----------------------------|-------------------------------|
+| Riveted Mail Chausses | 45 sc  | 60       | 4/4/4                      | Tighter rivets for denser weave; superior durability. Preferred by professional soldiers and knights. 80% Leg Coverage. |
+| Butted Mail Chausses  | 30 sc  | 55       | 2/2/2                      | Cheaply made butted rings; lower durability. Common for levies and low-budget troops. 80% Leg Coverage. |
+
+## Metallic Flexible Leg Armour Interpretation Rules
+For Metallic Flexible leg armor pieces (chausses), parse the item title for type to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages. All leg items provide 80% Leg Coverage by default.
+AC applies proportionally to covered leg areas (80% = 80% base AC). Uncovered = 0 AC. Roll d100 ≤ coverage % on leg hit for AC.
+Base Enc from type; increase Enc by +3 for raised coverage if specified.
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches.
+Craftsmanship global (+1/+2 AC).
+
+## Metallic Flexible Head Types Table
+| Type                  | Cost   | Base Enc | Base AC (Cut/Pierce/Blunt) | Head Coverage | Notes (Situational Modifiers) |
+|-----------------------|--------|----------|----------------------------|---------------|-------------------------------|
+| Riveted Mail Coif     | 12 sc  | 20       | 4/3/2                      | 80%           | Tighter rivets for denser weave; superior durability. Preferred by professional soldiers and knights. Muffled voice: -5 Fellowship. Ventail upgrade available. |
+| Butted Mail Coif      | 8 sc   | 18       | 2/2/2                      | 80%           | Cheaply made butted rings; lower durability. Common for levies and low-budget troops. Muffled voice: -5 Fellowship. Ventail upgrade available. |
+
+## Metallic Flexible Head Interpretation Rules
+For Metallic Flexible head protection pieces (coifs), parse the item title for type to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages. All head items provide 80% Head Coverage by default.
+AC applies to the full head area. Roll d100 ≤ coverage % on head hit to apply AC; failure = no protection.
+Base Enc from type; increase Enc by +2.5 for added padding or +5 for Ventail upgrade.
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches.
+Craftsmanship global (+1/+2 AC).
+
+## Metallic Flexible Arm Types Table
+| Type                  | Cost   | Base Enc | Base AC (Cut/Pierce/Blunt) | Notes (Situational Modifiers) |
+|-----------------------|--------|----------|----------------------------|-------------------------------|
+| Butted Mail Mittens   | 6 sc   | 5        | 2/2/2                      | Cheaply made butted rings; lower durability. Common for levies. Major manual dexterity penalty situational for tasks and shooting, -30% BS. |
+| Riveted Mail Mittens  | 10 sc  | 6        | 4/4/4                      | Tighter rivets for denser weave; superior durability. Preferred by professional soldiers and knights. Major manual dexterity penalty situational for tasks and shooting, -30% BS. |
+
+## Metallic Flexible Arm Interpretation Rules
+For Metallic Flexible arm armor pieces, parse the item title for type to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages. All arm items provide 10% Arm Coverage by default.
+AC applies to Arms.
+Base Enc from type; no additional material add-ons in this tier for mittens.
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches.
+Craftsmanship global (+1/+2 AC).
+
+Last updated: 2026-03-16
+
+</DOCUMENT>

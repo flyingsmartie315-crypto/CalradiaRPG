@@ -1,0 +1,53 @@
+<DOCUMENT filename="boots_armour.txt">
+
+# Boots Armour
+# Version: 2026-03-16
+# Standalone modular boot system for Calradia RP. Boots extend Leg Armour and can use materials from Textile, Metallic Flexible, or Rigid Partial/Rigid Uniform tiers. They are fully compatible with the Universal Armour Upgrade Components Table.
+# Coverage Rule: Boots always provide 100% Foot Coverage + variable Leg Coverage based on height/material. Coverage only ever refers to Legs (feet subsumed).
+# Craftsmanship: Common base; Good (+1 AC all, x3 cost); Best (+2 AC, x10 cost).
+# Upgrades: Use the Universal Armour Upgrade Components Table. Applicable upgrades are determined by material composition.
+# Location Tags: Added in Notes column for all modules and materials.
+
+## Global Layering & Tier Classification
+Boots are modular and their tier is determined by primary material:
+- Textile materials (Padded, Leather, Suede, Felt & Leather Hybrid) → treated as Textile tier.
+- Rigid materials (Cuir Bouilli, Splinting) → treated as Rigid Partial tier.
+- Greaves → treated as Rigid Uniform tier.
+
+Boots can layer over Textile Leg Armour or under Rigid greaves. When outer succeeds coverage, inner auto-applies 50% AC.
+
+## Boot Interpretation Rules
+For any boot, parse the item title for type, material, height, and upgrade keywords to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages.  
+- Height Keywords: Ankle (15% Leg Coverage), Mid-Calf (30%), Knee-High (50%). If unspecified, assume Ankle (15%).  
+- AC applies proportionally to covered leg areas (feet always 100%). Uncovered = 0 AC. Roll d100 ≤ coverage % on leg/foot hit for AC.  
+- Base Enc from type + material; increase Enc by +2.5 for raised height or applicable upgrades. Round Enc to nearest 5.  
+- Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches.  
+- Craftsmanship global (+1/+2 AC).  
+
+## Boot Types Table
+| Type                  | Cost | Base Enc | Base AC (Cut/Pierce/Blunt) | Notes (Situational Modifiers) |
+|-----------------------|------|----------|----------------------------|-------------------------------|
+| Turnshoe              | 5 sc | 10       | 1/1/1                      | Simple inside-out leather flat. Location Tags: (Foot). |
+| Ankle Boot            | 8 sc | 12       | 2/1/1                      | Low work boot. Location Tags: (Foot). |
+| Riding Boot/Cuffed Boots | 12 sc | 15    | 2/1/2                      | Tall durable for mounts. Location Tags: (Foot)(Shin). |
+| Poulaine              | 10 sc| 12       | 1/1/1                      | Pointed fashion toe. Location Tags: (Foot). |
+| Clog/Slipper          | 4 sc | 10       | 1/2/2                      | Wooden base. Location Tags: (Foot). |
+
+## Boot Materials Table (Full Modular Options)
+| Material / Module     | Cost Mod | Enc Mod | AC Mod (Cut/Pierce/Blunt) | Applicable Upgrades                          | Notes (Situational Modifiers) |
+|-----------------------|----------|---------|---------------------------|----------------------------------------------|-------------------------------|
+| Leather               | +2 sc    | +0      | +0/+1/+0                  | Beeswaxing/Resin, Insulated, Breathable      | Robust cow/goat hide. Location Tags:. |
+| Suede                 | +3 sc    | -2      | +0/+0/+0                  | Beeswaxing/Resin, Insulated, Breathable      | Soft calf. Location Tags:. |
+| Felt & Leather Hybrid | +1 sc    | +2.5    | +0/+0/+1                  | Beeswaxing/Resin, Insulated, Breathable      | Carved sole. Location Tags:. |
+| Padded                | +4 sc    | +2.5    | +1/+0/+1                  | High-Density Quilting*, Spider Silk Lining*, River Troll Hide*, Beeswaxing/Resin, Insulated, Breathable | Quilted lining. Location Tags:. |
+| Cuir Bouilli          | +10 sc   | +5      | +2/+2/+3                  | Rock Troll Hide*, Heat Treatment*, Beeswaxing/Resin | Boiled and moulded rigid leather. Location Tags:. Treated as Rigid Partial tier. |
+| Splinting             | +8 sc    | +4      | +1/+1/+2                  | Heat Treatment*                              | Splint reinforcements. Location Tags:. Treated as Rigid Partial tier. |
+| Greaves               | +12 sc   | +6      | +2/+2/+1                  | Heat Treatment*                              | Rigid greave plates. Location Tags:. Treated as Rigid Uniform tier. |
+
+## Height Modifiers (Boot Types)
+- (Foot): +0 Enc, 15% Leg Coverage  
+- (Foot)(Shin): +2.5 Enc, 40% Leg Coverage    
+
+Last updated: 2026-03-16
+
+</DOCUMENT>

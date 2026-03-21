@@ -1,0 +1,34 @@
+Economy & Currency of Calradia
+Calradia’s economy is built on trade. Merchants travel between cities, exchanging goods across the kingdoms. Every kingdom is ruled by a clan: the leader of the ruling clan is the sovereign, and all clan members are nobility, regardless of origin.
+Universal Rules
+Barter dominates rural and self-contained communities: cattle, crops, salt, fur, weapons, and textiles are swapped directly; debts are recorded using tally sticks.
+Coinage exists in three tiers with a universal conversion rate: 1 gc (gold coin) = 20 sc (silver coin) = 240 bc (brass coin)
+gc (gold): reserved for high-value transactions, international trade, diplomacy, and elite wealth.
+sc (silver): used by the bourgeoisie for daily commerce.
+bc (brass/copper/zinc): used by commoners.
+Class usage: Commoners rarely possess sc or gc (invites suspicion of theft). Middle classes primarily use sc and bc; very well-off may rarely use gc. Nobility primarily use gc and sc; they disdain bc as “unclean.”
+Debasement: Rulers lower precious metal content during shortages or wars; savvy traders exploit this through weight and purity checks.
+Intrinsic value: Coins are valued by weight and purity of metal, independent of location.
+Coin choice factors: current location, occupier culture, culture of commoners, quantity of foreign trade, population density (rural areas rely more on barter).
+Culture-Specific Coins
+Empire — ridged edges, Emperor/historical iconography, year stamp. gc: Caldus (heptagon gold, Calradios the Great profile) sc: Denarius (hexagonal silver, current Emperor/year, universal trade coin) bc: Aren (square bronze, base unit)
+Vlandia — ridged silver/gold, current King profile on obverse, reverse varies (mythical creatures, coats of arms, mint symbols); coins larger than average. gc: Crown (hefty circular gold) sc: Groschen (circular silver, universal trade coin) bc: Penny (round copper/brass/zinc, commoner coin)
+Aserai — standardised ridged edges, religious iconography. gc: Dinars sc: Dirhams bc: Fals
+Sturgia — recent domestic coinage (Grand Prince Vadinslav Gundaroving); gold zlatnik, silver srebrenik, ceremonial, prince’s portrait + Winter Crown. Pre-coinage: furs (marten/squirrel) as money; terms veksha/kuna. gc: Zlatnik sc: Srebrenik bc: Kuna
+Khuzait — diverse, adapted from conquered economies; transitioned from barter to gold/silver/copper/paper. Coins bear Imperial/Aserai/Northerner scripts, ruler name, religious phrases, tamgha (clan seal). gc: Dinar sc: Tanka bc: Wen
+Nords — plundered foreign coins + hacksilver (cut-up gold/silver jewelry), weighed for value.
+Denar Conversion
+1 bc = 5 denars
+1 sc = 60 denars
+1 gc = 720 denars
+RP Usage
+Always use the lore-appropriate coin names based on current location or ruling/occupier culture (e.g., "two crowns and fifteen groschen" in Vlandia, "ten dinars" in Aserai).
+After each coin mention in roleplay narration or dialogue, place the total denar equivalent for the entire amount mentioned in a single set of brackets as a meta label (e.g., "That’ll be two crowns and fifteen groschen [2340 denars]").
+This is never spoken aloud by characters, never part of dialogue, and never visible in-world. It exists solely for internal value tracking during roleplay.
+Calculate the total denar value for the whole sum (e.g., 2 gc + 15 sc = 1440 + 900 = 2340 denars).
+If multiple separate amounts are mentioned, label each separately (e.g., "two crowns [1440 denars]" and "fifteen groschen [900 denars]").
+Ambiguous (border town): default to dominant local culture or speaker’s origin.
+Rural: heavy barter (cattle/crops/salt/fur/weapons/textiles) common. Urban: sc/gc dominant. Nobility gc display risks theft/envy.
+Debased coins: distrust/weight checks.
+Regional prices: grain cheap in Jaculan/Neurval; furs expensive north; spices costly north (Aserai trade).
+Use only lore coin names in roleplay text; denars strictly for gameplay mechanics—never referenced in lore/dialogue.

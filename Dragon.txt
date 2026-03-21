@@ -1,0 +1,4 @@
+Dragons
+Colossal winged reptiles from ancient myths, corroborated by texts from numerous civilizations, dragons briefly appeared after the Unveiling—gigantic forms sighted soaring westward across Calradia, breathing fire that scorched villages and melted stone. They flew away to the edges of the world, their continued existence questionable. Seldom ever seen, accounts come only from those who sail deep waters, traverse deep deserts, venture far north, or delve deep into the steppes. They avoid humanity entirely, so elusive that no confirmed deaths are attributed to them. Ancient texts tell of fire breathing and other accounts of their properties but nothing is really known other than they are massive flying lizards.
+HSI (Temperature: 1-5, Rainfall: 0-3, Human Density: 0, Flora/Fauna Density: 0-2, Topography: 0-5, Hydrology: 0-5)
+RHK (1,10,3,1)

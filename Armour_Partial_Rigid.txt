@@ -1,0 +1,85 @@
+Rigid Partial Torso Interpretation Rules
+Parse the item title for type and component keywords. All torso items have a hard cap due to rigid plates and articulation gaps:
+
+Coat of Plates: 80% Torso Coverage by default
+Laminar and Cuir Bouilli: 60% Torso Coverage by default
+
+Component-to-Location Tag Mapping
+Coat of Plates (80% Torso Cap)
+
+Front Plate: (Front Upper)(Front Lower) – 35%
+Back Plate: (Back) – 35%
+Transverse Top Plate: (Front Upper)(Back) – 10%
+Segmented Shoulders: (Shoulder) – +10% to Arms when present
+
+Laminar & Cuir Bouilli (60% Torso Cap)
+
+Front Plate: (Front Upper)(Front Lower) – 25%
+Back Plate: (Back) – 25%
+Yoke Plates: (Gorget)(Shoulders) – 10%
+Arm coverage from Yoke Plates: +10% to Arms when present
+
+Tassets (separate module – hangs and floats over thighs)
+
+Short Tassets: (Tasset) – 20%
+Long Tassets: (Tasset) – 40%
+
+AC applies proportionally to covered areas. For any hit, roll d100 ≤ the component’s coverage % to apply AC; failure = gap.
+Base Enc from type; +4 Enc per additional component. Round to nearest 5.
+Upgrades from the Universal Table may be applied if the material matches.
+Craftsmanship global (+1/+2 AC); no Dodge bonus.
+
+Rigid Partial Torso Types TableType,Cost,Base Enc,Base AC (Cut/Pierce/Blunt),Notes (Situational Modifiers)
+Coat of Plates,60 sc,90,5/6/4,Riveted plates over padded coat.
+Laminar,65 sc,85,5/5/4,Laced horizontal strips.
+Cuir Bouilli,55 sc,75,4/4/5,Boiled and moulded leather.
+
+Rigid Partial Arm Modules Table
+Module,Cost,Base Enc,Base AC (Cut/Pierce/Blunt),Arm Coverage,Notes (Situational Modifiers)
+Bracers,22 sc,22,2/3/3,30%,Location Tags: (Forearm). Forearm guards.
+Rerebrace,25 sc,25,2/3/3,30%,Location Tags: (Upper Arm). Upper arm guards.
+
+Rigid Partial Arm Materials Table (shared with legs)
+Material,Cost Mod,Enc Mod,AC Mod (Cut/Pierce/Blunt),Notes (Situational Modifiers)
+Splinted,+8 sc,+4,+1/+1/+2,Splint reinforcements.
+Cuir Bouilli,+5 sc,+3,+0/+0/+1,Boiled leather. Strong vs. blunt.
+Laminar,+10 sc,+5,+1/+0/+0,Laced horizontal strips.
+
+Rigid Partial Leg Modules Table
+Module,Cost,Base Enc,Base AC (Cut/Pierce/Blunt),Leg Coverage,Notes (Situational Modifiers)
+Cuisses,28 sc,28,2/3/3,30%,Location Tags: (Thigh). Upper leg guards.
+
+Rigid Partial Leg Materials Table
+(Same as Arm Materials Table above)
+Rigid Partial Tassets Module Table
+Module,Cost,Base Enc,Base AC (Cut/Pierce/Blunt),Leg Coverage,Notes (Situational Modifiers)
+Short Tassets,15 sc,15,2/2/3,20%,Location Tags: (Tasset). Hangs and floats over thighs.
+Long Tassets,20 sc,20,2/2/3,40%,Location Tags: (Tasset). Hangs and floats over thighs.
+
+Boots Integration Note
+Boots are handled in boots_armour.txt. Cuir Bouilli / Splinting = Rigid Partial tier; Greaves = Rigid Uniform tier. Coverage is additive with Cuisses and Tassets.
+
+Core Rules
+
+Rigid Partial = segmented plates or bands with visible joints.
+All helmets have a 95% Head Coverage hard cap.
+The final 5% is always the visor zone (0 AC unless a Visor or Full Visor upgrade is installed).
+Upgrades follow Location Tags: only one Face upgrade and one Neck upgrade may be combined.
+
+Rigid Partial Materials Table
+(Same as Uniform – Wrought Iron, Low-Carbon Steel, Hardened Steel)
+Rigid Partial Helmet Models Table
+Model,Cost,Base Enc,Base AC (Cut/Pierce/Blunt),Coverage,Eligible Upgrades,Notes & Sub-Configs
+Skullcap,12 sc,12,4/4/4,70%,Ventail + Aventail,Light liner.
+Nasal Spangehelm,25 sc,22,5/6/4,80%,Aventail or Full Visor,Segmented bands.
+Composite Kettle,24 sc,21,5/6/4,80%,Aventail or Bevor,Segmented wide brim.
+Greathelm,42 sc,38,8/8/7,95%,Aventail only,Classic bucket.
+Enclosed Helmet,50 sc,34,8/9/7,90%,Aventail only,Full-face modular.
+
+Helmet Upgrade Modules Table
+Module,Type,Cost Mod,Enc Mod,AC Effect,Coverage Added,Notes
+Visor,Field,+8 sc,+1,+1 / +1 / +0,5% Head,Standard liftable visor.
+Full Visor,Field,+12 sc,+2,+1 / +1 / +0,10% Head,Full-face coverage visor.
+Ventail,Field,+10 sc,+2,+1 / +1 / +0 (mail),5% Head,Mail flap for face.
+Bevor,Field,+15 sc,+3,+2 / +2 / +1,30% Head,Throat/neck guard.
+Aventail,Field,+12 sc,+3,+2 / +2 / +1 (mail),Up to 30% Head,Mail collar for neck.

@@ -1,0 +1,112 @@
+<DOCUMENT filename="Cultures_Of_Calradia_Vlandia.txt">
+# Faction: Vlandia (Kingdom of Vlandia)
+Overview
+The Vlandians are a feudal kingdom of overseas mercenaries and adventurers who settled western Calradia, evolving from imperial guardians to independent conquerors. Ruled by King Derthert, great-grandson of Osric Iron-Arm, they occupy coastal plains and forests, blending bold expansionism with baronial rivalries. Their armies excel in heavy cavalry—knights and men-at-arms for devastating charges, supported by crossbowmen—amid Unveiling disturbances like false-moon prophecies that stir knightly oaths or betrayals.
+Geography
+Vlandia's northern coastlines lie in close proximity to Sturgian and Nord spheres of influence, with fjords, rocky shores, and frequent sea-raids marking the border zones (Byalic Sea and Sea of Ghosts to the north). To the south, across the Gulf of Charas (also known as the Gulf of Shariz), the Nahasa Desert and Aserai principalities lie visible on clear days — a reminder of distant southern trade routes, pirate havens, and potential invasion vectors. The kingdom's heartlands feature fertile coastal plains, dense western forests (remnants of conquered Battanian lands), and rolling valleys ideal for horse-breeding and heavy cavalry maneuvers. Former Imperial cities dot the landscape, their stone walls and aqueducts standing alongside newer Vlandian fortresses.
+Talivel Castle & the Pegasus Sanctuaries
+Yet Talivel is also one of the few places in Calradia where the rare and sacred gift of the Pegasus is known to manifest. Since the Unveiling, sightings of these winged, spiraling-horned horses have been whispered of in the high pastures and secluded glades south of the castle—elegant, intelligent creatures of pure white or pale silver, seldom seen and even more seldom approached. Only the most morally pure and righteous may hope to bond with one; the attempt is a test of the soul as much as skill. At any time, fewer than ten bonded Pegasus riders exist in all Vlandia—often as few as three to seven—making each a living saint, revered across the realm as proof of divine favor.
+Small cloisters dedicated to this calling are scattered throughout Vlandia—most concentrated near Talivel, but a handful exist in remote hills and quiet valleys elsewhere—each housing austere brotherhoods of no more than a dozen members. The Knights Vigilant of the Silver Spur (known in common speech as the “Silver Spurs”) are the most prominent. They live monastic lives in stone cloisters, following strict vows of chastity, poverty, and contemplation: days in silent prayer, nights in vigil under the stars, rare moments tending wild herds near their walls. Members train in horsemanship and lance without mounting mortal steeds, seeking purity of heart so a Pegasus might descend and choose them. Service to protecting the lands where Pegasus roam is honour enough; not becoming a rider is not inherently shameful—many brothers live out their days in quiet devotion, content their vigilance preserves the sacred places. Those who bond wear white cloaks to symbolise purity; the garment is both mantle and mark, visible from afar as a beacon of divine favor. The order takes its name from the silver spurs only bonded riders may wear — symbols of the celestial journey and divine trust.
+Success is legend: a rider who bonds becomes a living saint. Failure is common—most aspirants return unchanged, humbled, or quietly broken by their own imperfection, yet still honoured for their service.
+Unveiling influence is scarcely felt here. The veil is thick in this quiet corner of Vlandia—False Moon nights pass with little more than an uneasy stillness in the air, a brief hush of insects, or the odd shadow that lingers too long on the wall. No ghouls rise from the pastures, no drowners lurk in the streams, no Wælhreów mimic voices in the night wind. The castle remains an almost idyllic refuge: wildflowers bloom along the ramparts in spring, birds nest in the battlements, and the garrison’s children play in the courtyard under watchful but relaxed eyes. Talivel is a place where duty is steady, not grim; where knights rest with the knowledge that the world’s darker bleed has not yet found them, and where the faint hope of a Pegasus’s grace still glimmers in the high meadows. It endures as a beacon of calm amid Vlandia’s wider storms—a rare pocket of peace in a kingdom forged by steel and shadow.
+Lore and History
+They came from overseas, mercenaries and adventurers, speaking the tongues of many lands, taking the Empire's silver to guard the frontiers against the unsubdued tribes of the interior. They took their name from one of their first warlords, Wilund the Bold - Valandion, in Calradic - and became known as the Vlandians. Their heavy cavalry, second to none, ran down the Emperor's foes from the Aserai wastes to the distant steppes. But the Empire never had as much silver as it needed, and treasury officials soon learned that it could pay its mercenaries with land grants and titles. This was perhaps not the most far-sighted of policies. The Vlandians settled, married, planted farms, and built fortresses. It was not difficult, during the recent interregnum, for Osric Iron-Arm to declare himself king, independent in all but name. He seized the Imperial capital of Paravenos and the lands along the coast, and that was how the west was lost to the Empire.
+The Vlandians, named after the early warlord Wilund the Bold (Calradic: "Valandion"), began as a large number of barbarian tribes, who migrated into former Battanian lands during the waning period of the Calradic Empire. The Empire was at war on all sides, so it offered these new barbarian tribes land grants in exchange for mercenary work. Unfortunately, this gave Vlandian nobility a taste for Empire lands, and they united under King Osric Iron-Arm to conquer the far west of the Empire and declare themselves an independent nation. Ruled by King Derthert, the Vlandians occupy the forests and coastal plains of western Calradia.
+Militarily, the Vlandians are best known for their powerful, well-armored knights and men at arms, they favour fighting as heavy cavalry but can often fight dismounted. They also field well-trained crossbowmen.
+The Vlandians originated overseas and came to Calradia as mercenaries and adventurers. They take their name from one of their first warlords Wilund the Bold (Calradic: "Valandion"). The Vlandians were employed by the Calradic Empire primarily for the use of sieges, utilizing their skill in crossbows and board shields, and paid in land grants and titles, predominately located along the western coast.
+During a period of instability in the Empire, Osric Iron-Arm declared himself king of Vlandia, leading to de facto independence. He in turn recognized his lieutenants as barons and counts, granting them suzerainty over their lands in exchange for rallying to his banner in war. Some Vlandian kings have sought to expand the powers of the kingship; others have allowed the barons to feud amongst themselves so long as the money and manpower is there when needed.
+When King Derthert, great-grandson of Osric Iron-Arm, ascended to power, the Vlandian realm still paid lip service to the Empire and was in a shaky alliance with it. Osric Iron-Arm negotiated this alliance in return for the Empire leaving Vlandia alone, and had received a crown from the then-emperor as a gift of good-will. Derthert promised Emperor Neretzes he would aid him in war when he took the throne, not suspecting that war would actually come under Neretzes' rule. But in Spring of 1077, when the Sturgians raided the Empire's border, Neretzes called the Vlandians to march with him on the Sturgians and Battanians.
+Derthert was reluctant to do so, and the Emperor insulted him, calling him and all of Vlandia cowards. The Barons were furious and Derthert was forced to march against the Empire, maintaining the illusion of alliance until the last minute. While the Vlandians played a great part in the Battle of Pendraic, they also sustained the most casualties. A great deal of Vlandian knights fell. Many Lords and Barons still blame Derthert for their heavy losses; Derthert himself calls Pendraic "a battle with no victors".
+The Unveiling has deepened Vlandian ambitions, with false moons draining color from stone keeps and awakening prophetic dreams in feudal halls that herald baronial feuds or imperial reconquests.
+Mercenary Influence & the Freeblade Tradition
+Mercenary roots still define Vlandian identity more than any ancient bloodline. It is common — and culturally accepted — for both commoners and nobility to take up the sellsword trade when home prospects look poor.
+Common-born adventurers often travel alongside a lordling or knight for protection and shared spoils. Nobles have far greater leeway: martial training, funds, armour, and retainers allow them to strike out alone or in small bands. Those who depart are known as Freeblades — independent warriors who rely solely on their own steel, wits, and reputation. It is not undertaken lightly; a Freeblade forfeits family protection and steady income, staking everything on personal prowess.
+Many "forgotten sons of Vlandia" roam the continent: younger brothers denied inheritance, disgraced heirs, restless knights, or simply those seeking fortune beyond baronial feuds. They are found hiring out blades in Imperial courts, Sturgian longships, Aserai caravans, or even the deep woods of Battania. Freeblades build renown through deeds — a well-honoured contract can open doors across Calradia, while a broken oath follows them like a False Moon shadow.
+This wandering tradition keeps Vlandia vigorous, pragmatic, and restless. Oaths are revered, yet understood to be flexible when better prospects appear. False-moon nights often spark prophetic dreams of distant battles, driving more young blades to the road.
+Culture and Society
+Vlandians inherited a great deal from the Calradic Empire they supplanted: the Imperial language (Calradic) remains the lingua franca of courts, trade, and scholarship; Imperial religion (with its saints, chapels, and divine sanction of rule) persists in Vlandian-rite sermons; writing uses the Imperial script; and architecture in former Imperial holdings retains grand stone basilicas, aqueducts, amphitheaters, and columned forums — now repurposed as cathedrals, baronial halls, markets, and mercenary barracks, blended with thick Vlandian defensive walls and watchtowers.
+Economy: Land grants fuel feudal agriculture and trade, with farms, pastures, and coastal commerce yielding wealth. Barons amass power through sieges and mercenary legacies.
+Customs: Knightly oaths and feasts honor bold warlords; Vlandian-rite sermons in chapels emphasize divine sanction. Unveiling charms ward unseen watchers, with shared flasks before battles. Freeblades are toasted in taverns and sung about in ballads — romanticised yet quietly feared for their rootlessness.
+Social Structure & Hierarchy
+Vlandian society follows a classic feudal pyramid inherited from the Empire but tempered by mercenary pragmatism and constant frontier pressures. While rigid in theory, the structure allows unusual upward mobility for the ambitious — especially through military service as a Freeblade or exceptional performance in war.
+
+Monarch (King/Queen)
+The apex. Technically owns all land, grants fiefs in exchange for loyalty, taxes, and military service. Derthert’s authority is real but contested — many barons still blame him for Pendraic.
+High Nobility (Barons, Counts, Dukes / Paramount Lords)
+Major landholders who received vast estates directly from the king or early conquerors. They provide knights and men-at-arms for royal armies, administer justice, collect taxes, and maintain order across regions.
+Knights & Vassals (Lesser Nobles / Gentry)
+Sub-tenants holding smaller fiefs from high nobles in exchange for personal military service and manor protection. Many are younger sons or successful Freeblades who earned land through valor. A common-born Freeblade who proves truly exceptional — through battlefield renown, profitable contracts, or heroic deeds — can be knighted and granted land, along with the right to gather retainers: loyal men-at-arms, squires, or former comrades who swear fealty for pay, protection, and spoils. These retainers form the core household force, enabling the new vassal to defend his fief and fulfill feudal obligations.
+Commoners
+The vast majority of the population. Divided into several military-social tiers based on wealth, land rights, and martial tradition:
+Men-at-Arms (Gentry / Professional Retainers)
+The upper tier of common soldiers. Full-time professionals, often drawn from the wealthier freemen, yeoman families, or minor gentry who do not hold their own fiefs but serve as household troops or retainers to knights/barons. They wear partial plate or good mail, carry polearms, longswords, or crossbows, and are paid wages rather than relying solely on land. Many are ex-Freeblades who chose steady employment over wandering. In battle they fight dismounted alongside knights or form the disciplined core of infantry lines. Socially they straddle the line between commoner and nobility — respected, often literate, and with prospects of knighthood if they distinguish themselves.
+Sergeants (Yeomen / Semi-Professional)
+The middle tier of common soldiers. Yeomen — independent small landholders or prosperous freemen — who serve as part-time professionals or village sergeants. They own their own arms (spear, shield, helmet, perhaps a short mail shirt or brigandine) and train regularly. In wartime they act as squad leaders, standard-bearers, or elite levy troops. Paid modest wages when mustered, they return to their farms or workshops in peace. Yeomen are fiercely proud of their independence and often supply the backbone of local defense against bandits or minor monster incursions.
+Levies (Peasant Classes / Conscripts)
+The lowest and most numerous tier. Drawn from villeins (serfs bound to the land), freemen tenants, cottars, and labourers. They are summoned for short campaigns or local defense, bringing whatever arms they can muster — usually spear, axe, or farming tool, with leather jack or padded gambeson if lucky. Service is an obligation tied to land tenure; they fight poorly-equipped and untrained compared to professionals. Morale is variable — high when defending homes, low on distant campaigns. After battle they return to fields and manors, unless exceptional individuals are retained as low-grade men-at-arms.
+
+
+Key Aspects:
+
+The Clergy
+Parallel hierarchy (archbishops to parish priests). Holds land, collects tithes, and wields moral authority. Preaches divine sanction of conquest and knightly virtue, but false-moon omens sometimes spark heretical sects.
+The Three Estates
+Those who pray (clergy), those who fight (nobility, knights, men-at-arms), those who work (peasants/levies). Freeblades and yeomen sergeants blur the lines between fight and work.
+Emerging Middle Class
+Merchants, armourers, guild craftsmen, and professionals in towns. Wealthy but usually without noble status. Some fund Freeblade companies or buy minor titles.
+Role of the Manor
+Economic/social unit. Peasants work lord’s demesne, pay rents, provide levies. Manor lord dispenses justice and protection — though in borderlands Freeblades often fill gaps.
+
+This structure remains dynamic: mercenary success stories allow commoners to rise, while false-moon madness or baronial feuds can shatter local order overnight.
+Military
+The Vlandian way of war is both inheritance and invention — a fusion of Imperial discipline, mercenary pragmatism, and the thunderous shock of heavy cavalry that defines their cultural self-image.
+Strengths:
+
+Powerful heavy cavalry: Knights and men-at-arms in full plate, mounted on destriers bred in western valleys, deliver devastating couched-lance charges capable of shattering infantry lines or routing lesser foes. The sight and sound of a Vlandian knightly charge is legendary — a rolling tide of steel and horseflesh that has broken Aserai, Sturgian, and Battanian formations alike.
+Adaptable men-at-arms: When dismounted, these armoured veterans form disciplined shield-walls or hold breaches in sieges, combining plate protection with poleaxe and longsword skill.
+Elite crossbowmen: Well-trained, armoured, and equipped with heavy pavise shields, Vlandian crossbow levies provide devastating ranged support, excelling at sieges, defensive battles, and harassing enemy cavalry. Their pavise-and-crossbow drill is a hallmark of mercenary efficiency.
+Freeblade captains: Independent elite warriors and small mercenary companies add flexibility — fast-moving, self-reliant bands that can raid, scout, or reinforce weak points.
+
+Weaknesses:
+
+Baronial fragmentation: Feuds and rivalries mean armies are often slow to muster; barons may delay or withhold full strength if they dislike the king's cause or see personal gain in staying home.
+Forest & guerrilla vulnerability: Heavy cavalry is less effective in dense western woods or broken terrain; Battanian archers and ambushes have historically bloodied Vlandian columns.
+Unveiling disruptions: False-moon nights can trigger prophetic madness in knights (charging into impossible odds), morale collapses among levies (seeing omens of doom), or sudden monstrous incursions that scatter supply lines.
+
+Notable Units & Cultural Role:
+
+Knights — Heavy cavalry elite. The cultural pinnacle of "those who fight." A knight's charge is romanticised in ballads; a knight's fall is mourned in chapel sermons. Many younger sons become Freeblades hoping to earn their spurs.
+Men-at-Arms — Dismounted heavy infantry. The professional core of any Vlandian army — often ex-Freeblades or retainers who have sworn to a lord. They embody disciplined pragmatism.
+Crossbowmen — Ranged specialists. Recruited from burghers and skilled freemen; their pavise walls symbolise Vlandian willingness to adapt Imperial tools for conquest.
+Freeblades & Retinues — Semi-independent captains and their personal bands. They are the living link between mercenary past and feudal present — romanticised yet distrusted by settled lords.
+
+Typical Army Composition Ratios & Quality Implications
+The exact makeup of a Vlandian army varies enormously depending on the campaign type (defensive border war, royal muster, baronial feud, mercenary contract), the wealth of the mustering lord, the urgency of the threat, and the local manpower pool. The following are general guidelines only — real ratios frequently fall outside these ranges.
+
+Knights / Men-at-Arms (full-time professionals): 10–30%
+The elite core. Higher percentages indicate a lord who can afford (or has inherited) a large household retinue or has attracted many Freeblades/retainers.
+→ 25–30% = elite, disciplined force capable of independent operations
+→ 10–15% = respectable but reliant on lower tiers
+Sergeants (yeomen / semi-professionals): 10–50%
+The vital middle layer — trained, equipped freemen who provide leadership and backbone to levies.
+→ 40–50% = very high-quality army; sergeants can hold lines and direct levies effectively
+→ 10–20% = weak command structure; levies become disorganized quickly
+Levies / Militia (conscripted peasants & freemen): 20–80%
+The mass filler. Cheap to raise, but poorly armed, lightly trained, and prone to breaking under pressure.
+→ 20–40% = professional-heavy force; high morale and staying power
+→ 60–80% = levy swarm; good for short defensive fights or overwhelming numbers, but collapses in prolonged or offensive campaigns
+
+Army Quality Summary
+Army effectiveness is closely tied to this ratio:
+
+Professional-dominant (40–60%+ knights/men-at-arms + sergeants): Elite, reliable, capable of complex maneuvers and sustained campaigns. Typical of royal armies, wealthy barons, or successful Freeblade companies.
+Balanced (30–50% professionals, rest levies): Solid feudal force — good enough for most border wars or defensive musters.
+Levy-heavy (60%+ levies): Cheap, numerous, but brittle. Suitable for local defense or when speed/quantity matters more than quality (e.g., emergency muster against raiders). High risk of rout, desertion, or massacre if things go wrong.
+
+These ratios are not fixed quotas — they emerge from the resources and priorities of the mustering lord. A cash-rich coastal baron might field 35% professionals; a hard-pressed inland knight might scrape together 80% levies. False-moon nights and Unveiling events can further skew morale and cohesion regardless of numbers.
+Military service remains the clearest path upward: a levy who survives and excels may become a sergeant, a yeoman sergeant may join a lord’s household as a man-at-arms, a standout man-at-arms may be knighted — and an exceptional knight may be invited to join one of the great brotherhoods.
+Integration with Calradia
+The Vlandians border imperial splinters and woodland powers, using shared coasts and forests as arenas for expansion. Northern proximity to Sturgia/Nord raiders brings frequent skirmishes and sea-threats; southern exposure across the Gulf of Charas opens trade (and conflict) with Aserai desert principalities. Features like valleys serve as transit barriers, navigated with EHGS hazards like fog or ambushes. Conflicts with the Empire (former patrons) or Battanians (conquered natives) escalate under false moons, potentially strengthening kingly authority through baronial oaths or igniting civil feuds.
+HSI (varies by region: coastal plains 2-4 temp, forests 2-3, northern coasts 1-2, high pastures near Talivel 1-2 temp / 3 rainfall / 0-1 human density / 4 flora-fauna / 5 topography / 2 hydrology)
+RHK (4,4,5,6 overall; near Talivel significantly lower Hostility and Risk due to veil thickness)
+</DOCUMENT>

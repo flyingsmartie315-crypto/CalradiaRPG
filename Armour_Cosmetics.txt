@@ -1,0 +1,66 @@
+Armour Cultures of Calradia
+Cultural & Cosmetic Tag System
+Version: 2026-03-19 (Final)
+
+All mechanical stats (AC, Coverage %, Encumbrance, Durability Score, upgrades, layering, etc.) remain identical across every culture.
+
+=== How the Tag System Works ===
+- Append 1–4 tags in brackets after the base model name.
+- Tags 1–3 = Cultural / Aesthetic flavour
+- Tag 4 = Condition / Durability (always last)
+
+=== Condition / Durability Tags ===
+[Pristine] – Mirror-bright, freshly oiled, looks brand new
+[Worn] – Honest patina, light scratches, well-maintained
+[Battle-Scarred] – Proud dents, repaired marks, honourable battle damage
+[Damaged] – Bent plates, torn lining, visible repairs
+[Ruined] – Cracked, hanging by threads, heavily rusted or blood-caked
+
+=== Role & Socio-Economic Tags (optional) ===
+[Khan’s-Guard] / [Elite-Guard]
+[Noble-Blood]
+[Wealthy]
+[Standard-Issue]
+[Veteran]
+[Mercenary]
+[Tribal-Levy]
+
+=== Special Rules ===
+- Masks: only one mask tag per culture
+- Vlandia: uses visor tags instead of masks on full-visored helms
+- Automatic Visor Rule: visor tags activate only when Full Visor upgrade is present
+
+Visor Compatibility:
+[Klapvisor] – Bascinet & Sallet
+[Houndskull] – Bascinet only
+[Pigface] – Bascinet only
+[Bretache] – Bascinet only
+[Bellows] – Bascinet & Sallet
+[Pointed] – Sallet only
+[Jawbone] – Sallet only
+
+=== Full Cultural Tag Lists (15 per culture) ===
+Vlandia: [Quartered] [Lion-Crest] [Heraldic] [Polished] [Plumed] [Riveted-Trim] [Crested] [Gilded] [House-Emblem] [Knightly-Style] [Feather-Plume Crest] [Tabard-Overlay] [Cross-Motif] [Klapvisor] [Houndskull / Pigface / Bretache / Bellows Visor]
+
+Empire: [Eagle-Crest] [Laurel-Bordered] [Gilded-Edges] [Segmented] [Red-Cloaked] [Standard-Issue] [Polished-Bronze] [Banner-Crest] [Stern-Visage Mask] [Laurel-Plume Crest] [Imperial-Monogram] [Linen-Lined] [Heavy-Leather-Trimmed] [Guardian-Visage Mask] [Symbolic-Rune Crest]
+
+Battania: [Woad-Patterned] [Leaf-Motif] [Antler-Crest] [Wicker-Trimmed] [Bone-Accented] [Felt-Lined] [Heavy-Leather-Trimmed] [Totem-Crest] [Savage-Grin Mask] [Wool-Lined] [Leaf-Plume Crest] [Forest-Green Dye] [Guardian-Visage Mask] [Symbolic-Crest] [Linen-Lined]
+
+Sturgia: [Fur-Trimmed] [Runic-Engraved] [Dark-Iron] [Byrnie-Style] [Raven-Crest] [Heavy-Riveted] [Heavy-Leather-Trimmed] [Wool-Lined] [Wolf-Head Crest] [Savage-Grin Mask] [Totem-Crest] [Bone-Accented] [Felt-Lined] [Beast-Face Mask] [Symbolic-Rune Crest]
+
+Khuzait: [Spherical-Conical] [Plumed] [Steppe-Predator Mask] [Silk-Lined] [Horse-Motif] [Leather-Reinforced] [Steppe-Crest] [Eagle-Beak Mask] [Felt-Lined] [Heavy-Leather-Trimmed] [Banner-Crest] [Wool-Lined] [Feather-Plume Crest] [Symbolic-Crest] [Horse-Crest]
+
+Aserai: [Turban-Wrapped] [Gilded-Edges] [Ventilated] [Burnous-Style] [Desert-Motif] [Silk-Overcoat] [Heavy-Leather-Trimmed] [Eagle-Beak Mask] [Linen-Lined] [Felt-Lined] [Plumed] [Guardian-Visage Mask] [Symbolic-Crest] [Wool-Lined] [Serpent-Mask]
+
+=== Rigid Uniform Helmet Models ===
+Nasal – 60%
+Kettle – 60%
+Sallet – 60%
+Bascinet – 60%
+Armet – 80%
+Great Bascinet – 95%
+Barbute – 80%
+Frog Mouth – 95%
+Visored Great Helm – 95%
+
+Material Profiles & Base Stats are unchanged from core rules.

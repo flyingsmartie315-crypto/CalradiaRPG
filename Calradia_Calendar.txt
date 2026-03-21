@@ -1,0 +1,67 @@
+<DOCUMENT filename="Calradia_Calendar.txt">
+# Calradia Calendar & Date System
+# Single source of truth for chronology, seasons, and campaign timekeeping
+Era System
+
+BE (Before Empire) — Years prior to the formal rise of the Calradic Empire.
+AE (Anno Empire / After Empire) — 0 AE marks the year the Calradic Empire united many city-states and began its continental expansion.
+
+Key historical anchor points:
+
+Unveiling: 777 BE
+Battle of Pendraic: Spring 1077 AE (March–May)
+Current campaign date (as of last update): March 12, 1084 AE
+
+Year Length & Structure
+
+Year length: 365 days (standard solar calendar, no leap years unless narratively required for dramatic effect).
+Months: 12 months mirroring the real-world Gregorian calendar:
+January (31 days)
+February (28 days)
+March (31 days)
+April (30 days)
+May (31 days)
+June (30 days)
+July (31 days)
+August (31 days)
+September (30 days)
+October (31 days)
+November (30 days)
+December (31 days)
+
+Weeks: 7 days (naming optional; many cultures use descriptive terms like Market Day, Forge Day, Oath Day, Rest Day, etc.).
+Seasons:
+Spring: March–May
+Summer: June–August
+Autumn: September–November
+Winter: December–February
+
+
+Celestial & Seasonal Events
+
+Solstices & Equinoxes (approximate dates, real-world equivalents):
+Spring Equinox: ~March 20
+Summer Solstice: ~June 21
+Autumn Equinox: ~September 22
+Winter Solstice: ~December 21
+
+False Moon appearances: Random and unpredictable. Average ~once per month when charted from first recorded events (~777–780 BE), but intervals vary wildly (days to several months). Duration typically 1–4 nights; extremes recorded (e.g., 21 consecutive days in 800 AE).
+Twin Moons: The natural celestial pair; predictable phases used for navigation, planting, and festivals.
+
+Cultural & Religious Observances (Cross-Reference)
+
+Druidic solstice/equinox rituals: March 20, June 21, September 22, December 21 (see Religions_Of_Calradia.txt for faith-specific details).
+Aserai fasting months and pilgrimages: Tied to solar calendar.
+Sturgian warrior feasts: Often around winter solstice.
+Vlandian knightly tournaments: Spring and autumn (March–May, September–November).
+Harvest festivals: Late summer/early autumn (August–October).
+New Faith holy days: Aligned with solar events; Lycaron miracle commemorated ~three days after a major False Moon waning.
+
+Campaign Date Tracking
+
+Current in-game date (last updated): March 12, 1084 AE
+All events, character ages, campaign progression, seasonal effects, and False Moon occurrences are tracked against this 365-day calendar.
+GM note: When advancing time, use realistic travel durations (e.g., 20–40 km/day on good roads), seasonal weather impacts, and random False Moon rolls (e.g., 1–5% chance per night, or narrative trigger).
+
+Last updated: 2026-03-12
+</DOCUMENT>

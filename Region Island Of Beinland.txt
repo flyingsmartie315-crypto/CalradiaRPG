@@ -1,0 +1,86 @@
+Region: Island Of Beinland
+Neighbouring Regions
+North: The Western Ocean, Sea Of Ghosts, Atmora
+North East: The Western Ocean, Sea Of Ghosts, Atmora
+East: The Western Ocean, Byalic Sea, Jotunheimr Peninsula
+South East: The Western Ocean, Kachyar Peninsula, Bay Of Varcheg
+South: The Western Ocean, Ebor Peninsula, Cape Fal
+South West: The Western Ocean
+West: The Western Ocean, Gulf Of Charas
+North West: The Western Ocean, Sea Of Ghosts, Atmora
+Overview
+The Island of Beinland is a remote northern isle in the Western Ocean, marked by volcanic lowlands, frozen straits, and walrus beaches, serving as a hardy outpost for Sturgian and Nord settlers amid eternal winters and Unveiling mysteries. Bordering the Sea of Ghosts to the north and Byalic Sea to the east, it acts as a whaling and ivory trade hub, with clans defending against raiders and sea horrors. False moons awaken auroras and unnatural ripples, while economies rely on fisheries, grain from volcanic soil, and walrus hunts. Settlements endure isolation, blending seafaring rites with vigilant defenses against the encroaching cold.
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area):
+Climate (Temperature: Cold [1-2], Rainfall: Moderate [2-3])
+Human Population Density: Low [0-1]
+Flora/Fauna Population Density: Moderate [2-3]
+Topography: Varied [2-4]
+Hydrology: Abundant [3-5]
+Geographic Structures
+North: Northern Coastline, Frozen Straits
+North East: Eastern Walrus Beaches
+East: Eastern Coastline
+South East: Volcanic Lowlands
+South: Southern Straits, Bay Of Hvalvik
+South West: Western Straits
+West: Western Coastline
+North West: Volcanic Highlands, Oskfjal Mountain
+Core: Oskfjal Mountain, Volcanic Lowlands
+Northern Coastline: Icy shores with frozen straits and auroral skies; harsh winds and migratory paths. Exposed to Sea of Ghosts raids. Environmental Scores: Temperature: 0-1, Rainfall: 1-2, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 2-3, Hydrology: 4-5.
+Frozen Straits: Narrow icy channels between isle and Atmora; treacherous navigation with drifting ice. Links northern defenses. Environmental Scores: Temperature: 0-1, Rainfall: 0-1, Human Density: 0, Flora/Fauna Density: 0-1, Topography: 1-2, Hydrology: 5.
+Eastern Walrus Beaches: Pebble strands with walrus haul-outs; rich ivory hunts but territorial beasts. Coastal foraging grounds. Environmental Scores: Temperature: 1-2, Rainfall: 2-3, Human Density: 0-1, Flora/Fauna Density: 3-4, Topography: 1, Hydrology: 4.
+Eastern Coastline: Rugged eastern shores facing Byalic Sea; storm-tossed with fishing bays. Trade routes to Jotunheimr. Environmental Scores: Temperature: 1-2, Rainfall: 3-4, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 2-3, Hydrology: 4-5.
+Volcanic Lowlands: Fertile ash-soil plains with hot springs; grain fields amid geothermal vents. Central to agriculture. Environmental Scores: Temperature: 2-3, Rainfall: 2-3, Human Density: 1-2, Flora/Fauna Density: 3-4, Topography: 1-2, Hydrology: 3.
+Southern Straits: Warm southern channels with whale migrations; key whaling routes to Ebor. Prone to currents. Environmental Scores: Temperature: 2-3, Rainfall: 3-4, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 1, Hydrology: 5.
+Bay Of Hvalvik: Sheltered southern bay with deep harbors; whaling hub and trade anchor. Links to Ebor Peninsula. Environmental Scores: Temperature: 2-3, Rainfall: 3-4, Human Density: 2-3, Flora/Fauna Density: 2-3, Topography: 1-2, Hydrology: 4-5.
+Western Straits: Open western channels to Gulf of Charas; exposed to ocean swells. Transitional to southern seas. Environmental Scores: Temperature: 1-3, Rainfall: 3-4, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 1-2, Hydrology: 5.
+Western Coastline: Cliff-lined western shores with volcanic black sands; storm-prone but mineral-rich. Mining and foraging. Environmental Scores: Temperature: 1-3, Rainfall: 3-4, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 3-4, Hydrology: 4.
+Oskfjal Mountain: Central volcanic peak with hot vents and rich soils; source of grain and geothermal energy. Core landmark. Environmental Scores: Temperature: 2-4, Rainfall: 2-3, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 4-5, Hydrology: 2-3.
+Settlements
+Hvalvik (Port Town)
+Clustered longhouses and whaling docks hug the Bay of Hvalvik's southern straits, where harpoons gleam under auroral skies amid volcanic ash fields and migratory whale paths. Markets trade ivory and blubber, saga chants echoing over geothermal springs as clans muster against northern raiders. False moons ripple bays unnaturally, countered by ritual fires and sea wards.
+Location and Ties:
+Geographic Structure Link: Southern Straits (South), Bay Of Hvalvik (South)
+Neighbouring Features: Sheltered harbors with black sands and hot springs; ash-enriched meadows for hardy crops.
+Kingdom/Clan Affiliation: Sturgian/Nord hybrid (ruled by local jarls under Vlandian influence), focused on whaling and northern trade.
+Structure and Layout:
+Core: Central longhouse moot with harbor palisades, surrounded by dockyards and meadow farms.
+Key Districts: Wharf quarter for whaling ships; market halls for ivory trade; geothermal baths for rites.
+Defenses: Wooden palisades on shores; natural straits as barriers; clan patrols on beaches.
+Population and Daily Life:
+Size and Density: Medium port town (1,000-2,000 residents), moderately dense along bays with scattered farms.
+Demographics:
+Garrison: Jarl warriors with axes; scouts on straits; whaler guards.
+Civilians: Whalers harvesting bounties; farmers on ash soils; women in saga and craft roles.
+Economy: Whale hunts and ivory exports; grain from volcanic fields; geothermal resources.
+Culture and Customs: Saga feasts at auroras; harpoon vows; sea wards against horrors.
+Villages:
+Ravikayr: Interior village on rich volcanic soil at lower slopes of Oskfjal Mountain; grows much of the island's grain supply.
+Lagshofn: Founded by explorer Lag following sea pillars; descendants sail straits between Hvalvik and Vlandia to hunt whales, blackfish, and migratory quarry between Byalic Sea and Sea of Ghosts.
+Hazards:
+Man-made: Trade disputes; northern raider incursions.
+Bestiary: Drowners in shallows; whales in straits (territorial during migrations).
+Unveiling: False moons awaken aurora; unnatural ripples in bays.
+Lagshofn (Village)
+Small coastal hamlet on southern straits, with boat sheds and whale-bone halls amid misty bays and migratory paths. Villagers hunt sea beasts, trading blubber under volcanic shadows. False moons stir eerie currents.
+Location and Ties:
+Geographic Structure Link: Southern Straits (South)
+Neighbouring Features: Misty channels with whale routes; ash meadows nearby.
+Kingdom/Clan Affiliation: Sturgian (under Hvalvik jarls), focused on migratory hunts.
+Structure and Layout:
+Core: Wharf longhouses with bone frames.
+Key Districts: Boat yards; trade sheds.
+Defenses: Strait watchtowers; natural currents.
+Population and Daily Life:
+Size and Density: Small village (200-400 residents), sparse along shores.
+Demographics:
+Garrison: Hunter militia.
+Civilians: Whalers; crafters.
+Economy: Whale products; sea trade.
+Culture and Customs: Pillar rites; hunt sagas.
+Villages: N/A (sub-village of Hvalvik).
+Hazards:
+Man-made: Raider skirmishes.
+Bestiary: Krakens in deeps.
+Unveiling: Rippling waters.
+

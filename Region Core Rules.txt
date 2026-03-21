@@ -1,0 +1,176 @@
+Environmental Hazard Generation System (EHGS)
+Environmental Hazard Generation System (EHGS) for roleplay AI to dynamically create hazards based on a region's Environmental Score descriptors (derived from 0-5 scale interpretations). It uses a probabilistic model: For each score descriptor, define hazard thresholds (e.g., low/freezing cold/sparse, mid/moderate, high/tropical hot/teeming) and associate common hazards. AI rolls (e.g., d100) per descriptor or scene, triggering hazards if roll exceeds a base chance (adjustable for intensity, e.g., 30% base + modifiers from combined descriptors). Combine descriptors for compound hazards (e.g., high topography/sheer mountains + high hydrology/flooded swamps = flash floods in canyons). This ensures hazards fit lore (e.g., Unveiling-amplified like mutations in high flora/teeming ecosystems areas).
+Tag Definitions and Hazards (Derived from Environmental Score)
+Temperature (Heat/Cold Level)
+Freezing cold/sub-arctic (low): Hazards - Hypothermia, blizzards, ice slips (chance: 50%; e.g., frozen paths cause falls).
+Cold currents/arctic (low-mid): Hazards - Chills, frostbite risks (chance: 40%; minor exposure drains stamina).
+Temperate seas/mild (mid): Low hazards - Mild weather (chance: 20%; minor fatigue).
+Warm waters/subtropical (mid-high): Hazards - Heat exhaustion, sunstroke (chance: 40%; exposure causes dehydration).
+Tropical hot/sub-saharan (high): Hazards - Heatstroke, dehydration, wildfires (chance: 50%; e.g., sun exposure drains stamina).
+Rainfall (Precipitation/Humidity)
+Minimal storms/arid (low): Hazards - Dust storms, drought (chance: 40%; visibility reduced, water scarcity).
+Light fog/dry (low-mid): Hazards - Minor visibility issues (chance: 30%; light dust or haze).
+Moderate rains/semi-arid (mid): Low hazards - Light rain/mud (chance: 20%; slippery terrain).
+Frequent storms/humid (mid-high): Hazards - Flooding, landslides, dense fog (chance: 50%; e.g., paths wash out).
+Constant humidity/rainforest (high): Hazards - Torrential floods, mudslides (chance: 60%; constant wet amplifies slips).
+Human Population Density (Settlement Level)
+Isolated routes/uninhabited (low): Hazards - Isolation, bandit ambushes (chance: 30%; no aid, surprise attacks).
+Sparse traffic/sparse (low-mid): Hazards - Minor isolation risks (chance: 25%; rare encounters).
+Moderate trade/low (mid): Balanced - Minor social risks (chance: 20%; theft/feuds).
+Busy lanes/moderate (mid-high): Hazards - Crowds, minor disputes (chance: 30%; pickpockets or brawls).
+Crowded ports/dense (high): Hazards - Crowds, disease outbreaks (chance: 40%; plagues in ports).
+Flora/Fauna Population Density (Life Abundance)
+Barren depths/lifeless (low): Hazards - Starvation, exposure (chance: 30%; no food/shelter).
+Sparse fish/limited (low-mid): Hazards - Minor scarcity (chance: 25%; limited resources).
+Moderate schools/sparse (mid): Low hazards - Minor wildlife encounters (chance: 20%; snakes/bees).
+Abundant reefs/common (mid-high): Hazards - Overgrowth, aggressive animals (chance: 40%; e.g., vine traps, packs).
+Teeming ecosystems/overrun (high): Hazards - Dense growth, poisonous plants, beast swarms (chance: 50%; Unveiling mutations amplify).
+Topography (Elevation/Steepness/Sea State)
+Calm shallows/flat (low): Low hazards - Open exposure (chance: 10%; easy traversal but visible to threats).
+Mild swells/gentle (low-mid): Hazards - Minor unevenness (chance: 20%; small obstacles).
+Moderate waves/undulating (mid): Hazards - Rough ground, minor falls (chance: 30%; twisted ankles).
+Rough currents/rugged (mid-high): Hazards - Steep drops, surges (chance: 50%; e.g., deadly currents).
+Extreme storms/sheer (high): Hazards - Cliffs, avalanches, massive waves (chance: 60%; e.g., deadly drops).
+Implementation for RP AI
+Scan Scores: For a region (e.g., Rhennod Mountains: Temperature cool/mid, Rainfall temperate/mid), identify descriptors per score.
+Generate Hazards: Roll per score or select 1-3 based on scene (e.g., high topography/extreme storms = cliff fall risk; combine with high rainfall/constant humidity = muddy slides).
+Modulate Intensity: Add Unveiling factor (e.g., +20% chance on false moon nights); scale by party prep (e.g., ropes reduce cliff hazards).
+Output: Narrate hazards organically (e.g., "A sheer cliff looms—roll agility or fall").
+Rule for Interpreting Shared Geographic Structure Tags Across Regions
+Rule Statement:
+When multiple regions share one or more Geographic Structure tags (e.g., the same named feature like "Bay of Varcheg Coastline" or "Morcomb Pass" appearing in their respective cardinal or core listings), interpret these shared features as direct connectors between the regions, serving as either barriers (impeding movement) or transit points (facilitating passage). The shared feature implies a contiguous geographic element that forms the boundary or linkage, requiring traversal to move from one region to the adjacent one. Use the feature's environmental tags to classify its nature, determine traversal methods, hazards, and feasibility. If the shared feature appears in opposing cardinal directions (e.g., one region's North East matching another's North West), it reinforces bidirectional connectivity, with the feature acting as the immediate interface. Do not duplicate interpretations; treat the shared tag as a single, unified element spanning regions.
+Classification and Interpretation Based on Environmental Tags:
+Barriers vs. Transit Points:
+Barriers (features that hinder or restrict easy passage): Identified by tags indicating difficulty or danger. Examples:
+Topography: "Mountainous," "Sheer," "Steep," or "Rugged" suggest physical obstacles like cliffs or peaks (e.g., Rhennod Mountains shared between Ebor Peninsula's North East and potentially adjacent regions), requiring specialized travel (climbing gear, guides) or risking falls/avalanches.
+Hydrology: "Abundant" with deep/large bodies (e.g., bays, oceans) acts as a water barrier unless bridged, implying ships or boats are required for crossing (e.g., Bay of Varcheg Coastline shared between Ebor Peninsula's North East and Uchalion Plateau's North West necessitates naval travel to reach peninsulas or islands beyond).
+Climate: "Cool" or "Humid" with high "Rainfall" amplifies barriers by creating slippery/muddy conditions, fog, or storms, increasing travel time/risk.
+Flora/Fauna: "Abundant" or "Teeming" may add biological barriers (dense forests with aggressive wildlife, poisonous plants), turning the feature into a hazardous zone.
+Human Population: "Sparse" or "Wilderness" emphasizes isolation, making barriers feel more insurmountable without aid.
+Transit Points (features that enable passage, often with managed risks): Identified by tags suggesting navigability or human adaptation. Examples:
+Topography: "Undulating," "Gentle," or "Flat" indicates easier paths (e.g., Morcomb Pass shared between Ebor Peninsula's East and Uchalion Plateau's West serves as a transit through mountains, allowing foot/horse travel via defiles).
+Hydrology: "Moderate" or "Limited" (shallow rivers, fords) allows wading or simple bridges; "Abundant" but coastal (e.g., bays) can be transits with ports/ferries, though ships are required for wider crossings.
+Climate: "Temperate" with balanced "Rainfall" supports reliable transit, perhaps with seasonal variations (e.g., dry paths in summer).
+Flora/Fauna: "Moderate" suggests manageable wildlife (huntable resources or trails), turning the feature into a viable route.
+Human Population: "Low" or "Moderate" implies some infrastructure (trails, outposts), facilitating trade/caravans.
+Additional Guidelines:
+Traversal Requirements: Infer based on tags—e.g., water-heavy features (Hydrology: Abundant) require ships/boats for safe crossing; mountainous barriers need mounts/ropes. Factor Unveiling effects (e.g., false-moon hazards) to add supernatural barriers like dark magic pools.
+Connectivity Implications: Shared features create logical links for roleplay (e.g., trade routes via transits, conflicts over barriers). If tags conflict across regions, prioritize the most restrictive (e.g., a shared pass that's "Steep" in one but "Gentle" in another defaults to barrier-like).
+Core Exceptions: Core features follow their west-to-east sequencing but can share with peripherals if named identically, treating them as internal anchors extending to boundaries.
+Updated General Rule Set for Determining Kingdom Control of Regions and Geographic Features
+Rule Statement:
+In the roleplay AI's interpretation of Calradia, control of regions and geographic features is determined hierarchically through settlements (Towns and Castles), clans, and kingdoms, with provisions for contested areas. Start with the primary settlement in or bordering a region (e.g., a Town as the economic/administrative hub or a Castle as the military stronghold). Identify the clan holding that settlement, then trace the clan's allegiance to its kingdom. This establishes baseline control, which can shift dynamically in RP due to wars, alliances, or Unveiling events (e.g., prophetic omens inspiring rebellions). Features without direct settlements (e.g., wildlands, passes) default to the nearest controlled settlement's kingdom, treated as contested if bordering multiple factions. If multiple kingdoms hold settlements sharing the same region or geographic structure tag (e.g., different clans from rival kingdoms controlling adjacent Castles in a shared pass), interpret the area as contested—prone to skirmishes, divided loyalties, or neutral zones where no single kingdom dominates. Use this to inform navigation, hazards, encounters, and lore consistency—e.g., a Battanian-held pass imposes guerrilla risks, while an Imperial one features legion patrols; contested tags heighten tensions with mixed patrols, ambushes, or Unveiling-amplified border omens.
+Hierarchy of Control:
+Settlement Level:
+Towns: Represent urban/economic control (e.g., Marunath in Uchalion Plateau—clan councils and markets indicate Battanian dominance). Assume the ruling clan (e.g., from settlement descriptions like dey Molarn in Ostican) holds sway unless RP overrides.
+Castles: Represent military/defensive control (e.g., Dunglanys Castle—Fian training grounds signal Battanian frontier defense). Clan garrisons (e.g., dey Gunric in Tirby Castle) enforce authority.
+If a region has multiple settlements, the primary Town or Castle (e.g., largest or central) sets baseline control; others may create sub-zones of influence. Shared tags across settlements from different kingdoms denote contested sub-areas (e.g., rival Castles in Rhennod Mountains create a disputed border zone with frequent raids).
+Clan Level:
+Clans (e.g., dey Valant in Vlandia, fen Derngil in Battania) are the direct holders of settlements, as per lore (e.g., Vlandian barons under Derthert). Trace clan affiliations from faction bases (e.g., Vlandian clans like dey Molarn are loyal to King Derthert).
+Clans can switch kingdoms via RP events (betrayals, marriages), altering control—e.g., a clan defecting from Northern Empire to Western changes a Castle's allegiance, potentially contesting a shared geographic tag.
+Kingdom Level:
+Kingdoms (e.g., Vlandia under Derthert, Battania under Caladog) aggregate clan holdings. A region's control aligns with the kingdom of its dominant clan/settlement (e.g., Ebor Peninsula—Vlandian clans like dey Gunric make it Vlandian territory).
+Contested areas (e.g., shared passes like Morcomb) default to the kingdom with stronger lore ties or RP context; resolve via conflicts or Unveiling (e.g., false-moon omens favoring one side). Multiple kingdoms sharing a tag (e.g., Vlandia and Battania both holding settlements in a border forest) indicate ongoing contests, with fluid control influenced by RP (e.g., skirmishes determining temporary dominance).
+Application Guidelines:
+Geographic Features: Link to nearest settlement (e.g., Rhennod Mountains controlled by Vlandia via Rovalt). If unclaimed, assign to the kingdom with historical precedence (e.g., Battanian wildlands to Battania). Shared tags signal contests, adding RP layers like neutral trade zones or ambush hot spots.
+Dynamic Changes: In RP, use EHGS hazards or events (e.g., raids, plagues) to shift control—e.g., a false-moon frenzy could inspire a clan uprising, redrawing borders in a contested tag.
+Edge Cases: Neutral/wild features (e.g., Icara Wildlands) remain unaligned unless settled; seas/bays (e.g., Bay of Varcheg) fall to kingdoms with bordering ports (e.g., Battanian via Car Banseth). Contested tags encourage balanced narratives, avoiding absolute control without conflict.
+Consistency: Cross-reference faction lores (e.g., Vlandia's western conquests claim Ebor) and master.txt (e.g., Battanian Uchalion settlements). Avoid assumptions—query if unclear.
+This updated rule set enhances coherent RP by grounding control in settlements and clans, allowing fluid kingdom dynamics while highlighting contested tags as sources of tension and narrative opportunity, tied to Unveiling lore for depth.
+Rule for Interpreting "Neighbouring Regions:" and "Geographic Structure:" Tags
+Rule Statement:
+When interpreting entries under "Neighbouring Regions:" or "Geographic Structure:" for any cardinal direction (North, North East, East, South East, South, South West, West, North West) or the Core, treat the sequence of listed items as indicating spatial proximity, positioning, and traversal order. For cardinal directions, the first entry in the list is the closest feature or region in that direction from the core of the current region, while subsequent entries are progressively further away. This implies that to reach later entries, one must cross or navigate through the preceding ones (e.g., crossing a body of water like a sea or bay to access an island or peninsula). Do not assume direct adjacency unless explicitly stated; the order encodes implied barriers or intermediate zones. For the Core, the sequence operates differently: it progresses from west to east (westernmost first, easternmost last), with intermediate entries positioned between the preceding and following ones (e.g., for "Core: Rock of Glanys, Llyn Tywal, Fiur River", Llyn Tywal sits between Rock of Glanys to its east and Fiur River to its west).
+Application to All Cardinal Directions and Core:
+Apply this sequencing uniformly across all directions and the Core, inferring logical traversal paths or positional relationships based on the listed order (e.g., for "North: Bay of Varcheg, Kachyar Peninsula", the Bay is the immediate northern neighbor, and the Peninsula lies beyond it, requiring crossing the Bay; for Core examples, treat as a west-to-east chain with embedded intermediates).
+If an entry appears in multiple directions (e.g., a shared mountain range), merge interpretations without duplication, emphasizing its role as a contiguous barrier or feature spanning those directions.
+Use this to inform descriptions, navigation, hazards, or interactions in roleplay or queries, ensuring consistency with lore (e.g., environmental tags or Unveiling effects may amplify traversal challenges like mists, winds, or supernatural disturbances).
+Rule for Interpreting Environmental Score in Land Regions
+When applying Environmental Scores to land regions, derive the 0-5 scale for EHGS hazard generation.
+Temperature reflects heat/cold levels:
+0 - sub-arctic freezing
+1 - arctic cold
+2 - cool temperate
+3 - mild temperate
+4 - warm subtropical
+5 - hot sub-saharan
+Rainfall indicates precipitation/humidity:
+0 - arid desert
+1 - dry sparse
+2 - semi-arid moderate
+3 - temperate balanced
+4 - humid wet
+5 - rainforest torrential
+Human Density covers settlement levels:
+0 - uninhabited wilderness
+1 - sparse isolated
+2 - low scattered
+3 - moderate villages
+4 - high towns
+5 - dense cities
+Flora/Fauna Density represents life abundance:
+0 - barren lifeless
+1 - limited scarce
+2 - sparse occasional
+3 - moderate common
+4 - abundant thriving
+5 - teeming overrun
+Topography details elevation/steepness:
+0 - flat plains
+1 - gentle slopes
+2 - undulating hills
+3 - rugged terrain
+4 - steep cliffs
+5 - sheer mountains
+Hydrology measures water features:
+0 - none parched
+1 - sparse trickles
+2 - limited streams
+3 - moderate rivers
+4 - abundant lakes
+5 - flooded swamps
+<Rule for Interpreting Environmental Score in Oceanic Regions
+When applying Environmental Scores to oceanic regions (e.g., "The Western Ocean", "Cape Fal", "Sea Of Ghosts", "Gulf of Charas", "Bay Of Varcheg", "Perassic Sea", "Lake Laconis", "Byalic Sea", "Mazopor Bay"), adapt land-based interpretations to aquatic environments.
+Temperature reflects water conditions:
+1 - freezing cold
+2 - cold currents
+3 - temperate seas
+4 - warm waters
+5 - tropical hot
+Rainfall indicates storm frequency or humidity over water:
+1 - minimal storms
+2 - light fog
+3 - moderate rains
+4 - frequent storms
+5 - constant humidity
+Human Density covers maritime activity like ships or ports:
+1 - isolated routes
+2 - sparse traffic
+3 - moderate trade
+4 - busy lanes
+5 - crowded ports
+Flora/Fauna Density represents marine life:
+1 - barren depths
+2 - sparse fish
+3 - moderate schools
+4 - abundant reefs
+5 - teeming ecosystems
+Topography translates to water depth:
+1 - shallow waters
+2 - coastal shelf
+3 - moderate depths
+4 - deep sea trenches
+5 - abyssal depths
+Hydrology translates to sea state/surface conditions:
+1 - calm seas
+2 - mild swells
+3 - moderate waves
+4 - rough currents
+5 - extreme storms
+## Variation in Environmental Scores for Geographic Structures
+Geographic structures with the same title (e.g., "Rhennod Mountains" or "Thrand River") may have varying environmental scores (Temperature, Rainfall, Human Density, Flora/Fauna Density, Topography, Hydrology) in different regions. This reflects local conditions, cultural influences, Unveiling effects, or historical events. For example, the Rhennod Mountains in Ebor Peninsula might have higher Rainfall due to ocean proximity, while the same range in Swadia could have lower Hydrology if drier inland.
+Roleplay AI must:
+
+Check region-specific .txt files for customized scores/tags.
+If no region-specific override, default to general lore descriptions in Calradia.txt or bestiary entries.
+Use variation to create dynamic RP: e.g., a river with high Hydrology in one region could flood during False Moons, while low in another might dry up, affecting travel or encounters.
+Always explain variations narratively when relevant (e.g., "The Rhennod here are drier than in the north, with sparse streams feeding the valleys").

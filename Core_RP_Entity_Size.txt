@@ -1,0 +1,12 @@
+Size Category Table
+Size (Numeric),Examples (Calradia-Adapted),To Hit Modifier (Attacker Bonus vs. Target),Stealth/Concealment Modifier,Base Movement Adjustment,S/T Scaling Modifier
+Miniscule (1),"Insects, Tiny Wisps, Small Artifacts",-30 (hard to hit small/fast),+30 (easy to hide),AB - 3,-30 (frail/tiny)
+Puny (2),"Rats, Servo-Skulls (Unveiling Echoes), Daggers as Projectiles",-20,+20,AB - 2,-20
+Weedy (3),"Human Children, Luminescent Wisps",-10,+10,AB - 1,-10
+Average (4),"Regular Humans (5'5"" to 6'8"" dominant athlete build), Dryads, Mire-Kin, Smallest Giant Spiders, Many Beastmen, Troglodytes",0,0,AB,0 (base 20-40)
+Hulking (5),"Super Human Builds (World's Strongest Man Scale), Large Beastmen, Armored Knights",+10 (easier to hit large),-10 (harder to hide),AB + 1,+10
+Enormous (6),"Large Animals (Horses, Cattle, 500kg Destrier, Direwolves)",+20,-20,AB + 2,+20
+Massive (7),"Largest Animals, Gryphons",+30,-30,AB + 3,+30
+Immense (8),"Royal Gryphons, Elephants, Smaller Trolls, Small Sea Serpents/Scylla, Largest Giant Spiders",+40,-40,AB + 4,+40
+Monumental (9),"Largest Trolls, Regular Sea Serpents/Scylla, Krakens (smaller forms)",+50,-50,AB + 5,+50
+Titanic (10),"Leviathans, Krakens (full), Dragons, The Others' Ice Constructs, Ancient Unveiling Titans",+60,-60,AB + 6,+60

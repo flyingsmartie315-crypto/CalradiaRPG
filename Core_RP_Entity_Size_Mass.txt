@@ -1,0 +1,58 @@
+Size/Weight Determination System for Entities
+This proposed system integrates with the Calradia RP framework (e.g., referencing Core_RP_Size_Categories.txt, Core_RP_Characteristics&Skills.txt for S/T scores). It provides a consistent, scalable way to calculate height and weight for NPCs, creatures, or players based on three factors: Size Category (primary determinant of scale), Strength (S) (influences muscular bulk and frame), and Toughness (T) (affects density, resilience, and overall mass). The system emphasizes realism with cubic scaling for weight (as mass increases disproportionately with height) while keeping calculations simple for RP use—no need for complex math in play; precompute for sheets.
+Key assumptions:
+
+Draws from WHFRP-inspired size categories (as stubbed in Core_RP_Size_Categories.txt): Tiny, Small, Average, Large, Enormous, Monstrous. These affect combat (e.g., +hit bonuses for larger targets) but here focus on physical metrics.
+Base human (Average category): S/T ~20-40, height ~5'6"-6'0" (168-183 cm), weight ~130-200 lbs (59-91 kg). Adjust for cultural variations (e.g., taller Sturgians).
+"Hulking" (from Talents like Hulking in Core_RP_Talents.txt) treated as a modifier: For humans, a Hulking entity matches Hafþór Júlíus Björnsson (~6'9"/206 cm, ~425 lbs/193 kg at peak—strongman build with exceptional S/T).
+Mutants/beasts (e.g., Gryphons, Beastmen) scale up dramatically; use HSI/RHK for environmental flavor (e.g., colder climates add insulating bulk).
+Units: Imperial (feet/inches, lbs) for Vlandian/Calradian feel; metric in parentheses. Round results for usability.
+
+Step 1: Define Size Categories with Base Ranges
+Each category has a base height/weight range (for S/T=30 average). These are starting points before S/T mods. Inspired by bestiary (e.g., Gryphons as Large: 2.6m shoulder height).
+Size Category,Examples,Base Height (Shoulder/Standing),Base Weight Range
+Tiny,"Rat, Insect Swarm",0.5-1 ft (15-30 cm),0.5-5 lbs (0.2-2 kg)
+Small,"Child, Goblin",2-4 ft (60-122 cm),20-80 lbs (9-36 kg)
+Average,"Human, Elf-like Mutant",5-6 ft (152-183 cm),100-200 lbs (45-91 kg)
+Large,"Horse, Gryphon, Ogre",6-8 ft (183-244 cm),"400-1,000 lbs (181-454 kg)"
+Enormous,"Troll, Giant Beetle",8-12 ft (244-366 cm),"1,000-5,000 lbs (454-2,268 kg)"
+Monstrous,"Dragon, Leviathan",12+ ft (366+ cm),"5,000+ lbs (2,268+ kg)"
+
+Notes: For quadrupeds/beasts (e.g., Gryphons), use shoulder height; convert to "effective standing" for comparisons (+20-50% for reared posture). Monstrous is open-ended for titans.
+
+Step 2: Apply Strength (S) and Toughness (T) Modifiers
+
+Height Formula: Base Height (midpoint of range) + (S - 30) / 10 * Category Factor.
+Category Factor: Tiny/Small: 0.5 ft (15 cm); Average: 1 ft (30 cm); Large: 2 ft (61 cm); Enormous: 3 ft (91 cm); Monstrous: 5+ ft (152+ cm).
+Cap at ±20% base to avoid absurdity (e.g., no 10 ft humans without mutations).
+Rationale: Higher S = taller/broader frame (muscle leverage). E.g., Human with S=50: +2 ft taller.
+
+Weight Formula: Base Weight (midpoint) * (Height / Base Midpoint Height)^3 + (T - 30) * Density Factor.
+Cubic (^3) scaling: Realistic biomechanics (e.g., double height = 8x weight if density constant).
+Density Factor: Adds mass for sturdiness—Tiny/Small: +1 lb (+0.5 kg); Average: +5 lbs (+2 kg); Large: +20 lbs (+9 kg); Enormous: +100 lbs (+45 kg); Monstrous: +500+ lbs (+227+ kg) per T point over 30.
+Rationale: Higher T = denser bones/muscle/skin (e.g., troll hide). Subtract for low T (frail entities).
+
+Hulking Special Rule (for Humans/Average Category): If entity has Hulking Talent (Core_RP_Talents.txt), override to Björnsson baseline: 6'9" (206 cm), 425 lbs (193 kg). Then mod by S/T as above (e.g., S=60 adds +3 ft/+0.9m height, recalculate weight cubically).
+
+Step 3: Calculation Process
+
+Assign Size Category based on lore (e.g., Human: Average; Gryphon: Large).
+Pull S/T from sheet (or estimate: beasts often 40-60+).
+Compute Height: Use formula; round to nearest inch/cm.
+Compute Weight: Cubic from new height + T density; round to nearest 5 lbs/2 kg.
+Adjust for RP: Add lore tweaks (e.g., Unveiling mutations +10% weight; cold HSI + fat layer).
+
+Examples
+
+Average Human (S=30, T=30): Height = 5'9" (175 cm); Weight = 170 lbs (77 kg).
+Hulking Human (Björnsson-like, S=50, T=45): Start at 6'9" (206 cm); Height mod +2 ft (61 cm) = 8'10" (269 cm, capped at +20%: ~7'3"/221 cm); Weight = 425 lbs base * (7'3"/6'9")^3 ≈ 500 lbs (227 kg) + (45-30)*5 = 575 lbs (261 kg). (Towering strongman mutant.)
+Gryphon (Large, S=50, T=45 from Gryphon.txt): Base Height 7 ft (213 cm shoulder); + (50-30)/10 *2 ft = +4 ft = 11 ft (335 cm). Weight = 700 lbs base * (11/7)^3 ≈ 2,700 lbs (1,225 kg) + (45-30)*20 = 3,000 lbs (1,361 kg). (Massive apex beast.)
+Tiny Rat (S=10, T=15): Height = 0.75 ft (23 cm); - (30-10)/10 *0.5 ft = -1 ft (cap at base min: 0.5 ft/15 cm). Weight = 3 lbs * (0.5/0.75)^3 ≈ 0.9 lbs (0.4 kg) + (15-30)*1 = -14.1 lbs (floor at 0.5 lbs/0.2 kg). (Scrawny pest.)
+
+Integration and Balance Notes
+
+RP Use: Precompute on sheets (e.g., Gryphon Character Sheet.txt). In play, size affects movement (Core_RP_Movement.txt: larger M slower in tight spaces), combat (larger: +WS to hit, -dodge), economy (larger mounts need more feed per Economy Rules.txt).
+Balance: High S/T = heavier = fatigue penalties (e.g., -Ag in swamps via EHGS). For beasts, tie to HSI (e.g., low Human Density = less food = lower weight).
+Customization: Add random d10 variance for individuality; False Moons temporarily +10% size (Unveiling swell).
+
+This system is lightweight, ties to existing stats, and scales from rats to dragons. Test in sessions and tweak factors if needed!

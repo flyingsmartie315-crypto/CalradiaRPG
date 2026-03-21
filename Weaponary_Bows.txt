@@ -1,0 +1,6 @@
+Bows
+Name,Cost,Enc,Group,Damage Profile (Cut / Pierce / Blunt),Range (yards),Reload,Qualities,Availability,Draw Weight (lbs),Min S
+Light Bow (Hunting),16 sc,60,Ordinary,(2 / 3 / 1),18/36,1 AP,"Fast, Quick Draw",Common,20–40,20
+Medium Bow,20 sc,75,Ordinary,(3 / 4 / 1),24/48,1 AP,None,Common,40–70,25
+Heavy Bow,24 sc,90,Ordinary,(3 / 5 / 1),30/60,2 AP,"Tiring, Armour Piercing",Average,70–100,30
+Longbow*,26 sc,90,Longbow,(4 / 5 / 1),36/72,2 AP,"Tiring, Armour Piercing, Impact",Scarce,100–180,35

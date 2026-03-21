@@ -1,0 +1,10 @@
+<DOCUMENT filename="Ruling Clans Of Battania.txt">
+Clans of Battania
+Battania’s clans are the living roots of the land: kin-bound houses sworn to the High King in Marunath, each commanding Fian archers, forest hunters, bound villages, and the ancient power of grove and stone. In shadowed longhouses and sacred clearings they swear oaths on oak and iron, raid invaders with silent arrows, and guard the old ways—where chivalry is foreign, honor is blood, and the Unveiling’s false-moon nights bring Wælhreów calls from the deep woods that test even the bravest. Clans feud over sacred sites, grudges burn for generations, weakness invites exile or death; yet the forest unites them against the steel-clad south, and the land itself remembers every wound.
+mac Gruffudd
+Ancient, honorable clan holding Marunath and central highlands. Command Fian champions, forest hunters, and grove druids. Loyalty fierce to High King, guarding sacred sites with unyielding oaths. Feuds with rivals over ancient grudges, but unite against invaders.
+Chieftain Caldog mac Gruffudd — Mid-fifties, stern and honorable, weathered face with silver hair. Leads with iron justice and oak wisdom. Unmarried, no heirs — rumors of a curse or vow. Rules Marunath with fairness; vassals loyal, enemies crushed swiftly.
+mac Owain
+Ruthless, calculating clan holding Tevea and western woods. Thrive on ambush, herb trade, rare forest resources. Fian train amid mist and stone, hunt Wælhreów for rites. Loyalty pragmatic—serve when profits, strike when weakens rivals, eye next opportunity in trees.
+Chieftain Madoc mac Owain — Late twenties, daring and cold, predator’s smile. Proven Fian leader—leads ambushes with ruthless efficiency. Rules Tevea with charm and iron; vassals follow willingly, enemies fall swiftly.
+</DOCUMENT>

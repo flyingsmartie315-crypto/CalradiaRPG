@@ -1,0 +1,235 @@
+Movement Types
+Move/Disengage: Cautious advance or retreat (1 AP). Allows other actions (e.g., attack after moving). Disengage safely from melee without inviting attacks of opportunity.
+Charge Attack: Aggressive rush ending in melee attack (2 AP). Grants +20 WS; requires straight path, no difficult terrain.
+Run: Full sprint (2 AP). No attacks or skills; +20 to Athletics for pursuits/evasion. Ends prone if failed Ag test in rough terrain.
+Combat Movement Table
+Movement Stat (M),Move/Disengage (yards),Charge Attack (yards),Run (yards)
+1,2,4,6
+2,4,8,12
+3,6,12,18
+4,8,16,24
+5,10,20,30
+6,12,24,36
+7,14,28,42
+8,16,32,48
+9,18,36,54
+10,20,40,60
+11,22,44,66
+12,24,48,72
+13,26,52,78
+14,28,56,84
+
+Combat Actions
+In structured time, entities spend Action Points (AP) on actions declared in Initiative order. Base AP = 3 (modified by factors); each action costs 1–3 AP based on complexity. Half Actions from reference systems map to 1 AP, Full Actions to 2 AP, Varies adjudicated per context (e.g., simple Skill =1 AP, complex =2 AP). Actions can chain if AP allows (e.g., Move + Attack). Use Rule of Cool for dramatic flair on high DoS.
+Basic Actions
+These are standard options available to all entities unless restricted (e.g., by wounds or gear).
+
+Aim (1 AP): Take extra time to line up a melee or ranged attack, gaining +10 to the next WS/BS test this turn. For ranged, this can represent steadying aim; for melee, studying the foe. Stacks with other bonuses; high DoS on subsequent attack adds extra precision (e.g., ignore 1 AP of armor).
+Cast (Varies, 1–3 AP): Unleash a magic spell, Channelling Unveiling energy, or similar ability (requires Channelling skill). Cost depends on spell complexity (simple cantrip =1 AP, major ritual =3 AP or full turn). Roll WP test; DoS determines effect strength, DoF risks backlash (e.g., IP gain or veil-thinning).
+Charge Attack (2 AP): Rush up to Charge distance (from table) and make a melee attack with +10 WS and +SB damage on hit. Requires straight path; no difficult terrain. If DoS ≥3, knock target prone or add Fear effect. Fails if interrupted (e.g., opportunity attack).
+Disengage (2 AP): Break from melee combat and move up to Move distance away without provoking free attacks. Roll Ag test if outnumbered; failure allows foes 1 free attack at +10 WS. Useful for retreats; high DoS adds evasion (e.g., +10 Dodge next turn).
+Move (1 AP): Advance up to Move/Disengage distance (from table), allowing cautious positioning. Can combine with other 1 AP actions (e.g., Move + Attack). In difficult terrain, halve distance or roll Athletics to maintain full speed.
+Ready (1 AP): Draw a weapon, pouch item, or prepare an object (e.g., shield up, potion in hand). For ranged weapons, this can include loading if simple (e.g., arrow); complex reloads use Reload. No test needed unless under pressure (e.g., opposed Sleight of Hand).
+Reload (Varies, 1–2 AP): Reload a ranged weapon (e.g., crossbow =2 AP, sling =1 AP). Modified by weapon qualities or Talents (e.g., Quick Draw halves cost). Roll BS if hasty; failure jams weapon (1 AP to clear).
+Stand/Mount (1 AP): Stand from prone (Ag test if wounded) or mount/dismount a steed (Ride test; failure costs extra AP or falls). On success, move half distance afterward. For beasts like gryphons, add Intimidate test if unruly.
+Standard Attack (1 AP): Make one melee or ranged attack using WS/BS (up to Attacks characteristic). Roll d100 ≤ skill; DoS adds damage or effects (e.g., +1 hit location control). Can target specific locations at -20 penalty.
+Swift Attack (2 AP): Make two melee attacks (requires Attacks ≥2 or Talent like Ambidextrous). Each at full WS; DoS from first can carry to second (e.g., +DoS damage total). Risks fatigue if overused (WP test or -10 next turn).
+Use a Skill (Varies, 1–2 AP): Perform a non-combat skill in combat (e.g., Heal ally =2 AP, Intimidate foe =1 AP). Cost based on complexity; roll relevant skill. Success applies effects (e.g., Charm to rally morale, +10 ally tests). Chained tests possible (e.g., Perception + Search).
+
+Advanced Actions
+
+All Out Attack (2 AP): Commit fully to offense, gaining +20 WS but no Dodge/Parry this turn. On hit, +2 damage per DoS. Risks overextension (if miss, foe gets free attack at +10). Ideal for berserkers or Frenzy state.
+Defensive Stance (1 AP): Focus on defense, gaining +10 to Dodge/Parry until next turn but -20 to attacks. DoS on defense tests can counterattack (e.g., riposte on parry). Stacks with armor; useful against multiple foes.
+Delay (1 AP): Hold your action until a later point in the turn or the next turn. Specify a trigger (e.g., "when the enemy charges"). When triggered, interrupt and act immediately (roll Initiative tiebreaker if conflicting). Unused Delays carry over but risk surprise (-10 to first test if not triggered). Useful for ambushes or reactions; DoS on related tests adds bonuses (e.g., +10 WS on interrupted attack).
+Feint (1 AP): Make a deceptive melee maneuver to unbalance an opponent. Roll opposed WS test; if you win, your next attack this turn ignores target's Parry/Dodge, and gain +10 WS. DoS adds extra effects (e.g., +1 DoS = foe -10 to next test). Fails if opponent has higher Per; DoF allows counter-Feint.
+Guarded Attack (2 AP): Perform a cautious melee or ranged attack while prioritizing defense. Make Standard Attack at -10 WS/BS, but gain +10 to Dodge/Parry until next turn. DoS on attack still adds damage; ideal against superior foes. Cannot chain with aggressive actions like Charge.
+Jump/Leap (2 AP): Leap over obstacles or gaps up to Jump distance (M × 2 yards horizontal, M/2 yards vertical; test Athletics for extra DoS yards). Costs 2 AP; success allows landing and half Move afterward. Failure risks fall (damage = yards fallen / 2 - TB, min 1). Modified by Size (larger +yards, smaller -yards); Talents like Fleet Footed add +M effective.
+Manoeuvre (1 AP): Shift an adjacent opponent 2 yards in any direction (e.g., push into hazard). Roll opposed S test; success moves target without free attacks. DoS adds distance (+1 yard per DoS) or effects (e.g., into fire for damage). Fails if target larger Size; DoF allows reversal.
+Parrying Stance (1 AP): Adopt a defensive posture with weapon/shield, gaining +20 to Parry tests until next turn but no attacks. DoS on parries can riposte (free counterattack at -10 WS). Stacks with Defensive Stance; ends if you move more than half distance.
+Run (2 AP): Sprint up to Run distance (from table), no other actions except evasion. Gain +20 to Athletics for chases; but -20 to BS against you, and no Dodge/Parry. In terrain, Ag test or fall prone. Ends turn; high DoS adds burst speed (+M next turn if fleeing).
+
+If Players Want to Do Something That is Not Covered by the Actions: Adjudicate per guidelines—use closest action or chain skills (e.g., improvised trap = Set Trap skill, 2 AP). Reward creativity with bonuses (+10–20 for clever RP/setup). If no fit, Varies AP (1–3) and test relevant Characteristic/Skill; DoS scales success (e.g., partial on low DoS).
+
+Combat Movement (Expanded)
+There are four different actions that characters can use to move during combat: Move (cautious advance), Charge Attack (aggressive rush), Run (full sprint), and Manoeuvre (positional shift). Jump/Leap handles vertical/horizontal leaps. Hampered terrain halves distances; use tactical map for precision (1 square = 2 yards).
+For groups using a tactical map, determine squares equal to Movement in simple terms. Characteristics with a run action triple the Movement for that turn.
+Movement in Yards: If unmounted, the character may use animal stats if applicable (e.g., mount adds to M).
+See previous tables for distances up to M 14.
+
+Two-Weapon Fighting
+Many warriors fight with a weapon in either hand (this includes shields). There are advantages and disadvantages to this style of fighting. The following rules apply when you are fighting with two weapons.
+Requirements: Must have Ambidextrous Talent or equivalent (e.g., multi-limbed from Size/Mutation) to avoid penalties. Shields count as weapons for parrying but not attacking unless specialized (e.g., buckler bash).
+Advantages: Gain +1 Attack secondary characteristic when dual-wielding (allows extra Standard Attack per turn). Parries gain +10 WS if using off-hand for defense. DoS on main-hand attacks can transfer to off-hand (e.g., +DoS damage total).
+Disadvantages: -10 WS/BS to all attacks without Ambidextrous. Encumbrance increases by 50% for wielded items. Cannot use two-handed weapons or heavy shields.
+Actions Integration: Swift Attack (2 AP) becomes default for dual-wielders, targeting different foes or same with split DoS. Charge Attack gains +SB damage if both weapons hit.
+
+Optional: Swift Attack Variants
+The combat system is designed with ease of play in mind. On a character's turn, he takes his actions, then the next combatant takes his turn and does the same, and so on. This system works well from a playability standpoint, but some players may find they want more realism where multiple attacks are concerned. If the players don't mind the added complication and the GM agrees, one or both of the following optional rules can be implemented:
+
+Staggered Attacks: When a character takes the Swift Attack action, he makes a number of attacks equal to half his Attacks characteristic (rounded down) on his turn. At the end of the round, after all combatants have taken their turns, he can take his remaining attacks. If there are multiple combatants making swift attacks, the end-of-the-round attacks are made in Initiative order.
+Declining Accuracy: So many attacks in just one round, a combatant may struggle to maintain his normal level of accuracy. In this variant, the character takes a -10% cumulative WS penalty on each attack after the first. For a minimum WS of 10%! The first attack in a round thus has no penalty, the second -10%, the third -20%, etc.
+
+Grappling
+Instead of inflicting damaging, a character can attempt to grapple and immobilize an opponent. A character can attempt a grapple with either a successful Standard Attack or Charge Attack. The grapple is maintained. On the grappling character's turn, he can take one of the following actions. A successful opposed Strength test must be made against the opponent's Strength before any action is resolved. If the test is failed, the grapple is broken.
+
+Inflict Damage: The grappling character can attempt to damage his opponent without a weapon (e.g., choke, headlock). Roll opposed S test; success inflicts SB damage (ignoring armor/TB) + DoS. DoF breaks grapple.
+Throw Opponent: Throw the opponent prone up to SB yards away. Opponent takes falling damage if applicable; grapple ends.
+Escape Grapple: The grappled opponent can voluntarily end the grapple as a free action. This is a free action, so he can take his normal actions afterward.
+
+A grapple is maintained until the grappling character voluntarily ends the grapple or the grappled opponent escapes. A grappled character cannot take any action that requires movement or use of a weapon. A grappled character can voluntarily end the grapple any time he wishes.
+Hit Location Complications
+The basic rules for hit locations (see Making an Attack, page 129) are simple enough. They do, however, make two assumptions. First, that characters are fighting a bipedal humanoid, be it Human, Orc, Beastman, or Elf Second, that it is possible to reach all parts of the body when attacking. Obviously, these won't always be the case. When unusual situations crop up, use the following guidelines.
+
+If it is impossible to reach a location with an attack then it is obviously impossible to strike there. A missile attack against a Soldier behind a battlement, for example, could not hit his legs. Similarly, a Halfling couldn't hit a Giant in the head with a sword. In these cases, restrict the hit locations to those that are reachable. If a hit location is unreachable, the GM should apply the hit to the nearest reachable location instead.
+If attacking a mounted opponent (a Goblin on a wolf, for example), the player can choose whether to hit the mount or the rider.
+
+Parrying Stance (Full Action)
+The character trades an upcoming attack for an improved defense. Any time before his next turn, the character gains a +10% bonus to his Weapon Skill (for ranged attacks).
+Table 6-2: Combat Difficulty
+Use this table to determine Difficulty modifiers for tests in combat. These apply to WS/BS, Dodge, Parry, or related skills.
+Difficulty,Skill Modifier,Example
+Very Easy,+30%,Attacking a unaware opponent. Outnumbered foe who is 3 to 1.
+Easy,+20%,Attacking a stunned opponent. Attacking a prone opponent.
+Routine,+10%,Attacking for who is knocked down. Making a standard attack.
+Average,No modifier,Attacking dodging when in the mud or heavy rain.
+Challenging,-10%,Attacking a specific location. Attacking while specific his location. Snow. Daring a game club.
+Hard,-20%,Attacking dodging the deep.
+Very Hard,-30%,"Just ignore the location rules until such time to do is a Critical Hit (see page 133) is scored. Since big monsters don't wear armour, the easiest thing to do is just ignore the location rules until such time as a Critical armour, they matter much until the creature starts taking Critical Hits. If a creature has unusual body parts, substitute using common sense. For instance, a hit might strike a mutant's tentacle instead of his arm."
+
+Fury!
+Normally, when hitting an attack, roll the Player Damage Total equals 1D10 plus the weapon's Damage rating. When the Player rolls a 10 on the die, the character gets to make a Strength Test. If successful, the unleasher the fury. The player can roll an additional 1d10 and add the result to the Damage Total. Should the result of this die also be a 10, roll an additional 1d10 to add to damage total. Repeat until a 10 is not rolled.
+Ranged Attacks
+Ranged attacks are made in the same way as melee attacks, with a few exceptions. First, opponents may not dodge or parry a missile attack. Second, characters cannot make ranged attacks if engaged in melee combat, unless armed with a pistol or crossbow pistol. Third, characters must have a line of sight to the target. This means that nothing obstructs the character's view of the target. A character cannot see an opponent in fog, darkness, etc.—he cannot shoot. The Ballistic Skill Test to hit is modified by circumstance. Opponents behind cover, for example, are not partially obscured by mist will be harder to hit. The GM should use Table 6-1: Test Difficulty to adjudicate each ranged attack. Using a missile weapon such as a pistol with the secondary hand imposes a -20% BS penalty. A -20% BS penalty also applies to all shots taken at long range. See Chapter 5: Equipment for details on missile weapons and their ranges.
+Shooting into Melee
+Sometimes a target will already be engaged in melee combat. This makes the target more difficult to hit. A character can make a ranged attack at an opponent engaged in melee, but suffers a -20% Ballistic Skill penalty.
+Extreme Range
+Shooting a missile weapon beyond long range is usually a waste of time. It is quite difficult to hit a target so far away with a single shot. In dire straights, however, such shots may be attempted. A character can fire a target up to double long range away, but must take the aim action first. Furthermore, even with the aim, the character suffers a -30% Ballistic Skill penalty to the attack.
+
+Damage and Healing
+This section expands Core_RP_Combat.txt with mechanics for resolving damage, critical hits, healing, and long-term effects. Damage reduces Wounds (W); when W ≤ 0, the entity is critically wounded and risks death or permanent injury. Integrate with d100 resolution: successful attacks deal damage = d10 + SB (melee) or weapon base (ranged) + DoS, minus target's TB + Armour Points (AP) on hit location. Use Rule of Cool for vivid descriptions (e.g., high DoS inflicts narrative scars or IP from horror).
+Damage
+A character can absorb damage up to his Wounds total without penalty. Wounds represent an abstract "buffer level," and only once this has been destroyed is severe damage incurred. That's the good news. The bad news is that taking such damage is rather nasty and can, in some cases, lead to permanent disability and the loss of limbs.
+Wounds will go up and down throughout play, as a character takes damage and heals up. Characters require medical attention, which includes the use of the Heal skill or draitghs, when wounded. Depending on how many Wounds a character has left, he is classified as Lightly Wounded or Heavily Wounded. These states are not important during combat, but they do affect the time it takes to heal (see Heal in Chapter 4: Skills & Talents). Characters might also find themselves stunned or helpless.
+
+Lightly Wounded: More than 3 Wounds remaining but fewer than the character's Wounds Characteristic. Without medical attention, the character recovers 1 Wound per day through natural healing.
+Heavily Wounded: 3 Wounds or fewer remaining. Without medical attention, the character recovers 1 Wound per week.
+Stunned: The character cannot take any actions (even free actions like Dodge). Opponents gain +20 Weapon Skill bonus when attacking.
+Helpless: The character cannot defend himself due to incapacitation, or some other circumstance. Attacks against the character automatically hit and inflict an extra 1d10 damage.
+
+Critical Hits
+When a character takes more damage than he has Wounds remaining, emanating a Critical Hit is suffered. The attacker rolls percentile dice and cross-references his result with the Critical Value on Table 6-3: Critical Hits. The result will be a number from 1-10, the Critical Effect. Consult the appropriate table for the specified Critical Effect—Arm, Body, Head, or Leg and roll a d10 to determine the outcome. The tables for Critical Effects have been written without any assumptions as to what type of weapon or spell caused the damage. While the tables provide the basics, it's always fun to embellish them with details specific to the attack. No one ever had his head sliced off with a flail for instance, but skills can certainly be split asunder, splattering blood and brains over everyone nearby.
+Sudden Death Critical Hits
+Sometimes players just want to know if an opponent hits is dead or not and don't much care about the details. Where convenient, the GM can spend combat along without adjudicating detailed critical hits. In other cases, grievous wounds have already been inflicted, so it's just a matter of finishing an enemy off. In these instances, use the Sudden Death option. Roll on Table 6-3: Critical Hits as usual, but ignore the Critical Effects. If the result is 6-10, the subject is slain. Note that due to the nature of the table, any Critical Value of 5 or greater results in death no matter the dice roll.
+Example
+In the previous example, Jean-Pierre was knocked unconscious with a Critical Hit. Use the Sudden Death rules to see if he survives. The Bretonnian finishes the job. Since Jean-Pierre is helpless, the Bretonnian automatically deals an extra d10 damage. The Ore ends up inflicting another Critical Hit on the Noble with a Critical Value of +4. The GM rolls a 78% on Table 6-3: Critical Hits. +4 means Jean-Pierre has been killed.
+Permanent Effects
+Some Critical Effects are permanent. Should a character suffer more than one of these effects, it's probably time to retire the poor fellow and make a new one.
+Table 6-3: Critical Hits
+d100 Roll,+1,+2,+3,+4,+5,+6,+7,+8,+9,+10
+01-10,5,7,9,10,10,10,10,10,10,10
+11-20,5,6,8,9,10,10,10,10,10,10
+21-30,4,6,7,9,10,10,10,10,10,10
+31-40,4,5,7,8,9,10,10,10,10,10
+41-50,3,5,6,8,9,9,10,10,10,10
+51-60,3,4,6,7,8,9,9,10,10,10
+61-70,2,4,5,6,7,8,9,9,10,10
+71-80,2,3,5,6,7,8,8,9,9,10
+81-90,1,3,4,5,6,7,8,8,9,9
+91-00,1,2,4,5,6,7,7,8,8,9
+To resolve the Critical Hit, two pieces of information are required. First, the hit location (see page 129). Second, the Critical Value, which ranges from +1 to +10 (with +10 representing the most severe injuries). The Critical Value is the amount of damage left over after all Wounds have been lost. For example, and takes 8 points of damage. He suffers a Critical Hit with a Critical Value of +5. The GM rolls percentile dice and cross-references the result with the Critical Value on Table 6-3: Critical Hits. The result is a number from 1-10, the Critical Effect. Consult the appropriate table for the specified Critical Effect—Arm, Body, Head, or Leg—and roll a d10 to determine the outcome.
+
+Critical Effects Tables
+(Adapted for Calradia: Add +1 IP on rolls 6+ for horror; Unveiling-touched entities may mutate on death. Scale effects by Size—larger ignore minor penalties, smaller amplify.)
+Table 6-4: Critical Effects—Arm
+d10 Roll,Effect
+1,"Drops anything held in that hand. A shield, if worn, is not affected, since it's strapped on."
+2,Arm struck numb and cannot be used for 1 round.
+3,"Hand Incapacitated until medical attention is received. Anything held in this hand is dropped (again, excepting a shield)."
+4,"Armour damaged. Armour Points on this location are reduced by 1 until the Armour Points are repaired with a successful Trade (Armourer) Skill Test. If character isn't wearing any armour or players are using the Basic Armour system, use the #2 result instead."
+5,Armour Incapacitated until medical attention is received. Anything held in this hand is dropped (excepting a shield).
+6,Arm demolished by attack. Anything held in this hand is dropped (excepting a shield). Blood loss is such that character has a 20% chance of dying each round until medical attention is received. Test at the start of victim's turn each round. Use the Sudden Death rules for any further Critical Hits on this opponent.
+7,"Hand turned into a bloody ruin. Anything held in this hand is dropped (excepting a shield). Blood loss is such that character has a 20% chance of dying each round until medical attention is received. Test at the start of victim's turn each round. Use the Sudden Death rules for any further Critical Hits on this opponent. If he survives, he must make a successful Toughness Test or lose the arm from the elbow down permanently."
+8,"Arm is now a dangling mass of bloody meat. Anything held in this hand is dropped (excepting a shield). Blood loss is such that character has a 20% chance of dying each round until medical attention is received. Test at the start of victim's turn each round. Use the Sudden Death rules for any further Critical Hits on this opponent. If he survives this combat, he must make a successful Toughness Test or lose the arm from the elbow down permanently."
+9,"Major artery severed. After a fraction of a second, character collapses with blood pouring out of the ruins of his shoulder. Death from shock and blood loss is almost instantaneous."
+10,Killed in whatever spectacular and gore-drenched fashion the player or GM cares to describe.
+
+Lost Hand: The character takes a -20% penalty on Skill and Characteristic Tests that rely on the use of two hands and cannot wield two-handed weapons. A shield can be strapped to the injured arm, however.
+Lost Arm: As Lost Hand, but the character can't strap a shield to his arm as he doesn't have one.
+Lost Eye: The character suffers a permanent -20% BS reduction and takes a -20% penalty on all Skill and Characteristic Tests reliant on sight.
+
+able 6-5: Critical Effects—Leg
+d10 Roll,Effect
+1,Leg struck numb. The character can only take a half action on his next turn.
+2,Leg struck numb by the attack. Character's Movement Characteristic is reduced to 1 for one round and during that time he cannot Dodge and suffers a -20% penalty on related Agility Tests.
+3,Leg Incapacitated until medical attention is received. Character's Movement Characteristic is reduced to 1 and he cannot Dodge. Related Agility Tests also suffer a -20% penalty.
+4,"Armour damaged. Armour Points on this location are reduced by 1 until the Armour Points are repaired with a successful Trade (Armourer) Skill Test. If character isn't wearing any armour or players are using the Basic Armour system, use the #2 result instead."
+5,Knocked to the ground and dazed. All character's tests and attacks suffer a -30% penalty for one round and he must attack from a prone position.
+6,"Leg demolished. Character is considered helpless. Blood loss is such that the victim has a 20% chance of dying each round until medical attention is received. Test at the start of his turn each round. If he survives this combat, he must make a successful Toughness Test or lose the leg from the knee down. Use the Sudden Death rules for any further Critical Hits on this character."
+7,"Leg is turned into a bloody ruin and character is considered helpless. Blood loss is such that the victim has a 20% chance of dying each round until medical attention is received. Test at the start of his turn each round. If he survives this combat, he must make a successful Toughness Test or lose the leg from the knee down permanently."
+8,"Leg turned into a dangling mass of bloody meat and character is considered helpless. Blood loss is such that the victim has a 20% chance of dying each round until medical attention is received. Test at the start of his turn each round. If he survives this combat, he must make a successful Toughness Test or lose the leg from the knee down permanently."
+9,"Major artery severed. After a fraction of a second, character collapses with blood pouring out of the ruins of his leg. Death from shock and blood loss is almost instantaneous."
+10,Killed in whatever spectacular and gore-drenched fashion the player or GM cares to describe.
+
+Lost Foot: The character suffers a permanent -20% penalty on Skill and Characteristic Tests reliant on mobility (including Dodge).
+Lost Leg: As lost foot, but the character cannot use the Dodge Skill. Leg As lost foot, but the character cannot use the Dodge Skill.
+
+Table 6-6: Critical Effects—Head
+d10 Roll,Effect
+1,Ear bashed causing the victim to reel and spin. Character cannot take any action for 1 round.
+2,Smack to the groin. The pain is such that the character cannot take any action for one round.
+3,"The blow inflicts a nasty scalp wound. Blood runs into the character's eyes, penalising all sight-related tests by -10% until medical attention is received."
+4,"Armour damaged. Armour Points on this location are reduced by 1 until the Armour Points are repaired with a successful Trade (Armourer) Skill Test. If character isn't wearing any armour or players are using the Basic Armour system, use the #2 result instead."
+5,Knocked to the ground and dazed. All character's tests and attacks suffer a -30% penalty for one round and he must attack from a prone position.
+6,Stunned for 1d10 rounds.
+7,"Face shattered or knocked to the ground. Character is now considered helpless. Blood loss is such that the victim has a 20% chance of dying each round until medical attention is received. Test at the start of his turn each round. Use the Sudden Death rules for any further Critical Hits on this opponent. If he survives this combat, he must make a successful Toughness Test or lose an eye from the blow down."
+8,Major artery severed or skull caved in. Character collapses in a pool of his own blood and dies in TB rounds from blood loss.
+9,"Killed in a particularly horrific fashion. Perhaps the head is caved in, the face chewed off, or the brains splattered over a wide area."
+10,"Instantaneous, messy death. Death is so quick that the character has no chance to scream or make any noise."
+
+Table 6-7: Critical Effects—Body
+d10 Roll,Effect
+1,"Attack inflicts no Wound due to the character's resilience or a glancing blow. However, the character is knocked over and must spend his next action getting up."
+2,Smack in the groin. The pain is such that the character cannot take any action for one round.
+3,Ribs bruised by forceful attack. Character takes a -10% penalty on all tests for 1d10 rounds.
+4,"Armour damaged. Armour Points on this location are reduced by 1 until the Armour Points are repaired with a successful Trade (Armourer) Skill Test. If character isn't wearing any armour or players are using the Basic Armour system, use the #2 result instead."
+5,Knocked to the ground and dazed. All character's tests and attacks suffer a -30% penalty for one round and he must attack from a prone position.
+6,Stunned for 1d10 rounds.
+7,"The blow wounds in internal organ bleeding and the victim is considered helpless. Blood loss is such that the victim has a 20% chance of dying each round until medical attention is received. Test at the start of his turn each round. Use the Sudden Death rules for any further Critical Hits on this opponent. If he survives this combat, he must make a successful Toughness Test or lose 1d10% from his Strength Characteristic permanently."
+8,"Spine pulverized and character is knocked to the ground. Character may do nothing until medical attention is received. Test at the start of his turn each round. Use the Sudden Death rules for any further Critical Hits on this opponent. If he survives this combat, he must make a successful Toughness Test or lose the use of his legs permanently."
+9,"Major artery severed. After a fraction of a second, character collapses with blood pouring out of the ruins of his torso. Death from shock and blood loss is almost instantaneous."
+10,Killed in whatever spectacular and gore-drenched fashion the player or GM cares to describe.
+
+Healing Integration: Use Heal skill for medical attention (DoS restores W = DoS + IntB). Natural healing as above; potions/herbs add bonuses (+10–20). High IP from criticals may cause madness (WP test or gain Disorder).
+Unveiling Twist: On critical death, roll WP or trigger veil event (e.g., corpse mutates, attracts Wælhreów). Larger Sizes halve critical values (round down); smaller double.
+Adjudication: For non-humanoids, adapt locations (e.g., Gryphon wing = Arm). Fate Points can negate criticals (spend 1 to reduce value by d10).
+
+Falling Damage
+When a character falls, he takes a hit with Damage based on the distance of the drop. See Table 6-10: Falling Damage and round distance up when necessary. Falling Damage is reduced by Toughness Bonus but not armour. If the damage die comes up 10, the character must make another Agility Test or add an extra d10 to the damage. To get up, the character must make a successful Agility Test to keep his grip on anything in his hand as he falls.
+A jump is a controlled vertical descent and a jumping character will usually land on his feet. Jumping is a full action. If a character is pushed, or plummets accidentally, he is not jumping but falling.
+
+Table 6-10: Falling Damage
+Distance Fallen (yards),Damage
+3,3
+6,5
+9,7
+12,9
+15,11
+18,13
+21,15
+24,17
+25+,20
+
+Example: Sven, a Thief, is on a rooftop when an alert watchman spots him. Sven tries to jump off the roof to the ground below. The GM determines that it's roughly a 9-yard drop. Sven must make one successful Agility Test to jump down without injury (one for each 3 yards jumped). He makes the first three successful Agility Tests in a jump down without injury. Sven only but blunders the second. Since he had jumped 3 yards successfully with his first test, he only take damage from the remaining distance (in this case, 6 yards). According to Table 6-10: Falling Damage, a 6-yard fall inflicts a Damage 5 hit.
+
+Jumping and Falling
+Jumping is a controlled vertical descent and a jumping character will usually land on his feet. Jumping is a full action. If a character is pushed, or plummets accidentally, he is not jumping but falling. When jumping, the character must make a test if failed, he falls the entire distance. If the character falls the first test, he falls the entire distance. The performer (Acrobat) skill, he may use that instead of Agility at the player's option.
+Leaping
+A leap is a horizontal jump, like a long jump. It is used to leap from roof to roof or to cross chasms and the like. A leap is a full action.
+There are two types of leaps, running and standing.
+In a running leap, the character sprints up to his Movement Characteristic x 2 in yards (or Movement in squares). The character must move at least 4 yards (2 squares) in a straight line leading up to take off. The maximum leaped is equal to Movement + Strength Bonus in yards. A successful Strength Test is made. For each degree of failure of the test, the distance leaped is reduced by 1 yard (minimum 1 yard). If the Strength Test is failed by 2 or more degrees, play a minimum leap of 1 yard.
+A standing leap is similar, but takes no run-up. This is adjudicated the same way, but the final distance is halved (rounded up).
+The vertical distance of a leap (important) is equal to M-2 in yards. Just as with horizontal distance, the vertical distance is reduced by 1 yard for each degree of failure (minimum 1). A result of zero or less means the character gained enough altitude to leap, but not enough to clear any obstacles.
+Notes:
+
+Integration: Falling/Leaping costs AP (1 for standing leap, 2 for running/jumping). Modifiers: Size (larger +SB to distance, smaller -SB); terrain (-10 Ag in mud). Unveiling hazards (e.g., veil-drop falls cause mutations on DoF). Chain with Athletics (DoS adds yards). For groups, use slowest M; surprise leaps grant +10 Initiative if successful.
+

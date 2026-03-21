@@ -1,0 +1,361 @@
+Region: Uchalion Plateau
+Neighbouring Regions
+North: Bay of Varcheg, Kachyar Peninsula
+North East: Icara Wildlands, Bay of Varcheg
+East: Dryatic Mountains
+South East: Gavys Valley
+South: Ortysian Basin
+South West: Ortysian Basin
+West: Neurval Valley
+North West: Bay of Varcheg, Ebor Peninsula
+Overview
+Uchalion Plateau is a misty Battanian highland realm of craggy mountains, ancient lakes, and winding rivers, serving as a strategic crossroads between northern bays and southern basins. Dominated by clans like fen Marunath, it blends druidic rites with Fian warfare, defending against eastern wilds and imperial incursions. False moons thin the veil, stirring prophetic whispers and rock knocks in the fog-shrouded terrain. Economies thrive on grain, herbs, furs, and wine from fertile meadows and wooded valleys, with settlements fortified amid standing stones and glacial streams—a land where ancient echoes meet Unveiling's subtle horrors.
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area):
+Climate (Temperature: Cool to Temperate [2-3], Rainfall: Humid [3-4])
+Human Population Density: Low to Moderate [1-3]
+Flora/Fauna Population Density: Abundant [3-5]
+Topography: Steep to Undulating [2-4]
+Hydrology: Moderate to Abundant [2-4]
+Geographic Structures
+North: Atila Druin Mountains, Bay Of Varcheg Coastline
+North East: Cursion Escarpment
+East: Cursion Escarpment
+South East: Uchalion Massif
+South: The Cafalcomb
+South West: Rhennod Pass, Upper Trand River, Etir River
+West: Morcomb Pass
+North West: Bay Of Varcheg Coastline
+Core: Rock of Glanys, Llyn Tywal, Fiur River
+Atila Druin Mountains: Craggy rows of misty mountains rise sharply in the north, their jagged peaks shrouded in perpetual fog and overlooking the Bay of Varcheg's distant shores. Narrow paths twist through boulder-strewn slopes and hidden glens, where hardy evergreens cling to the rock amid frequent rockfalls and echoing winds. Environmental Scores: Temperature: 1-3, Rainfall: 3-5, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 4-5, Hydrology: 1-2.
+Bay Of Varcheg Coastline: Sheltered bays curve gently along the northern and northwestern edges, with calm waters lapping at sandy coves protected from ocean swells by natural barriers, allowing quiet inlets and minimal fog for safer anchorages and subtle tidal shifts. Environmental Scores: Temperature: 2-4, Rainfall: 3-5, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 2-3, Hydrology: 4-5.
+Cursion Escarpment: Misty highlands and mountains span the northeastern and eastern boundaries, forming a natural barrier against eastern incursions with steep, fog-veiled cliffs and rolling plateaus dotted by ancient standing stones and dense thickets of hardy shrubs. Trails carve through the haze, revealing hidden caves and sudden drops amid the perpetual damp. Environmental Scores: Temperature: 1-3, Rainfall: 3-5, Human Density: 0-2, Flora/Fauna Density: 3-5, Topography: 3-5, Hydrology: 2-3.
+Uchalion Massif: Misty craggy peaks dominate the southeastern flanks, creating a formidable natural barrier extending toward the south with towering spires pierced by narrow ravines and alpine meadows. Windswept ridges harbor resilient wildflowers and elusive mountain goats, while glacial streams carve deep furrows into the stone. Environmental Scores: Temperature: 1-3, Rainfall: 2-4, Human Density: 0-1, Flora/Fauna Density: 3-4, Topography: 4-5, Hydrology: 1-2.
+The Cafalcomb: A deep, forested ravine cuts through the southern reaches, its steep-sided walls overgrown with tangled vines and ancient oaks that form a shadowy canopy over winding streams and hidden clearings. Echoing calls of woodland birds fill the air, paths meandering through moss-covered boulders and sudden sinkholes. Environmental Scores: Temperature: 2-4, Rainfall: 3-5, Human Density: 0-2, Flora/Fauna Density: 4-5, Topography: 3-4, Hydrology: 3-4.
+Rhennod Pass: Narrow southwestern defiles slice through elevated terrain, shadowed by forested slopes and rocky outcrops that channel brisk winds. Routes twist steeply, flanked by dense undergrowth and occasional streams, serving as a vital but treacherous link to western valleys. Environmental Scores: Temperature: 1-3, Rainfall: 2-4, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 4-5, Hydrology: 1-2.
+Morcomb Pass: Narrow western defiles cut through the heights, shadowed by trees along winding trails. Routes twist steeply, flanked by slopes and valleys that channel winds through the gaps, allowing transit between the plateau and neighboring lowlands. Environmental Scores: Temperature: 2-4, Rainfall: 2-4, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 3-4, Hydrology: 1-2.
+Rock of Glanys: The central and highest peak of the Uchalion Plateau thrusts upward like a sentinel, its rugged summit offering panoramic views over surrounding tablelands, with sheer faces riddled by wind-carved crevices and hardy lichen clinging to exposed granite. Climbers navigate perilous ascents amid rare alpine herbs and nesting birds. Environmental Scores: Temperature: 1-3, Rainfall: 2-3, Human Density: 0, Flora/Fauna Density: 2-3, Topography: 5, Hydrology: 1.
+Llyn Tywal: A glistening lake fills an ancient impact crater at the heart of the plateau, its still waters reflecting misty skies and surrounded by reed-fringed shores teeming with aquatic life. Gentle slopes lead to the water's edge, where fog often lingers and small inlets harbor schools of fish. Environmental Scores: Temperature: 2-4, Rainfall: 3-5, Human Density: 1-2, Flora/Fauna Density: 3-5, Topography: 1-2, Hydrology: 5.
+Fiur River: Winding from Llyn Tywal northward into the Bay of Varcheg, this river carves shallow channels through the core plateau, its banks lined with fertile meadows and small farming settlements that dot the landscape. Clear waters support thriving riparian vegetation and seasonal migrations of waterfowl. Environmental Scores: Temperature: 2-4, Rainfall: 2-4, Human Density: 2-3, Flora/Fauna Density: 3-5, Topography: 1-3, Hydrology: 3-4.
+Upper Trand River: Swift-flowing tributary carving through southwestern defiles, its banks lined with dense undergrowth and occasional streams amid forested slopes. Clear waters support riparian vegetation, channeling brisk winds along steep routes linking plateau to valleys. Environmental Scores: Temperature: 1-3, Rainfall: 2-4, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 3-4, Hydrology: 3-4.
+Etir River: Winding tributary merging with Upper Trand into Trand River, its undulating channels flanked by fertile meadows and dense undergrowth in southwestern defiles. Seasonal waterfowl thrive along riparian banks, shadowed by forested slopes with brisk winds. Environmental Scores: Temperature: 1-3, Rainfall: 2-4, Human Density: 0-1, Flora/Fauna Density: 3-4, Topography: 2-3, Hydrology: 3-4.
+Settlements
+Marunath (Town)
+Sprawling timber longhouses cluster around sacred groves and standing stones atop misty craggy peaks, where clan councils convene under starlight amid alpine meadows and elusive mountain goats. Markets trade furs, amber, and herbs, harp songs echoing through narrow ravines with glacial streams. Druids perform rites at ancient oaks on windswept ridges, while Fian archers train in sheer-faced clearings. False Moon nights cause unnatural rock knocks, prophetic dreams haunting the garrison, countered by ritual fires and blessed herbs.
+Location and Ties:
+Geographic Structure Link: Uchalion Massif (South East)
+Neighbouring Features: Towering spires pierced by narrow ravines and alpine meadows; windswept ridges with resilient wildflowers and glacial streams.
+Kingdom/Clan Affiliation: Battanian (fen Marunath holds Marunath), focused on highland trade and clan councils.
+Structure and Layout:
+Core: Timber longhouses with central sacred groves, surrounded by training clearings and market halls.
+Key Districts: Grove quarter for druid rites; meadow farms with herb gardens; rune-carved halls for council meetings.
+Defenses: Palisades integrated into sheer peaks with archer towers; terrain advantages from ravines and ridges as natural barriers.
+Population and Daily Life:
+Size and Density: Medium town (800-1,500 residents), sparsely settled with clustered halls and outlying meadows.
+Demographics:
+Garrison: Fian archers for ridge defense; scouts patrolling ravines; woad-clad guards on palisades.
+Civilians: Traders bartering furs; herders tending goats; women in rite and market roles.
+Economy: Fur and amber trade; herb gathering from meadows; craftsmanship in rune carvings.
+Culture and Customs: Clan oaths and harp feasts; iron charms against false-moon whispers.
+Villages:
+Ath Cafal: Sits near the head of the Cafalcombe, a steep valley that descends to the imperial lands; decent clay can be found in the small streams that rush down from the hills on all sides.
+Beglomuar: Sits in a nook of the southern escarpment of the Uchalion massif; there is little to recommend these lands other than the ore deposits in the hills and the bog-iron of the mountain marshes.
+Dalmengus: Sits by the side of the Llyn Tywal, the Dark Lake at the center of the Uchalion massif; the flat, well-watered lands here are fertile and well-suited to wheat and barley.
+Ebereth: Sits on a saddle, with the lake of Llyn Tywal on one side and the passes of the Cafalcombe on the other; villagers here grow grapes to make the sweet white wine of the Battanian lands.
+Hazards:
+Man-made: Clan rivalries and bribes; incursions from eastern wildlands.
+Bestiary: Mountain mutants in ravines; aggressive goats on ridges.
+Unveiling: False Moon drains color from peaks; prophetic rock knocks.
+Pen Cannoc (Town)
+Perched on narrow southwestern defiles shadowed by forested slopes, Pen Cannoc's palisades guard brisk wind-channeled routes flanked by dense undergrowth and occasional streams. Longships dock for fish and furs along fast-flowing waters, markets bustling with northern traders amid fertile banks and seasonal waterfowl. Clan halls echo with ancestor veneration, while paths wind through steep terrain to high overlooks. False moons stir aurora spirits, howls echoing from the ridges.
+Location and Ties:
+Geographic Structure Link: Rhennod Pass (South West), Upper Trand River (South West)
+Neighbouring Features: Steep defiles with forested slopes and brisk winds; undulating river banks with fertile meadows and riparian vegetation.
+Kingdom/Clan Affiliation: Battanian (fen Pen Cannoc holds Pen Cannoc), focused on northern trade and ancestor rites.
+Structure and Layout:
+Core: Palisaded town with central clan halls, surrounded by dock quarters and overlook paths.
+Key Districts: Inlet docks for longships; river farms with fertile meadows; rune-dotted shores for veneration.
+Defenses: Palisades along steep defiles with scout towers; terrain advantages from channeled winds and undergrowth ambushes.
+Population and Daily Life:
+Size and Density: Medium town (700-1,400 residents), low density with scattered halls and river settlements.
+Demographics:
+Garrison: Scouts patrolling paths; archers on overlooks; guards defending docks.
+Civilians: Traders bartering furs; herders along meadows; women in rite and market stalls.
+Economy: Fish and fur trade; herb gathering from undergrowth; craftsmanship in longships.
+Culture and Customs: Ancestor feasts and harp songs; iron charms against false-moon howls.
+Villages:
+Durn: Sits just below the gorges of the upper Trand river; villagers scrape mud from the pools and bogs alongside the river as it levels out, carting it up the winding paths to the town of Pen Cannoc perched on the cliff above them.
+Fenon Etir: Sits on an outrop overlooking the source of the Etir river, a tributary of the Trand; villagers here raise grapes, producing strong Battanian wines that are highly valued in the Empire and among the Vlandians.
+Gainseth: Sits in a dark wooded valley beneath the Rhennod hills on the eastern edge of the Uchalion massif; villagers collect mud from the marshy ground for sale to the potters of Pen Cannoc.
+Hazards:
+Man-made: Trade rivalries and ambushes; incursions from western valleys.
+Bestiary: Forest beasts in undergrowth; drowners in streams.
+Unveiling: False Moon channels eerie winds; prophetic aurora spirits.
+Dunglanys (Town)
+Fortified tower on central highest peak thrust upward like a sentinel, Dunglanys overlooks reed-fringed shores teeming with aquatic life amid gentle slopes and still waters reflecting misty skies. Palisades encircle training grounds for Fians, with druidic bindings on gates near wind-carved crevices and hardy lichen. Herb gardens thrive in fog-lingered inlets, streams feeding the moat. False moons thin the veil, branches bending without wind as whispers rise from the undergrowth.
+Location and Ties:
+Geographic Structure Link: Rock of Glanys (Core), Llyn Tywal (Core)
+Neighbouring Features: Rugged summit with sheer faces and panoramic views; ancient crater lake with teeming shores and small inlets.
+Kingdom/Clan Affiliation: Battanian (fen Dunglanys holds Dunglanys), focused on druidic rites and Fian training.
+Structure and Layout:
+Core: Tower with central herb gardens, surrounded by training clearings and moat-fed streams.
+Key Districts: Shore rites for druids; inlet farms with reed harvests; rune halls for bindings.
+Defenses: Palisades on gentle slopes with archer positions; terrain advantages from crater rims and fog veils.
+Population and Daily Life:
+Size and Density: Small town (400-800 residents), wilderness-like with low clusters around the peak and lake.
+Demographics:
+Garrison: Fians for shore defense; scouts on summits; guards with bindings.
+Civilians: Herb gatherers; fishers in inlets; women in rite roles.
+Economy: Herb and lichen trade; lake fish bartering; craftsmanship in charms.
+Culture and Customs: Druid feasts and ancestor whispers; salt circles against false moons.
+Villages:
+Glenlithrig: Primarily focused on forestry, this village produces Hardwood; it is located in the highlands of the northern Uchalion and supplies timber to nearby fortresses.
+Diantogmail: Amid Rock of Glanys' sheer summits and Llyn Tywal's gentle shores, this sparse outpost herds hardy sheep across lichen-clad crevices and reed-fringed inlets. Yields wool and meat, sustaining garrisons amid fog-veiled whispers and Unveiling's prophetic ripples.
+Morihig: Perched near wind-carved peaks overlooking misty lake shores, this wilderness hamlet rears rugged hogs in hidden clearings teeming with aquatic echoes. Produces pork and hides, villagers warding ancient rites against false-moon shadows in the perpetual humid haze.
+Hazards:
+Man-made: Clan feuds and bribes; eastern wildland incursions.
+Bestiary: Aquatic mutants in inlets; birds on peaks.
+Unveiling: False Moon ripples on waters; prophetic whispers from crevices.
+Uthelaim Castle
+Hidden stone-timber keep on misty highlands forming a natural barrier, Uthelaim clings to steep fog-veiled cliffs amid rolling plateaus dotted by ancient standing stones and dense thickets of hardy shrubs. Trails carve through the haze, revealing hidden caves and sudden drops amid the perpetual damp.
+Location and Ties:
+Geographic Structure Link: Cursion Escarpment (North East/East)
+Neighbouring Features: Steep cliffs and plateaus with standing stones and thickets; trails revealing caves amid damp haze.
+Kingdom/Clan Affiliation: Battanian (fen Uthelaim holds Uthelaim Castle), focused on eastern defenses and druidic barriers.
+Structure and Layout:
+Core: Keep integrated into cliffs with central groves, surrounded by ambush paths and moats.
+Key Districts: Plateau ranges for Fians; thicket gardens for herbs; stone halls for rites.
+Defenses: Palisades on steep boundaries with tower positions; terrain advantages from fog and drops.
+Population and Daily Life:
+Size and Density: Small castle (200-500 residents), low density with sparse halls and outlying thickets.
+Demographics:
+Garrison: Fians for cliff defense; scouts in haze; guards on trails.
+Civilians: Herb foragers; rite performers; women in garden roles.
+Economy: Herb trade from thickets; stone craftsmanship.
+Culture and Customs: Druid oaths and feasts; iron wards against whispers.
+Villages:
+Uthelaim: This village sits on a ridge overlooking a tributary of the river Myr (the Miron) on the eastern borders of the Battanian heartland; the inhabitants are primarily foresters; they harvest the oak, yew, and pine from the dense surrounding woods for sale to builders and shipwrights across Calradia; primary resource: Produces Hardwood.
+Seordas: Amid Cursion's steep fog-veiled cliffs and rolling plateaus dotted with standing stones, this low-lying hamlet cultivates grain in damp thickets and hidden caves. Yields hearty harvests, sustaining garrisons under cool humid skies haunted by Unveiling's prophetic whispers.
+Hazards:
+Man-made: Eastern incursions; clan rivalries.
+Bestiary: Cave beasts in haze; aggressive shrubs.
+Unveiling: False Moon thins veils; prophetic cave knocks.
+Llanoc Hen Castle
+Timber-reinforced stone tower perched on deep forested ravine with steep-sided walls overgrown with tangled vines and ancient oaks, Llanoc Hen serves as a sentinel against incursions amid shadowy canopies over winding streams and hidden clearings. Echoing calls of woodland birds fill the air, paths meandering through moss-covered boulders and sudden sinkholes.
+Location and Ties:
+Geographic Structure Link: The Cafalcomb (South)
+Neighbouring Features: Steep ravine walls with tangled vines and oaks; paths through boulders and sinkholes.
+Kingdom/Clan Affiliation: Battanian (fen Llanoc holds Llanoc Hen Castle), focused on southern borders and woodland oaths.
+Structure and Layout:
+Core: Tower with central sacred altars, surrounded by ambush defiles and market clearings.
+Key Districts: Ravine farms with stream harvests; grove halls for rites; rune gates for defenses.
+Defenses: Palisades hugging steep walls with archer positions; terrain advantages from canopies and sinkholes.
+Population and Daily Life:
+Size and Density: Small castle (300-600 residents), low density with scattered halls and ravine settlements.
+Demographics:
+Garrison: Fians for ravine defense; scouts in undergrowth; guards on paths.
+Civilians: Herb traders; bird hunters; women in rite roles.
+Economy: Woodland herb trade; vine craftsmanship.
+Culture and Customs: Oath feasts and ancestor echoes; salt wards against shadows.
+Villages:
+Llanoc Hen: Perched on a ridge in the heights of the Uchalion massif, its people are known as skilled pig-farmers; the village's elevation allows its inhabitants to "look down two passes"—the western pass leading from Vlandian lands and the eastern one descending toward the Empire.
+Cantrec: Situated in the rocky Glen of Balasog, which ascends from Imperial territory into the Uchalion plateau; the land is described as not particularly fertile for crops; however, pigs thrive in the dense bush and shrubland of these rocky heights.
+Hazards:
+Man-made: Southern incursions; clan betrayals.
+Bestiary: Woodland beasts in canopies; mutants in sinkholes.
+Unveiling: False Moon amplifies echoes; twisting shadows.
+Pendraic Castle
+Nestled deep within misty highlands and winding river channels, Pendraic Castle clings to steep fog-veiled cliffs amid rolling plateaus and fertile meadows. Timber halls extend into hidden caves, where Fians hone tactics in dense thickets. Druid groves thrive in perpetual damp, streams carving shallow moats. Trade in herbs flows discreetly through undulating paths. False moons cause rock knocks, dreams haunting the garrison, countered by fires.
+Location and Ties:
+Geographic Structure Link: Cursion Escarpment (North East/East), Fiur River (Core)
+Neighbouring Features: Steep cliffs with thickets and caves; river banks with meadows and waterfowl.
+Kingdom/Clan Affiliation: Battanian (fen Pendraic holds Pendraic Castle), focused on guerrilla defenses and river trade.
+Structure and Layout:
+Core: Rock-face keep with central caverns, surrounded by moat streams and ambush paths.
+Key Districts: Thicket ranges for Fians; meadow gardens for herbs; rune halls for rites.
+Defenses: Integrated cliffs with tower positions; terrain advantages from haze and channels.
+Population and Daily Life:
+Size and Density: Small castle (250-500 residents), low density with sparse caverns and outlying meadows.
+Demographics:
+Garrison: Fians for cliff defense; scouts in thickets; guards on paths.
+Civilians: Herb gatherers; river fishers; women in grove roles.
+Economy: Herb and amber trade; meadow craftsmanship.
+Culture and Customs: Guerrilla oaths and feasts; blessed wards against whispers.
+Villages:
+Pendraic: Sits on the steep northern slope of the Uchalion Plateau, facing the Bay of Varcheg; the lore describes it as a land of "cold winds and constant low-level warfare"; villagers primarily raise hogs and live in a state of high alert; they are said to always be listening for warning horns so they can drive their herds into hiding spots in the hills to avoid Vlandian, Battanian, or Sturgian raiders.
+Lindorn: North of Llyn Tywal's glistening crater amid undulating Fiur channels and Cursion cliffs, this low-lying hamlet cultivates grain in fertile meadows teeming with waterfowl. Yields bountiful harvests, sustaining garrisons under temperate skies haunted by Unveiling's prophetic ripples.
+Hazards:
+Man-made: Eastern raids; clan plots.
+Bestiary: Thicket beasts in haze; river mutants.
+Unveiling: False Moon thins veils; prophetic knocks.
+Car Banseth (Town)
+Bustling timber docks line winding river channels and sheltered bays, Car Banseth thrives as a coastal hub amid fertile meadows and calm waters lapping at sandy coves. Longships tie up for fish and furs, markets alive with harp music and merchants bartering amber amid riparian vegetation and seasonal waterfowl. Clan halls overlook waves, blending rites with sea vigils. Fian scouts patrol undulating paths. False moons stir aurora spirits, drowners lurking in shallows, warded by charms.
+Location and Ties:
+Geographic Structure Link: Fiur River (Core), Bay Of Varcheg Coastline (North/North West)
+Neighbouring Features: Shallow river channels with meadows and waterfowl; bays with sandy coves and tidal shifts.
+Kingdom/Clan Affiliation: Battanian (fen Banseth holds Car Banseth), focused on coastal trade and sea rites.
+Structure and Layout:
+Core: Dock town with central halls, surrounded by market shores and vigil paths.
+Key Districts: Inlet docks for longships; meadow farms with vegetation harvests; rune shores for veneration.
+Defenses: Palisades along rugged bays with scout towers; terrain advantages from coves and vegetation ambushes.
+Population and Daily Life:
+Size and Density: Medium town (900-1,800 residents), moderate with clustered docks and outlying meadows.
+Demographics:
+Garrison: Scouts patrolling paths; archers on overlooks; guards defending docks.
+Civilians: Fish traders; herb gatherers; women in rite and market roles.
+Economy: Fish and fur trade; vegetation bartering.
+Culture and Customs: Sea feasts and ancestor songs; iron wards against drowners.
+Villages:
+Geunat Nal: Often described in-game as a "hill fortress" village due to its proximity to the cliffs of Car Banseth; it is a primary producer of Grapes, fueling the local wine production.
+Tor Leiad: Situated in the high elevations, this village provides the town with Hardwood; its position makes it a vital resource node for building siege engines and upgrading the town’s fortifications.
+Bog Beth: Located in a dark, marshy valley in the eastern Uchalion massif; villagers here are specialists in trapping beavers, foxes, and other animals to produce Furs; the lore paints a picture of a somber, low-lying settlement contrasted against the high peaks of the surrounding mountains.
+Hazards:
+Man-made: Trade disputes; northern incursions.
+Bestiary: Drowners in shallows; beasts in meadows.
+Unveiling: False Moon awakens aurora; unnatural ripples.
+Flintolg Castle
+Timber-and-stone bastion nestled at craggy misty mountains with jagged peaks shrouded in fog, Flintolg guards frontiers amid boulder-strewn slopes and hidden glens with hardy evergreens. Palisades encircle training clearings, with druidic altars in rockfall-prone areas. Markets trade grains from sparse settlements. Clan oaths echo in halls. False Moon nights summon mists, visions plaguing sentries, warded by circles.
+Location and Ties:
+Geographic Structure Link: Atila Druin Mountains (North)
+Neighbouring Features: Jagged peaks with fog and rockfalls; slopes with evergreens and echoing winds.
+Kingdom/Clan Affiliation: Battanian (fen Flintolg holds Flintolg Castle), focused on mountain defenses and hardy trade.
+Structure and Layout:
+Core: Bastion with central altars, surrounded by training glens and market slopes.
+Key Districts: Boulder ranges for Fians; evergreen gardens for herbs; rune halls for oaths.
+Defenses: Palisades on mountainous terrain with tower positions; terrain advantages from rockfalls and winds.
+Population and Daily Life:
+Size and Density: Small castle (200-400 residents), sparse with isolated halls and outlying glens.
+Demographics:
+Garrison: Fians for slope defense; scouts in glens; guards on paths.
+Civilians: Herb gatherers; goat herders; women in altar roles.
+Economy: Grain and herb trade; evergreen craftsmanship.
+Culture and Customs: Oath feasts and echoes; blessed wards against visions.
+Villages:
+Flintolg: Sits on a high crest on the eastern side of the Uchalion massif; while the soil is poor for farming, the surrounding woods are extremely thick; this makes the village a primary source of Hardwood.
+Glintor: Likely the namesake for the Glintor Pony, a rugged breed of horse; the village specializes in breeding Horses (specifically the Battanian Pony); its proximity to the Uchalion peaks ensures these horses are bred for endurance in mountainous terrain.
+Hazards:
+Man-made: Southern advances; clan rivalries.
+Bestiary: Mountain beasts in glens; mutants in fog.
+Unveiling: False Moon summons mists; prophetic echoes.
+Aster Castle
+Fortified timber keep nestled on craggy misty mountains overlooking sheltered bays, Aster commands coastline from jagged peaks and calm waters lapping at sandy coves. Fian archers hone skills on boulder-strewn bluffs, while sacred runestones mark paths to foggy inlets. Trade in fish flows through hidden glens with evergreens. Ancestor rites blend with coastal vigils. False moons awaken aurora spirits, shadows elongating on cliffs, countered by fires.
+Location and Ties:
+Geographic Structure Link: Atila Druin Mountains (North), Bay Of Varcheg Coastline (North)
+Neighbouring Features: Jagged peaks with fog and rockfalls; bays with coves and tidal shifts.
+Kingdom/Clan Affiliation: Battanian (fen Aster holds Aster Castle), focused on coastal defenses and rite vigils.
+Structure and Layout:
+Core: Keep with central runestones, surrounded by bluff ranges and inlet paths.
+Key Districts: Glen gardens for herbs; cove docks for trade; rune halls for rites.
+Defenses: Integrated peaks with tower positions; terrain advantages from rockfalls and coves.
+Population and Daily Life:
+Size and Density: Small castle (250-500 residents), sparse with scattered bluffs and outlying inlets.
+Demographics:
+Garrison: Archers on bluffs; scouts in glens; guards on paths.
+Civilians: Fish traders; herb gatherers; women in vigil roles.
+Economy: Fish and fur trade; evergreen bartering.
+Culture and Customs: Rite feasts and ancestor blends; iron wards against shadows.
+Villages:
+Aster: This village is situated in a shallow valley between the hills of the northeastern Uchalion and the Rock of Glanys; unusually for the warlike Battanians, the people here have a reputation for being more focused on trade than warfare; tribal elders encouraged the cultivation of mulberry bushes to support a small Silk industry, though its primary in-game resource is Flax.
+Imlagh: Found in the rugged, high-altitude terrain typical of the Battanian borders; as a castle-bound village, Imlagh is a prime location to find Battanian Highborn Youth, the starting unit for the elite Fian Champion archer line.
+Hazards:
+Man-made: Northern threats; clan feuds.
+Bestiary: Beasts in glens; drowners in coves.
+Unveiling: False Moon awakens aurora; elongating shadows.
+Druimmor Castle
+Sturdy stone-timber tower standing at narrow western defiles shadowed by trees, Druimmor commands defenses amid steep slopes and towering peaks riddled with caves. Palisades snake along winding trails, with Fians practicing in forested valleys. Druid bindings reinforce gates in resource-rich heights, herb gardens thriving in howled winds. Trade in furs passes through guarded routes. Oaths echo in halls. False Moon nights bring knocks, omens twisting, warded by chants.
+Location and Ties:
+Geographic Structure Link: Morcomb Pass (West)
+Neighbouring Features: Steep defiles with trees and winds; peaks with caves and ridges.
+Kingdom/Clan Affiliation: Battanian (fen Druimmor holds Druimmor Castle), focused on eastern defenses and mountain trade.
+Structure and Layout:
+Core: Tower with central bindings, surrounded by ambush trails and garden crevices.
+Key Districts: Slope ranges for Fians; ridge gardens for herbs; rune halls for chants.
+Defenses: Palisades on steep gaps with tower positions; terrain advantages from valleys and winds.
+Population and Daily Life:
+Size and Density: Small castle (300-600 residents), low with sparse trails and outlying ridges.
+Demographics:
+Garrison: Fians for defile defense; scouts in valleys; guards on routes.
+Civilians: Fur traders; herb gatherers; women in binding roles.
+Economy: Fur and iron trade; ridge craftsmanship.
+Culture and Customs: Chant feasts and oaths; blessed wards against omens.
+Villages:
+Druimmor: Situated in the Morcomb, a dramatic rift valley that carves through the land, separating the Uchalion plateau from the coastal mountains of the Ebor peninsula; the village's history is defined by its mines; local lore states that miners first discovered Silver Ore hidden within the deep, shadowed clefts of the valley's hillsides; it remains a primary producer of Silver Ore, which makes nearby towns like Dunglanys ideal locations for Silversmith workshops.
+Tor Melina: Positioned within the same rugged region, Tor Melina serves as a crucial secondary support for the castle; while often categorized alongside its silver-producing neighbour, Tor Melina’s environment is better suited for high-altitude agriculture; in various versions of the game's economy, it has been noted for producing Cotton or Grapes, though its specific "lore description" typically emphasises its role as a fortified highland settlement; as a castle-bound village, it is a key site for recruiting Battanian Highborn Youth, the elite archers of the Battanian faction.
+Hazards:
+Man-made: Eastern threats; clan ambushes.
+Bestiary: Cave mutants in valleys; beasts on ridges.
+Unveiling: False Moon echoes knocks; twisting omens.
+Rhemtoil Castle
+Hidden timber stronghold nestled in misty craggy peaks with towering spires, Rhemtoil overlooks valleys from windswept ridges amid narrow ravines and alpine meadows. Markets barter furs and herbs amid standing stones. Clan councils convene in rune halls. False moons cause silence, whispers rising, warded by fires.
+Location and Ties:
+Geographic Structure Link: Uchalion Massif (South East)
+Neighbouring Features: Craggy peaks with spires and ravines; ridges with wildflowers and goats.
+Kingdom/Clan Affiliation: Battanian (fen Rhemtoil holds Rhemtoil Castle), focused on valley oversight and council rites.
+Structure and Layout:
+Core: Stronghold with central groves, surrounded by scout ridges and market stones.
+Key Districts: Ravine ranges for Fians; meadow gardens for herbs; rune halls for councils.
+Defenses: Integrated spires with tower positions; terrain advantages from ravines and ridges.
+Population and Daily Life:
+Size and Density: Small castle (200-400 residents), sparse with isolated ridges and outlying meadows.
+Demographics:
+Garrison: Scouts on ridges; archers in ravines; guards on paths.
+Civilians: Herb traders; goat herders; women in grove roles.
+Economy: Fur and herb trade; meadow craftsmanship.
+Culture and Customs: Council feasts and oaths; sacred wards against whispers.
+Villages:
+Rhemtoil: Nestled beneath a shadowy cleft in Uchalion's eastern escarpment, near the Myr's murmuring source, this verdant haven boasts Battania's richest soils. Golden wheat sways under misty skies, yielding bountiful grain harvests that feed clans amid ancient whispers from glacial streams.
+Claig Ban: Perched in rocky highlands near the castle, this rugged outpost contrasts fertile valleys with barren crags. Villagers delve into earthy veins for prime clay, forging pots and bricks in windswept kilns, their labors echoing through caverns haunted by Unveiling's faint, prophetic knocks.
+Hazards:
+Man-made: Valley incursions; clan rivalries.
+Bestiary: Mountain goats in meadows; mutants in ravines.
+Unveiling: False Moon causes silence; rising whispers.
+Ab Comer Castle
+Reinforced timber tower overlooking narrow defiles and winding river channels, Ab Comer serves as a bulwark against raids amid forested slopes and fertile meadows. Palisades hug steep routes, with Fian training in dense undergrowth. Sacred altars stand in brisk winds, trade sustaining the garrison along riparian banks. Oaths echo in halls. False Moon nights stir winds, shadows watchful, warded by talismans.
+Location and Ties:
+Geographic Structure Link: Rhennod Pass (South West), Etir River (South West)
+Neighbouring Features: Steep defiles with undergrowth and streams; undulating river banks with meadows and vegetation.
+Kingdom/Clan Affiliation: Battanian (fen Comer holds Ab Comer Castle), focused on pass defenses and river oaths.
+Structure and Layout:
+Core: Tower with central altars, surrounded by training defiles and trade banks.
+Key Districts: Slope ranges for Fians; meadow gardens for herbs; rune halls for oaths.
+Defenses: Palisades on steep paths with tower positions; terrain advantages from winds and channels.
+Population and Daily Life:
+Size and Density: Small castle (250-500 residents), low with sparse defiles and outlying meadows.
+Demographics:
+Garrison: Fians for pass defense; scouts in undergrowth; guards on routes.
+Civilians: Herb traders; river gatherers; women in altar roles.
+Economy: Herb and vegetation trade; undergrowth craftsmanship.
+Culture and Customs: Oath feasts and echoes; vigilant wards against shadows.
+Villages:
+Ab Comer: This village is located on a steep pass carved by the upper Trand river as it ascends the Uchalion plateau; local tribes have adapted to the terrain by growing grapes on the rocky hillsides; it is a primary producer of Grapes, used to craft a white wine that is highly sought after by Vlandian and Imperial aristocracies.
+Inveth: Nestled in highland passes at the conjuncture of Upper Thrand and Etir Rivers, this frontier bastion yields hardy grain from mist-veiled fields. It breeds resilient youths, honed by endless skirmishes, who rise as elite Fian champions under prophetic stars and ancient clan vows.
+Hazards:
+Man-made: Vlandian raids; clan ambushes.
+Bestiary: Forest beasts in undergrowth; river mutants.
+Unveiling: False Moon stirs winds; watchful shadows.
+Seonon (Town)
+Clustered timber longhouses settled between misty highlands and craggy peaks, Seonon thrives as a crossroads amid steep cliffs, rolling plateaus, towering spires, and alpine meadows. Markets bustle with amber and herbs, harp melodies through standing stones and wildflowers. Druids conduct rites by damp edges, Fians practice in ravines. Councils gather under oaks. False Moon nights bring ripples, whispers from rocks, shadows from massif, warded by charms.
+Location and Ties:
+Geographic Structure Link: Cursion Escarpment (North East/East), Uchalion Massif (South East)
+Neighbouring Features: Steep cliffs with thickets and caves; peaks with ravines and meadows.
+Kingdom/Clan Affiliation: Battanian (fen Seonon holds Seonon), focused on crossroads trade and druid councils.
+Structure and Layout:
+Core: Longhouses with central stones, surrounded by market plateaus and rite ravines.
+Key Districts: Thicket ranges for Fians; meadow gardens for herbs; rune halls for councils.
+Defenses: Integrated cliffs with tower positions; terrain advantages from haze and spires.
+Population and Daily Life:
+Size and Density: Medium town (800-1,600 residents), low with scattered longhouses and outlying meadows.
+Demographics:
+Garrison: Fians for cliff defense; scouts in ravines; guards on trails.
+Civilians: Amber traders; herb gatherers; women in rite roles.
+Economy: Amber and herb trade; meadow craftsmanship.
+Culture and Customs: Council feasts and melodies; blessed wards against whispers.
+Villages:
+Andurn: Tucked in a hill cleft overlooking Llyn Tywal's dark waters, this forested enclave echoes with axes felling beech, oak, and yew. Producing hardy hardwood for bows and halls, villagers ward ancient groves against Unveiling whispers in the perpetual damp.
+Bryn Glas: Sprawled across rolling pastureland in misty highlands, this verdant hamlet teems with flocks grazing under watchful shepherds. It yields fine wool from hardy sheep, woven into woad-dyed cloaks that whisper of ancient clan bonds amid Unveiling's elongated shadows.
+Mag Arba: As Seonon's chief breadbasket, this fertile outpost in plateau meadows sways with golden grain under temperate skies. Villagers harvest wheat in rhythmic chants, their yields sustaining crossroads feasts while false moons cast prophetic ripples over the fields.
+Swenryn: Perched on the Imperial frontier near the river Myr, this hardy outpost yields bountiful grain from fog-shrouded fields. It nurtures fierce young warriors, their spirits forged in border skirmishes, destined to become elite Fian champions amid whispered prophecies and ancient oaths.
+Hazards:
+Man-made: Eastern incursions; clan disputes.
+Bestiary: Thicket beasts in haze; mutants in ravines.
+Unveiling: False Moon thins veils; elongated shadows.
+

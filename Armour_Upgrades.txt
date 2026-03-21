@@ -1,0 +1,32 @@
+Universal Armour Upgrade Components Table
+(Field & Manufacturing upgrades – All now include durability considerations)
+Upgrade,Type,Cost Mod,Enc Mod,AC / Coverage Effect,Durability Effect,Applicable Materials,Notes (Situational Modifiers)
+Ventail Type,Construction,Cost,Enc,AC Added (Cut/Pierce/Blunt),Coverage Added,Eligible On
+Butted Ventail,Butted Mail,+10 sc,+2,+1 / +1 / +0,5% Head (Face),"- Any Mail Coif
+- Nasal (Rigid Uniform)
+- Barbute (Rigid Uniform)
+- Skullcap (Rigid Partial)
+- Nasal Spangehelm (Rigid Partial)"
+Riveted Ventail,Riveted Mail,+10 sc,+2,+1 / +1 / +0,5% Head (Face),Same list as above
+Beeswaxing/Resin,Field,+8 sc,+1,+1 / +0 / +0 AC + Waterproof,+15 Durability Score vs. Hydrology,Any textile or leather,Prevents water absorption and fraying. Must be reapplied every 1–2 months.
+Insulated,Field,+10 sc,+2,—,+10 Durability Score in cold climates,Any padded / textile or soft leather,+10 Toughness vs. cold. +5 Enc in high Temp HSI.
+Breathable,Field,+9 sc,-1,—,+10 Durability Score in hot climates,Any padded / textile or soft leather,+10 Toughness vs. hot. -1 Blunt AC in cold climates.
+Painting and Lacquering,Field,+12 sc,+1,Waterproof + +5 Fellowship (heraldry),+15 Durability Score vs. corrosion,Any Rigid Uniform (plate),Decorative finish. Prevents surface rust.
+Bluing and Blackening,Field,+15 sc,+0,+20 Durability vs. corrosion + +10 Intimidate,+25 Durability Score vs. corrosion,Any Rigid Uniform (plate),Dark chemical finish. Excellent rust resistance.
+Plating and Tinning,Field,+20 sc,+2,+1 / +0 / +1 AC + +15 Durability vs. corrosion,+20 Durability Score overall,Any Rigid Uniform (plate),Thin protective metal plating. Improves rust resistance.
+Kraken Sinew Straps,Field,+18 sc,+2,+15 Durability Score + Waterproof,+25 Durability Score vs. wear & cutting,Any rigid armour with leather straps/bindings,Extremely strong sinew. Almost impossible to snap.
+Veil-Touched Hide Lining,Field,+25 sc,+3,+1 / +1 / +1 AC,+10 Durability Score,Any rigid armour with internal leather padding,Mottled glowing hide. +5 Intimidate. +10% mutation risk on False Moons.
+Sea Serpent Scale Rivet Washers,Field,+15 sc,+1,+20 Durability vs. corrosion + +1 Blunt AC,+20 Durability Score vs. corrosion,Any rigid armour with riveted plates,Small sea serpent scale discs. Prevents rust.
+Troll Hide Fastenings,Field,+12 sc,+2,+15 Durability Score + +10 Toughness vs. cold,+15 Durability Score in cold climates,Any rigid armour with leather straps or tassets,Tough troll hide. River variant more flexible.
+
+Manufacturing Upgrades (now amended with durability)
+Upgrade,Type,Cost Mod,Enc Mod,AC Effect,Durability Effect,Applicable Materials,Notes (Situational Modifiers)
+Double Mail Rings*,Manufacturing,+30%,+25%,+1 / +1 / +1,+20 Durability Score,Any mail construction,8-in-1 or 6-in-1 weave. Heavier and warmer; -5 Endurance in high Temp.
+Tempered Rings*,Manufacturing,+40%,+15%,+1 / +1 / +2 (Blunt bias),+25 Durability Score,Any metallic rings or plates,Heat-treated hardness. Slight metallic chime; -5 Silent Move.
+Heat Treatment*,Manufacturing,+35%,+10%,+1 / +1 / +1,+20 Durability Score,Any metallic component,Broad metallic upgrade. Slight metallic chime; -5 Silent Move.
+Sea Serpent Scales*,Manufacturing,+50%,-25%,+3 / +3 / +3,+25 Durability Score,Any scale construction,Exotic lightweight. +10 Intimidate; -5 Fellowship in coastal settlements.
+Tempered Scales*,Manufacturing,+40%,+10%,+1 / +1 / +2 (Blunt bias),+25 Durability Score,Any scale construction,Heat-treated hardness. Slight metallic chime; -5 Silent Move.
+Rock Troll Hide*,Manufacturing,+30%,+15%,+1 / +1 / +2 (Blunt bias),+20 Durability Score,Rigid leather construction,Stiff and heavy; -5 Agility in prolonged marches.
+River Troll Hide*,Manufacturing,+25%,+5,+1 / +1 / +1,+15 Durability Score,Soft leather / padded construction,More subtle and flexible than Rock Troll Hide.
+High-Density Quilting*,Manufacturing,+25%,+3,+1 / +1 / +1,+15 Durability Score,Any padded / textile construction,Denser stitching. Stiffer and warmer; -5 Agility.
+Spider Silk Lining*,Manufacturing,+40%,-4,+2 / +2 / +1,+20 Durability Score,Any padded / textile construction,Ultra-light and strong. +10 Dodge while worn.

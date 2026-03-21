@@ -1,0 +1,154 @@
+These instructions provide a standardized template for creating or updating region documents in the Calradia RP system. The format is based on the "Region: Swadia" document, ensuring consistency across regions (e.g., Ebor Peninsula, Uchalion Plateau). This promotes readability, lore integration, and mechanical usability (e.g., for EHGS rolls, bestiary hazards, and RP narration). Follow the structure exactly, adapting content to the specific region's geography, culture, and lore from core files like "Calradia.txt", "Bestiary Rules.txt", and map references.
+General Guidelines
+
+Document Title: Start with "# Region: [Region Name]" as the top-level header.
+Content Sourcing: Draw from established lore (e.g., neighboring regions from map, clans from "Ruling Clans Of [Faction].txt", bestiary from relevant .txt files). Use descriptive, immersive prose for overviews and settlements, incorporating Unveiling elements (false moons, veil-thinning) without over-dramatizing.
+Environmental Scores: Always use 0-5 ranges per category (Temperature, Rainfall, Human Density, Flora/Fauna Density, Topography, Hydrology). Derive from "Core Rules.txt" and bestiary HSI; make region-wide defaults adaptable.
+Hazards: Categorize as Man-made, Bestiary (reference RHK/HSI if possible), Unveiling. Tie to geography (e.g., hydrology-high areas get drowners).
+Word Count: Keep overviews ~100-200 words; settlement intros ~200-500 words (expand for major cities); subsections concise.
+Consistency: Use bold for sub-headers (bold). Bullet lists for structures/villages/hazards. Ensure no contradictions with global lore (e.g., Vlandian feudalism, no open magic).
+Updates: End with "Last Updated: [Date]" if versioning.
+
+Required Structure and Sections
+
+## Neighbouring Regions
+List cardinal directions (North, North East, East, South East, South, South West, West, North West) followed by neighboring regions or features (e.g., bodies of water, other regions like "Uchalion Plateau").
+Format: Plain text lines, one per direction.
+Purpose: Defines borders for travel, trade, and hazards (e.g., eastern incursions).
+Example:textNorth: Cape Fal Bay, Ebor Peninsula, Western Ocean  
+North East: Uchalion Plateau  
+...
+
+## Overview
+A single paragraph summarizing the region's geography, role in Calradia, cultural/factional ties, seasonal/Unveiling influences, and key economies/hazards.
+Include border references and ties to broader lore (e.g., Vlandian expansion).
+Example: Start with " [Region] represents... " and end with overarching themes.
+
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area):
+Bullet list of the 5 core categories with ranges and descriptors (e.g., Temperature: Temperate [2-4]).
+Purpose: Base for EHGS hazard generation.
+
+## Geographic Structures
+First, list cardinal directions and core (e.g., North: [Feature], Core: [Feature]).
+Then, bullet points for each named structure:
+Structure Name: Description (1-2 sentences on features, connections, hazards).
+Environmental Scores: Comma-separated list (Temperature: X-Y, etc.).
+
+Order alphabetically or logically (e.g., coastal to inland).
+Purpose: Detailed sub-areas for RP travel/encounters.
+
+## Settlements
+Subsections for each settlement (e.g., ### [Settlement Name] ([Type, e.g., Port City])).
+Intro Paragraph(s): Vivid, lore-rich description (history, atmosphere, Unveiling ties, key spectacles like palaces or markets).
+Location and Ties:
+Geographic Structure Link: List linked structures (e.g., Swadian Heartlands (Core)).
+Neighbouring Features: 1-2 sentences on nearby terrain.
+Kingdom/Clan Affiliation: Faction/clan ruler, focus (e.g., Vlandian (ruled by Baron X of House Y), focused on Z).
+
+Structure and Layout:
+Core: Core elements (e.g., central keep).
+Key Districts: Bullet or list (e.g., Riverfront for docks).
+Defenses: Key defenses (e.g., walls, natural barriers).
+
+Population and Daily Life:
+Size and Density: Estimate (e.g., Large town (5,000-10,000), densely urban).
+Demographics:
+Garrison: Military roles.
+Civilians: Civilian roles (e.g., merchants, farmers).
+
+Economy: Key trades/productions.
+Culture and Customs: Traditions, rituals.
+
+Villages: Bullet list of bound villages (description, production). Add "Additionally..." for trade ties.
+Hazards: Bullet categories (Man-made, Bestiary, Unveiling) with specifics.
+
+Order settlements logically (e.g., north to south).
+
+
+Replication Steps
+
+Research Base: Review map, core lore files, and adjacent regions for borders/geography.
+Populate Sections: Fill overview first, then derive structures/scores from it.
+Balance Detail: Ensure settlements vary by importance (e.g., cities get longer intros).
+Cross-Check: Verify against bestiary (HSI matches), economy (goods from "Economy Primary Goods.txt"), clans.
+Test for RP: Imagine a player query (e.g., "Travel from Pravend to Ocs Hall")—ensure doc supports dynamic narration.
+
+Instructions for Replicating Oceanic Region Format in Calradia Lore Documents
+These instructions provide a standardized template for creating or updating oceanic region documents (e.g., gulfs, seas, bays) in the Calradia RP system. The format is adapted from land regions (e.g., Swadia) to suit marine environments, emphasizing aquatic adaptations like water depth and sea state. It ensures consistency with core lore from "Calradia.txt", "Bestiary Rules.txt", and oceanic EHGS rules, while focusing on naval themes, trade routes, and Unveiling sea horrors. Disregard villages in settlement descriptions, as they are covered in adjacent land region docs.
+General Guidelines
+
+Document Title: Start with "# Region: [Oceanic Region Name]" as the top-level header.
+Content Sourcing: Draw from map, core lore, and adjacent land regions for borders. Use immersive prose for overviews and settlements, incorporating Unveiling elements (e.g., false moons stirring abyssal rumbles) without over-dramatizing. Focus on naval aspects like trade lanes, piracy, and marine hazards.
+Environmental Scores: Use 1-5 ranges per category, adapted for oceanic (per "Core Rules.txt"): Temperature (water conditions: 1 freezing - 5 tropical), Rainfall (storm frequency: 1 minimal - 5 constant), Human Density (maritime activity: 1 isolated - 5 crowded), Flora/Fauna Density (marine life: 1 barren - 5 teeming), Topography (water depth: 1 shallow - 5 abyssal), Hydrology (sea state: 1 calm - 5 extreme). Hydrology is always included but not always 5.
+Hazards: Categorize as Man-made (e.g., piracy), Bestiary (e.g., krakens, reference RHK/HSI), Unveiling (e.g., glowing eyes). Tie to aquatic geography (e.g., high Hydrology for rough currents).
+Word Count: Overviews ~100-200 words; settlement intros ~200-400 words (expand for major ports); subsections concise.
+Consistency: Bold sub-headers (bold). Bullet lists for structures/hazards. No villages in settlements. Ensure no contradictions with global lore (e.g., no open magic, Aserai influences in south).
+Updates: End with "Last Updated: [Date]" for versioning.
+
+Required Structure and Sections
+
+## Neighbouring Regions
+List cardinal directions followed by neighboring regions or features (e.g., land masses, other seas like "Perassic Sea").
+Format: Plain text lines, one per direction.
+Purpose: Defines maritime borders for navigation, trade, and hazards (e.g., eastern straits for piracy).
+Example:textNorth: Ortysian Basin, Neurval Basin  
+North East: Neurval Basin  
+...
+
+## Overview
+A single paragraph summarizing the region's aquatic features, role in Calradia (e.g., trade artery), cultural/naval ties, seasonal/Unveiling influences, and key economies/hazards.
+Include border references and ties to broader lore (e.g., Vlandian-Aserai shipping).
+Example: Start with "The [Region] is a vast... " and end with overarching themes like naval perils.
+
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area):
+Bullet list of the 5 core categories with oceanic-adapted ranges and descriptors (e.g., Temperature: Warm waters [4]).
+Purpose: Base for hazard generation in marine contexts.
+
+## Geographic Structures
+First, list cardinal directions and core (e.g., North: [Feature], Core: [Feature]).
+Then, bullet points for each named structure:
+Structure Name: Description (1-2 sentences on features, connections, hazards like currents/reefs).
+Environmental Scores: Comma-separated list with oceanic interpretations (Temperature: [Descriptor] [Range], etc.).
+
+Order alphabetically or logically (e.g., coastal to deep sea).
+Purpose: Detailed sub-areas for RP voyages/encounters (e.g., straits for ambushes).
+
+## Settlements
+Subsections for each settlement (e.g., ### [Settlement Name] ([Type: Port or Misc Outpost])).
+Intro Paragraph(s): Vivid, lore-rich description (history, atmosphere, Unveiling ties, key naval spectacles like shipyards or watchtowers).
+Location and Ties:
+Geographic Structure Link: List linked structures (e.g., Biscan Coast (North)).
+Neighbouring Features: 1-2 sentences on nearby marine terrain (e.g., coral reefs).
+Kingdom/Clan Affiliation: Faction/clan ruler, focus (e.g., Aserai (ruled by Sultan X), focused on spice trade).
+
+Structure and Layout:
+Core: Core elements (e.g., sandstone citadel).
+Key Districts: Bullet or list (e.g., Harbor wharfs for dhows).
+Defenses: Key defenses (e.g., chain booms, naval patrols).
+
+Population and Daily Life:
+Size and Density: Estimate (e.g., Large port (5,000-10,000), densely urban along quays).
+Demographics:
+Garrison: Military roles (e.g., naval scouts).
+Civilians: Civilian roles (e.g., merchants, fishermen).
+
+Economy: Key trades/productions (e.g., spice exports, fisheries).
+Culture and Customs: Traditions, rituals (e.g., moon wards).
+
+Hazards: Bullet categories (Man-made, Bestiary, Unveiling) with specifics.
+
+Order logically (e.g., northern ports to southern outposts). Use "Port" for major harbors, "Misc Outpost" for forts/chains.
+Purpose: Focus on naval hubs without land villages.
+
+
+Replication Steps
+
+Research Base: Use map for borders, core lore for naval threats (e.g., krakens from "Kraken.txt"), adjacent land regions for ties.
+Populate Sections: Fill overview first, then derive structures/scores.
+Balance Detail: Ports get longer intros; outposts concise.
+Cross-Check: Verify against bestiary (marine HSI), economy (sea goods from "Economy Primary Goods.txt"), factions.
+Test for RP: Imagine a query (e.g., "Sail from Galend to Charas")—ensure doc supports dynamic encounters like storms or piracy.
+
+This format ensures oceanic regions emphasize marine adaptations—e.g., no villages, focus on ports/outposts. Save as "[Oceanic Region Name].txt" for loader compatibility.
+
+This format ensures modularity—e.g., add new settlements without restructuring. Save as "[Region Name].txt" for loader compatibility.

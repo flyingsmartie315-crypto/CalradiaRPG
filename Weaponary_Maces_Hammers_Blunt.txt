@@ -1,0 +1,5 @@
+MacesHammers
+Name,Cost,Enc,Group,Damage Profile (Cut / Pierce / Blunt),Reach (yards),Qualities,Availability
+One-Handed Mace/Hammer*,14 sc,50,Ordinary,(2 / 3 / 5),1,"Armour Piercing, Pummelling",Common
+Two-Handed Mace/Hammer*,1 gc 6 sc,150,Two-handed,(1 / 3 / 6),1.5,"Armour Piercing, Impact, Pummelling, Slow",Average
+Staff (Variant),6 sc,50,Two-handed,(0 / 1 / 4),2,"Defensive, Fast, Concealable, Inconspicuous",Plentiful

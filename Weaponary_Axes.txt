@@ -1,0 +1,4 @@
+Axes
+Name,Cost,Enc,Group,Damage Profile (Cut / Pierce / Blunt),Reach (yards),Qualities,Availability
+One-Handed Axe*,14 sc,40,Ordinary,(5 / 2 / 3),1,"Impact, Versatile",Common
+Two-Handed Axe*,1 gc 6 sc,150,Two-handed,(6 / 2 / 4),1.5,"Impact, Slow, Versatile (Hulking only)",Average

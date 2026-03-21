@@ -1,0 +1,325 @@
+# Armour Cultures of Calradia
+# Version: 2026-03-16
+# This document describes how each of the six major cultures interprets and uses the same mechanical armour system. All rules (AC, Enc, coverage, upgrades, layering) remain identical across cultures. Differences are purely cosmetic, linguistic, and stylistic.
+
+Vlandia Armour, Styles & Fashions (High to Late Feudal Period)
+The Kingdom of Vlandia maintained a distinctive heavy, knightly, and highly heraldic style rooted in feudal traditions and the martial culture of its warlike nobility. Armour emphasised rigid plate and layered mail for maximum protection in the open fields and tournaments of the kingdom, while civilian and military over-garments used bold colours, surcoats, and house emblems for status display. Equipment was practical yet ornate, with gold, quartered patterns, and lion motifs common for knights and lords.
+Core Armour Pieces
+Coat of Plates – The signature Vlandian cuirass
+A rigid torso defence made of overlapping iron or steel plates riveted between layers of canvas or leather. It covered the chest, back, and often extended to the upper arms and hips. Plates were arranged in rows for flexibility and strength. Worn by knights and men-at-arms from the High Feudal period onward. It frequently included transverse top plates and segmented shoulders and was almost always layered over mail for maximum protection.
+Hauberk – Riveted mail shirt
+Long-sleeved or short-sleeved mail hauberk reaching the knees or mid-thigh. Often worn beneath the coat of plates. High-quality versions used tight riveted rings and were the standard foundation for professional warriors.
+Gambeson / Pourpoint – Quilted under-garment
+Thick, multi-layered linen or wool coat worn directly against the body. It absorbed shock, prevented chafing, and provided insulation. Essential under all metal armour. Variants included arming doublets with points for attaching plate and fashionable pourpoints that cinched the waist.
+Surcoat / Tabard – Heraldic over-garment
+Decorative and functional outer layer worn over armour. Usually wool or fine cloth, brightly quartered in house colours and embroidered with lions, eagles, or family crests. It protected the metal from rust and rain while proudly displaying lineage. Knights’ versions were highly ornate with gold thread and bordered edges.
+Pteruges / Skirt of Plates – Fringed leather or plate strips
+Hanging leather or rigid plate flaps (tassets) attached to the waist. Protected the upper thighs and groin. Common on both infantry and knightly armour, often matching the surcoat colours.
+Splinted or Plate Limb Guards
+Arm and leg defences made of overlapping steel strips or solid plates (vambraces, rerebraces, cuisses, greaves). Common on knights and heavy men-at-arms from the High Feudal period onward.
+Rigid Uniform Harness – Full plate
+The pinnacle of Vlandian armour: breastplate, plackart, backplate, pauldrons, and full limb harness. Reserved for the wealthiest knights and banner lords in the Late Feudal period.
+
+Helmets
+Nasal and Kettle helms (early and common for levies).
+Sallet and Bascinet (standard for professional men-at-arms).
+Great Bascinet, Armet, and Great Helm (elite knightly helms).
+Frog Mouth (tournament-only, bolted to the cuirass).
+
+Helmets were typically worn over a mail coif or padded arming cap and often featured house crests or plumes for knights.
+Typical Appearance by Social Strata & Troop Type
+Royal Household and High Lords
+The highest nobility appear in the finest Rigid Uniform harnesses of Hardened Steel, often with gold inlay and full heraldic surcoats quartered in house colours. They wear Great Bascinets, Armets, or Great Helms for maximum protection in decisive battles, but many favour lighter Sallet or Bascinet helmets with raised visors when commanding from the rear or during long marches — prioritising situational awareness and voice projection over total enclosure. Appearance: imposing, magnificent, and unmistakably royal.
+Banner Lords and Landed Knights
+Landed knights typically wear complete Rigid Uniform or high-quality Coat of Plates over mail, with Sallet, Bascinet, or Great Bascinet helmets. Many choose open-faced Nasal or Kettle helms for scouting or tournament melee to maintain clear vision and hearing. Their surcoats are prominently quartered with family arms. Appearance: proud, well-equipped, and ready for both tournament and battlefield.
+Household Knights and Professional Men-at-Arms
+Professional household troops wear solid Coat of Plates or Riveted Mail Hauberks with Sallet, Bascinet, or Armet helmets. Veterans often prefer lighter Kettle or Nasal variants for prolonged campaigns where peripheral vision and hearing are critical. Tassets and surcoats with house colours complete the look. Appearance: practical, battle-tested, and uniform within their company.
+Squires
+Squires wear lighter Rigid Partial armour — splinted bracers, knee cops, and mail hauberks over gambesons, often with open-faced Nasal, Kettle, or Sallet helmets. They carry their knight’s spare weapons and shields. Appearance: aspiring but not yet fully armoured.
+Levied Freemen
+Common soldiers are issued basic Riveted or Butted Mail hauberks over gambesons, Kettle or Nasal helmets, and wooden or heater shields. Many still fight in padded jackets with only a spear. Appearance: functional but plain, with minimal heraldry.
+Peasant Levies
+The lowest strata wear only padded gambesons or thick wool tunics, simple Kettle or Nasal helmets, and basic spears or bows. Very few have mail. Appearance: basic and unadorned, reflecting their humble origins.
+Civilian and Courtly Wear
+Men’s Everyday Wear
+Most Vlandian men wore tunics and hose, often layered with a short cloak or mantle. Practical wool or linen was standard for commoners, while nobles favoured finer cloth with embroidered borders. Wide belts and leather boots completed the outfit. Colours ranged from earth tones for peasants to deep reds, blues, and quartered patterns for the gentry.
+Women’s Everyday Wear
+Women wore layered gowns and mantles with fitted bodices and flowing skirts. Long sleeves and embroidered hems were common. Veils or simple headdresses provided modesty. Noblewomen added richer fabrics and gold jewellery.
+Vlandia
+Civilian and Courtly Wear
+Vlandian outerwear was bold and heraldic. The signature garment was the surcoat or tabard — a sleeveless or short-sleeved woollen or silk over-garment worn over armour or fine tunics, quartered in house colours and embroidered with lions, eagles, or family crests. Knights and lords favoured the great cloak — a heavy woollen mantle lined with fur, fastened with a large brooch bearing the house arms, and often draped dramatically over one shoulder. In court, nobles wore the pourpoint cloak — a tailored, cinched-waist mantle with gold piping and house colours. Women’s outerwear included the mantle — a long, flowing cloak trimmed with fur or embroidered borders, worn over gowns. Commoners used plain woollen cloaks, while the elite layered multiple mantles for status during feasts and tournaments.
+
+Calradian Empire Armour, Styles & Fashions (High to Late Imperial Period)
+The Calradian Empire maintained a distinctive layered, flexible, and highly symbolic style rooted in ancient Imperial traditions but influenced by eastern and steppe cultures. Armour emphasised composite construction (lamellar + mail + padding) for mobility and heat management in the Empire’s varied climates, while civilian and military over-garments used luxurious silk for status display. Equipment was practical yet ornate, with gold, purple, and embroidered motifs common for officers.
+Core Armour Pieces
+Klivanion – The signature Imperial cuirass
+Lamellar armour made of small rectangular iron or bronze plates laced or riveted onto a leather or cloth backing. It covered the torso, upper arms, and sometimes thighs. Plates were often arranged in rows for flexibility. Worn by heavy infantry and cavalry (kataphraktoi). It frequently had shoulder guards and short sleeves and was often layered over mail for maximum protection.
+Lorikion – Mail hauberk
+Long-sleeved or short-sleeved mail shirt reaching the knees or mid-thigh. Often worn beneath or over the klivanion. High-quality versions used riveted rings and were standard issue for many legionary units.
+Kabadion – Quilted under-garment
+Thick, multi-layered linen or cotton coat worn directly against the body. It absorbed shock, prevented chafing, and provided insulation. Essential under all metal armour. Variants included skirts (kremasmata) for thigh protection.
+Epilorikion – Silk or cloth overcoat
+Decorative and functional outer layer worn over armour. Usually silk or fine wool, often padded, dyed red or purple, and embroidered with eagles, lions, or rank symbols. It protected the metal from the elements while displaying status. Officers’ versions were highly ornate with gold thread and tablion panels.
+Pteruges / Kremasmata – Fringed leather or padded strips
+Hanging leather or quilted flaps attached to the waist or shoulders. Protected the upper thighs and groin. Common on both infantry and cavalry armour.
+Scale Armour Variants
+Bronze or iron scales sewn onto cloth backing. Used for sleeves, leg guards, or as lighter alternatives to lamellar in some units.
+Splinted or Lamellar Limb Guards
+Arm and leg defences made of overlapping metal strips or small plates. Common on heavy cavalry from the High Imperial period onward.
+
+Helmets
+Conical or nasal helmets with cheek guards (most common early type).
+Kettle-style helmets with wide brims (popular with infantry and archers).
+Later periods saw more enclosed forms with liftable visors or nasal bars.
+Spangenhelm (segmented) styles remained in use by lighter troops.
+
+Helmets were typically worn over a padded coif or mail coif and decorated with plumes or crests for officers.
+Typical Appearance by Troop Type
+Light Infantry / Skirmishers (Psiloi)
+Minimal protection: padded kabadion or light lorikion, simple conical or nasal helmet, small shield, javelins or composite bow. Appearance: light and mobile, focused on speed and harassment.
+Archers
+Padded kabadion or light mail shirt, kettle or nasal helmet, composite recurved bow. Some added small lamellar panels. Appearance: practical and mobile, with quivers and bow cases prominent.
+Medium/Heavy Infantry (Skoutatoi)
+Standard kit: kabadion + lorikion mail + klivanion lamellar cuirass, kettle or nasal helmet, large oval or kite shield, spear, and sword. Pteruges on thighs. Officers added epilorikion cloaks with rank insignia. Appearance: layered and solid, with bright overcoats and unit shields forming a shield wall.
+Auxiliaries & Foreign Troops
+Varied greatly depending on origin. Steppe auxiliaries often brought lamellar or scale; western mercenaries wore mail hauberks and kite shields. Many wore lighter kabadion + mail only. Appearance: diverse and colourful.
+Heavy Cavalry (Kataphraktoi)
+Full protection: kabadion + lorikion + full klivanion (including sleeves and leg guards), conical or visored helmet, large shield or barding on horse. Often with epilorikion. Appearance: imposing and heavily armoured, with horses also in scale or lamellar.
+Civilian and Courtly Wear
+Men’s Everyday Wear
+Most Imperial citizens wore long, flowing tunics (chiton or dalmatica) with wide sleeves, often layered over simple linen under-tunics. Trousers or close-fitting leggings were common for practicality, especially among merchants and travellers. A short cloak (chlamys) fastened at the shoulder with a large fibula brooch completed the outfit. Colours ranged from earth tones for commoners to deep reds and blues for the middle classes. Belts were wide and often decorated with bronze or silver fittings, serving both practical and status purposes.
+Women’s Everyday Wear
+Women favoured layered tunics and mantles, with the outer layer often made of finer wool or silk. Long, flowing robes with embroidered borders were standard. Veils or draped head coverings were common for modesty and sun protection. Colours and patterns followed social rank, with brighter dyes and more intricate embroidery for wealthier households.
+Calradian Empire
+Civilian and Courtly Wear
+Imperial outerwear was a statement of rank and imperial unity. The most common garment was the chlamys — a long, flowing wool or silk cloak fastened at the right shoulder with a large gold or silver fibula brooch. Higher ranks added tablion panels (large embroidered rectangles) in deep purple or crimson, often depicting eagles, laurel wreaths, or the Emperor’s monogram. Nobles and officers wore the epilorikion — a richly padded silk overcoat dyed in imperial red or purple, embroidered with gold thread, and lined with fine wool for cold nights. In court, the pallium (a long rectangular mantle) was draped over one arm in a formal manner, its borders heavy with gold embroidery. Commoners used simpler woollen cloaks in earth tones, while the elite layered multiple cloaks for dramatic effect during processions. Purple was strictly regulated and instantly signalled proximity to the Emperor.
+
+Battanian Armour, Styles & Fashions (High to Late Feudal Period)
+The Kingdom of Battania developed a distinctive hardy, organic, and mystical style rooted in the ancient Celtic, Pictish, Gaelic, and Welsh traditions of its people, with some Balkan influences from mountain clans. Armour emphasised flexible, layered protection using natural materials suited to the thickest woodlands and the mist-shrouded Uchalion Plateau — where the veil between worlds is dangerously thin. Leather, wicker, spider silk, troll hide, and bone dominate, with woad dyes and ritual markings giving every warrior a wild, almost supernatural presence. Equipment is practical yet deeply symbolic, blending survival in the forest with ancient druidic and warrior customs.
+Core Armour Pieces
+Hardened Leather Cuirass (Cuir Bouilli) – The signature Battanian torso defence
+Boiled and moulded leather reinforced with wicker, bone plates, or river troll hide strips. It covers the chest, back, and often upper arms. Lightweight, flexible, and silent in the woods. Frequently layered over padded gambeson for extra protection against arrows and glancing blows. Balkan-influenced versions add small iron scales for elites.
+Mail Shirt (Hauberk) – Riveted or butted mail
+Long or short-sleeved mail shirt reaching the knees or mid-thigh. Often worn beneath the cuir bouilli by professional warriors. High-quality versions use riveted rings and are trimmed with fur or woad-dyed leather. Less common than in other kingdoms but prized by veteran clansmen.
+Gambeson / Padded Jacket – Quilted under-garment
+Thick, multi-layered wool or linen coat stuffed with horsehair, moss, or spider silk. Essential under all armour for shock absorption and warmth in the damp forests. Many versions include long sleeves and skirts, often dyed with woad patterns or ritual symbols.
+Wicker or Bone Reinforced Overcoat
+Decorative and functional outer layer of woven wicker, bone plates, or spider-silk reinforced cloth. It protects the metal/leather from rain and displays clan totems or druidic markings. Officers’ versions are highly ornate with gold thread and leaf motifs.
+Pteruges / Leather Skirt
+Hanging leather or padded flaps attached to the waist. Protected the upper thighs and groin. Common on both infantry and clan warriors, often trimmed with fur or woad-stained leather.
+Splinted or Bone Limb Guards
+Overlapping bone, wicker, or iron strips for arms and legs. Common on heavier clan warriors and Balkan-influenced elites. Added significant protection without sacrificing forest mobility.
+Troll Hide Mantle
+Heavy river or rock troll hide cloak worn over armour. Provided vital cold and arrow protection while serving as a status symbol for chieftains. Often trimmed with woad patterns or ritual bone charms.
+
+Helmets
+Open Nasal or Kettle helms (most common for levies and skirmishers).
+Sallet or Bascinet variants (standard for professional warriors).
+Enclosed forms (rare, used by high chieftains and elites).
+
+Helmets were typically worn over a padded coif or mail coif and decorated with woad, antlers, feathers, or carved bone for ritual significance.
+Typical Appearance by Social Strata & Troop Type
+High Chieftains and Druids
+The highest nobility appear in the finest hardened leather cuirass reinforced with river troll hide and bone plates, layered over padded gambeson, with enclosed helmets. Richly embroidered spider-silk mantles and woad ritual markings mark their status. Appearance: mystical, imposing, and deeply connected to the veil.
+Clan Lords and Oathsworn
+Landed clan lords and their elite retainers (the Oathsworn) wear hardened leather cuirass reinforced with wicker or bone plates over a mail shirt, paired with sallet or bascinet helmets. Their mantles proudly display clan totems and woad markings. The Oathsworn are the sworn swords of the clan lords — battle-hardened professionals who form the unbreakable core of any warband. They favour practical, forest-adapted gear that allows them to fight in tight shield walls or lead charges through dense woodland. Appearance: hardy, fiercely loyal, and battle-tested, the living embodiment of clan honour.
+Fians – The Martial Elite
+The Fians form the revered martial class of Battania, often of noble blood. These Woodland Masters excel in guerrilla warfare, holding high ground, and decimating enemies before they reach the frontline. They wield longbows of prestigious draw weight with legendary accuracy, striking from the shadows of the ancient forests. When their position is overrun, they switch seamlessly to large swords or axes, becoming formidable in melee. Armour is light and forest-adapted: padded gambeson reinforced with spider-silk or river troll hide, sallet or bascinet helmets with raised visors for maximum awareness, and woad-dyed cloaks for camouflage. Appearance: silent, lethal, and almost supernatural — masters of the veil who move like ghosts through the trees.
+Professional Clan Warriors
+Veteran fighters wear gambeson + mail hauberk + light leather cuirass, with sallet or nasal helmets. Many add troll hide accents and woad patterns. Appearance: rugged, mobile, and forest-adapted.
+Freemen / Tribal Hunters
+Common free fighters wear padded gambeson with a simple kettle or nasal helmet, round shield, and spear or bow. Fur trim on cloaks is common. Appearance: practical and lightly armoured.
+Archers / Skirmishers
+Light padded gambeson, kettle helmet, longbow or javelins. Leather bracers and woad-dyed cloaks. Appearance: silent and deadly in the woods.
+Peasant Levies
+The lowest strata wear only padded gambesons or thick wool tunics, simple kettle or nasal helmets, and basic spears or bows. Very few have mail. Appearance: basic and unadorned, reflecting their woodland roots.
+Civilian and Courtly Wear
+Men’s Everyday Wear
+Most Battanian men wore tunics and trousers with heavy woollen cloaks fastened by large brooches. Practical wool or linen was standard for commoners, while nobles favoured finer cloth with woad embroidery or leaf patterns. Wide belts and leather boots completed the outfit. Colours ranged from forest greens and browns to deep blues and reds for the gentry.
+Women’s Everyday Wear
+Women wore layered gowns and mantles with fitted bodices and flowing skirts. Long sleeves and embroidered hems were common. Veils or simple headscarves provided modesty. Noblewomen added richer fabrics and silver jewellery.
+Battania
+Civilian and Courtly Wear
+Battanian outerwear was organic and mystical. The most common garment was the woad-dyed mantle — a heavy woollen cloak dyed in forest greens and blues with woad patterns or leaf motifs. Clan lords and Fians favoured the troll hide mantle — a thick river or rock troll hide cloak trimmed with fur and embroidered with clan symbols. In court, chieftains wore the great leaf mantle — a long, flowing woollen cloak decorated with embroidered leaves, antlers, or bone charms. Women’s outerwear included the shawl mantle — a thick woollen cloak trimmed with fox fur or spider-silk edging. Commoners used simple woollen cloaks, while the elite layered multiple mantles to display clan pride and connection to the ancient forests.
+
+Sturgia Armour, Styles & Fashions (High to Late Period)
+The Kingdom of Sturgia developed a heavy, rugged, and layered fighting style that perfectly blended Nordic mail traditions, Kievan Rus lamellar and scale influences, and Western plate elements acquired through trade and conquest. Armour emphasised thick mail hauberks reinforced with lamellar or coat of plates for maximum protection in the freezing northern winters and brutal shield-wall battles, while fur trim, runic engravings, and heavy leather accents gave every warrior a distinctly intimidating presence. Equipment was practical, durable, and status-driven — the best pieces were often heirlooms passed down through generations.
+Core Armour Pieces
+
+Mail Hauberk (Brynja) – The foundation of every Sturgian warrior
+Long or short-sleeved riveted mail shirt reaching the knees or mid-thigh. The most common and prestigious armour. Often worn alone by wealthier huscarls or layered under lamellar for elites. High-quality versions used tight riveted rings and were frequently trimmed with bear or wolf fur at the collar and cuffs.
+Lamellar Cuirass – Kievan Rus influence
+Small rectangular iron or bronze plates laced onto a leather or cloth backing. Covered the torso and sometimes upper arms and thighs. Widely adopted by the druzhina-style retainers and heavy warriors. Frequently worn over the mail hauberk for devastating protection against arrows and slashing blows.
+Coat of Plates – Western influence
+Overlapping steel plates riveted between layers of canvas or leather. Covered the chest, back, and hips. Popular among veteran huscarls and banner leaders in the later period. Provided superior rigidity while retaining some flexibility at the seams. Often combined with lamellar for the heaviest fighters.
+Splinted Limb Guards – Western and steppe hybrid
+Overlapping steel strips or small plates protecting the arms (vambraces) and legs (greaves and cuisses). Common on elite warriors and heavy cavalry. Added significant protection without sacrificing too much mobility.
+Gambeson / Padded Under-Garment
+Thick, multi-layered wool or linen coat stuffed with horsehair or felt. Essential under all metal armour for shock absorption and warmth in the freezing north. Many versions included skirts and arm protection.
+Fur-Lined Mantle
+Heavy bear, wolf, or reindeer fur cloak worn over armour. Provided vital cold protection and served as a status symbol. Often trimmed with runic embroidery or metal plaques.
+Pteruges / Leather Skirt
+Hanging leather or padded flaps attached to the waist. Protected the upper thighs and groin. Frequently dyed or trimmed to match the warrior’s cloak.
+
+Helmets
+Conical / Nasal Helm – The classic Sturgian helmet. Iron with a prominent nasal bar and cheek guards. Often worn with a mail coif.
+Spangenhelm – Segmented construction with iron bands over a cap. Common on lighter troops and druzhina.
+Kettle Helm variants – Wide-brimmed helmets for deflection and rain protection. Popular with infantry and archers.
+
+Helmets were usually worn over a padded cap or mail coif and decorated with runic bands, animal crests, or fur trim for chieftains. Druzhina elites often added ornate gilded nasal guards or cheek plates for extra intimidation.
+Typical Appearance by Social Strata & Troop Type
+High Lords & Druzhina Elite
+The highest nobility and druzhina wear full lamellar cuirass over mail hauberk, coat of plates on the torso, splinted limb guards, and a conical nasal helm with mail coif and gilded face guard. Richly decorated cloaks and runic engravings mark their status. Appearance: imposing, heavily armoured, and unmistakably Sturgian.
+Huscarls & Professional Warriors
+Veteran household troops wear mail hauberk reinforced with lamellar or coat of plates, splinted arm and leg guards, and a spangenhelm or nasal helm. Many add fur-lined mantles and tassets. Appearance: battle-hardened, layered, and grim.
+Freemen / Bondi Warriors
+Common free fighters wear mail hauberk or padded gambeson with a simple nasal or kettle helmet, round shield, and axe or spear. Fur trim on cloaks is common. Appearance: rugged and practical.
+Archers / Skirmishers
+Light padded gambeson or scale vest, simple nasal helmet or none, composite bow. Leather bracers and light cloaks. Appearance: mobile and lightly protected.
+Peasant Levies
+Thick woollen tunic or padded jacket, basic spear or axe, minimal helmet (if any). Appearance: unarmoured and expendable.
+Civilian and Courtly Wear
+Men’s Everyday Wear
+Most Sturgian men wore tunics and trousers with heavy woollen cloaks fastened by large brooches. Practical wool or linen was standard for commoners, while nobles favoured finer cloth with runic embroidery. Wide belts and fur-lined boots completed the outfit. Colours ranged from dark earth tones to deep reds and blues for the gentry.
+Women’s Everyday Wear
+Women wore layered gowns and mantles with fitted bodices and flowing skirts. Long sleeves and embroidered hems were common. Veils or simple headscarves provided modesty. Noblewomen added richer fabrics and silver jewellery.
+Sturgia
+Civilian and Courtly Wear
+Sturgian outerwear was rugged and intimidating. The most iconic piece was the fur-lined mantle — a heavy cloak of bear, wolf, or reindeer fur worn over armour or tunics, often trimmed with runic embroidery or metal plaques. Warriors and lords favoured the byrnie cloak — a long woollen mantle reinforced with mail rings at the shoulders and edged with fur. In court, chieftains wore the great fur mantle — a massive cloak lined with the finest furs and fastened with large silver brooches carved with runes or animal heads. Women’s outerwear included the shawl mantle — a thick woollen cloak trimmed with fox or sable fur. Commoners used simple woollen cloaks, while the elite layered multiple mantles to display wealth and martial prowess even in peacetime.
+
+Khuzait Armour, Styles & Fashions (High to Late Khaganate Period)
+The Khuzait Khaganate forged a distinctive light, mobile, and fiercely nomadic style shaped by endless steppe horizons, thunderous horse herds, and the need for speed over static defence. Armour emphasised flexible lamellar composites and silk for unmatched mobility in the saddle, while civilian and military over-garments used vibrant silk, horsehair plumes, and golden motifs to display rank and clan pride. Equipment was practical yet opulent, blending ruthless efficiency with the grandeur of a people who once rode from one end of Calradia to the other.
+Core Armour Pieces
+Lamellar Cuirass (Kuyak) – The signature Khuzait torso defence
+Small rectangular iron or bronze plates laced onto a leather or silk backing. It covered the torso, upper arms, and often thighs. Designed with wide gaps for ventilation and freedom of movement, it was frequently worn over light mail or padded layers. Elite versions featured denser plating or gilded edges for high-ranking noyans.
+Mail Shirt (Zardiya) – Riveted mail hauberk
+Long or short-sleeved riveted mail shirt reaching the knees or mid-thigh. Often worn beneath the kuyak by heavier cavalry or as standalone protection for lighter riders. High-quality versions used tight riveted rings and were trimmed with silk or horsehair.
+Padded Kabadion – Quilted under-garment
+Thick, multi-layered silk or cotton coat stuffed with horsehair or felt. Essential under all metal armour for shock absorption and comfort during long rides. Many versions included long sleeves and skirts, often dyed in bright clan colours.
+Epilorikion – Silk or cloth overcoat
+Decorative and functional outer layer worn over armour. Usually fine silk, often padded and embroidered with horse motifs, eagles, or golden steppe patterns. It protected the metal from dust and rain while displaying status. Officers’ versions were highly ornate with gold thread and flowing cloth covers.
+Pteruges / Fringed Strips
+Hanging leather or padded flaps attached to the waist or shoulders. Protected the upper thighs and groin. Common on both light and heavy cavalry, often dyed in vibrant clan colours.
+Scale or Splinted Limb Guards
+Overlapping metal scales or strips for arms and legs. Common on heavy cavalry and elite guards. Added significant protection without sacrificing saddle mobility.
+Horsehair or Fur Mantle
+Heavy silk or fur cloak worn over armour. Provided vital protection from wind and dust while serving as a status symbol for noyans. Often trimmed with golden horsehair plumes or clan totems.
+
+Helmets
+Conical or nasal helmets with cheek guards (the most widespread type).
+Rider’s Kettle helmets with wide brims for deflection of sun and arrows.
+Turban Helms (later period) – enclosed helmets with cloth wrapping or ventilation holes.
+
+Helmets were often worn over a padded coif or light mail coif and decorated with horsehair plumes or gilded crests for officers.
+Typical Appearance by Social Strata & Troop Type
+Khagan and High Noyans
+The highest nobility appear in the finest lamellar kuyak reinforced with gilded plates and silk lining, layered over padded kabadion, with turban helms or enclosed helmets. Richly embroidered silk epilorikia and golden horse motifs mark their status. Appearance: opulent, imposing, and unmistakably royal.
+Elite Druzhina & Heavy Cavalry
+Professional heavy riders wear full kuyak lamellar over zardiya mail with splinted limb guards and turban or kettle helmets. Their epilorikia are richly embroidered with clan symbols. Appearance: disciplined, heavily armoured, and ready for thunderous charges.
+Horse Archers & Professional Raiders
+Veteran steppe warriors wear padded kabadion + light zardiya mail + kuyak plates with kettle or nasal helmets. Many add flowing silk cloaks and horsehair plumes. Appearance: fast, mobile, and deadly from the saddle.
+Freemen / Tribal Horsemen
+Common free riders wear padded kabadion or light zardiya mail with a simple nasal or kettle helmet, round shield, and composite bow. Appearance: rugged and steppe-adapted.
+Archers / Skirmishers
+Light padded kabadion, kettle helmet, composite recurved bow. Leather bracers and flowing cloaks. Appearance: silent and deadly on the open plains.
+Peasant Levies
+Thick cotton tunic or basic padded jacket, simple nasal helmet (if any), spear or bow. Appearance: basic and unadorned, reflecting their nomadic roots.
+Civilian and Courtly Wear
+Men’s Everyday Wear
+Most Khuzait men wore long tunics with wide sleeves, loose trousers, and flowing cloaks fastened with brooches. Practical silk or cotton was standard for commoners, while nobles favoured finer cloth with embroidered borders. Wide belts and leather boots completed the outfit. Colours ranged from bright steppe tones to deep blues and golds for the elite.
+Women’s Everyday Wear
+Women wore layered tunics and mantles, often with veils or headscarves for sun protection. Richer fabrics and embroidery were common for higher ranks.
+Courtly and Elite Wear
+The Khuzait court was defined by opulent silk and golden splendour. Khagans and noyans wore richly embroidered robes, flowing silk cloaks, and turbans with gold thread and horse motifs. Men favoured layered kaftans and jewelled belts. Women wore elaborate gowns with pearls, gold, and flowing veils. Purple and deep crimson were reserved for the highest nobility. Even military leaders at court combined armour with rich epilorikion overcoats and gilded accessories.
+The overall Khuzait style — whether on the battlefield or in the palace — projected power through lightning mobility, layered lamellar, and gilded silk splendour. Lords and warriors stood out dramatically against the simpler dress of common riders and levies.
+
+Aserai Sultanate Armour, Styles & Fashions (High to Late Sultanate Period)
+The Aserai Sultanate developed a distinctive light yet formidable style that perfectly blended Bedouin nomadic traditions with the disciplined heavy armour of the Mameluke slave-soldier caste. Armour emphasised breathable lamellar and mail composites for desert mobility, reinforced by Western-style plate elements on elite units. Fur, silk, and flowing robes gave every warrior both protection and striking visual presence. Equipment was practical, durable, and status-driven — the best pieces were often gifts from the Sultan or earned through loyal service.
+Core Armour Pieces
+Jawshan – The signature Aserai cuirass
+Lamellar armour made of small rectangular iron or bronze plates laced onto a leather or cloth backing. It covered the torso, upper arms, and often thighs. Designed with wide ventilation gaps, it was frequently worn over mail for balanced protection while remaining relatively light for desert campaigns. Mameluke versions were denser and more rigid.
+Zardiya – Mail hauberk
+Long or short-sleeved riveted mail shirt reaching the knees or mid-thigh. The most common foundation armour. Often worn beneath the jawshan by Bedouin raiders or as the main protection for lighter troops. High-quality Mameluke versions used tight riveted rings and were trimmed with silk.
+Kazaghand – Quilted under-garment
+Thick, multi-layered linen or cotton coat worn directly against the body. It absorbed shock, prevented chafing, and provided vital insulation while allowing airflow. Essential under all metal armour. Many versions included long skirts for thigh protection.
+Epilorikion – Silk or cloth overcoat
+Decorative and functional outer layer worn over armour. Usually fine silk or lightweight wool, often padded and embroidered with geometric desert patterns, stars, or royal motifs. It protected the metal from sand and rust while displaying status. Mameluke officers’ versions were highly ornate with gold thread and flowing cloth covers.
+Pteruges / Fringed Strips
+Hanging leather or padded flaps attached to the waist or shoulders. Protected the upper thighs and groin. Common on both Bedouin and Mameluke armour, often dyed in vibrant desert colours.
+Scale or Splinted Limb Guards
+Overlapping metal scales or strips for arms and legs. Common on heavy Mameluke cavalry and elite guards. Added significant protection to limbs without sacrificing too much mobility.
+Fur-Lined or Silk Mantle
+Heavy camel-hair or silk cloak worn over armour. Provided vital protection from sandstorms and cold desert nights while serving as a status symbol for Mameluke emirs.
+
+Helmets
+Conical or nasal helmets with cheek guards (the most widespread type).
+Sunshield Kettle helmets with wide brims for deflection of sun and arrows.
+Turban Helms (later period) – enclosed helmets with cloth wrapping or ventilation holes.
+
+Helmets were often worn over a padded coif or mail coif and decorated with plumes or gilded crests for Mameluke officers.
+Typical Appearance by Social Strata & Troop Type
+Sultan and High Emirs
+The highest nobility appear in the finest jawshan lamellar over zardiya mail, splinted limb guards, and gilded turban helms with aventail. Richly embroidered silk epilorikia and gold jewellery mark their status. Appearance: opulent, heavily armoured, and unmistakably royal.
+Mameluke Emirs and Elite Guards
+Professional Mameluke commanders wear full jawshan lamellar + zardiya mail + splinted limb guards with enclosed or turban helms. Their epilorikia are richly embroidered with Sultanate eagles. Appearance: disciplined, heavily armoured, and imposing.
+Bedouin Warriors and Professional Raiders
+Veteran desert fighters wear kazaghand + zardiya mail + light jawshan plates with kettle or nasal helmets. Many add flowing burnous cloaks. Appearance: rugged, mobile, and practical.
+Freemen / Tribal Horsemen
+Common free fighters wear kazaghand or light zardiya mail with a simple nasal or kettle helmet, round shield, and spear or bow. Appearance: light and desert-adapted.
+Archers / Skirmishers
+Light padded kazaghand, kettle helmet, composite bow. Leather bracers and light cloaks. Appearance: mobile and lightly protected.
+Peasant Levies
+Thick cotton tunic or padded jacket, basic spear or bow, minimal helmet (if any). Appearance: basic and unadorned.
+Civilian and Courtly Wear
+Men’s Everyday Wear
+Most Aserai men wore long tunics with wide sleeves, loose trousers, and flowing cloaks fastened with brooches. Practical linen or cotton was standard for commoners, while nobles favoured finer silk with embroidered borders. Wide belts and leather boots completed the outfit. Colours ranged from light desert tones to deep blues and golds for the elite.
+Women’s Everyday Wear
+Women wore layered tunics and mantles, often with veils or headscarves for sun protection. Richer fabrics and embroidery were common for higher ranks.
+Aserai Sultanate
+Civilian and Courtly Wear
+Aserai outerwear was flowing and heat-resistant. The signature garment was the burnous — a long, hooded wool or silk cloak that protected against sandstorms and sun while allowing airflow. Nobles and officers wore the epilorikion burnous — a richly embroidered silk version dyed in deep blues, golds, or crimson, often with geometric desert patterns or royal motifs. The flowing mantle — a lighter silk cloak fastened with a jewelled brooch — was common at court. Women’s outerwear included the veil mantle — a long, flowing silk cloak with a head veil for modesty and sun protection. Commoners used plain linen burnous, while the elite layered multiple silk mantles and added gold thread embroidery to display wealth and status.
+
+Khuzait Armour, Styles & Fashions (High to Late Khaganate Period)
+The Khuzait Khaganate forged a distinctive light, mobile, and fiercely nomadic style shaped by endless steppe horizons, thunderous horse herds, and the need for speed over static defence. Armour emphasised flexible lamellar composites and silk for unmatched mobility in the saddle, while civilian and military over-garments used vibrant silk, horsehair plumes, and golden motifs to display rank and clan pride. Equipment was practical yet opulent, blending ruthless efficiency with the grandeur of a people who once rode from one end of Calradia to the other.
+Core Armour Pieces
+Lamellar Cuirass (Kuyak) – The signature Khuzait torso defence
+Small rectangular iron or bronze plates laced onto a leather or silk backing. It covered the torso, upper arms, and often thighs. Designed with wide gaps for ventilation and freedom of movement, it was frequently worn over light mail or padded layers. Elite versions featured denser plating or gilded edges for high-ranking noyans.
+Mail Shirt (Zardiya) – Riveted mail hauberk
+Long or short-sleeved riveted mail shirt reaching the knees or mid-thigh. Often worn beneath the kuyak by heavier cavalry or as standalone protection for lighter riders. High-quality versions used tight riveted rings and were trimmed with silk or horsehair.
+Padded Kabadion – Quilted under-garment
+Thick, multi-layered silk or cotton coat stuffed with horsehair or felt. Essential under all metal armour for shock absorption and comfort during long rides. Many versions included long sleeves and skirts, often dyed in bright clan colours.
+Epilorikion – Silk or cloth overcoat
+Decorative and functional outer layer worn over armour. Usually fine silk, often padded and embroidered with horse motifs, eagles, or golden steppe patterns. It protected the metal from dust and rain while displaying status. Officers’ versions were highly ornate with gold thread and flowing cloth covers.
+Pteruges / Fringed Strips
+Hanging leather or padded flaps attached to the waist or shoulders. Protected the upper thighs and groin. Common on both light and heavy cavalry, often dyed in vibrant clan colours.
+Scale or Splinted Limb Guards
+Overlapping metal scales or strips for arms and legs. Common on heavy cavalry and elite guards. Added significant protection without sacrificing saddle mobility.
+Horsehair or Fur Mantle
+Heavy silk or fur cloak worn over armour. Provided vital protection from wind and dust while serving as a status symbol for noyans. Often trimmed with golden horsehair plumes or clan totems.
+
+Helmets
+Conical or nasal helmets with cheek guards (the most widespread type).
+Rider’s Kettle helmets with wide brims for deflection of sun and arrows.
+Turban Helms (later period) – enclosed helmets with cloth wrapping or ventilation holes.
+
+Helmets were often worn over a padded coif or light mail coif and decorated with horsehair plumes or gilded crests for officers.
+Typical Appearance by Social Strata & Troop Type
+Khagan and High Noyans
+The highest nobility appear in the finest lamellar kuyak reinforced with gilded plates and silk lining, layered over padded kabadion, with turban helms or enclosed helmets. Richly embroidered silk epilorikia and golden horse motifs mark their status. Appearance: opulent, imposing, and unmistakably royal.
+Elite Druzhina & Heavy Cavalry
+Professional heavy riders wear full kuyak lamellar over zardiya mail with splinted limb guards and turban or kettle helmets. Their epilorikia are richly embroidered with clan symbols. Appearance: disciplined, heavily armoured, and ready for thunderous charges.
+Horse Archers & Professional Raiders
+Veteran steppe warriors wear padded kabadion + light zardiya mail + kuyak plates with kettle or nasal helmets. Many add flowing silk cloaks and horsehair plumes. Appearance: fast, mobile, and deadly from the saddle.
+Freemen / Tribal Horsemen
+Common free riders wear padded kabadion or light zardiya mail with a simple nasal or kettle helmet, round shield, and composite bow. Appearance: rugged and steppe-adapted.
+Archers / Skirmishers
+Light padded kabadion, kettle helmet, composite recurved bow. Leather bracers and flowing cloaks. Appearance: silent and deadly on the open plains.
+Peasant Levies
+Thick cotton tunic or basic padded jacket, simple nasal helmet (if any), spear or bow. Appearance: basic and unadorned, reflecting their nomadic roots.
+Civilian and Courtly Wear
+Men’s Everyday Wear
+Most Khuzait men wore long tunics with wide sleeves, loose trousers, and flowing cloaks fastened with brooches. Practical silk or cotton was standard for commoners, while nobles favoured finer cloth with embroidered borders. Wide belts and leather boots completed the outfit. Colours ranged from bright steppe tones to deep blues and golds for the elite.
+Women’s Everyday Wear
+Women wore layered tunics and mantles, often with veils or headscarves for sun protection. Richer fabrics and embroidery were common for higher ranks.
+Civilian and Courtly Wear
+Khuzait outerwear was light and flowing for the saddle. The signature garment was the silk riding cloak — a long, lightweight silk mantle that could be wrapped around the body or tied at the shoulder. Nobles and noyans wore the horsehair mantle — a flowing silk cloak trimmed with golden horsehair plumes and embroidered with steppe motifs. In court, khagans wore the great silk mantle — a richly embroidered cloak in bright clan colours with gold thread and horse motifs. Women’s outerwear included the veil mantle — a long, flowing silk cloak with a head veil for sun protection. Commoners used plain woollen cloaks, while the elite layered multiple silk mantles and added horsehair plumes to display wealth and nomadic heritage.

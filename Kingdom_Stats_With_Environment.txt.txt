@@ -1,0 +1,110 @@
+<DOCUMENT filename="Kingdom_Stats_With_Environment.txt">
+# Kingdom / Fief / Civilization Stats System
+# Version: 2026-03-11
+Critical Distinction: Environmental Tags – Do NOT Cross-Apply
+Two separate environmental tag systems exist in Calradia RP. They serve completely different purposes and must never be mixed.
+
+Bestiary / Creature Ecology Tags (used ONLY in bestiary entries, creature profiles, and raw wilderness/region hazard descriptions)
+HSI (Habitat Suitability Index): 6 categories rated 0–5
+Temperature, Rainfall, Human Density, Flora/Fauna Density, Topography, Hydrology
+Measures how suitable an environment is for a specific creature or monster species.
+
+RHK (Risk/Hostility/Knowledge): 4 categories rated 1–10
+Risk, Hostility, Knowledge, Knavery (or equivalent fourth category)
+Measures threat level, aggression, and awareness for creatures/monsters.
+
+These tags appear in files like Direwolves.txt, Waelhreow.txt, Giant_Spiders.txt, etc.
+Civilization / Fief / Kingdom Tags (used ONLY for human settlements, governance, fiefs, regions, and kingdom totals)
+CSI (Civilization Suitability Index): 6 categories rated 0–5
+Temperature, Rainfall, Human Density, Flora/Fauna Density, Topography, Hydrology
+Measures how suitable an environment is for human settlement, agriculture, population growth, trade, and long-term stability.
+
+CRK (Civilization Risk/Knavery/Knowledge): 4 categories rated 1–10
+Risk (general peril from events/false moons), Hostility (external threats like raids/mutants), Knowledge (mapping/safety intel), Knavery (internal human threats: bandits, feuds, corruption)
+Measures threats to human society, governance, and civil order.
+
+These tags are assigned per fief based on region lore and applied as multipliers/penalties to the five kingdom stats.
+
+Rule: Bestiary HSI/RHK never directly modifies civilization stats (Manpower, etc.). Civilization CSI/CRK never modifies creature behavior. Use context to determine which system applies.
+Core Kingdom Stats (1–100 scale)
+Five primary stats quantify a kingdom's overall power and stability. Each starts at the fief level and aggregates upward.
+
+Manpower
+Available population, recruits, labor, and demographic resilience.
+Base = (Population Density + Health Access + Growth Potential) / 3
+(Each sub-factor normalized 1–20; average gives 1–20 base, then scaled ×5 to 5–100 range)
+Military Power
+Armed forces quality, quantity, readiness, and equipment.
+Base = (Troop Quality + Equipment Level + Morale) / 3
+(Sub-factors 1–20 each → base 1–20 → ×5 = 5–100)
+Economy
+Wealth generation, trade volume, resource output, and fiscal health.
+Base = (Trade Volume + Resource Output + Tax Efficiency) / 3
+(Sub-factors 1–20 → base 1–20 → ×5 = 5–100)
+Social Cohesion
+Loyalty, unity, stability, and resistance to unrest/rebellion.
+Base = (Loyalty Rating + Cultural Unity + Stability Factor) / 3
+(Sub-factors 1–20 → base 1–20 → ×5 = 5–100)
+Exploitable Resources
+Natural assets, Unveiling commodities, and sustainable extraction.
+Base = (Raw Yield + Accessibility + Sustainability) / 3
+(Sub-factors 1–20 → base 1–20 → ×5 = 5–100)
+
+Environmental Modifiers (CSI & CRK Application)
+At every level (fief, region, kingdom):
+
+CSI Boost — Composite CSI (average of 6 categories, 0–5) × 10% added to stats that benefit from suitability:
+Economy + CSI%
+Manpower + CSI% (fertile land = more people)
+Exploitable Resources + CSI%
+Military Power + (CSI% / 2) (better terrain for training/movement)
+
+CRK Penalty — Composite CRK (average of 4 categories, 1–10) × 5% subtracted from vulnerable stats:
+Manpower – CRK% (raids, disease, emigration)
+Social Cohesion – CRK%
+Military Power – (CRK% / 2) (morale drops, desertions)
+Economy – (CRK% / 3) (disrupted trade, bandit tolls)
+
+
+Final stat after mods = Base + CSI Boost – CRK Penalty
+Clamp to 1–120 (allows over 100 for peak conditions, but over 100 risks instability: e.g., overextension, envy from neighbours, or Unveiling backlash).
+Hierarchical Aggregation
+
+Fief Level (village, castle, town)
+Calculate base stats from sub-factors.
+Apply local CSI/CRK (from region lore or fief-specific notes).
+
+
+
+Add Ruling Clan / Governor modifiers:
+Clan traits (from Ruling Clans files): e.g., dey Meroc +10 Economy, –5 Military
+Governorship quality (1–10): Excellent (8–10) = +15 to all; Poor (1–3) = –15 to all.
+
+
+
+Region Level (3–10 fiefs under a lord paramount)
+Average all fief stats (weight towns ×2, villages ×1, castles ×1.5).
+Apply regional CSI/CRK (broader averages from region files).
+Add Lord Paramount modifier (their clan traits scaled to region: e.g., +8 Military if warlike).
+
+Kingdom Total
+Weighted average of all regions (heartland/core regions ×2 weight).
+Apply kingdom-wide CSI/CRK (national averages).
+Add Kingly Policy modifier (e.g., Derthert +5 Economy from diplomacy, –10 Social Cohesion from post-Pendraic resentment).
+Final range: 1–120 (100+ = dominant/expansive; 120 = peak empire-level but fragile).
+
+
+Scoring Adjustments for Expanded Scope
+To prevent quick capping at 100 and allow meaningful growth/decline:
+
+Sub-factors normalized to 1–20 (instead of 1–100 or multiplication).
+Base uses simple average (/3) → natural 1–20 range.
+Scale base ×5 → 5–100 starting range.
+Environmental % mods (±5–50 typical) and clan/governor mods (±5–20) push totals to 1–120.
+Over 100 triggers narrative risks (e.g., overpopulation unrest, resource overexploitation, rival envy).
+Under 20 triggers crises (rebellions, famine, invasion vulnerability).
+Player actions/events can add temporary/permanent ± (e.g., +15 Manpower from successful recruitment drive).
+
+This system allows granular tracking (fief-level detail) and macro impact (kingdom totals) while staying lore-consistent and reactive to player choices.
+Last updated: 2026-03-11
+</DOCUMENT>

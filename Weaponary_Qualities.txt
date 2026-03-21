@@ -1,0 +1,23 @@
+Weapon Qualities Table
+Quality,Effect
+Armour Piercing,"Attacks ignore 1 Armour Point on hit location. If no armour, no effect."
+Balanced,No –20% WS penalty when fighting with two weapons.
+Concealable,+20 to Concealment tests to hide the weapon (Enc >50 invalidates).
+Defensive,+10 to Parry tests while wielding.
+Experimental,"On 96–00 attack roll, jams/explodes: wielder takes 1d10 + SB damage (ignore armour), weapon destroyed."
+Fast,Enemies –10 to Parry/Dodge against it.
+Formation Specialist,"+10 WS and +1 Pierce per adjacent ally in formation (max +30/+3); alone, –20 WS, no Charge/Run."
+Impact,"Roll two d10 for damage, take higher."
+Inconspicuous,"Looks non-weapon; +10 Deception to pass as harmless, enemies –10 Initiative if surprised."
+Mounted Specialist,"+1 Pierce and ignore Tiring when mounted; on foot, halve Reach and add Slow."
+Precise,+1 DoS for Critical Hits/called shots. Optionally +1 to Critical Value.
+Pre-Loaded,Stays loaded indefinitely; +10 Initiative/Surprise if firing pre-loaded. 10% chance of discharge if jostled (91–00 hits random).
+Pummelling,+10 to Strength tests for Strike to Stun.
+Shrapnel,Spreads in cone to max range; all in area test Agility or take full damage.
+Slow,Enemies +10 to Parry/Dodge against it.
+Snare,"On hit, target Snared (opposed Ag to escape); cannot move/attack, –20 all actions. Break free: opposed S each round."
+Special,"Unique rules in description (e.g., fire, poison)."
+Throwing,Can throw (range listed); returns on DoS ≥3 (Ag test).
+Tiring,Only applies first round/attack. For bows: –10 WS/BS per extra round held drawn.
+Unreliable,"On 96–00, jams/misfires: 1d10 (1–5 fails; 6–10 explodes, full damage to wielder, destroyed)."
+Versatile,Switch grips: one/two-handed (Hulking only for heavies); bonuses per description.

@@ -1,0 +1,58 @@
+Core RP Combat
+Overview
+Core RP Combat is a turn-based system for resolving combat or time-sensitive scenarios in the Calradia RP framework. Each turn represents six seconds of real-time action, emphasizing tactical decision-making, initiative order, and resource management through Action Points (AP). The system prioritizes declaration from slowest to fastest, execution from fastest to slowest, ensuring dramatic tension and strategic depth. It integrates with character stats (e.g., Agility for Initiative) and allows for skill tests, making it adaptable to Unveiling hazards, environmental scores, and bestiary encounters.
+Structured Time Scenarios
+This system activates in high-stakes situations where timing matters:
+
+Combat: Battles, ambushes, duels, or monster encounters.
+Time-Sensitive Scenarios: Chases, stealth infiltrations, ritual interruptions, or environmental hazards (e.g., escaping a veil-thinning storm).
+
+In non-structured time (e.g., exploration or dialogue), use narrative resolution or simple skill checks.
+Initiative and Turn Sequence
+
+Surprise
+In structured time scenarios, surprise can grant a decisive advantage, allowing one side to act before the other reacts. Surprise occurs when combatants are unaware of threats due to ambush, stealth, or distractions. The GM determines surprise based on circumstances, resolving it with opposed tests (e.g., Concealment or Silent Move vs. Awareness or Perception). If surprised, victims skip their first turn or suffer penalties (-20 to Initiative/Ag tests). Surprise lasts one round (6 seconds), after which normal Initiative resumes.
+Determining Surprise
+To decide if combatants are surprised, the GM should consider:
+
+Is anyone hiding? Success on a Concealment test may oppose with a Perception test.
+Is anyone sneaky? Successful use of the Silent Move skill may have positioned some. This may be an Opposed Silent Move / Perception test.
+Are there any unusual circumstances? This can cover nearly anything, from pouring rain to noisy cobblestones to magical distractions.
+Are there any dimensional? It's possible that something quite distracting is going on. A cultist's attention may be so focused on the frenzied dancing of the high priests that he doesn't notice his stragglers, for example.
+
+Surprise Round
+All attackers in a surprise round act in Initiative order, but surprised targets cannot act (no AP spent, no reactions like Dodge/Parry). Way opponents may oppose with a Perception test. If partially aware (e.g., failed by low DoF), surprised side acts at -20 WS/BS/Ag until next round.
+
+Example: Let’s return to Wulfhelm and Gerrard. Instead of attaching the open, where they could clearly be seen approaching, let’s say the Goblins are up to an ambush instead. From concealed positions, the GM decides that Wulfhelm and Gerrard are surprised. The GM decides to use a surprise round from concealed positions. The GM decides that Wulfhelm and Gerrard are surprised. The Goblins aim and shoot the bows at the adventurers. Gerrard do get a chance to act. Once the Goblins have taken their shots the surprise round ends. The GM starts from the normal.
+
+Roll Initiative: All entities (players, NPCs, monsters) roll Agility + 1d10. Ties resolved by higher Agi, then reroll if needed. This determines order for the scene (reroll only if conditions change significantly).
+Declare Actions: Starting with the lowest Initiative, each entity declares their action(s) using available AP (default 3 AP per turn; modified by traits/gear). Declarations are public unless hidden (e.g., stealth).
+Execute Actions: Starting with the highest Initiative, resolve actions in order. Roll tests (e.g., skill + d10 vs. difficulty) as needed. Actions complete unless interrupted (e.g., by death or counter).
+End Turn: After the lowest Initiative acts, resolve ongoing effects (e.g., bleeding, fire). If unresolved, start new turn (no reroll Initiative unless specified).
+Resolution: Scene ends when objectives met, foes defeated, or parties flee/disengage.
+
+Making an Attack
+To attack an opponent, use an attack action (e.g., Standard Attack 1 AP, Swift Attack 2 AP). Roll d100 ≤ WS (melee) or BS (ranged) + modifiers (e.g., +10 Charge, -20 cover). Success hits; DoS adds damage or effects (e.g., +DoS to hit location control at -20 penalty for called shots).
+
+Roll to hit using percentile dice. Use Weapon Skill for melee attacks and Ballistic Skill for ranged attacks. If the player rolls equal to or less than the character's Weapon Skill or Ballistic Skill (as appropriate), a hit is scored.
+Determine Hit Location. If a hit is scored the player determines where the blow has landed. Take the attack roll, reverse the order of the percentile dice (an attack roll of 37, for example, would hit location 73), and consult the following chart:
+% Roll,Hit Location
+01-15,Head
+16-35,Right Arm
+36-55,Left Arm
+56-80,Body
+81-90,Right Leg
+91-00,Left Leg
+
+Roll Damage using a 10-sided die. Roll 1d10 and add the attacker's SB. Subtract target's TB + AC on location. Result = Wounds lost. If W ≤ 0, roll Critical Hit.
+Opponent reduces damage. Subtract the opponent's Toughness Bonus and any Armour Points on the location that has been hit.
+Record damage (if any). If any damage remains, it is deducted from the opponent's Wounds total. If the opponent has 0 Wounds, see Critical Hits.
+
+Example: Tharval, a Khobland Warrior with Ballistic Skill 42%, attempts to shoot a Goblin that has wandered near her Elf village. She rolls 25%. Since this is less than her Ballistic Skill, she has hit. Next, she reverses the order of the dice to determine hit location. The 25% becomes a 52%. She has hit the Goblin in the left arm. Now she rolls her damage, which is Damage 3 + her weapon. She rolls a 5, so total damage is 8. The Goblin has a Toughness Bonus of 2 and no armour, so it takes 6 Wounds.
+Dodge and Parry
+A melee attack roll already assumes that the target is defending himself to some degree (for helpless characters, see page 133). A melee attack does not represent a single swing of a sword, but a series of exchanges in which the attacker tries to find an opening and the defender tries to prevent the attacker from doing so. A successful roll means the attacker was able to strike a blow that the whole story, however. It is possible to avoid even a successful hit by either parrying or dodging. These are a combatant's last lines of defense.
+
+Dodge: A character can attempt to dodge the first successful melee or ranged attack he receives each round (see Dodge Blow skill). If he succeeds, the hit is avoided. Test on Ag; DoS cancels attacker's DoS (excess negates hit). Cannot dodge if surprised/prone.
+Parry: A character can attempt to parry each successful melee attack with a readied weapon or shield (free with shield). Test on WS; success negates hit, DoS as dodge. Cannot parry ranged or if unarmed (unless Natural Weapons talent).
+
+A character can only make one parry or dodge each round. A character cannot attempt to parry or dodge with ranged weapons.

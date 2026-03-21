@@ -1,0 +1,143 @@
+Talents are exceptional edges, specialized training, innate gifts, or Unveiling-touched abilities that set a character apart from ordinary folk. They enhance Characteristics, Skills, or open new options without replacing core mechanics.
+Acquisition
+
+New characters begin with 2 Talents (chosen during creation or rolled randomly).
+Additional Talents gained through milestones, training, Unveiling events, or rare rewards.
+Maximum: 8 (risk of strain or madness beyond this).
+
+Talent List
+Acute Hearing
+Your hearing is exceptionally sharp.
+Gain a +20 bonus to any Characteristic test (Awareness, Perception, etc.) or derived Skill test that relies on hearing (eavesdropping, detecting approaching footsteps, noticing subtle sounds in the dark, etc.).
+Alley Cat
+You are completely at home in the twisting streets, back alleys, and rooftops of towns and cities.
+Gain a +10 bonus to Concealment and Silent Move tests in urban environments (streets, slums, rooftops, sewers, crowded markets, etc.).
+Ambidextrous
+You can use either hand with equal skill and precision.
+You do not suffer the usual -20 penalty when using a weapon, tool, or shield in your secondary/off-hand. (Applies to dual-wielding, off-hand parries, throwing with either hand, etc.)
+Artistic
+You possess genuine creative talent and an eye for beauty.
+Gain a +20 bonus to relevant Trade skill tests when creating art, illustrations, sculptures, illuminations, or similar works.
+Additionally, gain a +10 bonus to Evaluate tests when appraising objects of art, jewelry, fine craftsmanship, or decorative value.
+Contortionist
+You can bend, twist, and manipulate your body in ways that seem almost unnatural.
+Gain a +10 bonus to relevant Performer (acrobatics, contortion displays) tests.
+Gain a +20 bonus to Agility tests (or derivative Skill tests) made to escape bonds, squeeze through tight spaces, dislocate joints to escape manacles, contort through bars, or perform similar feats of extreme flexibility.
+Coolheaded
+Your mind remains calm even in the face of terror or chaos.
+You gain a permanent +5 to your Willpower (WP) Characteristic (this may increase your Willpower Bonus if it crosses a tens digit).
+Dealmaker
+You have an instinctive feel for value and negotiation.
+Gain a +10 bonus to Evaluate and Haggle tests (treated as +10% on the d100 roll).
+Disarm
+You are skilled at stripping weapons from your foe’s grasp.
+When you successfully strike with a melee attack, you may choose to attempt a disarm instead of inflicting damage. Make an opposed Weapon Skill (WS) test.
+
+If you win, your opponent is disarmed and their weapon drops to the ground (it may be recovered with a Ready action).
+If your opponent wins, they retain their weapon.
+Natural weapons (claws, teeth, tentacles, etc.) cannot be disarmed.
+
+Etiquette
+You are well versed in the social graces, customs, and subtle hierarchies of the upper class.
+Gain a +10 bonus to Charm and Gossip tests when dealing with Nobility (lords, ladies, barons, courtiers, knights of high station, etc.).
+This bonus also applies in other situations where knowing proper social etiquette is useful, such as:
+
+Disguise tests when impersonating a nobleman, courtier, or high-born individual
+Avoiding social blunders in noble households, formal banquets, or diplomatic settings
+Navigating court intrigue, receiving invitations, or presenting yourself credibly among the elite
+
+Excellent Vision
+Your eyes are keen and piercing.
+Gain a +10 bonus to any Characteristic test (Awareness, Perception, etc.) or derived Skill test that relies on sight (spotting distant movement, reading faint tracks, noticing hidden details, shooting at long range, etc.).
+Fearless
+You are either brave or mad enough that you know no fear.
+You are immune to Fear and treat Terror as ordinary Fear (i.e. you still roll against Terror but do not suffer the worse effects of true Terror).
+You are also immune to the effects of the Intimidate skill and the Unsettling talent (or similar fear/aura effects).
+Flee
+When your life is on the line, you are capable of impressive feats of speed.
+When running away from combat or another dire threat, you gain a +1 bonus to your Movement characteristic for 1d10 rounds. (This bonus applies only to fleeing actions and ends once the immediate threat is escaped or combat ends.)
+Fleet Footed
+You are naturally swift of foot.
+You gain a permanent +1 bonus to your Movement characteristic.
+Frenzy
+You can incite yourself into a frothing, berserk rage.
+You must spend 1 full round psyching yourself up (howling, biting your shield, beating your chest, etc.).
+The next round you go berserk: gain +10 to Strength, Toughness, and Willpower, but suffer -10 to Perception, Weapon Skill, and Intelligence.
+You must attack the nearest enemy in melee combat; all attacks must be All-Out Attacks, Charge Attacks, or Swift Attacks.
+You may not flee or retreat unless you pass a Challenging (+0) Willpower test.
+Otherwise you remain in this state until the combat is over (or you are incapacitated).
+Frightening
+You have a truly frightening appearance or aura.
+You cause Fear in others (opponents must pass a Fear test to engage you in combat or approach you willingly).
+(This talent may be taken by mutants, beastmen, scarred veterans, or those touched by the Unveiling.)
+Grudge (Various)
+You harbour a deep, burning hatred for a specific group or entity (e.g. Aserai, Goblins, Vlandians, Wælhreów, mutants, etc.).
+You gain a +5 bonus to Weapon Skill (WS) and Ballistic Skill (BS) tests made against members of that group.
+(Note: Your roleplay should reflect this aversion, even if it is detrimental in specific circumstances — refusing parley, prioritizing them as targets, etc.)
+Lightning Reflexes
+Your reactions are lightning-fast.
+You gain a permanent +5 bonus to your Agility characteristic (this may increase your Agility Bonus if it crosses a tens digit).
+Linguist
+You have a natural affinity for languages.
+Gain a +10 bonus to all Read/Write and Speak Language skill tests (including learning new languages faster or deciphering unfamiliar dialects).
+Lucky
+At the most improbable times, things seem to go your way.
+You gain +1 Fortune Point each day (resetting at dawn or after a long rest).
+(Fortune Points may be spent to reroll failed tests, gain extra Degrees of Success, or trigger narrative boons — see Fortune rules if implemented.)
+Marksman: +5% to BS permanently.
+Master Gunner: Reduce reload time for black powder weapons.
+Menacing: +10% to Intimidate.
+Mighty Shot: +1 damage to ranged attacks.
+Mimic: Can imitate voices/accents (+10% related tests).
+Natural Weapons: Unarmed attacks as armed.
+Night Vision: See up to 30 yards in natural darkness.
+Orientation: Always know direction (+20% Navigation).
+Public Speaking: Charm affects 10 times normal people.
+Quick Draw: Ready as free action.
+Rapid Reload: Halve reload times.
+Resistance to Chaos: +10% vs Chaos mutations/diseases.
+Resistance to Disease: +10% vs diseases.
+Resistance to Magic: +10% vs spells.
+Resistance to Poison: +10% vs poisons.
+Rover: +10% Silent Move & Concealment in rural areas.
+Savvy: +5% to Int permanently.
+Schemer: +10% to intrigue-related tests.
+Seasoned Traveller: +10% to Common Knowledge and Speak Language.
+Sharpshooter: Ignore long range penalties.
+Sixth Sense: GM warns of danger (+10% Perception).
+Specialist Weapon Group (Various): Proficient in a weapon group (e.g., Longbow, Arbalest).
+Stoic: +10% to WP tests vs pain/fear.
+Strike Mighty Blow: +1 damage with melee.
+Strike to Injure: +1 to Critical Value.
+Strike to Stun: Stun with melee attacks (T test or stunned).
+Strong-minded: +5% to WP permanently.
+Sturdy: +10% vs knockbacks, +1 Encumbrance.
+Suave: +5% to Fel permanently.
+Sure Shot: Ignore 1 AP with ranged.
+Surgery: +10% to Heal, allows treating Heavy Wounds.
+Swashbuckler: +10% to Ag in dramatic actions (swinging, etc.).
+Tunnel Rat: +10% in underground environments.
+Undead: Immune to Fear, Poison, Disease; no criticals but destroyed at 0 W.
+Unsettling: Causes unease (+10% Intimidate, -10% Charm).
+Very Resilient: +5% to T permanently.
+Very Strong: +5% to S permanently.
+Warrior Born: +5% to WS permanently.
+Wrestling: +10% to grapple actions.
+
+New Talent: Weapon Specialization (Category)
+This talent replaces the old flat “Specialist Weapon Group” and reflects real progression from formal training to hard-won battlefield experience.
+You may take this talent once per weapon category. Each time you take it you choose one of the following categories and one of the three levels below.
+Available Categories
+Straight Sword
+Curved Sword
+Hand-and-a-Half Sword
+Great Sword
+Poleaxe (Two-Handed Polearm Short)
+Halberd (Two-Handed Polearm Long)
+Pike (Two-Handed Polearm Very Long)
+Two-Handed Axe
+Two-Handed Mace/Hammer
+Longbow
+Crossbow
+Sling
+Throwing

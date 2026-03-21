@@ -1,0 +1,7 @@
+Crossbows
+Name,Cost,Enc,Group,Damage Profile (Cut / Pierce / Blunt),Range (yards),Reload,Qualities,Availability,Draw Weight (lbs)
+Crossbow Pistol,1 gc 4 sc,25,Crossbow,(1 / 3 / 1),8/16,1 AP,"Fast, Concealable",Average,100–300
+Light Crossbow,1 gc 8 sc,80,Ordinary,(1 / 4 / 1),20/40,1 AP,Pre-Loaded,Common,200–500
+Medium Crossbow,2 gc,120,Ordinary,(1 / 5 / 1),30/60,2 AP,"Armour Piercing, Pre-Loaded",Average,500–800
+Heavy Crossbow (Arbalest),2 gc 8 sc,150,Crossbow,(1 / 6 / 1),40/80,4 AP,"Armour Piercing, Impact, Slow, Pre-Loaded",Rare,900+
+Repeater Crossbow*,3 gc 4 sc,150,Crossbow,(1 / 4 / 1),16/32,4 AP,"Experimental, Special (3 shots), Pre-Loaded",Very Rare,300–600

@@ -1,0 +1,38 @@
+=== EXTERNAL STORAGE PROTOCOL (25-File Limit Bypass) ===
+All files are now stored externally on GitHub.
+When a file is needed but not attached:
+- Use the browse_page tool on its raw URL.
+- Instruction: "Extract and return the FULL raw text content of this TXT file exactly as written. Do not summarize, do not add commentary, return every line verbatim."
+- Then load and use it exactly as before.
+
+Example raw URLs (add your own repo link once created):
+- Core_RP_System.txt → https://raw.githubusercontent.com/[YourRepo]/main/Core_RP_System.txt
+- Gryphon.txt → https://raw.githubusercontent.com/[YourRepo]/main/Gryphon.txt
+- Region_Ebor_Peninsula.txt → https://raw.githubusercontent.com/[YourRepo]/main/Region_Ebor_Peninsula.txt
+- (and so on for every file)
+
+<DOCUMENT filename="Roleplay_AI_Loader_File.txt">
+Roleplay AI Loader File
+This is the entry point file for the Bannerlord RP system. The AI always starts here to get scenario parameters and directions to relevant files.
+Purpose: Parse the user's query or scenario, then load only the necessary TXT files to keep things efficient and token-light.
+How it Works: Read the user's input. Match keywords or topics to file categories. Load 1-3 files at a time (e.g., "Load regions_ebor_peninsula.txt for travel details"). Avoid loading everything—focus on what's needed for the current scene or action. For complex scenarios (e.g., traversal with encounters), load multiple relevant files sequentially or in combination.
+Examples of Loading:
+- Combat: Load Combat_Rules_Battle.txt or Combat_Rules_Skirmish.txt.
+- Character: Load Player_Character_Sheet.txt or Arnulf_Character_Sheet.txt or Gryphon_Character_Sheet.txt.
+- Bestiary: Load specific creature file (e.g., Bear.txt, Beastmen.txt, Direwolves.txt, Drowners.txt, Dragon.txt, Dryads_Forest_Spirits.txt, Giant_Beetles_Stag_Beetles.txt, Ghosts.txt, Giant_Ants.txt, Ghouls.txt, Giant_Spiders.txt, Kraken.txt, Giant_Wasps_Hornets.txt, Goblins.txt, Mire-Kin.txt, Mutant.txt, Pegasus.txt, Rock_Trolls.txt, RiverSwamp_Trolls.txt, Royal_Gryphon.txt, Sea_Serpants.txt, Waelhreow.txt, Troglodytes.txt, The_Others.txt, Minor.txt).
+- Culture/Faction: Load Cultures_Of_Calradia.txt or Cultures_Of_Calradia_Vlandia.txt or specific clan files (e.g., Ruling_Clans_Of_Aserai.txt, Ruling_Clans_Of_Battania.txt, Ruling_Clans_Of_Empire_Southern.txt, Ruling_Clans_Of_Empire_Northern.txt, Ruling_Clans_Of_Empire_Western.txt, Ruling_Clans_Of_Khuzait.txt, Ruling_Clans_Of_Sturgia.txt, Ruling_Clans_Of_Vlandia.txt).
+- Economy: Load Economy_Primary_Goods.txt or Economy_Processed_Goods.txt or Economy_Unveiling_Goods.txt or Economy_Labour.txt.
+- Religion: Load Religions_Of_Calradia.txt.
+- Regions: Load specific region file (e.g., Region_Byalic_Sea.txt, Region_Gavys_Valley.txt, Oceanic_Region_Western_Ocean.txt, Oceanic_Region_Bay_Of_Varcheg.txt, Region_Kachyar_Peninsula.txt, Region_Atmora.txt, Region_Dryatic_Mountians.txt, Oceanic_Region_Perassic_Sea.txt, Region_Mazopor_Bay.txt, Region_Ortysian_Basin.txt, Region_Neurval.txt, Region_Swadia.txt, Region_Island_Of_Beinland.txt, Region_Jotunheimr_Peninsula.txt, Region_Icara_Wildlands.txt, Oceanic_Region_Cape_Fal.txt, Oceanic_Region_Sea_Of_Ghosts.txt, Oceanic_Region_Lake_Laconis.txt, Oceanic_Region_Gulf_Of_Charas.txt, Region_Ebor_Peninsula.txt, Oceanic_Region_Bay_Of_Varcheg.txt, Region_Uchalion_Plateau.txt).
+- Mechanics & Rules: Load Core_RP_System.txt, Talents.txt, Characteristics_and_Skills.txt, Core_RP_Guidelines.txt, Calradia_Calendar.txt, Kingdom_Behaviour.txt, Kingdom_Stats_With_Environment.txt, Region_Core_Rules.txt, Armour_Stats.txt, Equipment_Stats.txt, Weaponary_Stats.txt, Vlandian_Sergeant_Stats.txt.
+- Brotherhoods: Load Knights_Griffon.txt or Order_of_the_Silvered_Star.txt.
+Region Loading Protocol
+When a query or scenario involves a specific region (e.g., "travel through Swadia" or "encounter in Ebor Peninsula"), first refer to Region_Core_Rules.txt for general rules on geographic structures, environmental scores, variation, and RP guidelines. Then load the relevant Region(name).txt file (e.g., Region_Swadia.txt) for specific details. This ensures consistency in handling environmental variation and core mechanics before applying region-specific lore.
+Read user query.
+Identify key topics (e.g., "travel from Ostican + gryphon encounter" → regions + bestiary + hazards).
+Load primary file first (e.g., regions_ebor_peninsula.txt), then supports as needed (e.g., bestiary_gryphons.txt for entity, rules_ehgs.txt for risks).
+Generate response using only loaded content; chain if multi-step (e.g., "First, traversal hazards... Now, encounter roll...").
+If more needed, prompt user or chain to next file.
+Narrate dynamically, keeping tokens low.
+Keep responses focused—e.g., "From regions_ebor_peninsula.txt, Morcomb Pass has steep hazards (EHGS roll). Encounter gryphon from bestiary.txt (RHK check)."
+</DOCUMENT>

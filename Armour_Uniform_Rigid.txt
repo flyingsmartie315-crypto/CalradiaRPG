@@ -1,0 +1,99 @@
+Rigid Uniform Interpretation Rules
+For Rigid Uniform pieces, parse the item title for module and material (Wrought Iron, Low-Carbon Steel, or Hardened Steel) to determine base AC, Enc, and coverage.
+All Rigid Uniform modules have a hard cap of 90% per location due to joints and articulation.
+Coverage is built from modular components tied to location tags (additive).
+AC applies proportionally. Roll d100 ≤ coverage % on hit to apply AC; failure = gap.
+Base Enc from module; material modifiers added separately. Round to nearest 5.
+Mandatory Under-Layers: Any Rigid Uniform on arms requires Arming Doublet; on legs requires Padded Hose (otherwise -10 Agility and -1 AC from chafing).
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches.
+Craftsmanship global (+1/+2 AC); inherent rigidity gives no Dodge bonus.
+
+Rigid Uniform Materials Table
+Material,Cost Mod,Enc Mod,AC Mod (Cut/Pierce/Blunt),Notes
+Wrought Iron,Base,+20%,-1/-1/-1,Cheap and easy to work. Heavier and inferior protection.
+Low-Carbon Steel,+25%,+10%,Base,Mid-tier balanced steel. Standard for most knights.
+Hardened Steel*,+50%,-15%,+1/+1/+1,"Heat treatment built-in. Thinner, lighter, stronger plates."
+
+Rigid Uniform Torso Modules Table
+Module,Cost,Base Enc,Base AC (Cut/Pierce/Blunt),Coverage,Location Tags
+Breastplate,45 sc,45,6/7/5,20%,(Front Upper)
+Plackart,40 sc,40,6/7/5,20%,(Front Lower)
+Backplate,40 sc,40,6/7/5,20%,(Back)
+Gorget,15 sc,15,5/5/4,10%,(Gorget)
+Pauldron / Spaulder,25 sc,25,5/6/4,15%,(Shoulder)
+Besagew / Rondel,12 sc,12,5/5/4,5%,(Armpit)
+
+Rigid Uniform Arm Modules Table
+Module,Cost,Base Enc,Base AC (Cut/Pierce/Blunt),Coverage,Location Tags
+Full Gauntlet,30 sc,30,5/5/4,40%,(Hand)(Forearm)
+Gauntlet,15 sc,15,4/4/3,10%,(Hand)
+Vambrace (Lower Cannon),25 sc,25,5/6/4,30%,(Forearm)
+Couter,12 sc,12,5/5/4,10%,(Elbow)
+Rerebrace (Upper Cannon),28 sc,28,5/6/4,30%,(Upper Arm)
+
+Rigid Uniform Leg Modules Table
+Module,Cost,Base Enc,Base AC (Cut/Pierce/Blunt),Coverage,Location Tags
+Full Greaves,35 sc,35,6/6/5,40%,(Shin)
+Poleyn,15 sc,15,5/5/4,10%,(Knee)
+Cuisses,30 sc,30,5/6/4,30%,(Thigh)
+Tassets,20 sc,20,4/4/5,20–40%,(Tasset)
+Sabaton,18 sc,18,4/4/4,10%,(Foot)
+
+Rigid Uniform Helmet Rules
+(Most Up-to-Date Version – 2026-03-19)
+Core Construction
+Rigid Uniform helmets are built as monolithic or near-monolithic solid-plate pieces with minimal seams and joints. This gives them superior structural integrity and durability compared with Rigid Partial helmets, but they are slightly heavier and less flexible.
+Base Coverage
+Base coverage percentage varies by helmet model (see individual model values in the table below). The 60/30/10 internal split is used only as a reference for upgrade module calculations:
+
+Skull + Cheek Guards: 60% Head
+Neck area: 30%
+Face area: 10%
+
+Maximum Coverage Rule
+No Rigid Uniform helmet may exceed 95% total coverage. The final 5% is always the visor zone, which remains 0 AC unless a visor upgrade is fitted.
+Automatic Visor Rule
+Visor-specific cultural tags are applied only when the Full Visor upgrade module (or specific visor variant) is present.
+The narrator will then automatically describe the exact visor style matching the tag and only on the models listed below:
+Visor Compatibility Table
+
+[Klapvisor] – Suitable for Bascinet and Sallet (hinged flat plate)
+[Houndskull] – Suitable for Bascinet only (pointed snout)
+[Pigface] – Suitable for Bascinet only (rounded snout)
+[Bretache] – Suitable for Bascinet only (grilled bars)
+[Bellows] – Suitable for Bascinet and Sallet (accordion-style)
+[Pointed] – Suitable for Sallet only (simple pointed visor)
+[Jawbone] – Suitable for Sallet only (cheap, simple jaw-like lower face guard)
+
+Current Rigid Uniform Helmet Models (with model-specific base coverage)
+
+Nasal – 60%
+Kettle – 60%
+Sallet – 60%
+Bascinet – 60%
+Armet – 80%
+Great Bascinet – 95%
+Barbute – 80%
+Frog Mouth – 95%
+Visored Great Helm – 95%
+
+Material Profiles (AC values vary by material)
+
+Wrought Iron: +20% Encumbrance, –1 AC all damage types
+Low-Carbon Steel: Standard stats (shop default)
+Hardened Steel: –15% Encumbrance, +1 AC all damage types
+
+Base Stats Template (Low-Carbon Steel, before upgrades)
+
+AC: 7/7/6 (Cut / Pierce / Blunt)
+Encumbrance: 27–32 (varies by model)
+Cost: 30–48 sc (varies by model and decoration)
+
+Upgrade Modules (can be combined per location-tag rules)
+
+Visor / Full Visor (Face)
+Bevor (Neck)
+Aventail / Ventail (Neck / Face)
+
+Cultural Tag System (purely narrative)
+Tags are appended in brackets (1–3 per piece). All previous rules for Vlandia visors-only, one mask per culture, noble-beast crests, and steppe-predator masks remain in full effect.

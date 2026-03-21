@@ -1,0 +1,83 @@
+# Kingdom Behaviour – NPC Kingdom Dynamics
+# How kingdoms act, decide, expand, feud, and respond as collective entities
+
+## Core Principle
+Kingdoms are not monolithic. They are living coalitions of ambitious individuals (king, paramount lords, barons, counts, clan heads, wealthy merchants, church hierarchs, veteran captains) held together by self-interest, tradition, fear, oaths, and necessity.
+
+Every kingdom-level decision is the emergent result of:
+- the king's personality and policy
+- the balance of power among paramount lords / major clans
+- pressure from below (barons, knights, burghers, peasantry)
+- external threats and opportunities
+- Unveiling phenomena (false moons, veil bleed, prophetic dreams, monstrous incursions)
+
+Kingdoms do NOT act with perfect rationality or unity. They are fractious, short-sighted, and prone to cycles of expansion → overreach → internal collapse → recovery.
+
+## General Behavioural Patterns
+
+1. Self-Preservation First
+   - A kingdom's primary instinct is survival.
+   - When threatened (invasion, major raid, economic collapse, massive Unveiling event), most factions temporarily unite under the king or strongest warlord.
+   - Unity fractures quickly once the immediate danger passes.
+
+2. Opportunism & Expansion
+   - Kingdoms constantly probe for weakness in neighbours.
+   - Border barons / Freeblades act as semi-independent scouts: raids, land grabs, trade monopolies, or mercenary contracts that can later be claimed as "royal" territory.
+   - Successful expansion (new fief, trade route, Unveiling resource) is rewarded with titles, but also creates new rivals inside the kingdom.
+
+3. Internal Competition & Feuding
+   - Barons and paramount lords feud constantly over land, inheritance, prestige, and royal favour.
+   - Feuds are usually low-intensity (cattle rustling, toll disputes, ambushes on trade caravans) but can escalate to open war if the king is weak or distracted.
+   - The king plays favourites deliberately: elevating one clan weakens others and prevents any single lord from becoming too powerful.
+
+4. Response to Player Actions
+   - Small-scale player deeds (killing a local bandit lord, clearing a troll den) usually stay local unless they affect taxes, trade, or noble prestige.
+   - Medium-scale actions (capturing a castle, brokering peace between feuding barons) ripple to regional paramount lords → may earn royal attention or enmity.
+   - Large-scale actions (leading a successful campaign, discovering major veil-drop ore, slaying a royal gryphon) trigger kingdom-level responses:
+     - Reward (title, land grant, marriage alliance)
+     - Fear (seen as threat → assassination attempts, false accusations)
+     - Exploitation (king tries to claim credit / resources)
+
+5. Influence of the Unveiling
+   - False Moon nights cause prophetic dreams, madness, or omens that different factions interpret differently:
+     - Pious lords see divine will → crusade calls or witch-hunts.
+     - Ambitious lords see personal destiny → risky wars or betrayals.
+     - Cautious lords see warnings → defensive posture, hoarding grain.
+   - Veil bleed phenomena (ghosts in old forts, Wælhreów in border woods) are blamed on neighbouring kingdoms, minorities, or rival clans → fuel for propaganda and pogroms.
+
+## Kingdom Response Tiers (based on kingdom stats)
+
+Use current kingdom stats (Manpower, Military Power, Economy, Social Cohesion, Exploitable Resources) to guide behaviour scale:
+
+- Dominant (avg stat 90–120)
+  - Aggressive expansion, subsidised mercenary companies, royal commissions for Freeblades, diplomatic bullying, heavy investment in Unveiling research/hunts.
+  - Internal feuds suppressed or redirected outward.
+
+- Strong (avg 70–89)
+  - Balanced policy: defend borders, reward loyal barons, limited adventurism.
+  - Feuds contained; king plays mediator.
+
+- Stable but Stagnant (avg 50–69)
+  - Defensive posture, heavy taxation to maintain status quo.
+  - Barons feud openly but avoid open war; king is weak or indecisive.
+
+- Crisis / Declining (avg 30–49)
+  - Desperate measures: debasing coinage, selling titles, calling unreliable Freeblades, witch-hunts to unify populace.
+  - Major barons plot rebellion or defection.
+
+- Collapsing (avg <30)
+  - Civil war imminent or ongoing; king may flee or be deposed.
+  - Paramount lords become de facto independent warlords.
+  - Massive emigration, monster incursions uncontained, False Moon prophecies fuel doomsday cults.
+
+## Practical GM Guidelines for Kingdom Behaviour
+
+- Never treat a kingdom as a single actor with perfect information.
+- Decisions emerge from factional tug-of-war: roll or narrate secret opposed tests between king vs. paramount lords when major policy is at stake.
+- Use kingdom stats as mood indicators:
+  - High Social Cohesion → unified response, high morale levies
+  - Low Social Cohesion → delayed musters, desertions, barons demanding concessions
+- Player reputation matters: a player known as honourable Freeblade may receive royal contracts; one known as oath-breaker may be outlawed across the kingdom.
+- Kingdoms adapt slowly but remember long: betray a Vlandian baron → his heirs will still seek revenge two generations later.
+
+Last updated: 2026-03-11

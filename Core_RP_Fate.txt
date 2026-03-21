@@ -1,0 +1,38 @@
+Fate Points
+Add this new section to the Secondary Characteristics in Core_RP_Characteristics&Skills.txt (and cross-reference it in Core_RP_Guidelines.txt and Core_RP_Combat.txt). Fate Points represent destiny, divine favour, or the lingering protection of the old gods in a world where the veil is thin. Only Player Characters begin with them — NPCs and monsters almost never possess true Fate unless they are legendary figures or Unveiling-touched.
+Base Fate Points (FP)
+
+PCs start with 2 Fate Points.
+Maximum is equal to starting value (normally 2) unless increased by rare Talents, milestones, or divine intervention.
+NPCs have 0 unless the GM rules otherwise (e.g., a destined baron or dryad-blessed hunter).
+
+Using Fate Points
+A Fate Point may be spent at any moment a character is about to die — from a killing blow, poison, disease, trap, fall, or any other circumstance. Instead of dying, the character miraculously survives. The GM describes how fate intervenes (a shield deflects the arrow, a hidden root breaks the fall, the poison burns out just as the heart stops).
+You may also spend a Fate Point to avoid permanent maiming or crippling effects from Critical Hits (losing a limb, eye, etc.). The wound still occurs, but without the permanent loss.
+Combat Examples
+
+Bad use: Clem Shattershield is reduced to 0 Wounds and suffers a Critical Hit that would remove his head. He spends a Fate Point… and the GM rules the blow only knocks him unconscious.
+Good use: Clem is about to be decapitated by a mutant’s axe. He spends the Fate Point; the axe glances off his gorget, leaving a scar but sparing his life. The GM may still inflict a lesser Critical Hit or temporary penalties.
+
+Gaining Fate Points
+Fate Points are never bought with Experience Points. They are awarded by the GM for truly heroic, selfless, or dramatically appropriate actions that advance the story or embody the character’s destiny. Examples:
+
+Risking everything to save an innocent village from Wælhreów.
+Upholding a sacred oath at great personal cost.
+A stunning act of cleverness or courage that turns the tide of a hopeless battle.
+
+Regain 1 FP at the end of each major milestone, chapter, or session (GM discretion). All FP are restored when the character completes a major story arc or receives a divine blessing.
+Traps, Accidents, Poison & Disease
+When a Fate Point is spent to survive a trap, accident, poison, or disease:
+
+The immediate lethal effect is negated (spikes miss, poison runs its course without killing, falling rocks miss by inches).
+Equipment may still be damaged or destroyed.
+The character may still suffer temporary penalties or a lesser injury.
+
+GMing Fate Points
+Fate Points exist so players can survive the brutal world of Calradia and tell epic stories. Use them sparingly and dramatically. Never let a player feel “immortal” — a spent Fate Point should always feel earned and tense.
+If a player is about to die from their own reckless choice with no story value, consider letting the dice fall. If the death would end the campaign prematurely or feel unfair after strong roleplay, offer the Fate Point option.
+In Unveiling-touched moments (False Moon nights, veil-drop events, Wælhreów encounters), the GM may allow a spent Fate Point to trigger a small narrative boon or minor miracle instead of simple survival.
+Permanent Effects & Retirement
+Some Critical Effects or story events are so devastating that even a Fate Point cannot fully save the character (e.g., total insanity from 60+ Insanity Points). In such cases the player may retire the character honourably and create a new one — perhaps with an extra starting Fate Point as legacy.
+Fate Points are the thread that keeps heroes alive long enough to matter in a world that wants them dead. Spend them wisely — the gods are watching, but they do not forgive cowardice.

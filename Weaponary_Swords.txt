@@ -1,0 +1,8 @@
+Swords
+Name,Cost,Enc,Group,Damage Profile (Cut / Pierce / Blunt),Reach (yards),Qualities,Availability
+Double-Edged Straight Sword,14 sc,50,Ordinary,(4 / 4 / 2),1,"Balanced, Precise",Common
+Single-Edged and Curved Sword,14 sc,50,Ordinary,(5 / 2 / 2),1,"Balanced, Impact",Common
+Double-Edged Hand-and-a-Half Straight Sword*,1 gc 3 sc,75,Ordinary / Two-handed,(5 / 4 / 2),1.5,"Balanced, Versatile",Average
+Single-Edged and Curved Hand-and-a-Half Sword*,1 gc 3 sc,80,Ordinary / Two-handed,(6 / 2 / 3),1.5,"Balanced, Impact, Versatile",Average
+Great Double-Edged Straight Sword*,1 gc 8 sc,200,Two-handed,(7 / 4 / 3),2,"Impact, Slow, Versatile (Hulking only)",Scarce
+Great Single-Edged and Curved Sword*,1 gc 8 sc,220,Two-handed,(8 / 2 / 3),2,"Impact, Slow, Versatile (Hulking only)",Scarce

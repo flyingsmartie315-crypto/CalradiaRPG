@@ -1,0 +1,50 @@
+<DOCUMENT filename="clothing.txt">
+
+# Clothing System
+# Version: 2026-03-16
+# Non-armour layers for Calradia RP. These provide zero AC but handle cosmetics, social signalling, weather protection, and minor situational bonuses. They layer freely over any armour tier without mechanical conflict.
+# Two tiers only:
+# - None-tier: Base layer worn directly against skin. Never overlaps with other None-tier items.
+# - Outdoor-tier: Outer garments worn over armour or None-tier. Highly variable and stackable.
+# All clothing uses the Universal Armour Upgrade Components Table where applicable (e.g., Insulated or Breathable upgrades).
+# Coverage Rule: Clothing has no mechanical coverage % — it is purely visual and situational.
+
+## Clothing Interpretation Rules
+Parse the item title for tier and keywords to determine Enc and situational effects.  
+- None-tier items are always 100% coverage on their body area (underclothes).  
+- Outdoor-tier items have variable coverage based on style (e.g., full cloak = full body, short surcoat = torso only).  
+Base Enc is low. Upgrades from the Universal Table can be applied if material matches (textile/padded/leather).  
+Craftsmanship applies as global (+1 Fellowship or +10 Concealment for Good/Best).  
+Situational modifiers in Notes (warmth, social, concealment, etc.).
+
+## None-Tier (Base Layer) Table
+| Item                  | Cost | Base Enc | Notes (Situational Modifiers) |
+|-----------------------|------|----------|-------------------------------|
+| Linen Shirt & Hose    | 5 sc | 3        | Basic underclothes. Breathable in heat; -5 Fellowship if visibly dirty. |
+| Wool Tunic & Hose     | 8 sc | 5        | Warmer base layer. +5 Toughness vs. cold. |
+| Silk Shirt & Hose     | 25 sc| 2        | Luxurious. +10 Fellowship in court settings. |
+| Padded Under-Tunic    | 12 sc| 6        | Extra quilted layer. Prerequisite for comfortable rigid armour wear. |
+
+## Outdoor-Tier (Outer Garments) Table
+| Item                  | Cost | Base Enc | Notes (Situational Modifiers) |
+|-----------------------|------|----------|-------------------------------|
+| Hooded Cloak          | 15 sc| 8        | Full body coverage. +10 Concealment in shadows; +10 Toughness vs. rain/cold. |
+| Surcoat / Tabard      | 18 sc| 6        | Torso coverage. Displays heraldry (+10 Fellowship or Intimidate in own culture). |
+| Short Cloak           | 10 sc| 5        | Shoulders & torso. +5 Fellowship in travel; lighter than full cloak. |
+| Fur-Lined Mantle      | 30 sc| 12       | Full body. +15 Toughness vs. cold; -5 Fellowship in hot climates. |
+| Leather Jerkin        | 22 sc| 10       | Torso & arms. +5 Concealment; durable outdoor wear. |
+| Embroidered Robe      | 35 sc| 7        | Full body. +15 Fellowship in court or religious settings. |
+
+## Cultural Notes (How Each Culture Uses Clothing)
+| Culture     | Typical Preferences & Adaptations |
+|-------------|-----------------------------------|
+| Vlandia     | Bold heraldic surcoats and tabards over armour are extremely common. Fur-lined mantles and heavy cloaks are favoured in the north. Clean linen under-layers are a mark of status. |
+| Empire      | Formal red or gold-trimmed cloaks and embroidered robes are preferred for court and legion service. Silk base layers are common among officers. Practical and disciplined appearance. |
+| Battania    | Hooded cloaks with woad or leaf patterns for woodland concealment. Wool tunics and natural dyes are standard. Fur mantles are rare and usually reserved for chieftains. |
+| Sturgia     | Heavy fur-lined mantles and thick wool tunics are everyday wear. Dark, rugged cloaks with bear or wolf trim are common. Clothing is built for extreme cold. |
+| Khuzait     | Light, flowing cloaks and silk/linen robes for mobility on horseback. Bright colours and horse motifs are popular. Breathable base layers are essential in the steppe heat. |
+| Aserai      | Loose, flowing robes and burnous-style cloaks for desert travel. Silk base layers and embroidered outer garments are status symbols. Emphasis on heat resistance and ventilation. |
+
+Last updated: 2026-03-16
+
+</DOCUMENT>

@@ -1,0 +1,32 @@
+Common Bannerlord Trade Items (Village-Produced Primary Goods)
+Universal foundation commodities villages; values standard merchant stack/cart load(~100–200 units). Prices gc/sc/bc; denar equiv brackets gameplay ref. Fluctuate region/supply(±50%).
+Olives — Pressed oil cooking lamps trade staple. 1 stack → 25 bc [125 denars]. Wt:140kg Vol:1.1m³. Abundant southern groves.
+Grain — Staple bread/flour base. 1 stack → 10 bc [50 denars]. Wt:160kg Vol:1m³. Cheap inland valleys.
+Butter — Dairy preserved food. 1 stack → 60 bc [300 denars]. Wt:100kg Vol:0.8m³. Pasture villages.
+Fish — River/sea smoked/dried trade. 1 stack → 35 bc [175 denars]. Wt:120kg Vol:1m³. Coastal/river settlements.
+Grapes — Fermented wine fresh trade. 1 stack → 40 bc [200 denars]. Wt:130kg Vol:1.2m³. Vineyards.
+Meat — Game/livestock smoked/salted transport. 1 stack → 70 bc [350 denars]. Wt:110kg Vol:0.9m³. Hunting/pasture villages.
+Cheese — Dairy long-keeping food. 1 stack → 65 bc [325 denars]. Wt:105kg Vol:0.8m³. Pasture regions.
+Date Fruit — Desert staple dried trade. 1 stack → 55 bc [275 denars]. Wt:115kg Vol:1m³. Southern oases.
+Clay — Pottery bricks tiles raw. 1 stack → 15 bc [75 denars]. Wt:180kg Vol:0.7m³. River/mountain pits.
+Flax — Linen fiber textile base. 1 stack → 40 bc [200 denars]. Wt:120kg Vol:1.5m³. Plains/hills production.
+Wool — Sheep fleeces cloth/weaving. 1 stack → 20 bc [100 denars]. Wt:100kg Vol:2m³. Northern hills.
+Iron Ore — Smelting tools/weapons base. 1 stack → 60 bc [300 denars]. Wt:250kg Vol:1m³. Mountain mines.
+Salt — Preservation/seasoning. 1 stack → 80 bc [400 denars]. Wt:200kg Vol:0.5m³. Coastal/mine areas.
+Charcoal — Forge/cooking fuel. 1 stack → 45 bc [225 denars]. Wt:90kg Vol:2m³. Forest edges.
+Hides — Animal skins leather/tanning. 1 stack → 50 bc [250 denars]. Wt:110kg Vol:1.8m³. Hunting/pasture villages.
+Silver Ore — Precious smelting base. 1 stack → 1 sc 10 bc [70 denars]. Wt:220kg Vol:0.8m³. Mountain veins.
+Raw Silk — Silkworms luxury textile base. 1 stack → 2 sc [120 denars]. Wt:80kg Vol:1.5m³. Rare southern groves.
+Spice — Desert imports flavor/preservation. 1 stack → 3 sc [180 denars]. Wt:90kg Vol:1m³. Southern oases.
+Fur — Trapped pelts clothing/trade. 1 stack → 1 sc [60 denars]. Wt:95kg Vol:2m³. Northern forests.
+Walrus Tusk — Northern ivory carving/trade. 1 stack → 2 sc [120 denars]. Wt:85kg Vol:0.6m³. Coastal north.
+Honey — Sweetener/preservation beehives. 1 stack → 70 bc [350 denars]. Wt:120kg Vol:0.9m³. Forest/meadow villages.
+Beeswax — Candle/sealing hives. 1 stack → 80 bc [400 denars]. Wt:110kg Vol:0.8m³. Beekeeping regions.
+Tallow — Animal fat candles soap cooking. 1 stack → 50 bc [250 denars]. Wt:130kg Vol:1m³. Pasture/slaughter villages.
+Gold Ore — Precious smelting base. 1 stack → 5 sc [300 denars]. Wt:240kg Vol:0.7m³. Rare mountain veins.
+Dyes — Plant/mineral cloth/textile colors. 1 stack → 1 sc 5 bc [65 denars]. Wt:90kg Vol:1.2m³. Herb/plant villages.
+Eggs — Poultry fresh food/trade. 1 stack(200–300 crates) → 25 bc [125 denars]. Wt:90kg Vol:1m³. Rural homesteads.
+Timber — Raw logs/planks building/ships. 1 stack → 40 bc [200 denars]. Wt:350kg Vol:3m³. Forest edges.
+Hardwood — Dense furniture/weapons wood. 1 stack → 1 sc [60 denars]. Wt:300kg Vol:2.5m³. Rare deep woods.
+Quarried Stone — Cut blocks construction. 1 stack → 50 bc [250 denars]. Wt:500kg Vol:1.5m³. Mountain/quarry villages.
+These primary goods form Calradia’s economic foundation. Villages produce raw; towns process/refine (e.g. grain→flour→bread=2–5× value). Barter rural; coin urban. All trade derives from these basics.

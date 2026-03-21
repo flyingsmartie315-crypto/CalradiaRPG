@@ -1,0 +1,80 @@
+<DOCUMENT filename="textile_armour.txt">
+
+# Textile Armour
+# Version: 2026-03-16
+# Compilation of all Textile (Padded/Organic) armor rules, tables, and extensions for Calradia RP. This tier focuses on soft, flexible protection.
+# Integrates with the Universal Armour Upgrade Components Table (see below). Upgrades are applied based on material composition (padded/textile/soft leather).
+# Global Layering: Textile as inner layer adds 50% AC (round down) to outer tiers; +20% total Enc. When outer succeeds coverage, inner auto-applies full AC.
+# Craftsmanship: Common base; Good (+1 AC all, x3 cost); Best (+2 AC, x10 cost).
+# Unveiling Ties: Mutant hides +1 AC but +10% mutation risk on False Moons.
+# Coverage Rule: Coverage only ever refers to Head, Torso, Legs and Arms.
+
+## Textile Torso Types Table
+| Type | Cost | Base Enc | Base AC (Cut/Pierce/Blunt) | Notes (Situational Modifiers) |
+|------|------|----------|----------------------------|-------------------------------|
+| Aketon | 10 sc | 7.5 | 2/1/2 | Thinner, form-fitting. |
+| Gambeson | 15 sc | 10 | 3/1/3 | Thicker standalone. |
+| Arming Doublet | 12 sc | 5 | 2/1/2 | Tailored under plate; arming points: prerequisite for Rigid Uniform modules to be worn without penalty. |
+| Pourpoint | 18 sc | 7.5 | 3/2/3 | Fashionable globose style. |
+
+## Textile Torso Interpretation Rules
+For Textile torso armor pieces, parse the item title for type and coverage keywords to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages. All Textile torso items provide 100% Torso Coverage by default. Coverage keywords modify Arm and Leg protection:
+- Arm Coverage: Sleeveless (0%), Short Sleeved (30%), Long Sleeved (90%). If unspecified, assume Short Sleeved (30%).
+- Leg Coverage: Short (0%), Long (40%). If unspecified, assume 20% (standard skirt/hem length; do not label as "Default" in title).
+AC applies proportionally to covered areas. Uncovered areas = 0 AC. For partial coverage, roll d100 ≤ coverage % on hit to apply AC; failure = no protection.
+Base Enc from type; increase Enc by +2.5 for each raised coverage. Round Enc to nearest 5.
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches (padded/textile).
+Situational modifiers in Notes.
+Craftsmanship applies as global (+1/+2 AC); inherent flex for +10 Dodge if Enc <50.
+Example Parsing: "Long Sleeved Gambeson with High-Density Quilting" → Gambeson base (3/1/3, 10 Enc) + Long Sleeved (+2.5 Enc) + High-Density Quilting (+1/+1/+1 AC, +3 Enc) = Total Enc 15.5 (round 15); 100% Torso, 90% Arms, 0% Legs.
+
+## Textile Leg Armour Types Table
+| Type | Cost | Base Enc | Base AC (Cut/Pierce/Blunt) | Notes (Situational Modifiers) |
+|------|------|----------|----------------------------|-------------------------------|
+| Padded Chausses | 8 sc | 6 | 2/1/2 | These were quilted leggings that typically covered the entire leg from the waist down to the ankle. |
+| Padded Hose | 6 sc | 4 | 1/1/1 | A thinner, more tailored version of textile leg protection. Prerequisite for Rigid Uniform modules to be worn without penalty. |
+| Winingas (Leg Wraps) | 4 sc | 3 | 1/1/1 | Wrapped strips; base 20% Leg Coverage. |
+
+## Textile Leg Armour Interpretation Rules
+For Textile Leg Armour pieces, parse the item title for type and coverage keywords to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages. Types from Textile torso apply as prior, with base AC/Enc scaled down 50% for legs only.  
+Coverage keywords modify Leg protection percentage.  
+AC applies proportionally to covered leg areas. Uncovered = 0 AC. Roll d100 ≤ coverage % on leg hit for AC.
+Base Enc from type (50% of torso base, round up); increase Enc by +2.5 for raised coverage.
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches (padded/textile).
+Craftsmanship global (+1/+2 AC); inherent flex +5 Dodge if Enc <30.
+Example Parsing: "Padded Chausses with River Troll Hide" → Padded Chausses base (2/1/2, 6 Enc) + River Troll Hide (+1/+1/+1 AC, +5 Enc) = Total Enc 11; 80% Legs.
+
+## Textile Head Protection
+# Interpretation Rules for AI
+For Textile head protection pieces, parse the item title for type to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages. All coverage applies to the head in its entirety (skull and scalp). Padded Coif/Hood is treated as 75% Head Coverage by default.
+AC applies to the full head area. For partial coverage items, roll d100 ≤ coverage % on head hit to apply AC; failure = no protection.
+Base Enc from type; increase Enc by +2.5 for raised coverage or added padding. Round Enc to nearest 5.
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches (padded/textile).
+Craftsmanship global (+1/+2 AC); no Qualities—use inherent flex for +10 Dodge if Enc <20.
+
+## Textile Head Types Table
+| Type | Cost | Base Enc | Base AC (Cut/Pierce/Blunt) | Head Coverage | Notes (Situational Modifiers) |
+|------|------|----------|----------------------------|---------------|-------------------------------|
+| Arming Cap | 4 sc | 3 | 1/1/1 | 50% | A close-fitting skull cap. |
+| Padded Coif/Hood | 6 sc | 5 | 2/1/2 | 75% | A full hood that covers the head, ears, and neck, often extending to the shoulders. Can be worn in a balaclava config with face covered. 95% coverage. |
+| Malakhai | 8 sc | 6 | 2/2/2 | 50% | A traditional fur and felt hat with large flaps covering the neck and ears. |
+| Padded Turban | 7 sc | 4 | 3/1/2 | 75% | Multiple layers of textile "spaced armour" that was remarkably effective at deflecting sword slashes and dissipating the heat of the sun. Can be worn in a balaclava config with face covered. 95% coverage. |
+
+## Textile Arm Armour Types Table
+| Type | Cost | Base Enc | Base AC (Cut/Pierce/Blunt) | Notes (Situational Modifiers) |
+|------|------|----------|----------------------------|-------------------------------|
+| Fingerless | 4 sc | 3 | 1/1/1 | Less AC - no manual dexterity penalty situational for tasks and shooting. |
+| Gloves | 6 sc | 4 | 2/1/2 | Mid range AC - less manual dexterity penalty situational for tasks and shooting, -20% BS. |
+| Mittens | 8 sc | 5 | 3/2/3 | Best AC - Major manual dexterity penalty situational for tasks and shooting, -30% BS. |
+
+## Textile Arm Armour Interpretation Rules
+For Textile Arm Armour pieces (gloves/mittens), parse the item title for type and material keywords to determine base AC (Cut/Pierce/Blunt), Enc, and coverage percentages. All Textile arm items provide 10% Arm Coverage by default.  
+AC applies to Arms.
+Base Enc from type; increase Enc by +2.5 for material adds.
+Upgrades from the Universal Armour Upgrade Components Table may be applied if the material matches (padded/textile).
+Craftsmanship global (+1/+2 AC).
+
+Last updated: 2026-03-16
+
+</DOCUMENT>
+The document is now complete and references the universal upgrade table for all applicable textile upgrades. Ready for the next tier whenever you are!6.6s

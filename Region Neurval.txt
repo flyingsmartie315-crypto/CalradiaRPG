@@ -1,0 +1,206 @@
+Region: Neurval
+Neighbouring Regions
+North: Swadia
+North East: Uchalion Plateau
+East: Ortysian Basin
+South East: Ortysian Basin
+South: Ortysian Basin, Gulf Of Charas
+South West: Gulf Of Charas, Western Ocean
+West: Western Ocean
+North West: Western Ocean
+Overview
+Neurval is a warm southern Vlandian valley realm of rolling hills, fertile plains, and coastal bays, serving as a prosperous agricultural and trade heartland between Swadia's rivers and the Ortysian Basin's arid expanses. Ruled by clans like dey Meroc and dey Arromanc, it blends knightly tourneys with Imperial remnants, defending against eastern basin raids and sea threats. False moons cast subtle omens in the mists, stirring whispers from ancient ruins. Economies flourish on olives, grain, sheep, and coastal fisheries, with settlements thriving amid vineyards and tourney fields—a land of abundance where Vlandian ambition meets the south's golden warmth.
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area):
+Climate (Temperature: Warm [3-5], Rainfall: Moderate [2-4])
+Human Population Density: Moderate to High [2-4]
+Flora/Fauna Population Density: Abundant [3-5]
+Topography: Gentle to Undulating [1-3]
+Hydrology: Moderate [2-4]
+Geographic Structures
+North: Biscan Glens, Trand River
+North East: Etir River, Upper Trand River, Rhennod Pass
+East: Epric Eastern Pass
+South East: Neurval Valley, Epiric Hills
+South: Neurval Valley, Mount Epiric
+South West: Neurval Valley, Biscan Coast
+West: Neurval Valley, Bay Of Galend, Biscan Coast
+North West: Biscan Hills, Biscan Coast
+Core: Biscan Alps
+Biscan Glens: Lush, rolling valleys carved by ancient streams in the northern reaches, dotted with wildflowers and herds; fertile for grazing but prone to seasonal mists from nearby rivers. Serves as a buffer to Swadian borders. Environmental Scores: Temperature: 3-4, Rainfall: 3-4, Human Density: 2-3, Flora/Fauna Density: 4, Topography: 1-2, Hydrology: 3.
+Trand River: Wide northern waterway with meandering bends and fertile banks, supporting fisheries and irrigation but susceptible to floods during thaws. Key trade artery linking to Swadia. Environmental Scores: Temperature: 2-4, Rainfall: 3-4, Human Density: 2-3, Flora/Fauna Density: 3-4, Topography: 1, Hydrology: 4-5.
+Etir River: Swift northeastern tributary through wooded passes, with clear waters fostering riparian herbs and fish; often misty and channeled by slopes. Merges with Upper Trand. Environmental Scores: Temperature: 2-3, Rainfall: 3-4, Human Density: 1-2, Flora/Fauna Density: 3-4, Topography: 2-3, Hydrology: 4.
+Upper Trand River: Elevated northeastern segment with rapid currents carving defiles, mineral-rich from mountain runoff; vital for upstream transport but hazardous in storms. Borders Rhennod Pass. Environmental Scores: Temperature: 2-3, Rainfall: 2-3, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 3-4, Hydrology: 4.
+Rhennod Pass: Narrow northeastern mountain corridor with steep rocky trails and sparse vegetation; windy gateway to Uchalion, prone to ambushes and rockslides. Defensive chokepoint. Environmental Scores: Temperature: 1-3, Rainfall: 2-3, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 4-5, Hydrology: 1-2.
+Epric Eastern Pass: Arid eastern defile with dusty paths and scrubland; transitional to Ortysian Basin, exposed to winds and occasional dust storms. Trade route to the east. Environmental Scores: Temperature: 3-4, Rainfall: 1-2, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 3-4, Hydrology: 1-2.
+Neurval Valley: Expansive core-southern lowland with rolling meadows and streams; fertile heart for agriculture but vulnerable to valley fogs and floods. Dominant central feature. Environmental Scores: Temperature: 3-4, Rainfall: 3-4, Human Density: 3-4, Flora/Fauna Density: 4, Topography: 1-2, Hydrology: 3-4.
+Epiric Hills: Undulating southeastern rises with scattered herbs and groves; mild slopes offering views, but eroded soils limit farming. Borders Mount Epiric. Environmental Scores: Temperature: 3-4, Rainfall: 2-3, Human Density: 2-3, Flora/Fauna Density: 3-4, Topography: 2-3, Hydrology: 2-3.
+Mount Epiric: Towering southern peak with craggy faces and high meadows; mineral veins and panoramic overlooks, source of southern streams. Sacred or ruined sites atop. Environmental Scores: Temperature: 2-3, Rainfall: 2-3, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 4-5, Hydrology: 2.
+Biscan Coast: Rugged southwestern shoreline with cliffs and pebble beaches; storm-battered but rich in seafood, linking to Gulf of Charas. Coastal trade zones. Environmental Scores: Temperature: 3-4, Rainfall: 3-4, Human Density: 2-3, Flora/Fauna Density: 3, Topography: 2-3, Hydrology: 4-5.
+Bay Of Galend: Sheltered western inlet with calm harbors and tidal flats; smuggling and fishing haven, bordered by valleys. Key port access. Environmental Scores: Temperature: 3-4, Rainfall: 3-4, Human Density: 3, Flora/Fauna Density: 3-4, Topography: 1-2, Hydrology: 5.
+Biscan Hills: Northwestern gentle rises with groves and pastures; transitional to glens, herb-rich for gathering. Borders Biscan Coast. Environmental Scores: Temperature: 3-4, Rainfall: 3, Human Density: 2-3, Flora/Fauna Density: 4, Topography: 2-3, Hydrology: 2-3.
+Biscan Alps: Central mountainous spine with alpine pastures and peaks; snow-capped in winter, rich in minerals but avalanche-prone. Core defensive highlands. Environmental Scores: Temperature: 1-3, Rainfall: 2-3, Human Density: 1-2, Flora/Fauna Density: 2-3, Topography: 4-5, Hydrology: 2-3.
+Settlements
+Galend (Port City)
+The beating heart of Vlandia and the seat of King Derthert dey Meroc, a grand city of soaring white stone spires that catch the first light of dawn like polished marble blades. Nestled in the gentle southwestern valleys, it rises from a cradle of olive groves and rolling pastures, its walls broad and high enough to embrace both the royal palace and the vast tourney grounds that have made it famous across Calradia. The Great Lists stretch wide beneath tiered stone seating, their packed earth scarred by countless hooves and splintered lances, the air thick with the scent of oiled steel, horse sweat, and the faint sweetness of crushed grass. Here lords and knights clash in jousts of peace and war, earning crowns of gold or favors from ladies who watch from silk-draped pavilions, their ribbons fluttering like battle standards.
+The royal court resides in the high keep, its halls lined with tapestries of crimson lions and splintered swords, where feasts spill long into the night—roast venison, spiced wine from Aserai casks, music from lutes and pipes. Lavish banquets follow tourney victories; the king presides from a throne of dark oak and silver, his steely gaze quieting even the boldest baron mid-brag. Markets brim beneath the walls: stalls overflow with olives pressed into golden oil, ironwork fresh from the forges, articulated plate so finely jointed it moves like living skin. Merchants shout prices over the clang of hammers; Groschen change hands in great numbers, while the Vlandian-rite cathedral dominates the skyline—its bells tolling the hours, its stained glass glowing with scenes of sainted knights and divine favor.
+The city’s true lifeblood flows from the old Imperial infrastructure that still endures. A great aqueduct—its arches of pale limestone patched and partially repaired—stretches from the distant Biscan Alps, carrying fresh spring water down through the hills in a silver thread that has never fully failed. The ancient structure, built in the days when Calradios’ legions marched these valleys, was half-ruined when the Vlandians first claimed the city; many arches had crumbled, channels clogged with centuries of silt. King Derthert, in one of the earliest acts of his reign, sponsored its restoration—a project that saw masons and engineers labor for years to clear the conduits, shore up weakened piers, and divert new springs to keep the flow steady. The work won him deep favor among the commons: clean water reached every quarter, fountains bubbled in market squares, and the risk of drought or tainted wells receded. Guilds of aqueduct-keepers—stone-masons, waterwrights, and wardens—now dedicate themselves to its preservation, their badges of crossed pipes and olive branches worn with quiet pride. They patrol the high channels, clear blockages after storms, and repair cracks before they widen, ensuring the old Imperial marvel continues to serve a Vlandian crown.
+To the city’s western edge, along the banks of the broad river that once fed Imperial galleys, lie the ruined dockyards—vast stone quays and timber slips cracked by time and neglect, their cranes long rotted away. When the Vlandians took Galend, these yards were little more than weed-choked skeletons; the old Imperial fleet had long since sailed or sunk, leaving only echoes of a maritime power that once rivaled the northern seas. Derthert, ever mindful of the realm’s strength, ordered their refurbishment early in his reign. Masons rebuilt the crumbling piers, carpenters raised new cranes and slips, and smiths forged iron fittings to replace the decayed bronze. The project expanded the yards beyond their original bounds—new warehouses rose along the riverbank, dry docks deepened for larger vessels, and a small but growing fleet of river galleys and coastal traders now ties Galend to Ostican and the western ports. The commons cheered the work: trade swelled, jobs multiplied, and the king’s name became synonymous with renewal. Guilds of shipwrights and dock-wardens formed, their banners bearing crossed oars and olive branches, and the refurbished yards now hum with the creak of timber, the clang of hammers, and the shouts of longshoremen loading casks of wine and iron ingots bound for distant markets.
+The city is a place of splendor and order, its streets wide and well-patrolled, its people accustomed to the presence of power. On false-moon nights the streets empty as if by decree—doors barred, charms hung above lintels, torches burning low. Minor disturbances sometimes stir: a brief hush of insects, an odd shadow lingering too long on a wall, or the distant echo of knocking from within the oldest towers. The garrison remains vigilant, sweeping the alleys with torch and blade to ensure calm returns before dawn. Galend is Vlandia’s living crown—where prestige is won in the dust of the lists, where the king’s quiet gaze holds fractious barons in check, and where the past and the subtle dark still whisper beneath the stones, reminding even the proudest that no wall is high enough to keep out every night.
+Location and Ties:
+Geographic Structure Link: Neurval Valley, Bay Of Galend, Biscan Coast
+Neighbouring Features: Gentle southwestern valleys with olive groves and pastures; broad river banks and stone quays.
+Kingdom/Clan Affiliation: Vlandian (ruled by King Derthert of House dey Meroc as the royal seat), focused on tourneys and imperial renewal.
+Structure and Layout:
+Core: High keep with tourney grounds and markets, surrounded by wide streets and aqueduct arches.
+Key Districts: Royal palace halls; market squares with forges; cathedral quarter for rites; dockyards for trade.
+Defenses: Broad stone walls with river gates; watchtowers overlooking valleys; knightly patrols on streets.
+Population and Daily Life:
+Size and Density: Large port city (6,000-12,000 residents), densely urban with high activity in markets and sparse rural edges.
+Demographics:
+Garrison: Knights for tourney defense; crossbowmen on walls; scouts monitoring coasts.
+Civilians: Merchants bartering goods; farmers from valleys; women in court and guild roles.
+Economy: Olive oil and wine exports; ironwork and plate armor; river trade in grain and wool.
+Culture and Customs: Lavish banquets and jousts; cathedral bells and rites; aqueduct festivals.
+Villages:
+Furbec: Sits on a shelf overlooking the rocky Biscan coast of central Vlandia; the climate is warm most of the year, and grapes do well on the slopes of the Biscan hills, producing grapes.
+Meroc: A fishing village overlooking a cove in the Biscan Coast; the villagers sail out into the western ocean in search of mullet and bass near the shore, and tuna and sardines amid the islands to the south, producing fish.
+Nogrent: Sits on a slope of the Biscan hills in central Vlandia; villagers here raise sheep on the pastures between the coastal woods and the high crags of the hills, producing sheep.
+Hazards:
+Man-made: Baron rivalries and market thefts; southern basin incursions.
+Bestiary: Drowners in river sewers; mire-kin along coasts.
+Unveiling: Shadow knocks in towers; false-moon insect hushes.
+Jaculan (City)
+A prosperous inland town cradled in the gentle cradle between the rugged Biscan Alps to the north and west, and the fertile expanse of the Neurval Valley to the south. Here the land softens into rolling plains of rich black soil, where the sun lingers longer and the rains fall just right—bountiful farmland stretches in wide checkerboards of golden wheat, barley, and rye, while neat rows of vineyards climb low hillsides, their vines heavy with dark grapes that yield the sweet, robust wines Vlandians prize at every feast and tourney. The town itself is built of warm golden stone quarried from nearby outcrops, its wide streets lined with whitewashed houses, smithies ringing with the hammer-song of barding and lance-heads, and broad squares where horse traders and breeders haggle over destriers and palfreys of renowned bloodlines.
+Jaculan has long been famed for its horse-breeding: the plains and sheltered valleys produce mounts of strength and grace—warhorses with deep chests and steady temperaments, prized by knights for the charge, and lighter rounceys favored by border patrols. Wide streets double as riding grounds; mounted drills and group melees fill the air with the thunder of hooves and the clash of blunted steel, while smiths forge barding and lances in open-fronted forges that spill sparks into the evening. Wealthy bourgeoisie mingle with nobility in bustling markets, silver groschen changing hands for harness, wine casks, and fine cloth dyed in the valley’s own presses. The town’s position—sheltered yet close to the southern trade roads—makes it a natural hub; caravans from Charas and Pravend converge here, laden with iron, wool, and Imperial curiosities.
+North of the town rises Mount Jacul, its slopes riddled with vast subterranean cave networks—ancient Imperial mines and dripping labyrinths left from the days when Calradios’ legions dug deep for ore and secrets. Since the Unveiling, these depths shelter mutants: warped humans with elongated limbs, pallid light-shunning skin, glowing eyes, or insect-like chitin. Reclusive clans scavenge underground; rumors tell of nocturnal raids on farms and livestock, clawed footprints vanishing toward cave mouths. Vlandian knights consider the subterranean threat a genuine problem—not baseless superstition—having lost patrols in the foothills and witnessed the creatures' boldness firsthand. False-moon nights embolden them—mutations flare, whispers of deeper horrors rise from below, and the town’s watchfires burn higher as if to push the dark back into the earth.
+Jaculan endures as a jewel of plenty in Vlandia’s crown—its fields feed armies, its vineyards warm noble halls, its horses carry knights to glory. Here, prosperity is hard-won, and every harvest is a quiet defiance against the night that never quite lifts.
+Location and Ties:
+Geographic Structure Link: Biscan Alps, Neurval Valley
+Neighbouring Features: Rolling plains with vineyards and farmlands; subterranean caves under Mount Jacul.
+Kingdom/Clan Affiliation: Vlandian (ruled by Calatild of House dey Arromanc as a trade hub), focused on horse-breeding and southern commerce.
+Structure and Layout:
+Core: Golden stone town with central markets, surrounded by riding grounds and smithies.
+Key Districts: Vineyard hills for breeding; market squares for trade; forge alleys for armor.
+Defenses: Stone walls with valley gates; watchtowers overlooking plains; knightly patrols on roads.
+Population and Daily Life:
+Size and Density: Medium city (3,000-6,000 residents), moderately urban with active markets and sparse rural vineyards.
+Demographics:
+Garrison: Knights for melee drills; crossbowmen on walls; scouts monitoring caves.
+Civilians: Breeders haggling mounts; farmers in fields; women in dye presses and guilds.
+Economy: Horse exports and wine; grain from plains; iron trade from caravans.
+Culture and Customs: Tourney melees and feasts; wine blessings; cave wards.
+Villages:
+Arromanc: Lies in the Neurval, a valley that runs between the Biscan Alps and Mount Epiric; the warm lands of the Vlandian south are well-suited to the growing of olives, producing olives.
+Mot: Lies at the foot of the Epiric Hills and the Neurval, a valley that runs between the Biscan Alps and Epiric hills; the warm lands of the Vlandian south are well-suited to the growing of olives, producing sheep.
+Alorstan: Sits on a shelf overlooking the sea, at the foot of the Biscan Hills; the warm south of the Vlandian lands is well-suited to the cultivation of olives, producing olives.
+Chornad: Sits overlooking a pass through the Biscan hills; the villagers of this region, like many in the central Vlandian kingdom, specializing in the raising of pigs, producing pigs.
+Hazards:
+Man-made: Caravan rivalries; nocturnal raids from caves.
+Bestiary: Mutants in subterranean networks; mire-kin in valley mists.
+Unveiling: Mutation flares during false moons; whispers from depths.
+Sargot (City)
+Squats like a scarred fist at the crossroads of Vlandia, Battania, and the Western Empire’s fading reach—a gray, unlovely town that has known more sieges than summers of peace. The name itself is old Massa tongue, carried from the days when tribal encampments clung to defensible hillocks during the Vlandian conquest; those early stays were brutal, soaked in blood and betrayal, and the memory lingers in the very stones. Built atop Imperial ruins, the Vlandians simply overwrote what came before—old forums and aqueduct stubs now buried beneath thick walls of quarried granite, gray towers rising blunt and functional against the sky.
+The streets are narrow, cobbled unevenly, running between squat stone houses and the ever-present smell of forge-smoke, wet wool, and horse sweat. Markets sprawl in dusty squares: iron ingots stacked beside bolts of rough wool, weapons gleaming on racks, merchants barking prices over the clang of hammers. Knights, men-at-arms, and sergeants drill in open fields outside the walls, dust rising in clouds as lances splinter on pell posts or shield-walls clash in practiced rhythm. The garrison is hard-used—frequent war has made defenders of farmers and smiths, their faces lined early, their hands callused from both plow and sword.
+Yet beneath the surface the town carries ghosts. The old Imperial foundations are restless: on certain nights, especially when the moon turns pale and wrong, faint footsteps echo in empty forums where no one walks; voices murmur in dead languages from beneath the flagstones; shadows linger too long in corners where no light falls. Locals speak in hushed tones of Calradic specters—soldiers of long-dead legions, senators in tattered togas, merchants clutching vanished coin purses—all bound to the ruins they once ruled. They do not attack; they simply watch, their presence a cold weight that makes torches burn low and dogs whine without cause. Children are warned never to play near the old broken arches after dusk; elders leave small offerings of bread and salt at the thresholds of buried cellars, hoping to appease whatever lingers.
+The past is never truly buried in Sargot. Every plow-turn unearths rusted mail or cracked pottery; every new foundation stone uncovers a forgotten mosaic or a child’s toy that should have crumbled centuries ago. The town endures because it must—its people dour, practical, quick to mistrust strangers. They speak little of the night footsteps or the voices in dead tongues, but they keep the gates barred, the forges hot, and the watch-fires burning. In a kingdom where prestige is won with steel and grudges are paid in blood, Sargot is the place where history itself refuses to die, and where even the stones remember how to whisper.
+Location and Ties:
+Geographic Structure Link: Neurval Valley, Epiric Hills, Epiric Eastern Pass
+Neighbouring Features: Dusty squares with markets and drill fields; narrow streets amid imperial ruins.
+Kingdom/Clan Affiliation: Vlandian (ruled by King Derthert of House dey Meroc as a border stronghold), focused on defenses and eastern trade.
+Structure and Layout:
+Core: Gray granite towers with thick walls, surrounded by dusty markets and open fields.
+Key Districts: Forge streets for weapons; garrison quarters for drills; ruined forums for hidden cellars.
+Defenses: Quarried walls with gate towers; watchfires on battlements; patrols in fields.
+Population and Daily Life:
+Size and Density: Medium city (2,000-5,000 residents), moderately dense with narrow streets and sparse outskirts.
+Demographics:
+Garrison: Knights and sergeants for drills; crossbowmen on walls; scouts monitoring passes.
+Civilians: Smiths forging arms; farmers turned defenders; women in market and household roles.
+Economy: Iron and wool trade; weapon production; grain from plains.
+Culture and Customs: Siege feasts and oaths; salt offerings to ghosts; mistrust of strangers.
+Villages:
+Calioc: On a flat plain at the base of the Biscan Alps and the Neurval Valley; the people of this district grow flax on the lands streams from the Alps, producing flax.
+Etirfurd: Sits at the base of the Epiric Hills on a low spur just west of Sargot and the fertile Neurval Valleys; the villagers here grow wheat, producing grain.
+Hazards:
+Man-made: Border sieges and betrayals; merchant disputes.
+Bestiary: Ghouls in imperial ruins; mutants from passes.
+Unveiling: Ghostly footsteps and murmurs; false-moon shadows and voices.
+Hongard Castle
+Stands alone in an isolated valley high in the Biscan Alps, a jagged range of storm-scoured peaks and pine-choked ridges that forms the rugged spine of central-western Vlandia. More giant tower than conventional castle, the keep rises like a blunt finger of dark stone thrust upward from the mountainside itself—its foundations carved directly into living rock, walls sloping inward in sheer, almost organic lines that merge with the cliff face. Narrow windows like arrow-slits stare out over the valley, and the single great gate is set deep in a cleft, approachable only by a switchback path exposed to enfilading fire from the battlements above.
+Fresh water springs bubble from fissures within the walls, feeding hidden cave lakes deep inside the mountain—dark, cold pools teeming with blind white fish that the garrison hauls up in nets for lean winters. These internal reservoirs, combined with the castle’s practically unrivalled defensive position—no army can approach without being funneled into kill-zones—have made Hongard near-impregnable throughout centuries of war. Siege engines falter on the steep approaches, ladders shatter against sheer faces, and starvation is thwarted by the springs and fish below. Even in the harshest winters, when snow buries the passes, Hongard endures.
+Yet the veil is very thin here. The Unveiling left a lingering fracture in this valley: on false-moon nights the air grows unnaturally still, shadows stretch too long across the stone, and low knocking echoes from within the mountain itself. Ghouls sometimes rise from old battle graves in the lower valley, but worse are the whispers—voices that sound like fallen comrades or lost kin, calling from the cave mouths. Some say the mountain remembers the blood spilled to claim it; others claim the thinness lets darker things watch from the other side. Patrols never go alone after dusk, and charms hang thick above every doorway. Hongard’s defenders are hardy, but even they light extra torches and mutter prayers when the moon turns sickly pale.
+Location and Ties:
+Geographic Structure Link: Biscan Alps
+Neighbouring Features: Isolated valley with storm-scoured peaks and pine-choked ridges; hidden cave lakes and switchback paths.
+Kingdom/Clan Affiliation: Vlandian (ruled by Baron Vartin of House dey Jelind as an isolated stronghold), focused on mountain defenses and dark legacies.
+Structure and Layout:
+Core: Giant tower keep carved into rock, surrounded by cliffside battlements and internal caves.
+Key Districts: Spring-fed reservoirs for sustenance; gate cleft for access; high windows for overlooks.
+Defenses: Sheer sloping walls with enfilading fire; switchback path kill-zones; natural cliff mergers.
+Population and Daily Life:
+Size and Density: Small castle settlement (200-400 residents), densely fortified within rock with sparse valley outposts.
+Demographics:
+Garrison: Hardy knights for patrols; crossbowmen on battlements; scouts in ridges.
+Civilians: Farmers in wooded lands; fishers from cave lakes; women in charm and rite roles.
+Economy: Grain from wooded valleys; olives from dry hillsides; internal fish sustenance.
+Culture and Customs: Vigilant prayers and torches; muttered wards against whispers; isolation feasts.
+Villages:
+Hongard: Sits in the warm wooded lands near the meandering Trand river; this land, rich in wheat and once the heartland of the Empire, is now the center of the Vlandian kingdom, producing grain.
+Ferton: Not far from a pass leading North over the Biscan Alps; the villagers grow olives on the warm, dry landward side of the hills, producing olives.
+Hazards:
+Man-made: Clan intrigues (dark Jelind history); siege remnants.
+Bestiary: Ghouls from battle graves; cave mutants.
+Unveiling: Knocking from mountains; false-moon whispers and elongated shadows.
+Usanc Castle
+Usanc Castle stands on a low rise nestled between the craggy flanks of Mount Epiric and the fertile expanse of Neurval Valley, its walls of warm golden limestone commanding views over winding trade roads and olive-draped slopes. The air here is dry and scented with earth and ripening fruit; the distant rumble of carts on valley paths drifts up to the battlements, mingling with the low murmur of olive groves that blanket the hillsides.
+This is the southernmost bastion of the Kingdom of Vlandia, the quiet guardian of the border with the Ortysian Basin. While the great tourneys and royal splendour belong to Galend, the grim business of watching the desert horizon falls to Usanc. Its garrison is lean, professional, and ever-vigilant—Baron Berican of House dey Rothad keeps his men ready to ride at a moment’s notice should any Basin warband test the frontier.
+Location and Ties:
+Geographic Structure Link: Neurval Valley, Mount Epiric
+Neighbouring Features: Low rise between mountain crags and valley plains; warm, sun-drenched olive groves on fertile slopes with views of the southern horizon.
+Kingdom/Clan Affiliation: Vlandian (ruled by Baron Berican of House dey Rothad as the southern frontier watch), focused on border defense and olive trade.
+Structure and Layout:
+Core: Warm golden-limestone keep rising amid the hills, surrounded by low curtain walls and olive terraces.
+Key Districts: Valley overlook for scouts; olive-press courtyard; southern watchtower overlooking the basin road.
+Defenses: Low but thick walls designed for rapid sallies; elevated watchtower with signal fire; natural rise that funnels attackers into kill-zones.
+Population and Daily Life:
+Size and Density: Small castle settlement (250-450 residents), compact within the walls with olive groves spreading outward.
+Demographics:
+Garrison: Professional border knights and sergeants; light cavalry scouts; arbalest crews on the tower.
+Civilians: Olive farmers and press workers; herders in the valley; women managing groves and household crafts.
+Economy: Olive oil and preserved olives for export; valley grain trade; tolls on the southern trade road.
+Culture and Customs: Quiet border vigilance; olive harvest festivals with wine and song; small offerings to the earth for bountiful yields.
+Villages:
+Usanc: Sits between Mount Epiric and Neurval Valley; this warm southern land supports the growing of olive trees, producing olives.
+Hazards:
+Man-made: Basin raider probes; disputes along trade roads.
+Bestiary: Wild boars in the olive groves; occasional mire-kin in valley streams.
+Unveiling: Very mild—false-moon nights bring only a gentle hush over the valley and the faint scent of distant incense on the wind.
+Talivel Castle
+Perches high on the eastern flanks of the Biscan Hills, far inland where the rugged central range slopes gently toward the fertile lowlands of the Neurval Valley to the south. The fortress overlooks rolling pastures, olive groves, and winding trade roads; its gray stone towers rise from a broad ridge, commanding clear views of the passes and valleys below. Clean mountain air, the scent of pine and turned earth, and the soft lowing of herds in the meadows surround it—no salt spray or coastal fog reaches these heights.
+The castle serves as a vital inland watchpost, guarding southern approaches against Empire remnant probes and the occasional Battanian scout who slips through the hills. Its walls bristle with heavy arbalests for long-range defense; knights, men-at-arms, and sergeants train in the wide courtyard, favoring conventional means—sturdy destriers for mounted charges, coat-of-plates for balanced protection, and lances or longswords for decisive shock. The garrison is disciplined, the stables well-stocked with powerful warhorses suited to open fields and hill trails.
+Yet Talivel is also one of the few places in Calradia where the rare and sacred gift of the Pegasus is known to manifest. Since the Unveiling, sightings of these winged, spiraling-horned horses have been whispered of in the high pastures and secluded glades south of the castle—elegant, intelligent creatures of pure white or pale silver, seldom seen and even more seldom approached. Only the most morally pure and righteous may hope to bond with one; the attempt is a test of the soul as much as skill. At any time, fewer than ten bonded Pegasus riders exist in all Vlandia—often as few as three to seven—making each a living saint, revered across the realm as proof of divine favor.
+Unveiling influence is scarcely felt here. The veil is thick in this quiet corner of Vlandia—False Moon nights pass with little more than an uneasy stillness in the air, a brief hush of insects, or the odd shadow that lingers too long on the wall. No ghouls rise from the pastures, no drowners lurk in the streams, no Wælhreów mimic voices in the night wind. The castle remains an almost idyllic refuge: wildflowers bloom along the ramparts in spring, birds nest in the battlements, and the garrison’s children play in the courtyard under watchful but relaxed eyes. Talivel is a place where duty is steady, not grim; where knights rest with the knowledge that the world’s darker bleed has not yet found them, and where the faint hope of a Pegasus’s grace still glimmers in the high meadows. It endures as a beacon of calm amid Vlandia’s wider storms—a rare pocket of peace in a kingdom forged by steel and shadow.
+Location and Ties:
+Geographic Structure Link: Biscan Alps, Biscan Glens
+Neighbouring Features: High ridges overlooking pastures and groves; clean air with pine scents and trade roads.
+Kingdom/Clan Affiliation: Vlandian (ruled by King Derthert of House dey Meroc as a frontier stronghold), focused on southern watch and Pegasus reverence.
+Structure and Layout:
+Core: Gray stone towers on broad ridge, surrounded by wide courtyards and high pastures.
+Key Districts: Stables for warhorses; training fields for drills; glade overlooks for vigils.
+Defenses: Walls with arbalest emplacements; ridge positions for long-range fire; natural elevation barriers.
+Population and Daily Life:
+Size and Density: Small castle settlement (300-600 residents), sparsely fortified with open courtyards and outlying glades.
+Demographics:
+Garrison: Knights for mounted charges; sergeants with arbalests; scouts in hills.
+Civilians: Breeders tending herds; farmers in groves; women in rite and household roles.
+Economy: Olive exports from hillsides; iron ore from mines; horse breeding.
+Culture and Customs: Disciplined drills and feasts; Pegasus quests and prayers; charm wards.
+Villages:
+Talivel: Lies in the middle of the Biscan Glens, where the Upper Trand Rivers transition into the Trand River in the heartland of Calradia; villagers plant olives here on the hillsides, producing olives.
+Rodetan: Takes its name from the ruddy, iron-rich soil of this part of the Biscan Alps; the mines of this district supply the iron ore for many of the forges of the Vlandian kingdom, producing iron ore.
+Hazards:
+Man-made: Empire probes and Battanian scouts; clan disputes over passes.
+Bestiary: Minor beasts in pastures; no major threats.
+Unveiling: Uneasy stillness during false moons; insect hushes and lingering shadows.
+Last Updated: March 13, 2026
+

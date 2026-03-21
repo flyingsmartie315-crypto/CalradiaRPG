@@ -1,0 +1,33 @@
+New Category: Throwing Weapons
+This new category consolidates all thrown missile weapons. They are one-handed, quick to ready (1 AP), and use the existing Throwing quality (range 6/12 yards base, –10 BS at long range). Damage scales with weight and type; improvised items are highly variable.
+Throwing Quality Reminder
+
+Range: Short 6 yards / Long 12 yards
+Reload: 1 AP (ready + throw)
+Can be used in melee at 0.5 yards with –10 WS
+
+Throwing Weapons Table
+Name,Cost,Enc,Group,Damage Profile (Cut / Pierce / Blunt),Range (yards),Qualities,Availability,Notes
+Improvised Thrown Object*,–,Var,Ordinary,Variable (see below),4/8,None,–,Catch-all; damage based on weight/size.
+Javelin,5 gc,30,Throwing,(1 / 4 / 2),8/16,Fast,Common,Balanced spear for throwing or melee.
+Throwing Axe,5 gc,40,Throwing,(4 / 1 / 3),6/12,Impact,Rare,Chopping power; returns on DoS ≥3 (Ag test).
+Throwing Dagger,2 gc,10,Throwing,(2 / 4 / 1),6/12,"Fast, Concealable",Common,Stealthy; +15 Concealment.
+
+Improvised Thrown Object Rules (Catch-All)
+Use this for anything not listed (rocks, bottles, chairs, etc.). Damage is based on weight/size:
+Tiny (pebble, coin): (0 / 0 / 1) — 4/8 yards, negligible damage.
+Small (thrown rock, mug): (0 / 1 / 2) — 6/12 yards.
+Medium (brick, helmet): (1 / 2 / 3) — 4/8 yards, –10 BS.
+Large (barrel, shield): (2 / 2 / 4) — 3/6 yards only, –20 BS, requires two hands to ready.
+Massive (boulder dropped from height): (3 / 3 / 6) — 0 yards (drop only), treat as falling damage (see Falling rules). Cannot be thrown by normal humans.
+
+Weight-Based Modifiers
++1 Blunt per 20 Enc of object.
+If dropped from height (e.g., rooftop): Use Falling Damage table instead of thrown profile.
+
+Additional Notes
+Javelin: Can be used in melee as a short spear (Reach 1.5 yards).
+Throwing Axe: Impact gives two d10 roll (higher).
+Throwing Dagger: +20 Concealment when hidden.
+All benefit from Throwing Ammunition rules (lead weights or sharpened edges add +1 Pierce).
+Hulking+: +1 to all damage profiles and +2 yards short range.

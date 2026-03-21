@@ -1,0 +1,4 @@
+Slings
+Name,Cost,Enc,Group,Damage Profile (Cut / Pierce / Blunt),Range (yards),Reload,Qualities,Availability
+Sling (Pouch),8 sc,10,Sling,(0 / 1 / 4),16/32,1 AP,"Concealable, Inconspicuous",Common
+Staff Sling*,16 sc,50,Sling,(0 / 1 / 5),24/48,1 AP,Impact,Rare

@@ -1,0 +1,5 @@
+Name,Cost,Enc,Group,Damage Profile (Cut / Pierce / Blunt),Reach (yards),Qualities,Availability
+Dagger*,7 sc,10,Ordinary,(3 / 5 / 1),0.5,"Fast, Precise (specialized only)",Common
+- Misericordia (Variant),9 sc,10,Ordinary,(2 / 6 / 1),0.5,"Fast, Armour Piercing",Scarce
+- Main Gauche (Variant),8 sc,15,Parrying,(2 / 4 / 1),0.5,"Fast, Defensive, Balanced",Scarce
+Utility Axe (Hatchet)*,8 sc,15,Ordinary,(5 / 1 / 3),0.5,"Impact, Throwing",Common

@@ -1,0 +1,9 @@
+Ammunition
+Type,Cost,Enc,Damage Mod,Qualities,Availability,Notes
+Arrow/Bolt (Broadhead),2 bc,10,+0,None,Common,General purpose.
+Bodkin (Armour-Piercing),4 bc,10,+0,Armour Piercing,Scarce,+1 extra AP ignored.
+Blunt (Hunting/Training),2 bc,10,–1,Pummelling,Average,Non-lethal; +10 Strike to Stun.
+Fire (Incendiary),10 bc,15,+0,Special (Fire),Rare,+1d10 fire damage (Ag test or burn).
+Barbed (Wounding),6 bc,10,+0,Tiring (removal),Scarce,+1 Critical Value; –10 Heal to remove.
+Sling Stone (Regular),–,5,+0,None,Abundant,Free forage.
+Sling Lead Shot,4 bc,10,+1,Precise,Average,"Simple crafting; +10 BS short range, ignores 1 AP."

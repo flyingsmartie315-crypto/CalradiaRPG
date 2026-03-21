@@ -1,0 +1,96 @@
+<DOCUMENT filename="Characteristics_and_Skills.txt">
+# Characteristics & Skills
+
+Primary Characteristics
+Eight primary Characteristics (base human range ~20–40; increasable via XP, talents, mutations).
+Weapon Skill (WS) — Melee combat: striking, parrying, dodging.
+Ballistic Skill (BS) — Ranged combat: bows, crossbows, thrown.
+Strength (S) — Raw power; Strength Bonus (SB) = tens digit (melee damage, carry).
+Toughness (T) — Resilience; Toughness Bonus (TB) = tens digit (damage reduction).
+Agility (Ag) — Speed/reflexes; Agility Bonus (AgB) = tens digit (move, dodge).
+Intelligence (Int) — Reasoning, lore, languages.
+Perception (Per) — Awareness, spotting, tracking.
+Willpower (WP) — Mental fortitude; Willpower Bonus (WPB) = tens digit (fear, madness).
+Fellowship (Fel) — Charisma, leadership, social.
+
+Secondary Characteristics
+Movement (M): Base = AgB ÷ 10 (round down) + talents/modifiers.
+Wounds (W): (TB × 2)
+Encumbrance Limit: Strength × 10 points.
+Attacks: 1 by default Attacks is a secondary characteristic representing the number of basic attacks (melee or ranged) an entity can make per turn in structured time scenarios (e.g., combat). It limits offensive output and can be modified by Talents, weapons, Size, or conditions.
+Insanity Points (IP): Tracks accumulated mental trauma from Unveiling horrors, failed Fear/Terror tests, witnessing atrocities, or prolonged madness exposure.
+Fate Points (FP): Represents destiny, luck, or heroic resilience, allowing intervention in dire moments. Available to Player Characters only.
+Strength Bonus (SB): Derived from Strength Characteristic; used for melee damage, carrying capacity modifiers, and other power-based effects.
+Calculation: SB = Strength / 10 (rounding down, e.g., Strength 41 = SB 4).
+Usage: Adds to damage rolls (e.g., melee weapon damage = SB + weapon base), influences feats of strength, and factors into Wounds if high.
+Notes: Updates automatically with Strength changes; apply Size modifiers to base Strength before calculating.
+
+Optional: Encumbrance (Expanded)
+Add the following to the Secondary Characteristics section in Core_RP_Characteristics&Skills.txt. These optional rules provide more detail for groups wanting realistic load management, where items' weight and bulk affect mobility. Base Encumbrance Limit remains Strength × 10 (as core), but exceeding imposes penalties. For simplicity, ignore unless the campaign emphasizes logistics (e.g., long marches, treasure hauls). Adjudicate with guidelines—reward clever packing (e.g., +10% limit via Trade (Merchant) test) or Unveiling aids (e.g., mutant strength ignores 50 points).
+
+Encumbrance Value Calculation: A character or creature's maximum Encumbrance Limit equals (Strength + Toughness) × 10 points. (Overrides core S × 10 for this variant; use for balanced carrying with resilience factored.)
+Example: Strength 45, Toughness 35 = Limit 800 points. Exceeding by 50 points imposes -1 M; every additional 50 adds another -1 (to min 1 M).
+Effects: At -2 M or more, -10 to Ag tests; at half M, cannot Run/Charge. Over double Limit: Immobile, prone to fatigue (WP test or gain IP from strain).
+
+Item Encumbrance: Assign points based on size/weight (e.g., dagger 10, sword 50, plate armour 200, backpack 20 + contents). Large/bulky items add extra (e.g., +50 for unwieldy). See Equipment for values.
+Group Travel: Use slowest member's effective M; overloaded allies risk ambushes (+10 enemy Initiative).
+
+Notes:
+
+Mounts/vehicles multiply Limit (e.g., horse ×3); beasts use own stats.
+Talents like Sturdy add +100 points; Size modifies (Hulking +20%, Puny -20%).
+In narrative time, test Athletics to push limits (DoS adds temporary points); in combat, exceeding halves AP for movement actions.<|control12|>Human:  [0m
+
+Toughness Bonus (TB): Derived from Toughness Characteristic; represents resilience and damage reduction.
+Calculation: TB = Toughness / 10 (rounding down, e.g., Toughness 37 = TB 3).
+Usage: Subtracts from incoming damage (after armor), used in Wounds calculation (TB × 2), and resists poisons/diseases.
+Notes: Updates with Toughness changes; Size modifiers apply to base Toughness.
+Skills
+Skills start at base Characteristic % + Advances (Basic +10, Trained +20, etc.).
+Basic Skills — Usable untrained (at Characteristic value).
+Advanced Skills — Require training/specialism to attempt (untrained = -20 or impossible; often career/background gated).
+Basic Skills
+Athletics (Str/Ag) — Climbing, swimming, jumping, long runs.
+Awareness (Per) — Noticing details, ambushes, hidden things.
+Charm (Fel) — Persuasion, making friends, calming.
+Climb (Str/Ag) — Scaling surfaces.
+Concealment (Ag) — Hiding from sight.
+Dodge (Ag) — Evading attacks.
+Evaluate (Int/Fel) — Appraising value, spotting fakes.
+Gossip (Fel) — Gathering rumours.
+Haggle (Fel) — Bartering.
+Intimidate (Fel/Str) — Threats, cowing others.
+Lore (various) (Int) — Knowledge (History, Religion, Unveiling, Monsters, Regions).
+Ride (Ag) — Handling mounts.
+Silent Move (Ag) — Moving quietly.
+Advanced Skills
+Animal Care (Int) — Keeping/healing animals.
+Animal Training (Int) — Taming/training beasts (direwolves, gryphons).
+Disguise (Fel) — Altering appearance/behaviour.
+Heal (Int) — First aid, surgery, treating disease/poison.
+Navigation (Int) — Maps, stars, avoiding lost in wilds.
+Performer (various) (Fel/Ag) — Acting, singing, contortion, storytelling.
+Read/Write (Int) — Literacy, forging.
+Search (Per) — Detailed inspection, finding hidden/traps.
+Sleight of Hand (Ag) — Pickpocketing, palming, planting.
+Speak Language (various) (Int) — Specific tongues (Vlandian, Battanian, Sturgian, Imperial, Aserai, etc.).
+Torture (WP) — Extracting info via pain (risks backlash).
+Trade (various) (Int/Fel) — Crafting (Armourer, Gunsmith, Herbalist, Brewer, etc.).
+Additional Advanced / Specialized Skills (Unveiling-era or rare)
+Academic Knowledge (various) (Int) — Deep lore (Engineering, Science, Arcane, Heraldry).
+Channelling (WP) — Manipulating Unveiling energies (druids, rare mystics).
+Drive (Ag) — Wagons, carts in rough terrain.
+Outdoor Survival (Int) — Foraging, shelter in wilds.
+Prepare Poison (Int) — Crafting toxins (risky).
+Scale Sheer Surface (Ag) — Extreme climbing.
+Secret Language (various) (Int) — Codes (Battle Tongue, Thief Cant).
+Secret Signs (Int) — Gestures/symbols (gang signs, hunter marks).
+Set Trap (Ag/Int) — Building/spotting snares.
+Surgery (Int) — Advanced medical (amputations, etc.).
+Track (Int) — Following trails.
+Notes
+
+Skills may have Specialisms (e.g. Lore (Unveiling), Trade (Armourer), Speak Language (Old Imperial)).
+Advanced Skills often require a teacher, book, or experience (e.g. months of practice).
+Talents frequently add flat bonuses (+5/+10/+20) or situational effects to skills.
+Characteristic increases raise base % for linked skills.

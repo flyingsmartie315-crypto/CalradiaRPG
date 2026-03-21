@@ -1,0 +1,65 @@
+Rule for Interpreting HSI (Habitat Suitability Index) in Bestiary Entries
+HSI (Habitat Suitability Index) in the bestiary is defined as a 0-5 numerical range per category (Temperature, Rainfall, Human Density, Flora/Fauna Density, Topography, Hydrology), indicating creature preferences derived solely from entry descriptions (e.g., cold peaks imply low Temperature range). It adapts EHGS tags for bestiary use, focusing on suitability rather than hazard generation. For land-based entries, use "Rule for Interpreting Environmental Score in Land Regions" to define scores. For oceanic bestiary entries (e.g., Kraken, Sea Serpents), refer to "Rule for Interpreting Environmental Score in Oceanic Regions" for adapted interpretations (e.g., Topography as sea state, Hydrology fixed at 5).
+To compare a bestiary HSI to a region's Environmental Scores: Align categories and check overlap. For each category, if the region's score falls fully within the creature's HSI range, score 1 point (full match); partial overlap (e.g., region 3 in creature 2-4), score 0.5; no overlap, score 0. Total points / 6 = suitability percentage.
+Model for likelihood and quantity:
+Likelihood: <30% = unlikely (rare sightings); 30-60% = possible (occasional presence); 60-80% = likely (regular encounters); >80% = highly suitable (common inhabitant). Adjust by RHK rarity (e.g., subtract 20% for rarity 1, add 20% for rarity 5).
+Quantity: Base on suitability % scaled by RHK rarity (1= solitary/1-2 individuals; 2= small groups/3-5; 3= packs/6-20; 4= herds/swarms/21-100; 5= abundant/>100). Harm from RHK informs risk (1= negligible, 5= moderate, 10= extreme lethality upon encounter). Use for RP: e.g., high likelihood + low rarity = frequent groups; integrate Unveiling factors for spikes.
+Rule for Interpreting RHK Score in Bestiary Entries
+When applying RHK (Rarity, Individual Harm, Collective Harm, Knowledge) scores to bestiary entries, use the 1-10 scale (1 minimal/low, 10 maximal/high) derived from descriptions for rarity (global population/scarcity, with regional variations via modifiers), individual harm (threat from single entity vs. human opposition levels), collective harm (threat from groups, derived as round(log10(Rarity + 1) * Individual Harm), capped 1-10, vs. human collective scales), and knowledge (awareness/documentation). Adjust RP encounters accordingly (e.g., high rarity reduces sightings, high harm increases danger).
+With Calradia's mid-range human population fixed at 4 million (~22k avg per fief across 180 settlements, 70-80% rural), RHK Rarity (global entity population) can be informed by relative density and encounter probability. This grounds scores in a realistic ecosystem: creatures as <0.01% of total biomass for balance, scaled to human equivalents (e.g., Rarity 5 = 500-2000 entities ≈ 0.0125-0.05% of pop, like rare predators in medieval Europe).
+Rarity reflects global entity population, calibrated to 4M human baseline for RP density (e.g., encounters/fief = pop / fiefs). Regional modifiers (+/-1-3) adjust local (e.g., +2 in native habitat).
+1 - mythical (<10 global; 1/fief every 400 yrs)
+2 - ultra-rare (10-50; 1/fief every 80 yrs)
+3 - very rare (50-200; 1/fief every 20 yrs)
+4 - rare (200-500; 1/fief every 8 yrs)
+5 - uncommon (500-2000; 1/fief every 2 yrs)
+6 - occasional (2000-5000; 1/fief yearly)
+7 - common (5000-20k; 1/fief quarterly)
+8 - frequent (20k-50k; 1/fief monthly)
+9 - abundant (50k-200k; 1/fief weekly)
+10 - ubiquitous (>200k; 1/fief daily, pervasive)
+
+Individual Harm indicates threat from a single entity vs. human opposition:
+1 - negligible vs. civilian
+2 - minimal vs. unarmed
+3 - low vs. armed individual
+4 - moderate vs. skilled fighter
+5 - significant vs. small group
+6 - high vs. patrol
+7 - severe vs. company
+8 - extreme vs. battalion
+9 - deadly vs. army
+10 - apocalyptic vs. kingdom
+
+Collective Harm indicates threat from groups/swarms (derived round(log10(Rarity + 1) * Individual Harm), capped 1-10) vs. human collectives:
+1 - negligible vs. individual
+2 - minimal vs. family
+3 - low vs. village
+4 - moderate vs. town
+5 - significant vs. caravan
+6 - high vs. garrison
+7 - severe vs. army
+8 - extreme vs. city
+9 - deadly vs. region
+10 - apocalyptic vs. empire
+
+Knowledge covers lore awareness and study:
+1 - anecdotal/mythical (rumors only)
+2 - sparse (rare tales)
+3 - basic (folk knowledge)
+4 - moderate (regional lore)
+5 - documented (clergy/hunter records)
+6 - studied (clan/scholar insights)
+7 - detailed (behavioral patterns)
+8 - expert (taming/warding methods)
+9 - comprehensive (variants analyzed)
+10 - mastered (fully integrated lore)
+RP Application
+Encounter Model: Probability = (Rarity score / 10) * (HSI suitability %) * (local modifiers). E.g., Gryphons RHK(3) in Rhennod (high suitability): ~30% base chance scaled to 1/fief every 6-7 yrs.
+Quantity per Encounter: 1d(Rarity) individuals (e.g., Rarity 3: 1-3; capped by Collective Harm).
+Ecosystem Balance: Limits over-spawning (e.g., Rarity 10 like rats: daily pests but low Individual Harm). Ties to EHGS: High rarity + low suitability = negligible spawns.
+Rule for Regional Modifiers in RHK Knowledge Score
+When interpreting the Knowledge component of RHK (1-10 scale) for bestiary entries in RP contexts, apply optional regional modifiers (+/-1 to 3) based on faction lore, cultural proximity, or historical interactions to reflect localized awareness. Modifiers derive from entry descriptions and master lore (e.g., Vlandian griffon knights imply expertise). Adjust only if query specifies a region/faction; cap final score at 1-10.
+Positive Modifiers (+1 to 3): For factions with direct ties (e.g., +2 for Vlandia on Griffons due to taming/egg hunts; +1 for Sturgia on Direwolves from bonding traditions).
+Negative Modifiers (-1 to 3): For distant/isolated factions (e.g., -2 for Aserai on Frost Wraiths due to southern heat adaptation; -1 for Khuzait on Wælhreów from steppe vs. forest habitats).
+Neutral (0): Default for unrelated/general knowledge. Use to inform RP: high modified Knowledge yields detailed tactics/wards; low prompts myths or ignorance (e.g., "Vlandians master griffon bonds; Aserai dismiss northern wraiths as tales").

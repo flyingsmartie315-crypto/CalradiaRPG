@@ -1,0 +1,121 @@
+
+Region: Gulf Of Charas
+Neighbouring Regions
+North: Ortysian Basin, Neurval Basin
+North East: Neurval Basin
+East: Perrassic Sea
+South East: The Nahasa Desert
+South: The Nahasa Desert
+South West: Western Ocean
+West: Western Ocean
+North West: Western Ocean
+Overview
+The Gulf of Charas is a vast southern oceanic basin of warm turquoise waters, coral reefs, and storm-tossed straits, serving as a crucial maritime trade artery between Vlandian coasts and Aserai ports while harboring Unveiling sea horrors in its depths. Bordering Neurval and Swadia to the north and the Perassic Sea to the south, it blends Vlandian shipping with Aserai influences, defending against pirates and krakens. False moons stir abyssal rumbles and glowing eyes below. Economies rely on fisheries, spices, and gulf trade, with ports thriving amid islands and inlets—a realm of abundance where naval ambition meets the deep's mysterious warmth.
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area):
+Climate (Temperature: Warm waters [4], Rainfall: Frequent storms [4])
+Human Population Density: Moderate trade [3]
+Flora/Fauna Population Density: Abundant reefs [4]
+Topography: Coastal shelf [2]
+Hydrology: Moderate waves [3]
+Geographic Structures
+North: Biscan Coast
+North East: Biscan Coast
+East: The Vikhertai Chain, Strait Of Lysia
+South East: Jabal Coast
+South: Jabal Coast
+South West: N/A
+West: Octa-Scylla Archipelago
+North West: Octa-Scylla Archipelago
+Core: Gulf Depths
+Biscan Coast: Rugged northern shoreline with cliffs and pebble beaches fringing the gulf; storm-battered but rich in seafood, linking to Vlandian ports like Galend. Prone to tidal surges and smuggling inlets. Environmental Scores: Temperature: Warm waters [4], Rainfall: Frequent storms [4], Human Density: Moderate trade [3], Flora/Fauna Density: Abundant reefs [4], Topography: Shallow waters [1], Hydrology: Moderate waves [3].
+The Vikhertai Chain: Eastern volcanic island chain with jagged peaks and coral fringes; geothermal vents warm surrounding waters, fostering unique marine life but risking eruptions. Transitional to Perassic Sea. Consists of 9 small islands clustered together in shallow depths. Environmental Scores: Temperature: Tropical hot [5], Rainfall: Constant humidity [5], Human Density: Busy lanes [4], Flora/Fauna Density: Teeming ecosystems [5], Topography: Shallow waters [1], Hydrology: Mild swells [2].
+Strait Of Lysia: Narrow eastern passage with strong tidal currents and reefs; hazardous for navigation but a shortcut to eastern coasts, teeming with fish schools. Prone to whirlpools. Ortysian Basin and the Nahasa Desert are a mere 500m apart at the closest point. Environmental Scores: Temperature: Warm waters [4], Rainfall: Frequent storms [4], Human Density: Busy lanes [4], Flora/Fauna Density: Moderate schools [3], Topography: Moderate depths [3], Hydrology: Rough currents [4].
+Jabal Coast: Sandy southeastern coastline backed by escarpments; arid beaches with date palms and shallow lagoons, ideal for pearling but exposed to desert winds. Links to Nahasa. Environmental Scores: Temperature: Tropical hot [5], Rainfall: Moderate rains [3], Human Density: Moderate trade [3], Flora/Fauna Density: Abundant reefs [4], Topography: Shallow waters [1], Hydrology: Mild swells [2].
+Octa-Scylla Archipelago: Western cluster of rocky isles with deep coves and sea caves; pirate havens amid turbulent waters, rich in shipwrecks and marine predators. Exposed to ocean swells. Consists of eight islands clustered together in shallow depths. Environmental Scores: Temperature: Temperate seas [3], Rainfall: Frequent storms [4], Human Density: Busy lanes [4], Flora/Fauna Density: Abundant reefs [4], Topography: Coastal shelf [2], Hydrology: Moderate waves [3].
+Gulf Depths: Central abyssal basin with underwater canyons and vents; teeming with deep-sea creatures and Unveiling anomalies, a core hazard for sailors. Warm currents circulate here. Environmental Scores: Temperature: Warm waters [4], Rainfall: Constant humidity [5], Human Density: Isolated routes [1], Flora/Fauna Density: Teeming ecosystems [5], Topography: Deep sea trenches [4], Hydrology: Rough currents [4].
+Settlements
+Galend (Port)
+Grand Vlandian port in the far northwest gulf, with soaring spires and tourney grounds amid olive groves and aqueducts. Royal seat of King Derthert, blending feasts and imperial renewal. False moons whisper from ruins below.
+Location and Ties:
+Geographic Structure Link: Biscan Coast, Neurval Inlets
+Neighbouring Features: Rugged cliffs with pebble beaches; sheltered bays with tidal flats.
+Kingdom/Clan Affiliation: Vlandian (ruled by King Derthert of House dey Meroc as the royal seat), focused on gulf defenses and trade.
+Structure and Layout:
+Core: High keep with waterfront guildhouses and tourney fields.
+Key Districts: Royal palace for feasts; dockyards for river galleys; cathedral for rites.
+Defenses: Broad walls with harbor gates; watchtowers on cliffs; naval patrols in inlets.
+Population and Daily Life:
+Size and Density: Large port (6,000-12,000 residents), densely urban along quays with rural olive edges.
+Demographics:
+Garrison: Knights for charges; crossbowmen on walls; scouts on cliffs.
+Civilians: Merchants in markets; farmers in groves; women in guilds.
+Economy: Olive oil exports; ironwork; gulf and river trade.
+Culture and Customs: Lavish jousts and banquets; cathedral rites; aqueduct festivals.
+Hazards:
+Man-made: Baron rivalries; smuggling in inlets.
+Bestiary: Drowners in tidal flats; mire-kin along shores.
+Unveiling: Whispers from imperial ruins; false-moon shadows.
+Charas (Port)
+Location and Ties:
+Geographic Structure Link:
+Neighbouring Features:
+Kingdom/Clan Affiliation:
+Structure and Layout:
+Core:
+Key Districts:
+Defenses:
+Population and Daily Life:
+Size and Density:
+Demographics:
+Garrison:
+Civilians:
+Economy:
+Culture and Customs:
+Hazards:
+Man-made:
+Bestiary:
+Unveiling:
+Scyllian Chain (Misc Outpost)
+Chain of eight small forts across the Octa-Scylla Archipelago, each perched on rocky isles amid deep coves and turbulent waters. Vlandian garrisons combat piracy, but most islands serve as refuges for rampant buccaneers. Signal fires link the chain, watching for incursions amid shipwrecks.
+Location and Ties:
+Geographic Structure Link: Octa-Scylla Archipelago
+Neighbouring Features: Rocky isles with sea caves and reefs; pirate havens in shallow depths.
+Kingdom/Clan Affiliation: Vlandian (contested garrisons amid pirate strongholds), focused on anti-piracy watches and smuggling control.
+Structure and Layout:
+Core: Small stone forts with signal towers, surrounded by cove docks and reef barriers.
+Key Districts: Watchtower quarters for signals; harbor posts for patrols; cave storages for supplies.
+Defenses: Island isolation with reef hazards; tower emplacements for fire signals; small naval skiffs.
+Population and Daily Life:
+Size and Density: Small outpost chain (100-300 per fort, total 800-2,400), sparse on isles with clustered garrisons.
+Demographics:
+Garrison: Vlandian marines and archers; scouts on reefs.
+Civilians: Smugglers and refugees; fishermen in coves; women in support roles.
+Economy: Limited trade tolls; scavenging from wrecks; piracy spoils.
+Culture and Customs: Tense watches and signals; uneasy truces with pirates; sea wards.
+Hazards:
+Man-made: Pirate incursions and betrayals; smuggling rivalries.
+Bestiary: Sea serpents in coves; krakens near wrecks.
+Unveiling: Glowing eyes during false moons; abyssal rumbles.
+Vikhertai Towers (Misc Outpost)
+Nine small garrisons dotting the Vikhertai Chain, overseeing the eastern edge of the Gulf and Strait of Lysia. Contested between Western Empire and Aserai Sultanate, towers watch for naval threats amid volcanic isles. Signal chains link them, guarding shallow depths.
+Location and Ties:
+Geographic Structure Link: The Vikhertai Chain, Strait Of Lysia
+Neighbouring Features: Volcanic peaks with coral fringes; geothermal vents and shallow waters.
+Kingdom/Clan Affiliation: Contested (Western Empire and Aserai garrisons), focused on strait defense and border watches.
+Structure and Layout:
+Core: Stone watchtowers with signal fires, surrounded by island camps and vent paths.
+Key Districts: Tower quarters for scouts; harbor posts for skiffs; vent storages for supplies.
+Defenses: Elevated towers with signal chains; reef barriers; small patrols.
+Population and Daily Life:
+Size and Density: Small outpost chain (50-150 per tower, total 450-1,350), isolated on isles with minimal camps.
+Demographics:
+Garrison: Empire archers and Aserai sailors; scouts on vents.
+Civilians: Few scavengers; fishermen in shallows.
+Economy: Minimal tolls; vent mineral scavenging; contested trade.
+Culture and Customs: Tense signals and truces; mixed rites; eruption wards.
+Hazards:
+Man-made: Empire-Aserai skirmishes; naval raids.
+Bestiary: Krakens in vents; serpents in shallows.
+Unveiling: Eruptive rumbles during false moons; glowing vents.
+Last Updated: March 13, 2026
+
