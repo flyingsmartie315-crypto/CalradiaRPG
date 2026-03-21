@@ -1,0 +1,50 @@
+Giant Spiders
+Giant spiders exhibit extreme variation across Calradia’s ecosystems, with dozens of species and sizes adapted to specific biomes. They are absent only from the coldest northern wastes where even their thickest fur cannot retain heat. From the smallest ruin-dwellers (3–7 ft leg-span) to the massive cave-lords of the far north (up to 16 ft), each variant fills a distinct niche.
+Giant Orb-wrights (7–13 ft leg-span)
+Primary adaptation: Massive orb webs (30–40 ft diameter) strung between ancient oaks or across ravines, anchored to natural features (trees, rock faces) for near-invisible killing zones. Webs incorporate tree sap and dew for stickiness, plus faint bioluminescent silk strands that glow softly under false-moon light—luring nocturnal prey (moths, bats, lost travelers).
+Camouflage: Coarse hair dyed by forest lichens/moss; mottled gray-brown/black blends against bark when motionless on trunk.
+Hunting: Nocturnal ambush; drop from above or burst from hidden burrows beneath roots. Venom paralyses in seconds; wrap prey alive and hang for later feeding.
+Weakness: Vulnerable if webs destroyed—rely on silk for defence/traps; flee when outmatched.
+Ecological role: Control deer/boar populations; webs clear undergrowth of small game, indirectly shaping forest density.
+HSI (Temperature: 2-3, Rainfall: 4-5, Human Density: 0-1, Flora/Fauna Density: 4-5, Topography: 2-3, Hydrology: 2-3)
+RHK (4,5,7,5)
+Silt-lurkers (4–8 ft leg-span)
+Primary adaptation: Burrow beneath shifting dunes, creating shallow pit traps lined with fine, nearly invisible silk trip-lines that detect vibration. Emerge in explosive bursts (sand sprays 10–15 ft), venom causing rapid paralysis + tissue necrosis suited to desert heat (prey dries out quickly).
+Camouflage: Short tan/rust-coloured hair blends perfectly with sand; body flattened for shallow burial.
+Hunting: Ambush predators—wait motionless for days, strike only when prey crosses trip-lines. No large webs; silk used for burrow reinforcement and egg sacs buried deep.
+Weakness: Slow on open ground; rely on surprise. Exposed once sand disturbed.
+Ecological role: Control oasis vermin (rats, insects); prevent overgrazing near water sources by culling large herbivores straying from safe paths.
+HSI (Temperature: 4-5, Rainfall: 0-1, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 0-2, Hydrology: 0-2)
+RHK (4,4,5,4)
+Pale Lurker (10-16ft leg span)
+Primary adaptation: Subterranean lifestyle in vast cave systems and abandoned mines. Thick pale gray-white fur insulates against extreme cold; venom slow-acting, causes hypothermia-like shutdown in victims (lowers body temperature, mimics cave chill). Spin thick sheet webs across cave mouths/tunnels to trap bats, hibernating bears, or lost explorers.
+Camouflage: Fur colour matches limestone/snow; move slowly/deliberately to avoid detection in low-light caves.
+Hunting: Ambush + pursuit in confined spaces; long reach drags prey into darkness. Rarely surface except false-moon nights when hunger drives them.
+Weakness: Slow and lumbering outside caves; poor eyesight in bright light.
+Ecological role: Apex predator of cave ecosystems; control bat populations, clean carrion from deep underground.
+HSI (Temperature: 1-2, Rainfall: 0-2, Human Density: 0-1, Flora/Fauna Density: 1-2, Topography: 4-5, Hydrology: 0-2)
+RHK (3,5,6,5)
+Harrowers (5-9ft leg-span)
+Primary adaptation: Lean, long-legged build optimised for sprint bursts (40–50 mph short distances). Burrow shallow escape tunnels every few hundred yards; silk used only for egg sacs and minor trip-lines. Venom fast-acting neurotoxin for quick kills during chase.
+Camouflage: Short dust-coloured hair blends with steppe grass/dry earth.
+Hunting: Pursuit hunters—run prey to exhaustion, then strike. No webs; rely on speed and occasional pack coordination (rarely hunt alone).
+Weakness: Tire quickly after bursts; vulnerable on open ground without cover/burrows.
+Ecological role: Control steppe herd animals (antelope, wild horses); prevent overgrazing by culling weak/slow individuals.
+HSI (Temperature: 3-4, Rainfall: 0-2, Human Density: 0-1, Flora/Fauna Density: 2-3, Topography: 0-1, Hydrology: 0-1)
+RHK (4,4,5,4)
+Skitterlings (3–7 ft leg-span)
+Primary adaptation: Highly adaptable; found in ruins, cellars, forest edges, abandoned towers, mountain crevices, even urban sewers in warmer regions. Smaller size allows stealth and rapid reproduction. Webs smaller but numerous—trip-lines across doorways, corners, or paths. Venom weaker but still paralytic.
+Camouflage: Variable mottling (gray-brown, black, dusty tan) matches local stone/wood/dirt.
+Hunting: Opportunistic ambush/trap; often solitary but can swarm in ruins.
+Weakness: Fragile compared to larger kin; easily killed by prepared groups.
+Ecological role: Scavenger/pest controller in human-adjacent spaces; keep rat/insect populations in check but become nuisance themselves.
+HSI (Temperature: 2-4, Rainfall: 1-4, Human Density: 1-3, Flora/Fauna Density: 2-4, Topography: 1-3, Hydrology: 1-3)
+RHK (5,3,4,3)
+The Weber-Fisher ("Old Eight-Lines")
+Primary adaptation: Smaller (leg-span 4–7 ft, body wolf- to pony-sized), adapted to water edges. Dangle from overhanging branches, rocks, or pilings, trailing eight long thin silk lines—each tipped with sticky droplet or small lure—into water below. Lines drift on current, ensnaring fish, frogs, waterfowl, or surfacing drowners. Reel taut lines with uncanny speed, hauling prey upward to bite and wrap.
+Camouflage: Short, slick dark blue-black or mottled green-brown hair blends with water/reeds; legs longer/thinner, hooked claws grip wet stone/wood.
+Hunting: Patient dangler; rarely hunts large prey. Opportunistic but skittish around humans—flee sudden movement/torchlight. Venom weaker, causes localised numbness/swelling rather than full paralysis. Attacks on people rare unless nest disturbed or line cut.
+Weakness: Fragile; easily killed by prepared groups.
+Ecological role: Least dangerous to humans; thin fish-poaching drowners, keep waterways cleaner of carrion. Riverfolk tolerate/leave small fish offerings to keep spiders content and drowners at bay. False-moon nights make silk lines glow faintly; bolder dangling near boats or lone fishermen. Keep fish stocks balanced by preying on larger predators like drowners.
+HSI (Temperature: 2-4, Rainfall: 3-5, Human Density: 1-2, Flora/Fauna Density: 3-4, Topography: 0-2, Hydrology: 4-5)
+RHK (4,2,3,2)
