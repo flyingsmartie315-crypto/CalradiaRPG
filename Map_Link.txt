@@ -1,0 +1,39 @@
+Island of Beinland
+1 - Hvalvik
+2 - Hakarshus Castle
+
+Ebor Peninsula
+3 - Rovalt
+4 - Ostican
+5 - Tirby Castle
+6 - Ormanfard Castle
+
+Swadia
+7 - Pravand
+8 - Ocs Hall
+9 - Drapand Castle
+10 - Caleus Castle
+30 - Verecsand Castle
+
+Neurval
+11 - Galend
+12 - Jaculan
+13 - Sargot
+14 - Hongard Castle
+15 - Talivel Castle
+16 - Usanc Castle
+
+Uchalion Plateau
+17 - Pen Cannoc
+18 - Dunglanys
+19 - Car Banseth
+20 - Marunath
+21 - Seonon
+22 - Druimmor Castle
+23 - Aster Castle
+24 - Ab Comer Castle
+25 - Llanoc Hen Castle
+26 - Flintolg Castle
+27 - Pendraic Castle
+28 - Rhemtoil Castle
+29 - Uthelaim Castle
