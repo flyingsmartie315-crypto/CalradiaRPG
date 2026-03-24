@@ -1,71 +1,58 @@
-<DOCUMENT filename="Knights_Griffon.txt">
-# Knightly Brotherhood: Knights Griffon
-# Also known as: Order of the Griffon, Griffon Knights, the Gryphon Chapter
+Knightly Brotherhood: Knights Griffon
+Also known as: Order of the Griffon, Griffon Knights, the Gryphon Chapter
 Overview
 The Knights Griffon are the pre-eminent secular knightly brotherhood in Vlandia, renowned as the kingdom's foremost experts in gryphon-rearing, training, and mounted warfare. They are the only order with a consistent tradition of fielding gryphon-mounted knights — including the ultra-rare royal gryphons. Their primary chapterhouse is the fortified citadel of Rovalt, perched on cliffs overlooking the western coast, built around ancient gryphon eyries that predate even the Imperial era.
 While many brotherhoods blend religious and martial vows, the Knights Griffon are explicitly secular: their bond is forged in shared peril, aerial mastery, and loyalty to the order itself rather than any saint or divine mandate. Their motto is carved above every gate: "Wings of Iron, Hearts of Stone."
 Patron & Founding
-
 Patron: No formal saint or deity; the order reveres the archetypal Royal Gryphon as a living symbol of Vlandian martial supremacy and the Unveiling's wild gifts.
 Founder: Sir Gawain of Rovalt (circa 800–850 AE), the first recorded rider of a royal gryphon after the Unveiling. Gawain tamed the beast that would become known as the First Deathclaw — a colossal male royal gryphon whose bloodline persists to this day. The order was formally chartered shortly after Gawain's legendary single-handed rout of a Sturgian raiding fleet at the Battle of the Iron Cliffs (852 AE), where he and his fledgling band of riders turned the tide from the sky.
-
 Purpose & Vows
 Primary mission:
+
 Master the art of gryphon husbandry, training, and aerial combat.
 Defend Vlandia's coasts and highlands from raiders, monsters, and false-moon incursions.
 Serve as a mobile strike force for the crown in times of existential threat (royal charter grants them wide autonomy in such cases).
 Preserve the bloodlines of royal gryphons and guard the secret methods of hatching, imprinting, and bonding.
 
 Core vows (the Iron Oath):
+
 Loyalty to the order above any single lord or king (though they swear fealty to the crown in wartime).
 Never reveal the secrets of gryphon-rearing to outsiders.
 Protect the realm from the sky when called, regardless of personal cost.
 Accept only those proven in both courage and humility — no braggarts or glory-hounds.
 
-Full membership requires successfully bonding a gryphon — a rite that tests both rider and beast. Only those who achieve this bond are recognised as true Knights Griffon (templars of the order).
+Full membership requires successfully bonding a gryphon — a rite that tests both rider and beast. Only those who achieve this bond are recognised as true Knights Griffon.
+Rank Structure
+
+Grand Master: The supreme head of the entire order, elected for life, holding power similar to a sovereign prince.
+Seneschal: Inner circle member and second-in-command; acts as the chief administrative officer and handles daily operations of the Order.
+Preceptor: Senior inner-circle members placed in charge of specific regional "commanderies" or local houses; responsible for managing estates, recruiting, training, and overseeing operations in their assigned territory.
+Knight Brothers: Full members who have successfully bonded a gryphon and sworn the Iron Oath.
+Sergeant Brothers: Provide crucial skilled labor and combat support; often drawn from artisans, blacksmiths, farmers, or experienced retainers.
+Chaplains: Ordained priests who manage the spiritual needs of the order.
+Squires / Novices / Aspirants: Individuals in training, often of noble birth. They squire for the Brother Knights and assist the Sergeant Brothers while hoping to one day bond a gryphon.
+
+Membership
+Membership consists of aspirants or support staff.
+Aspirants squire for the Brother Knights and undergo rigorous training in the hope of one day bonding a gryphon themselves.
+Retainers & Support Staff are non-bonded members who handle logistics, training, maintenance of the eyries, forging of specialised tack and armour, and ground support during operations.
+Retainers & Support
+~300 men-at-arms, sergeants, handlers, armourers, beast-wardens, and apprentices who maintain the eyries, forge specialised tack and armour, and provide essential ground support.
 Leadership & Current Status
-Grandmaster: Graf Randolph von Rovalt, rider of the current royal gryphon Deathclaw (a direct descendant of the First Deathclaw, now over 200 years old and still flying). Randolph is a stern, calculating strategist in his late fifties, scarred from countless aerial duels. He wields immense political influence; no Vlandian king since Osric Iron-Arm has been crowned without the Knights Griffon's public blessing.
+Grandmaster: Graf Randolph von Köstner, rider of the current royal gryphon Deathclaw (a direct descendant of the First Deathclaw, now over 200 years old and still flying). Randolph is a stern, calculating strategist in his late fifties, scarred from countless aerial duels. He wields immense political influence; no Vlandian king since Osric Iron-Arm has been crowned without the Knights Griffon's public blessing.
 Royal Gryphons: Only three royal gryphons currently live.
+
 Deathclaw (oldest, ridden by Grandmaster Randolph) — massive, battle-scarred, fiercely loyal to the order.
-Stormwing (middle-aged, ridden by the order's second-in-command) — swift and aggressive in combat.
-The Youngest (unnamed, riderless) — the most recently hatched royal, still wild at heart. It comes and goes as it pleases, sometimes aiding knights in battle, sometimes vanishing for months. Notorious for its habit of casually knocking gargoyles and architectural ornaments off the roofs of distant cities (Rovalt receives a steady stream of angry letters and demands for recompense from outraged burghers and clergy).
+Quicksilver (middle-aged, ridden by Preceptor Batistin dey Major) — swift and aggressive in combat.
+The Youngest (unnamed, riderless) — a deep amber and gold royal, still wild at heart. It comes and goes as it pleases, sometimes aiding knights in battle, sometimes vanishing for months.
 
 Gryphon Riders: Exactly 60 full Knights Griffon ride gryphons (standard or royal). Bonding a gryphon is the absolute requirement for full membership; those who fail remain as aspirants or support staff.
-Retainers & Support: ~300 men-at-arms, sergeants, handlers, armourers, beast-wardens, and apprentices who maintain the eyries, forge specialised tack/armour, and provide ground support. These retainers are loyal to the order, not any external lord.
-Power Block: The order controls key coastal fortifications, gryphon breeding valleys, and a private fleet of supply ships. They enjoy near-autonomous status — paying nominal tribute but answering directly to the king only in dire emergencies. Their endorsement is widely seen as a pillar of royal legitimacy; a king who loses their support risks baronial revolt or civil war.
+Persons of Note
+
+Grandmaster Graf Randolph von Köstner — Rider of the royal gryphon Deathclaw and supreme commander of the Order. A stern, calculating strategist in his late fifties, scarred from countless aerial duels. He wields immense political influence; no Vlandian king since Osric Iron-Arm has been crowned without the Knights Griffon's public blessing.
+Sir Varmund dey Arques — Knight Griffon adjutant to Duke Servic dey Valant. Formidable warrior and leader of men—broad, scarred, with iron-streaked beard and a voice like grinding stone. Pragmatic and ruthless when need demands; renowned across the Ebor for recovering many griffon eggs from the highest, most perilous nests—dubbed “the Griffon Knight” for his daring climbs and the fledglings he has raised into loyal mounts. Commands Caleus Castle and the clan’s griffon-breeding efforts; trains young knights in the crags. Because Duke Servic rides a royal griffon and rules the land where the Knights Griffon maintain their primary residence, the Order has formally pledged Sir Varmund as his personal aide and advisor — a rare honour extended only to the King himself and one other person in the realm. Steadfast to both the Order and Duke Servic, he acts as the vital link between the brotherhood and one of Vlandia’s most influential dukes.
+Preceptor Batistin dey Major — Inner-circle member of the Order and adjutant to King Derthert. A tall, hawk-faced knight in his mid-thirties with a calm, calculating demeanour and piercing grey eyes. He serves as the Order’s formal liaison at the Royal Court in Galend, advising the King on aerial strategy, gryphon deployments, and matters of the veil. He also personally manages the Order’s southern holding — Fort Epiric, a fortified eyrie nestled high upon Mount Epiric in the Neurval region. He is the rider of the royal gryphon Quicksilver. From Fort Epiric he oversees the breeding and training of southern gryphon stock, monitors veil activity in the Biscan Alps, and coordinates rapid-response flights when the crown calls for aid. His dual role makes him one of the most politically influential members of the Order after the Grandmaster.
+Elara Voss — The only woman to hold a formal (if honorary) position within the Knights Griffon. Illegitimate daughter of Duke Servic dey Valant, she secretly infiltrated The Eyrie, bonded a common gryphon named Tumbles, and earned recognition for her feat despite Vlandian martial tradition forbidding female knights. She now serves as the Order’s Courtly Ambassador, frequently treating with the other and minor ruling clans on behalf of the Brotherhood. There are some reservations within the Order due to her impulsive nature, but the undeniable success of her bonding — combined with the quiet influence of Duke Servic — has secured her place. She is known internally as the “Unnamed Bonded”.
 
 Unveiling Influence
 False-moon nights awaken ancient instincts in the gryphons — some become restless or aggressive, requiring constant vigilance. The order interprets these surges as tests of their bond with the beasts. Rumours persist that the royal gryphon line is subtly touched by the veil — longer-lived, keener-eyed, and unnaturally attuned to their riders. The Knights Griffon quietly hunt veil-drop ore and monstrous threats that endanger breeding grounds, viewing them as existential dangers to their sacred trust.
-Holdings, Artefacts & Trappings
-The Knights Griffon maintain a network of fortified holdings, sacred eyries, and treasured artefacts that symbolise their unique status and guarded secrets.
-Major Holdings
-
-Rovalt Citadel (primary chapterhouse)
-Perched on sea-cliffs above Rovalt town. A sprawling complex of ancient Imperial watchtowers linked by new stone bridges and gryphon landing platforms. Houses the main breeding eyries, armoury, training arenas, and the Grandmaster’s hall. The citadel’s highest spire is crowned by a massive stone gryphon statue — said to have been carved from the petrified wing-bone of the First Deathclaw.
-High Eyrie Valleys (breeding & training grounds)
-A chain of secluded mountain valleys in the western highlands, ringed by watch-posts and hidden paths. Only order members know the safe routes past natural and Unveiling-induced hazards (rock trolls, veil-mists). Here the royal gryphon nests are kept under constant guard.
-Outlying Chapterhouses
-Smaller fortified towers and keeps in strategic locations: one overlooking the Gulf of Charas (anti-Aserai watchpost), another near the northern coast (anti-Sturgian/Nord sentinel). Each houses 4–8 templars and their mounts.
-
-Legendary Artefacts
-The Iron Crown of Gawain
-A simple steel circlet set with a single polished gryphon talon. Worn by every Grandmaster since Sir Gawain. Said to grant the wearer clearer sight from the sky (symbolic + narrative effect; some claim it subtly attunes the mind to gryphon instincts).
-Deathclaw’s First Scale
-A palm-sized iridescent plate from the original Deathclaw, mounted on a golden chain in the Rovalt great hall. Knights touch it before major flights for luck. It is rumoured to glow faintly under false moons.
-The Binding Gauntlets
-A matched pair of armoured gauntlets used in the ritual bonding of rider and gryphon. Forged from meteoritic iron (veil-touched ore), they bear claw-scars from every successful bonding since Gawain’s time. Only the Grandmaster may handle them outside rituals.
-Spear of Telesto (Valerian Steel Lance)
-The single most revered weapon of the order — a long, slender lance forged from veil-touched Valerian steel (harvested during a rare veil-drop event centuries ago). Due to the immense size of gryphons (especially royals), conventional swords are often impractical when mounted; the Telesto’s extraordinary length (nearly 4.5 metres) provides the reach needed to strike from above while retaining perfect balance.
-When held, the spear feels unnervingly light — almost weightless — despite its size and density, a property attributed to its otherworldly origin. It never dulls, never bends, and is said to hum faintly under false-moon light.
-The Spear of Telesto is the symbol of the Grandmaster and may only be carried into battle or ceremony by the Grandmaster himself or a designated bearer (the Telestus Herald — a position of immense honour rotated among the most trusted templars). In formal processions, royal audiences, coronations, or when the order must visibly assert its autonomy and power, the Herald rides ahead bearing the spear aloft, its blade catching light like liquid star-metal.
-To touch the spear without sanction is forbidden; even to gaze upon it too long is considered presumptuous by some. It has never left Rovalt except in times of existential crisis for the realm.
-
-Symbolic Trappings
-Heraldry: Argent gryphon rampant on sable field, crowned with an iron circlet. Knights wear this on surcoats, shields, and gryphon barding. Royal gryphon riders add a red talon slash across the gryphon’s breast.
-Gryphon Tack & Armour: Specialised lightweight plate-and-scale barding for mounts (secrets guarded fiercely). Riders wear matching articulated plate with high gorgets and visored helms shaped like gryphon beaks.
-Ritual Items: Each templar carries a small talon pendant (from their own gryphon’s first shed claw) worn under armour. Grandmaster’s cloak is lined with royal gryphon down — impossibly warm and light.
-Complaint Letters & Gargoyle Recompense: The riderless youngest royal gryphon’s habit of dislodging gargoyles and architectural ornaments from distant cities generates a steady stream of furious missives and demands for payment. The order keeps a “Gargoyle Ledger” in Rovalt — partly humorous, partly diplomatic archive — and quietly settles most claims to avoid royal embarrassment.
-
-These holdings, artefacts, and trappings are jealously guarded. They are not mere decorations — they are the physical proof of the order’s monopoly on gryphon mastery and their indispensable role in Vlandian legitimacy.
-Last updated: 2026-03-11
-</DOCUMENT>
