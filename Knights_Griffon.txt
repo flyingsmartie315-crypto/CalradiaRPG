@@ -11,14 +11,12 @@ Founder: Sir Gawain of Rovalt (circa 800–850 AE), the first recorded rider of 
 
 Purpose & Vows
 Primary mission:
-
 Master the art of gryphon husbandry, training, and aerial combat.
 Defend Vlandia's coasts and highlands from raiders, monsters, and false-moon incursions.
 Serve as a mobile strike force for the crown in times of existential threat (royal charter grants them wide autonomy in such cases).
 Preserve the bloodlines of royal gryphons and guard the secret methods of hatching, imprinting, and bonding.
 
 Core vows (the Iron Oath):
-
 Loyalty to the order above any single lord or king (though they swear fealty to the crown in wartime).
 Never reveal the secrets of gryphon-rearing to outsiders.
 Protect the realm from the sky when called, regardless of personal cost.
@@ -26,7 +24,6 @@ Accept only those proven in both courage and humility — no braggarts or glory-
 
 Full membership requires successfully bonding a gryphon — a rite that tests both rider and beast. Only those who achieve this bond are recognised as true Knights Griffon (templars of the order).
 Leadership & Current Status
-
 Grandmaster: Graf Randolph von Rovalt, rider of the current royal gryphon Deathclaw (a direct descendant of the First Deathclaw, now over 200 years old and still flying). Randolph is a stern, calculating strategist in his late fifties, scarred from countless aerial duels. He wields immense political influence; no Vlandian king since Osric Iron-Arm has been crowned without the Knights Griffon's public blessing.
 Royal Gryphons: Only three royal gryphons currently live.
 Deathclaw (oldest, ridden by Grandmaster Randolph) — massive, battle-scarred, fiercely loyal to the order.
@@ -51,7 +48,6 @@ Outlying Chapterhouses
 Smaller fortified towers and keeps in strategic locations: one overlooking the Gulf of Charas (anti-Aserai watchpost), another near the northern coast (anti-Sturgian/Nord sentinel). Each houses 4–8 templars and their mounts.
 
 Legendary Artefacts
-
 The Iron Crown of Gawain
 A simple steel circlet set with a single polished gryphon talon. Worn by every Grandmaster since Sir Gawain. Said to grant the wearer clearer sight from the sky (symbolic + narrative effect; some claim it subtly attunes the mind to gryphon instincts).
 Deathclaw’s First Scale
@@ -65,7 +61,6 @@ The Spear of Telesto is the symbol of the Grandmaster and may only be carried in
 To touch the spear without sanction is forbidden; even to gaze upon it too long is considered presumptuous by some. It has never left Rovalt except in times of existential crisis for the realm.
 
 Symbolic Trappings
-
 Heraldry: Argent gryphon rampant on sable field, crowned with an iron circlet. Knights wear this on surcoats, shields, and gryphon barding. Royal gryphon riders add a red talon slash across the gryphon’s breast.
 Gryphon Tack & Armour: Specialised lightweight plate-and-scale barding for mounts (secrets guarded fiercely). Riders wear matching articulated plate with high gorgets and visored helms shaped like gryphon beaks.
 Ritual Items: Each templar carries a small talon pendant (from their own gryphon’s first shed claw) worn under armour. Grandmaster’s cloak is lined with royal gryphon down — impossibly warm and light.
