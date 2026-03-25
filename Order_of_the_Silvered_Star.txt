@@ -1,48 +1,29 @@
-<DOCUMENT filename="Order_of_the_Silvered_Star.txt">
-# Knightly Brotherhood: Order of the Silvered Star
-# Colloquially known as: Knights of the Silver Spur / Silver Spurs (both names persist in common speech, ballads, and tavern tales)
-Overview
-The Order of the Silvered Star is one of the smallest and most reclusive knightly brotherhoods in Vlandia — a monastic order of templars dedicated to the guardianship of the high alpine meadows and hidden pastures where Pegasus are known to appear. They are ascetic, solitary, and almost legendary in their rarity; most Vlandians have never seen one in the flesh, only heard whispered tales of silver-spurred riders glimpsed against moonlit peaks.
-Unlike the secular, prestigious Knights Griffon, the Silvered Star is profoundly religious — a quiet, contemplative sect that blends martial discipline with monastic vows of poverty, chastity, silence (outside necessity), and absolute devotion to their sacred charge. Their symbol is a simple silver eight-pointed star on midnight-blue surcoats — said to represent the guiding light of purity amid the Unveiling's darkness.
-Patron & Founding
+Order of the Silvered Star
+A small, highly ascetic monastic order dedicated to guarding the sacred Pegasus pastures in the high alpine meadows of Vlandia. They are quiet sentinels against Unveiling corruption, especially in the thin-veil regions where the False Moon’s influence is strongest.
+Core Tenets & Vows
 
-Patron Saint: Saint Lirien of the High Meadows (a semi-mythical figure from the early Unveiling era, said to have been the first mortal to touch a Pegasus without fear or greed). The order venerates her as the embodiment of humility and grace before the wild divine.
-Founder: Brother-Sergeant Aldric the Silent (circa 820–880 AE). A disgraced Vlandian knight who, after witnessing a Pegasus save a lost child from a rock-troll ambush, renounced his worldly titles, took vows of poverty, and gathered a handful of like-minded penitents. They swore to protect the sacred pastures from hunters, despoilers, and those who would exploit the creatures for war or glory. The order was quietly recognised by the Church (and tolerated by the crown) because no king wishes to be seen as the one who offended the Pegasus.
+Strict vow of poverty (members own nothing beyond what they can carry).
+Vow of humility and service.
+Vow to protect the sacred Pegasus herds at all costs.
+Vow to combat sophisticated Unveiling threats (intelligent curses, thinking veil-beasts, possessed individuals, veil-rifts that require ritual combat).
 
-Purpose & Vows
-Primary mission:
-
-Protect the alpine pastures and migration paths where Pegasus appear — preventing poaching, desecration, or any attempt to capture or harness them.
-Act as silent sentinels against Unveiling corruption (false-moon madness sometimes draws twisted creatures to the heights).
-Offer guidance and sanctuary to the pure of heart who seek the Pegasus, but never force or coerce the creatures themselves.
-Preserve the legend of the Pegasus as a symbol of unattainable grace and purity in a fallen world.
-
-Core vows (the Silver Vows):
-
-Poverty — own nothing beyond simple arms, a silver spur (for bonded riders only), and the cloak on your back.
-Chastity — no marriage, no heirs; the order ends with each member.
-Silence — speak only when necessary for duty or charity; meditation and prayer fill the rest.
-Guardianship — never raise hand against a Pegasus; defend them with life, never exploit them.
-Humility — no personal glory; the star above shines, not the knight below.
-
-Full membership requires successfully bonding a Pegasus — a rite that tests both rider and beast. Only those who achieve this bond are recognised as true Knights of the Silver Spur (templars of the order).
-Pegasus Bond & Rarity
-Yet Talivel is one of the few places in Calradia where the rare and sacred gift of the Pegasus is known to manifest. Since the Unveiling, sightings of these winged, spiraling-horned horses have been whispered of in the high pastures and secluded glades south of the castle — elegant, intelligent creatures of pure white or pale silver, seldom seen and even more seldom approached. Only the most morally pure and righteous may hope to bond with one; the attempt is a test of the soul as much as skill. At any time, fewer than ten bonded Pegasus riders exist in all Vlandia — often as few as three to seven — making each a living saint, revered across the realm as proof of divine favor.
-Success is legend: a rider who bonds becomes a living saint. Failure is common — most aspirants return unchanged, humbled, or quietly broken by their own imperfection, yet still honoured for their service. Those who bond wear white cloaks to symbolise purity; the garment is both mantle and mark, visible from afar as a beacon of divine favor. The order takes its name from the silver spurs only bonded riders may wear — symbols of the celestial journey and divine trust.
-Leadership & Current Status
-
-Grand Prior: Brother Loric the Still (current leader, age ~62). A former Freeblade who renounced his past after a vision in the snows. He has never spoken aloud in thirty years.
-Membership: 14 full templars (Silver Spurs), 4 novices, and a handful of lay brothers (non-knighted servants who maintain the hermitage). No large retinue — only a few loyal sergeants and mountain guides.
-Power: Minimal in conventional terms. They hold no estates, command no armies, and pay no tribute. Their influence is moral and symbolic — a king who angers the order risks whispers of divine displeasure; a baron who hunts Pegasus in their pastures may find his hunts cursed with endless storms.
-
-Holdings, Artefacts & Trappings
-
-Hermitage of the Silent Star (near Talivel) — a cliffside warren of small cells, a chapel open to the sky, and a single stone stable that has never held a horse. The entrance is marked only by a silver star carved into the rock.
-The Silver Spur of Lirien — the order’s holiest relic: a single ornate silver spur said to have been worn by Saint Lirien. It is worn by the Grand Prior during rare ceremonies and is believed to guide the wearer to where a Pegasus will next appear.
-Moonlit Cloaks — each templar wears a heavy midnight-blue cloak edged with silver thread that catches moonlight, making them nearly invisible against snowy peaks at night. Bonded riders wear pure white cloaks instead.
-Star Blades — simple longswords with star-shaped pommels; no ostentation, only purity of line. The blades are etched with tiny silver constellations — maps of the high pastures under the twin moons.
-
-Unveiling Influence
-Unveiling influence is scarcely felt here. The veil is thick in this quiet corner of Vlandia — False Moon nights pass with little more than an uneasy stillness in the air, a brief hush of insects, or the odd shadow that lingers too long on the wall. No ghouls rise from the pastures, no drowners lurk in the streams, no Wælhreów mimic voices in the night wind. The castle and cloisters remain an almost idyllic refuge: wildflowers bloom along the ramparts in spring, birds nest in the battlements, and the garrison’s children play in the courtyard under watchful but relaxed eyes. Talivel is a place where duty is steady, not grim; where knights rest with the knowledge that the world’s darker bleed has not yet found them, and where the faint hope of a Pegasus’s grace still glimmers in the high meadows. It endures as a beacon of calm amid Vlandia’s wider storms — a rare pocket of peace in a kingdom forged by steel and shadow.
-Last updated: 2026-03-12
-</DOCUMENT>
+Structure
+The Order is deliberately tiny. There are only 14 full Templar Brothers at any one time. Most live in remote high-meadow hermitages, tending the Pegasus herds and maintaining ancient silvered relics.
+The Silvered Archivists (Non-Templar Brothers)
+In addition to the Templar Brothers, the Order includes a body of non-Templar Scholar-Brothers known as the Silvered Archivists. These men have taken up the sacred burden of cataloguing, studying, and understanding every manner of Unveiling menace.
+The Archivists classify all Unveiling threats into two broad categories:
+Malevolus et Invasivus (Malevolent and Invasive).
+Most entries in the common bestiaries fall under Invasivus — physical creatures and beasts that invade the mortal world.
+Malevolus, however, is where the true horror resides: ghosts, possessions, Waelhreow, and all other Malevolus entities are vile spawns and manifestations of the Infandum Malum — the unspeakable evil that first tore through the veil during the cataclysmic False Moon of 777 BE. The Archivists have spent centuries building what is arguably the most comprehensive understanding of the supernatural in Calradia, meticulously recording every report sent back by their field agents.
+The Exorcista
+The active crusading arm of the Order and the eyes of the Silvered Archivists. These are the field operatives who leave the alpine cloisters to hunt the worst Unveiling abominations across Calradia. They travel light, usually on foot with a pack mule, maintaining the vow of poverty. A Pegasus only manifests when the threat is truly beyond mortal means — a divine sign from the gods.
+Notable Members
+Brother Gregoris the Blessed — Veteran Exorcista
+Age: ~150 years (appears mid-40s)
+Height: 6'10"
+A “blessed” mutant born under a violent False Moon. The mutations granted him superhuman strength, speed, agility, and dramatically slowed aging — officially recognised by the Order as divine favour.
+He walks the roads of Calradia more often than not, leading a pack mule laden with seemingly mundane items. The only real valuables are basic provisions. All truly valuable equipment is strapped to his body and hidden beneath a long, plain monk’s habit to help him escape notice.
+When trouble finds him he more often than not resolves it without drawing a blade, using instead his simple-looking but extremely valuable staff carved from the ivory of a leviathan.
+A Pegasus only appears when the situation is truly dire. The contrast of this grim, blade-covered giant riding a majestic white Pegasus is both awe-inspiring and unintentionally comical.
+Current Status
+Since its inception the Order has amassed one of the most comprehensive understandings of the supernatural in all of Calradia. Their archives — particularly the Malevolus records — are said to contain knowledge that even the Imperial libraries in Charas would envy. The Silvered Archivists and their Exorcista eyes continue their silent vigil, quietly adding to humanity’s fragile defence against the ever-evolving horrors of the Unveiling.
