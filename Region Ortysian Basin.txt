@@ -1,0 +1,199 @@
+Region: Ortysian Basin
+Neighbouring Regions
+North: Uchalion Plateau
+North East: Gavys Valley
+East: Temea Valley
+South East: Perassic Sea
+South: The Nahasa Desert
+South West: Gulf Of Charas
+West: Gulf Of Charas
+North West: Neurval
+Overview
+The Ortysian Basin is a broad, fertile lowland valley. Carved by the Gavys, Sethys, Aminys and Zeos rivers and fed by volcanic ash from the western caldera, it is a patchwork of golden grain fields, olive terraces, and gentle rolling hills that gradually rise into the mist-shrouded Epiric Hills, Mount Epiric, and the Epiric Eastern Pass to the north-west, while the Glen of Balasog and the Cafalcomb mark its northern edge. Long contested between Vlandian marcher lords and lingering Imperial remnants (Aserai from the South across the strait and Battania from the North), the basin is primarily Imperial held. Vlandia’s only holding in the north-west of the region is the important port of Charas. This mixed occupation creates a complex landscape of trade, intrigue, and occasional border skirmishes. The veil here is moderately thin — False Moon nights bring only a gentle hush and faint glowing mists over the rivers, but ghouls occasionally rise from old Imperial battlefields and skinwalkers have been sighted in the deeper wooded pockets. The basin’s mild climate and rich soil make it one of the most prosperous regions in the Western Empire, yet its divided loyalties keep it a perpetual flashpoint.
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area)
+
+Temperature: Temperate [2–4]
+Rainfall: Moderate [2–3]
+Human Density: High [4]
+Flora/Fauna Density: Rich [3–4]
+Topography: Lowland Basin [1–3]
+Hydrology: Calm rivers & streams [2]
+
+Geographic Structures
+North: Glen Of Balasog, The Cafalcomb
+North East: Gavys River
+East: Sethys River
+South East: Bay Of Ortysia
+South: Lysian Plains, Strait Of Lysia
+South West: Biscan Coast
+West: Biscan Coast
+North West: Epiric Eastern Pass, Epiric Hills, Mount Epiric
+Core: Thallos Plains, Pangaion Hills, Goleryn Hallows
+
+Glen Of Balasog: Narrow, mist-filled glen running along the northern edge, known for ancient standing stones and occasional skinwalker activity.
+Environmental Scores: Temperature: 2–3, Rainfall: 3, Human Density: 1, Flora/Fauna Density: 4, Topography: 3, Hydrology: 2
+The Cafalcomb: Labyrinthine network of shallow caves and sinkholes beneath the northern hills, said to echo with faint Imperial-era whispers on False Moon nights.
+Environmental Scores: Temperature: 1–2, Rainfall: 2, Human Density: 0, Flora/Fauna Density: 2, Topography: 4, Hydrology: 1
+Gavys River: Wide, slow-flowing river that marks the north-eastern boundary, carrying trade barges and seasonal floodwaters from Gavys Valley.
+Environmental Scores: Temperature: 3, Rainfall: 2, Human Density: 3, Flora/Fauna Density: 4, Topography: 1, Hydrology: 3
+Sethys River: Fast-moving eastern tributary that feeds the basin’s fertile plains and forms an important trade and naval route. It flows into both the Perassic Sea and the Bay of Ortysia.
+Environmental Scores: Temperature: 3, Rainfall: 3, Human Density: 3, Flora/Fauna Density: 3, Topography: 2, Hydrology: 3
+Bay Of Ortysia: Shallow, sheltered bay on the south-eastern coast, used for small fishing fleets and coastal trade.
+Environmental Scores: Temperature: 4, Rainfall: 2, Human Density: 3, Flora/Fauna Density: 4, Topography: 1, Hydrology: 2
+Strait Of Lysia: Narrow, treacherous strait linking the basin to the Perassic Sea, notorious for sudden currents and occasional pirate activity.
+Environmental Scores: Temperature: 4, Rainfall: 2, Human Density: 2, Flora/Fauna Density: 3, Topography: 2, Hydrology: 4
+Lysian Plains: Flat coastal plains south of the basin, known for broad beaches used for salt farming and open pasture.
+Environmental Scores: Temperature: 4, Rainfall: 2, Human Density: 2, Flora/Fauna Density: 3, Topography: 1, Hydrology: 2
+Biscan Coast: Rugged western coastline of rocky cliffs and small coves, bordering the Gulf of Charas and subject to strong seasonal winds.
+Environmental Scores: Temperature: 3, Rainfall: 3, Human Density: 1, Flora/Fauna Density: 3, Topography: 3, Hydrology: 4
+Epiric Eastern Pass: Mountain pass connecting the Epiric Hills to Neurval, used for trade and military movements.
+Environmental Scores: Temperature: 2, Rainfall: 3, Human Density: 2, Flora/Fauna Density: 2, Topography: 4, Hydrology: 2
+Epiric Hills: Rolling oak-covered hills in the north-west, near both Vlandian and Battanian frontiers, used for sheep-raising and upland pastures.
+Environmental Scores: Temperature: 2–3, Rainfall: 3, Human Density: 2, Flora/Fauna Density: 3, Topography: 3, Hydrology: 2
+Mount Epiric: Prominent peak providing defensive vantage points and mineral-rich slopes.
+Environmental Scores: Temperature: 2, Rainfall: 3, Human Density: 1, Flora/Fauna Density: 2, Topography: 4, Hydrology: 2
+Thallos Plains: Open, fertile plains in the core of the basin, prime grazing and agricultural land.
+Environmental Scores: Temperature: 3, Rainfall: 2, Human Density: 3, Flora/Fauna Density: 4, Topography: 1, Hydrology: 2
+Pangaion Hills: Central hilly core of the basin with fertile slopes and rich silver deposits that supply the mines of Garengolia.
+Environmental Scores: Temperature: 3, Rainfall: 2, Human Density: 3, Flora/Fauna Density: 4, Topography: 3, Hydrology: 2
+Goleryn Hallows: Oak-covered hollows and valleys in the Epiric Hills known for sheep-rearing and occasional sheep-rustling.
+Environmental Scores: Temperature: 2–3, Rainfall: 3, Human Density: 2, Flora/Fauna Density: 3, Topography: 3, Hydrology: 2
+
+Settlements
+Charas (Port City)
+Charas is a town of the Kingdom of Vlandia ruled by Baron Ingalther of Clan dey Cortain. The city known today as Charas is traditionally reckoned to be the first Calradian colony on the shores of their new continent. At the Empire’s height, when the capital moved north to Paravenos, Charasea remained a key hub of sea-faring and trade, while imperial aristocrats built their summer homes on the warm shores of the nearby gulf and cruised their pleasure-boats around its islands. When the Vlandians came, Charas fell into the hands of the ruthless House of dey Cortain, and its wealth funds their ambitions.
+Location and Ties
+Geographic Structure Link: Biscan Coast, Thallos Plains
+Neighbouring Features: Strait of Lysia to the south.
+Kingdom/Clan Affiliation: Vlandia (ruled by Baron Ingalther dey Cortain of House dey Cortain), focused on maritime trade and naval logistics.
+Structure and Layout
+
+Core: Stone harbor district with warehouses and shipyards.
+Key Districts: Merchant quarter, naval dockyards.
+Defenses: Harbor chain and coastal watchtowers.
+
+Population and Daily Life
+Size and Density: Large port (8,000–12,000).
+Demographics:
+
+Garrison: Naval scouts and arbalest companies of House dey Cortain.
+Civilians: Merchants, fishermen, shipwrights.
+Economy: Maritime trade, shipbuilding, olive oil export.
+Culture and Customs: Practical Vlandian port life with strong naval traditions and lingering Imperial aristocratic echoes.
+
+Villages
+The villages of Savinth and Vesin belong to Charas.
+
+Savinth: Sits on warm, grassy plains north of the Bay of Charas. The land is fine pasture for the renowned horses of the Vlandians.
+Vesin: Lies by a creek running down from the Epiric Hills to the Bay of Charas. This warm land is well-suited to the growing of olive trees.
+
+Hazards
+
+Man-made: Occasional piracy from the strait.
+Bestiary: Minor sea creatures.
+Unveiling: Mild sea mists on False Moon nights.
+
+Ortysia (Port City – Larger Imperial City)
+Ortysia, named for the quails who inhabit the nearby coastal marshes, was the first Calradian colony on the shores of the Perassic Sea. In its early centuries, it fell under the authority of the Kannic city-state of Quyaz, but the Empire’s expansion soon united the colony with its mother republic. For centuries, sailors coming from the pirate-infested islands of the Gulf of Charas gave thanks when they saw its towers looming through the haze of the western Perassic, signalling a return to safe imperial-patrolled waters. Southern cultural influence from the Aserai sultanate remains strong in Ortysia’s mercantile quarters, visible in the colourful awnings, spice-scented markets, and dhow-style vessels that mingle with Vlandian carracks in the harbor.
+Location and Ties
+Geographic Structure Link: Bay Of Ortysia, Pangaion Hills
+Neighbouring Features: Flows into the Perassic Sea.
+Kingdom/Clan Affiliation: Western Empire (ruled by Archon Apys of clan Varros), major trade and naval base with significant Vlandian commercial presence.
+Structure and Layout
+
+Core: Grand Imperial-style citadel overlooking the harbor.
+Key Districts: Old Imperial Quarter, bustling docks, merchant districts.
+Defenses: Strong harbor fortifications and fleet anchorage.
+
+Population and Daily Life
+Size and Density: Large port city (15,000+).
+Demographics:
+
+Garrison: Imperial naval forces and arbalest companies.
+Civilians: Merchants, artisans, fishermen, and olive oil producers.
+Economy: Major trade hub for grain, olives, olive oil, and luxury goods.
+Culture and Customs: Blend of classical Imperial grandeur, practical Vlandian mercantile influence, and southern Aserai flair in the markets.
+
+Villages
+The villages of Arpotis, Vinela, and Garengolia are bound to the town.
+
+Arpotis: Sits on a high bluff overlooking the confluences of the Aminys, Gavys and Zeos rivers. The sides of the hills are terraced to grow wheat, with cisterns to catch the rain blowing up from the sea.
+Vinela: Sits beneath the waterfalls where the Aminys river rushes down to join the Perassic Sea. Villagers collect salt from the sea in the shadow of coastal cliffs.
+Garengolia: Lies near a rich vein of silver in the Pangaion Hills overlooking the Gavys river. The Empire have minted its denars from these mines for centuries.
+
+Hazards
+
+Man-made: Smuggling and occasional piracy.
+Bestiary: Occasional ghouls in old ruins.
+Unveiling: Sea phenomena and faint glowing mists on False Moon nights.
+
+Thractorae Castle
+Thractorae Castle is a castle of the Western Empire owned by Crotor of the Dionicos clan. It sits on a small bay that feeds into the larger Gulf of Charas. These lands, stirred by hot winds from the south and watered by hillside springs, have been used by imperial landowners for the experimental growing of date palms.
+Location and Ties
+Geographic Structure Link: Pangaion Hills
+Kingdom/Clan Affiliation: Western Empire (Crotor of clan Dionicos), defensive and agricultural outpost.
+Structure and Layout
+
+Core: Stone keep and bailey overlooking the bay.
+Defenses: High walls and river-facing towers.
+
+Population and Daily Life
+Size and Density: Small garrison town (approx. 1,500).
+Villages
+The villages of Thractorae and Gamardan are bound to the castle.
+
+Thractorae: Coastal village supporting experimental date-palm groves.
+Gamardan: Sits at the head of a small bay that branches off the larger Gulf of Charas. The wines of this region are unusually sweet and strong, and valued throughout the Empire.
+
+Hazards
+
+Man-made: Political intrigue between Imperial and Vlandian interests.
+Bestiary: Minor coastal threats.
+Unveiling: Occasional sea mists.
+
+Garontor Castle
+Garontor Castle is a castle of the Western Empire owned by Apys of the Varros clan. It gives its name to the promontory between the Gulf of Charas and the inland Perassic Sea. Coastal meadows, where tall grasses tolerant of the ocean salt-spray thrive, support the rearing of fine horses.
+Location and Ties
+Geographic Structure Link: Strait Of Lysia, Lysian Plains
+Kingdom/Clan Affiliation: Western Empire (Apys of clan Varros), trade protection and horse breeding.
+Structure and Layout
+
+Core: Central keep overlooking the river and coast.
+Defenses: Reinforced walls and arbalest platforms.
+
+Population and Daily Life
+Size and Density: Medium garrison (approx. 2,000).
+Villages
+The villages of Garontor and Lysia are bound to the castle.
+
+Garontor: Coastal village supporting horse rearing on salt-tolerant meadows.
+Lysia: A village of the Western Empire owned by Apys of the Varros clan. It lies just on the Perassic side of the straits where the Perassic Sea joins the western ocean, near broad beaches that allow the farming of salt.
+
+Hazards
+
+Man-made: Political intrigue between Imperial and Vlandian interests.
+Bestiary: Minor coastal threats.
+Unveiling: Occasional sea mists.
+
+Veron Castle
+Veron Castle sits at the southern entrance of the Battanian highlands and is overlord to the villages Veron and Goleryn. It is believed that Veron was the birthplace of Emperor Turiados. The castle is owned by clan Corenios of the Western Empire.
+Location and Ties
+Geographic Structure Link: Glen Of Balasog, The Cafalcomb
+Kingdom/Clan Affiliation: Western Empire (clan Corenios), defensive stronghold on the Battanian frontier.
+Structure and Layout
+
+Core: Stone keep and bailey in the foothills.
+Defenses: High walls and watchtowers commanding the highland passes.
+
+Population and Daily Life
+Size and Density: Small garrison town (approx. 1,200).
+Villages
+
+Veron: In the foothills of the Uchalion massif, near the headwaters of the Gavys river. On summer nights the hills above the village are dotted with the fires of shepherds, taking their animals to graze on the upland pastures.
+Goleryn: Sits in the warm, oak-covered Epiric hills, near both the Vlandian and Battanian frontiers. Sheep-raising is a way of life in these parts, as is sheep-rustling.
+
+Hazards
+
+Man-made: Border skirmishes with Battanian raiders.
+Bestiary: Occasional skinwalkers in the wooded hills.
+Unveiling: Mild False Moon activity in the highlands.
