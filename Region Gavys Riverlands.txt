@@ -1,0 +1,132 @@
+Region: Gavys Riverlands
+Neighbouring Regions
+North: Uchalion Plateau
+North East: Dryatic Mountians
+East: Temea Valley
+South East: Temea Valley
+South: Ortysian Basin
+South West: Ortysian Basin
+West: Ortysian Basin
+North West: Uchalion Plateau
+Overview
+The Gavys Riverlands is a broad, fertile river valley that forms the north-eastern heart of central Calradia. Dominated by the wide Gavys River and its tributaries the Zeos, Sethys, Aminys and Miron, the region is a mosaic of lush floodplains, rolling hills and ancient volcanic slopes that gradually climb into the Uchalion Massif and Mount Erithrys — Calradia’s tallest mountain. Long contested between marcher lords and lingering Imperial remnants (with Aserai influence pressing from the south across the Strait of Lysia and Battanian pressure from the north), the Riverlands remain entirely under Western Empire control. The mild climate and rich alluvial soil make it one of the most agriculturally productive regions in the Western Empire, yet its position as a major trade corridor keeps it a perpetual flashpoint of intrigue and skirmishes. The veil here is moderately thin — False Moon nights bring faint glowing mists along the rivers and occasional ghoul risings from old Imperial battlefields.
+Tags (Region-Wide Environmental Scores Defaults, Adaptable per Sub-Area)
+
+Temperature: Temperate [2–4]
+Rainfall: Moderate [2–3]
+Human Density: High [4]
+Flora/Fauna Density: Rich [3–4]
+Topography: River Valley [1–3]
+Hydrology: Calm to moderate rivers [2–3]
+
+Geographic Structures
+North: Miron River (runs north into Diathmic Bay), Uchalion Massif
+North East: Mount Aracathos
+East: Zeos River
+South East: Zeos River
+South: Sethys River
+South West: Gavys River
+West: Gavys River
+North West: Miron River, Uchalion Massif
+Core: Vale of Tripotamia, Aminys River, Mount Erithrys (Calradia's tallest mountain, ancient basalt volcanic mountain located in the Empire's heartland)
+
+Miron River: Wide, slow-flowing northern river that drains the Uchalion Massif and runs north into Diathmic Bay, serving as a major trade artery.
+Environmental Scores: Temperature: 2–3, Rainfall: 3, Human Density: 3, Flora/Fauna Density: 4, Topography: 1–2, Hydrology: 3
+Uchalion Massif: Rugged highland massif forming the northern boundary, known for steep slopes and ancient Battanian ruins.
+Environmental Scores: Temperature: 1–2, Rainfall: 4, Human Density: 1, Flora/Fauna Density: 3, Topography: 4–5, Hydrology: 2
+Mount Aracathos: Prominent peak in the north-east, part of the Dryatic range, offering commanding views over the riverlands.
+Environmental Scores: Temperature: 1–2, Rainfall: 3, Human Density: 1, Flora/Fauna Density: 2, Topography: 5, Hydrology: 1
+Zeos River: Fast-moving eastern tributary that joins the Gavys system and marks the border with Temea Valley.
+Environmental Scores: Temperature: 3, Rainfall: 3, Human Density: 3, Flora/Fauna Density: 4, Topography: 2, Hydrology: 3
+Sethys River: Major southern river forming the boundary with the Ortysian Basin and flowing into the Perassic Sea.
+Environmental Scores: Temperature: 3, Rainfall: 2, Human Density: 4, Flora/Fauna Density: 4, Topography: 1, Hydrology: 3
+Gavys River: The central artery of the region — wide, slow, and vital for trade and irrigation throughout the Riverlands.
+Environmental Scores: Temperature: 3, Rainfall: 2, Human Density: 4, Flora/Fauna Density: 4, Topography: 1, Hydrology: 3
+Vale of Tripotamia: Fertile central valley where the Aminys, Zeos and Gavys rivers converge, forming the agricultural heartland.
+Environmental Scores: Temperature: 3, Rainfall: 2, Human Density: 4, Flora/Fauna Density: 4, Topography: 1, Hydrology: 2
+Aminys River: Central tributary that winds through the Vale of Tripotamia, supporting extensive olive groves and grain fields.
+Environmental Scores: Temperature: 3, Rainfall: 2, Human Density: 3, Flora/Fauna Density: 4, Topography: 1, Hydrology: 2
+Mount Erithrys: Calradia’s tallest mountain, an ancient basalt volcanic peak located in the Empire’s heartland, dominating the western skyline.
+Environmental Scores: Temperature: 1, Rainfall: 3, Human Density: 1, Flora/Fauna Density: 2, Topography: 5, Hydrology: 1
+
+Settlements
+Lageta (Town)
+Lageta is a town of the Western Empire initially governed by the archon Crotor of the Dionicos clan. Lageta was infamously acquired by the Empire by an act of treachery. A rogue imperial mercenary murdered the Palaic chieftain who employed him, took the citadel, invited in imperial colonists, then bequeathed the town to the Empire. The Senate disavowed his action but accepted the bequest. The district is now thoroughly Calradicized, but the Battanians to the north remember, and whenever an imperial envoy speaks of the sanctity of treaties and pacts, they just nod to each other and say, "Lageta."
+Location and Ties
+Geographic Structure Link: Gavys River, Vale of Tripotamia
+Neighbouring Features: Battanian frontier to the north.
+Kingdom/Clan Affiliation: Western Empire (Archon Crotor of clan Dionicos), agricultural and frontier town.
+Structure and Layout
+
+Core: Citadel overlooking the river confluence.
+Key Districts: Market square, terraced fields.
+Defenses: Strong walls facing the northern frontier.
+
+Population and Daily Life
+Size and Density: Medium town (approx. 6,000–8,000).
+Demographics:
+
+Garrison: Imperial troops and local levies.
+Civilians: Farmers, traders, and artisans.
+Economy: Grain, olives, and river trade.
+Culture and Customs: Thoroughly Calradicized with lingering local resentment from the north.
+
+Villages
+The villages of Montos and Primessos are bound to Lageta.
+
+Montos: Sits at the base of the Cursion escarpment, near the Battanian frontier. The foresters here keep a watchful eye on their neighbors, always looking for raiding parties coming westward from the valley of the Miron river to their east.
+Primessos: Lies in the wooded upper reaches of the Gavys valley. Pigs, fed on the acorns of the southern oak trees, thrive in this climate.
+
+Hazards
+
+Man-made: Border raids and political intrigue.
+Bestiary: Occasional skinwalkers in wooded areas.
+Unveiling: Mild False Moon activity.
+
+Hertogea Castle
+Hertogea Castle is a castle of the Western Empire owned by Vipon of the Maneolis clan. Hertogea lies in the shadow of Mount Erithrys, a huge basalt slab thrust up from the depths of the earth. Villagers grow olives on the slopes leading up the mountain.
+Location and Ties
+Geographic Structure Link: Aminys River, Mount Erithrys
+Kingdom/Clan Affiliation: Western Empire (Vipon of clan Maneolis), agricultural and defensive outpost.
+Structure and Layout
+
+Core: Stone keep in the shadow of the mountain.
+Defenses: Reinforced walls and watchtowers.
+
+Population and Daily Life
+Size and Density: Small garrison town (approx. 1,800).
+Villages
+The villages of Hertogea and Nideon are bound to the castle.
+
+Hertogea: Olive-growing village on the slopes of Mount Erithrys.
+Nideon: Sits on a low-lying meander of the Zeos river, in the shadow of the plutonic Mount Erithrys. Flax grows in fields reclaimed from the river marshlands.
+
+Hazards
+
+Man-made: Political intrigue between Imperial factions.
+Bestiary: Minor mountain threats.
+Unveiling: Occasional volcanic mists.
+
+Gersegos Castle
+Gersegos Castle is a castle in the Western Empire owned by Archon Saratis of clan Sorados. Gersegos sits in the gorges of the Miron river, as it cuts between the cliffs of the Cursion Escarpment and the Dryatic mountains. Villagers have sunk mines into a spur that overlooks the village, extracting silver and other precious metals.
+Location and Ties
+Geographic Structure Link: Miron River, Mount Aracathos
+Kingdom/Clan Affiliation: Western Empire (Archon Saratis of clan Sorados), mining and frontier stronghold.
+Structure and Layout
+
+Core: Fortress built into the gorge.
+Defenses: Cliff-side fortifications and arbalest platforms.
+
+Population and Daily Life
+Size and Density: Small garrison town (approx. 1,500).
+Villages
+The villages of Gersegos and Vathea are bound to the castle.
+
+Gersegos: Mining village extracting silver and precious metals.
+Vathea: Sits high on the slopes of the Dryatic mountains, facing across the valley to the great basalt slab of Mount Erithrys. The villagers mine iron from shafts sunk deep into the cliffs of the mountains.
+
+Hazards
+
+Man-made: Mining accidents and border tensions.
+Bestiary: Occasional mountain predators.
+Unveiling: Mild False Moon activity in the gorges.
