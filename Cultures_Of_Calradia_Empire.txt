@@ -1,3 +1,6 @@
+<DOCUMENT filename="Cultures_Of_Calradia_Empire.txt">
+# Faction: Vlandia (Calradic Empire)
+
 Cultures of Calradia: Empire
 Overview
 The Calradic Empire, often simply called the Empire, represents the crumbling remnants of a once-mighty continental power that dominated Calradia for over five centuries. Founded by the warlord Calradios the Great, who led a band of exiles northward to conquer the native tribes and city-states, the Empire evolved from a league of urban polities into a vast military machine under the Dragon Banner. At its height, it assimilated diverse peoples like the Palaic, Ialoic, Laconians, and Dryatics, forging a culture centered on disciplined legions, senatorial governance, and imperial expansion. However, internal decay—fueled by aristocratic corruption, senatorial gridlock, and overreliance on mercenaries—led to its fracture after the murder of Emperor Arenicos. Now divided into three warring factions (Northern, Southern, and Western), the Empire clings to its Roman-Byzantine-inspired traditions amid civil war and the Unveiling's chaos. Its people are pragmatic urbanites and veteran soldiers, valuing merit over bloodlines in theory, though populist generals like Garios challenge the old order. False moons thin the veil in ruined forums, summoning spectral legions that whisper of lost glory.
