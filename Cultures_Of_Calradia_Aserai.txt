@@ -1,5 +1,4 @@
-# Faction: Aserai (Sultanate of Aserai)
-
+<DOCUMENT filename="Cultures_Of_Calradia_Aserai.txt">
 # Faction: Aserai (Sultanate of Aserai)
 
 Overview
