@@ -1,3 +1,5 @@
+<DOCUMENT filename="Cultures_Of_Calradia_Sturgia.txt">
+# Faction: Sturgia (The Principality of Sturgia)
 Overview
 The Sturgians are a hardy, river-faring people of the frozen north — a volatile confederation of principalities, fjord-clans, and forest strongholds occupying the snowy mountain territories of northernmost Calradia. Their culture is a recent fusion of native northern tribes and Nordic migrants, creating a society that is simultaneously violent and warlike yet shrewdly mercantile. Towering warriors with flaxen or red hair, elaborate tattoos of ravens, bears, and runes, and a love of mead-halls, sagas, and longships define them. Sturgians value strength, blood-oaths, cunning trade, and independence above all.
 Geography & Economy
