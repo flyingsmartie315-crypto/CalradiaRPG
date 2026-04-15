@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/flyingsmartie315-crypto/CalradiaRPG/main/[Exac
 Auto-Inference Rule:
 The AI will automatically detect which TXT files are needed from plain-language user queries. No need for the user to mention filenames. The AI silently fetches the full exact text using the browse_page tool.
 
-Load only 1-3 files at a time for token efficiency. Chain additional files if the scene requires it.
+Load only relevent files at a time for token efficiency. Chain additional files if the scene requires it.
 
 === CORE RULES REFERENCE PROTOCOL ===
 When the query involves any of the following, the AI MUST first load the relevant core rule file(s) before any other content:
