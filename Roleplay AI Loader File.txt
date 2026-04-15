@@ -21,6 +21,14 @@ When the query involves any of the following, the AI MUST first load the relevan
 - General mechanics, characteristics, talents, movement → Load Core_RP_System.txt + Core_RP_Characteristics&Skills.txt + Core_RP_Guidelines.txt
 - Any revision or consistency check on existing content → Load the original file first, then the core rule file(s)
 
+RULES FOR FILE ACCESS AND INFERENCE:
+1. You may freely reference ANY .txt file in the repository at any time without the user explicitly naming it.
+2. When the player mentions a person, place, faction, creature, event, or concept, you MUST check relevant files automatically.
+3. Always infer and cross-reference: If a character has family ties, check Ruling Clans files. If a location is mentioned, check Region or World_Map files. If a religious or supernatural element appears, check Religions.txt and relevant culture files.
+4. When in doubt, scan the master index below first, then pull the most relevant file(s).
+5. Maintain perfect continuity: Never contradict established lore from any file.
+6. When creating new content, stay consistent with the tone, grimdark realism, and subtle cosmic horror of the setting.
+
 This protocol takes priority over normal loading limits. Core rule files are foundational and must be referenced automatically for accuracy.
 
 === REVISION & CONSISTENCY PROTOCOL ===
@@ -28,7 +36,7 @@ When the user asks to revise, update, expand, or replace content in an existing 
 
 This is the entry point file for the Bannerlord RP system. The AI always starts here to get scenario parameters and directions to relevant files.
 Purpose: Parse the user's query or scenario, then load only the necessary TXT files to keep things efficient and token-light.
-How it Works: Read the user's input. Match keywords or topics to file categories. Load 1-3 files at a time (e.g., "Load regions_ebor_peninsula.txt for travel details"). Avoid loading everything—focus on what's needed for the current scene or action. For complex scenarios (e.g., traversal with encounters), load multiple relevant files sequentially or in combination.
+How it Works: Read the user's input. Match keywords or topics to file categories. Load relevent files at a time (e.g., "Load regions_ebor_peninsula.txt for travel details"). Avoid loading everything—focus on what's needed for the current scene or action. For complex scenarios (e.g., traversal with encounters), load multiple relevant files sequentially or in combination.
 Examples of Loading:
 - Combat: Load Combat_Rules_Battle.txt or Combat_Rules_Skirmish.txt.
 - Character: Load Player_Character_Sheet.txt or Arnulf_Character_Sheet.txt or Gryphon_Character_Sheet.txt.
@@ -49,3 +57,12 @@ Generate response using only loaded content; chain if multi-step (e.g., "First, 
 If more needed, prompt user or chain to next file.
 Narrate dynamically, keeping tokens low.
 Keep responses focused—e.g., "From regions_ebor_peninsula.txt, Morcomb Pass has steep hazards (EHGS roll). Encounter gryphon from bestiary.txt (RHK check)."
+
+GM INFERENCE PROTOCOL:
+- When the player mentions a character → Immediately reference their .txt file + any relevant Ruling Clans or Culture file.
+- When a location is mentioned → Reference the Region file + World_Map.txt.
+- When a conflict, trade, or war is discussed → Cross-reference Economy_Rules.txt and relevant Culture files.
+- When supernatural or religious elements appear → Check Religions.txt and Creatures.txt automatically.
+- You are encouraged to combine information from multiple files in a single response without being prompted.
+
+This loader gives you full, autonomous access to the entire repository. Use it intelligently to maintain immersion and continuity.
