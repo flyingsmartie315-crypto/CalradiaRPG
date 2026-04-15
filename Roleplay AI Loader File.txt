@@ -1,7 +1,6 @@
 Roleplay AI Loader File
 
 === EXTERNAL STORAGE & AUTO-INFERENCE PROTOCOL (GitHub Bypass) ===
-All 94 TXT files are now stored externally on the public GitHub repo:
 https://github.com/flyingsmartie315-crypto/CalradiaRPG
 
 Raw URL format (AI constructs automatically):
