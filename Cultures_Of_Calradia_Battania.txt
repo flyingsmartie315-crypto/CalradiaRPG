@@ -1,5 +1,5 @@
 <DOCUMENT filename="Cultures_Of_Calradia_Battania.txt">
-# Faction: Vlandia (Kingdom of Battania)
+# Faction: Battania (Kingdom of Battania)
 Battanian Culture Framework
 Overview
 The Battanians are the ancient woodland folk of Calradia — the original inhabitants of much of the continent, now reduced to a fiercely defiant pocket of free territory in the northwest. They are masters of the longbow, the night raid, and the sudden wild charge out of the woods. Battanian culture idolises valour, but especially when mixed with a sharp sense of mischief: the cattle thief who can vanish with an entire herd into the fog, or the champion who dines with a rival tribe only to later produce from his bag the skull of one of their kinsmen as a battle souvenir.
