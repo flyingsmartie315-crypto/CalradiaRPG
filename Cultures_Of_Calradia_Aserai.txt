@@ -1,0 +1,73 @@
+# Faction: Aserai (Sultanate of Aserai)
+
+# Faction: Aserai (Sultanate of Aserai)
+
+Overview
+The Aserai, also known as the Banu Asera, are a proud desert sultanate of traders, warriors, and scholars who dominate the southern reaches of Calradia. They are a confederation of numerous clans who all claim descent from the legendary patriarch Asera. These clans have occupied the springs, oases, and coastline settlements of the Nahasa — the Bronze Desert — and its surrounding areas since ancient times. Ruled by Sultan Unqid from the opulent city of Shariz, the Aserai blend ancient Bedouin traditions with the disciplined might of the Mameluke caste and the shrewd mercantile networks that span the desert and the Perassic Sea. Their armies favour swift, lightly armoured cavalry and master archers, striking from the dunes like a desert wind, while their cities thrive on spice, silk, and Unveiling-derived exotic goods.
+
+A deep and enduring cultural divide exists between the city-dwelling coastal Aserai — cosmopolitan, mercantile, and influenced by centuries of imperial trade and foreign ideas — and the Southern Bedouin of the deep desert, who cling fiercely to the old nomadic ways, viewing the coastal clans as soft, decadent, and half-foreign. Slavery is the very engine of Aserai society on a scale unmatched anywhere else in Calradia (Vlandia being the sole exception, where it is reframed as “bound serfdom”). Roughly 35–40 % of the population is enslaved, forming the foundation upon which the entire state rests. The Sultanate is both a beacon of learning and a realm of shifting alliances, where loyalty is bought with gold as often as it is sworn by blood.
+
+Geography
+The Aserai heartlands lie in the vast, sun-scorched Nahasa — the Bronze Desert — ringed by mountains and hammered by the sun. A traveller coming over the passes from greener lands would first see fields of dunes broken by gravel plains and volcanic outcrops, shimmering under the heat haze. But there is water to be found underground, trapped in depressions or beneath the wadis where the occasional flash flood rumbles by. It is in these oases that people have settled. They are divided into dozens of clans and sub-clans, each with its elaborate genealogy, but are collectively known as the Banu Asera or the Aserai, after the legendary patriarch Asera, whom they all claim as an ancestor.
+
+To the north, across the Gulf of Charas, the lands of the Western Empire and Vlandia are visible on clear days. To the east the Strait of Lysia opens into the Perassic Sea, while the south and west fade into endless dunes and rocky badlands. Fertile river valleys and hidden oases provide the lifeblood of their civilisation, supporting date palms, olive groves, and horse herds renowned across Calradia. The desert itself is both barrier and highway — caravan routes criss-cross the sands, linking Shariz to distant ports and markets. False Moon nights turn the dunes into a silver sea, and the thin veil in certain ancient ruins and deep wadis sometimes allows strange things to stir beneath the sand.
+
+The Sultan’s Court at Shariz & the Mameluke Citadel
+At the heart of the Sultanate stands Shariz, the Pearl of the South, a sprawling city of white stone, minarets, and shaded gardens built around a natural harbour. Dominating the city is the Sultan’s Palace, a labyrinth of marble halls, perfumed courtyards, and audience chambers where the Sultan receives ambassadors, merchants, and tribal sheikhs. Yet the true power behind the throne rests within the Mameluke Citadel — a stark, fortress-like complex on the city’s eastern rise. Here the Mameluke elite, slave-soldiers of various origins trained from childhood in the arts of war and loyalty, drill in perfect formation and study both scripture and strategy. Only the most gifted and loyal rise to command, and it is said that no Sultan has ever held the throne long without the Mamelukes’ blessing.
+
+Slavery is the beating heart of Aserai society. The population is roughly 35–40 % enslaved, and every free household of means owns at least one. The system combines the brutal scale of ancient Calradic latifundia with a complex, meritocratic hierarchy of bondage modelled on the Ottoman order. Slaves are divided into four castes:
+
+- **Iron-Bound** – Mines, grain fields, and galleys. Pure chattel, worked until broken.  
+- **Silver-Bound** – Artisans, household servants, and merchants’ agents. Permitted a personal fund (peculium) and the hope of eventual manumission.  
+- **Gilded-Bound** – The Mamelukes themselves. Elite soldiers, administrators, and advisors “owned” by the Sultan. They wield immense power and may even command free nobles.  
+- **Oracle-Bound** – Scribes, tutors, royal consorts, and court astrologers. Often the most educated class, wielding influence through proximity to the Sultan.
+
+Social mobility exists — the “Ladder of Chains” — but is tightly controlled. The “Blood Tax” (Devshirme) constantly replenishes the elite castes from conquered peoples. Manumission serves as a vital pressure valve; without the hope of freedom, the sheer scale of slavery would spark constant revolts.
+
+Over this slave foundation sits the full Aserai class hierarchy:
+
+**I. The Ruling Class (Askeri)**  
+The Askeri represent the Sultan’s absolute authority. Membership demands three things: unswerving loyalty to the Sultan, adherence to the faith, and mastery of the refined “Aserai Way” of courtly culture and language.  
+- **The Sultan**: Supreme secular and religious leader (Caliph).  
+- **The Imperial Household**: Includes the Imperial Harem, where high-ranking women such as the Valide Sultan (Queen Mother) wield enormous informal power.  
+- **Three Branches of Administration**:  
+  - **Men of the Sword (Seyfiye)**: Military-administrative branch, including provincial governors (Beys) and elite units.  
+  - **Men of the Pen (Kalemiye)**: Civilian bureaucracy handling treasury, records, and palace administration.  
+  - **Men of Religion (Ilmiye)**: The Ulama who manage Sharia law and education; the only elite branch typically born as free Muslims.
+
+**II. The Slave Elite (Kul)**  
+A unique subclass within the Askeri, the Kul are the Sultan’s personal slaves. Recruited through the Devshirme blood tax, they are technically property yet can rise to become Grand Vizier or the most powerful officials in the realm.
+
+**III. The Subject Class (Reaya)**  
+The Reaya (“the flock”) make up the vast free population whose labour and taxes sustain the state. This includes wealthy urban merchants (Tüccar), organised craft guilds, master artisans, rural peasant farmers (hereditary tenants on state-owned land), and nomadic tribes who face pressure to settle for easier taxation.
+
+**IV. The Millet System**  
+While the Askeri/Reaya divide is the primary social split, the Reaya are further organised into autonomous religious communities (Millets). Muslims enjoy the highest legal status and privileges; non-Muslims (Zimmi — Jews and Christians) have internal legal autonomy under their own religious leaders but pay the special poll tax (Jizya).
+
+The Mercenary Mechanism – The Foreigner’s Sword
+To maintain control over such a vast slave economy, the Sultanate relies heavily on foreign mercenaries known collectively as the “Foreigner’s Sword.” These companies are deliberately recruited from distant lands and rival cultures so they share neither language nor faith with the local slave population or the free citizenry. They serve three vital functions that keep the state machinery running:
+
+- **Slave-Catchers and Overseers**: Mercenary patrols ride the latifundia, mines, and caravan routes. They hunt escaped Iron-Bound slaves, enforce quotas, and suppress unrest. A percentage of every recaptured slave’s value (or the slave’s future children) is paid directly to the company as bounty, giving them a direct financial stake in the system.
+
+- **Deniable Oppression**: When tax collection turns violent or a rebellious oasis must be punished, the Sultan sends mercenary bands rather than Mamelukes. Any excess brutality can later be blamed on “foreign excess,” allowing the court to maintain the image of just rule while still extracting maximum tribute.
+
+- **Tribute-Soldier System**: Conquered provinces are rarely asked for gold alone. Instead they must deliver a fixed “Tribute of Blades” — young warriors bound by 20-year contracts. These men are never stationed near their homeland; a northerner polices the south, a steppe rider guards the coast. This creates a permanent, rotating force of outsiders who view the local population as conquered subjects and are in turn viewed as foreign dogs by the Aserai.
+
+Upon retirement, mercenaries receive the “Golden Handcuffs” — land grants on the most dangerous border territories. These retired swords become settler-colonists who must defend their new farms against the very tribes they once belonged to, ensuring lifelong loyalty to the Sultan who granted them the land.
+
+Unveiling influence is keenly felt here. The veil is thin beneath the desert stars; on False Moon nights the dunes sometimes glow with strange lights, and ancient ruins half-buried in the sand whisper with voices that are not quite human. The Mamelukes maintain constant vigil, and the Sultan’s astrologers watch the skies for portents. Yet the Aserai do not fear the Unveiling — they see it as another force to be mastered, another source of power and profit.
+
+Lore and History
+Even at the height of its power the Calradic Empire preferred not to send its legions into the army-devouring wastes of the Nahasa. Instead, it projected its power by cultivating clients and allies among the clans, who competed in an endless dance of power. Those clans that could secure a hold on the oases won an Imperial subsidy to protect passing caravans and grew rich. Those who could not were pushed into the desert, left to raise goats and camels and raid caravans until they could plot a comeback.
+
+Today, with the waning of the Empire offering new opportunities and new risks, the Aserai have agreed to form a confederacy under a sultan chosen from the richest of the clans, the Banu Hulyan. But everyone knows that the dance has only temporarily been stopped, and at the right moment it will begin again.
+
+The confederation is ruled by Sultan Unqid, who occupies the shores and the desert beyond the Perassic Sea, south of Calradia. The clans remain fiercely proud and independent, each with its own elaborate genealogy tracing back to the legendary patriarch Asera. Loyalties shift like the desert sands, and while the Sultan’s banner unites them for now, old rivalries and ambitions still simmer beneath the surface.
+
+A sharp cultural divide runs through Aserai society. The city-dwelling coastal Aserai of Shariz and the great port towns have grown wealthy through trade, adopting foreign luxuries, imperial fashions, and a more cosmopolitan outlook. In contrast, the Southern Bedouin of the deep desert cling to the ancient nomadic ways — harsh, austere, and fiercely traditional. They view the coastal clans as soft, decadent, and tainted by outsiders, while the coastal Aserai often dismiss the Bedouin as backward raiders and goat-herders. This tension colours everything from court politics to the composition of armies, yet both sides still answer the Sultan’s call when the realm itself is threatened.
+
+Militarily the Aserai excel in mobile warfare. Their light cavalry — fast, lightly armoured, and superbly mounted — can outmanoeuvre heavier northern knights, while their master archers loose arrows from the saddle with deadly accuracy. The Mameluke heavy cavalry, when committed, are among the finest shock troops in Calradia, charging in perfect order with lance and curved sword.
+
+The Unveiling has only sharpened the Sultanate’s edge. Strange new materials harvested from desert beasts fuel their alchemists and armourers, while the thin veil in certain sacred sites has given rise to new schools of mysticism and prophecy. The Aserai do not merely survive the Unveiling — they seek to profit from it, to understand it, and, when necessary, to bend it to their will.
+
+The desert remembers. And the Aserai remember the desert.
