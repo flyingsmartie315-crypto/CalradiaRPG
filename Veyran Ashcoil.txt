@@ -1,0 +1,44 @@
+# Veyran Ashcoil (Ashcoil of Veyra)
+
+**Also known as:** Descent Wyrm, Kiln Serpent, Ash-Eater
+
+**Size Category:** 9 (Massive)
+
+**Typical Length:** 80–150 feet (24–45 metres) when fully extended
+
+**HSI (Habitat Suitability Index)**  
+Temperature: 1–2  
+Rainfall: 0  
+Human Density: 0  
+Flora/Fauna Density: 1  
+Topography: 5  
+Hydrology: 1  
+
+**RHK (Threat Profile)**  
+Rarity: 9  
+Individual Harm: 8  
+Collective Harm: 9  
+Knowledge: 9  
+
+**Description**  
+A primordial horror born of the long-forgotten Ashen Age, the Veyran Ashcoil is vastly larger and more alien than any common giant centipede or the Ghar Khor of the southern mountains. Fully extended adults reach 80–150 feet in length, with segmented bodies as thick as a warhorse. Their chitin is perpetually coated in a thick layer of fine grey-white ash that never fully falls away, making them look like petrified stone or broken idols until they move. When disturbed, the ash explodes off in choking clouds, revealing glossy black segments beneath that faintly glow with the same cold blue-white light sometimes seen rising from the depths of the Descent.
+
+Hundreds of razor-sharp legs allow them to climb vertical walls and ceilings with terrifying speed and silence. Their heads feature massive forward-sweeping mandibles and clusters of pale, glowing eyes adapted for total darkness. Most unnerving are the vestigial humanoid arms spaced along the first few segments — withered, clawed limbs that give the creature an almost mocking resemblance to the petrified idols that line the shaft walls.
+
+**Behaviour & Danger**  
+Perfectly adapted ambush predators of the vertical Descent of Veyra. They spend most of their time coiled around ledges or hanging motionless from the walls, camouflaged as another petrified idol. They do not need to eat often; the ash itself appears to sustain them, slowly converting organic matter into more of the fine grey powder that coats the pit. They are strictly solitary and highly territorial.
+
+On False Moon nights they become far more active, rising through the shaft in long undulating climbs while shedding glowing ash that briefly illuminates the walls. They drop silently from above with crushing force, exhale blinding and suffocating clouds of ash, and use their humanoid forelimbs to grapple and drag victims off ledges.
+
+**Distinction from Other Centipede-like Creatures**  
+Unlike the Ghar Khor (Size 7 cave predator with crushing pincers and paralytic venom that lurks near underground water in the southern Aserai highlands), the Veyran Ashcoil is an ancient Ashen Age horror uniquely tied to the vertical environment of the Descent of Veyra. It relies on ash camouflage, choking ash clouds, and sheer vertical mobility rather than venom or brute pincer force.
+
+**Unveiling Goods**  
+- **Ashcoil Chitin Plates** (large, 8–12 kg each) – Extremely rare; can be forged into lightweight yet incredibly tough armour or alchemical hardening agents.  
+- **Cold Ash Glands** – Produce the perpetual glowing ash; used in advanced Unveiling rituals and high-end poisons.  
+- **Petrified Forelimb** – The humanoid arms are prized by occultists for their disturbing resemblance to human anatomy.
+
+**Lore Note**  
+The Aserai believe the Ashcoils are not natural creatures but guardians — or perhaps the very civilization itself — transformed by whatever cataclysm created the Descent of Veyra. Bedouin nomads refuse to speak their name aloud, calling them only “the ones who remember the fall.”
+
+**Bestiary Classification:** Ancient Horror (Ashen Age)
