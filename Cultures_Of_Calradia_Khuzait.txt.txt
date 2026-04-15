@@ -1,3 +1,5 @@
+<DOCUMENT filename="Cultures_Of_Calradia_Khuzait.txt">
+# Faction: Khuzait (Khuzait Khanate)
 Overview
 The Khuzaits are the horse lords of the eastern grasslands and steppes — a proud people who have transformed from free-roaming nomads into the rulers of a vast and restless khanate. Once content to raid and trade with the Empire before vanishing back into the wilds, they were forced into unity two generations ago by threats from the distant east. They are renowned for their unmatched horsemanship, lightning mobility, and remarkable skill at governing conquered territories that contain many different cultures and faiths. The symbol of the Khuzait Khanate is the nine-horsetail banner.
 Ruled by Monchug Khan, the Khuzaits occupy the eastern grasslands and steppes of Calradia.
