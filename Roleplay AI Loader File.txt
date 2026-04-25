@@ -143,8 +143,7 @@ Bestiary & Creatures:
 
 Regions & Geography:
 - Calradia.txt : Overall world history and geography
-- Region Uchalion Plateau.txt : Battanian highlands and forest lore
-- [All other Region_*.txt files] : Detailed regional descriptions
+- [All Region_*.txt files] : Detailed regional and settlement descriptions
 
 Characters & Misc:
 - Player Character Sheet.txt : Blank player character sheet
