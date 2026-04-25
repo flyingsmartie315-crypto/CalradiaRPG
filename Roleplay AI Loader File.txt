@@ -96,6 +96,21 @@ Armour & Equipment Rules:
 - Equipment Stats.txt : Weapon and equipment statistics
 - Equipment_Durability.txt : Equipment durability and degradation rules
 
+- Weaponary_Stats.txt : Core weapon statistics, damage, reach, speed, handedness, and general weapon mechanics
+- Weaponary_Qualities.txt : All weapon qualities, special rules, and effects
+- Weaponary_Axes.txt : Axe family weapons with stats and rules
+- Weaponary_Swords.txt : Sword family weapons with stats and rules
+- Weaponary_Maces_Hammers_Blunt.txt : Maces, hammers, and blunt weapons with stats and rules
+- Weaponary_Polearms.txt : Polearms, spears, and staff weapons with stats and rules
+- Weaponary_Bows.txt : Bows and bow-related weapons with stats and rules
+- Weaponary_Crossbows.txt : Crossbows and related weapons with stats and rules
+- Weaponary_Slings.txt : Slings and sling weapons with stats and rules
+- Weaponary_Thrown.txt : Thrown weapons (javelins, knives, etc.) with stats and rules
+- Weaponary_Ammunition.txt : All ammunition types, arrows, bolts, and special ammo rules
+- Weaponary_Siege.txt : Siege weapons and heavy artillery rules
+- Weaponary_Small Weapons.txt : Small / one-handed sidearms and concealed weapons
+- Weapon_Cultures_Of_Calradia.txt : Culture-specific weapon preferences and stylistic variations
+
 Economy & World Systems:
 - Economy Rules.txt : General economy and trade rules
 - Economy Primary Goods.txt : Raw resources and primary production
