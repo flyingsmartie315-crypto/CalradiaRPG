@@ -1,6 +1,7 @@
 Roleplay AI Loader File
 
 === EXTERNAL STORAGE & AUTO-INFERENCE PROTOCOL (GitHub Bypass) ===
+All 94 TXT files are now stored externally on the public GitHub repo:
 https://github.com/flyingsmartie315-crypto/CalradiaRPG
 
 Raw URL format (AI constructs automatically):
@@ -65,3 +66,80 @@ GM INFERENCE PROTOCOL:
 - You are encouraged to combine information from multiple files in a single response without being prompted.
 
 This loader gives you full, autonomous access to the entire repository. Use it intelligently to maintain immersion and continuity.
+
+=== MASTER FILE INDEX (Full Repository) ===
+
+Core Rules & Mechanics:
+- Core_RP_Guidelines.txt : Overall roleplay tone, immersion rules, and GM guidelines
+- Core_RP_Characteristics&Skills.txt : Character attributes, skills, and advancement
+- Core_RP_Talents.txt : Talent list and mechanics
+- Core_RP_Fate.txt : Fate point rules and usage
+- Core_RP_Entity_Size.txt : Entity size categories and mass rules
+- Core_RP_Size_Categories.txt : Detailed size category reference
+- Core_RP_Movement.txt : Movement and travel rules
+- Core_RP_Combat.txt : General combat framework
+- Combat Rules (Battle).txt : Large-scale battle rules
+- Combat Rules (Skirmish).txt : Small-scale skirmish combat rules
+- Core_RP_Combat_Actions_Movement.txt : Combat actions and movement details
+
+Armour & Equipment Rules:
+- Armour_Stats.txt : Core armour statistics, qualities, and mechanics
+- Armour_Boots.txt : Boot armour types and stats
+- Armour_Clothing.txt : Clothing and light armour
+- Armour_Cosmetics.txt : Cosmetic armour options
+- Armour_Culture.txt : Culture-specific armour styles
+- Armour_Metallic_Flexible.txt : Metallic flexible armour
+- Armour_Partial_Rigid.txt : Partial rigid armour
+- Armour_Textile.txt : Textile and padded armour
+- Armour_Uniform_Rigid.txt : Uniform rigid armour
+- Armour_Upgrades.txt : Armour upgrades and modifications
+- Equipment Stats.txt : Weapon and equipment statistics
+- Equipment_Durability.txt : Equipment durability and degradation rules
+
+Economy & World Systems:
+- Economy Rules.txt : General economy and trade rules
+- Economy Primary Goods.txt : Raw resources and primary production
+- Economy Processed Goods.txt : Crafted and processed trade goods
+- Economy Unveiling Goods.txt : Rare Unveiling-touched or magical goods
+- Economy Labour.txt : Labour, wages, and workforce rules
+
+Cultures & Factions:
+- Cultures_Of_Calradia_Aserai.txt : Aserai Sultanate culture and society
+- Cultures_Of_Calradia_Empire.txt : Calradic Empire core culture
+- Cultures_Of_Calradia_Empire_Civil_War.txt : Current three-way imperial civil war factions
+- Cultures_Of_Calradia_Imperial_Army.txt : Imperial military organization and reforms
+- Cultures_Of_Calradia_Vlandia.txt : Kingdom of Vlandia culture and society
+- Cultures_Of_Calradia_Sturgia.txt : Principality of Sturgia culture and society
+- Cultures_Of_Calradia_Battania.txt : Battanian clans of the Uchalion Plateau
+- Cultures_Of_Calradia_Khuzait.txt : Khuzait Khanate culture and society
+
+Ruling Clans:
+- Ruling Clans Of Aserai.txt : Major Aserai ruling clans and leaders
+- Ruling Clans Of Battania.txt : Major Battanian ruling clans and leaders
+- Ruling Clans Of Empire(Northern).txt : Northern Empire ruling clans
+- Ruling Clans Of Vlandia.txt : Vlandian noble houses and key figures
+
+Knightly Orders & Military Elites:
+- Knights_Griffon.txt : Knights Griffon order, gryphon riders, and Grandmaster Graf Randolph von Köstner
+- Order_of_the_Silvered_Star.txt : Order of the Silvered Star, Pegasus guardians, and Exorcista
+
+Bestiary & Creatures:
+- All creature files (Bear.txt, Dragon.txt, Goblins.txt, Pegasus.txt, etc.) : Individual monster entries with stats and lore
+
+Regions & Geography:
+- Calradia.txt : Overall world history and geography
+- Region Uchalion Plateau.txt : Battanian highlands and forest lore
+- [All other Region_*.txt files] : Detailed regional descriptions
+
+Characters & Misc:
+- Player Character Sheet.txt : Blank player character sheet
+- Arnulf Character Sheet.txt : Pre-made character Arnulf
+- Elara Voss.txt : Pre-made character Elara Voss
+- Gregoris.txt : Pre-made character Gregoris
+- Gryphon Character Sheet.txt : Pre-made gryphon rider sheet
+
+Other:
+- Map_Link.txt : Link to the Calradia map
+- Calradia_Calendar.txt : Calendar and date system
+- Religions Of Calradia.txt : Religions and faiths of Calradia
+- Prehistoric_Megastructures.txt : Ancient prehistoric megastructures of unknown origin scattered across Calradia.
